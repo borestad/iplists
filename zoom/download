@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+# https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0060548
+
+cd "$(dirname $0)"
+curl -sL https://assets.zoom.us/docs/ipranges/Zoom.txt | iprange >| zoom.ipv4

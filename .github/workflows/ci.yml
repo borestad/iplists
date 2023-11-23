@@ -18,8 +18,8 @@ on:
   pull_request:
 
   # https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#schedule
-  # schedule:
-  #   - cron: '*/5 * * * *'
+  schedule:
+    - cron: '*/5 * * * *'
 
 jobs:
 
@@ -74,7 +74,7 @@ jobs:
       - name: Cron ❯❯ Job1
         # if: github.event.schedule != '*/5 * * * *'
         run: |
-          pstats memo --ttl=300s -- 'deno run -A .github/bin/cron.ts'
+          pstats memo --ttl=300s -- zoom/download
 
       # ─────────────────────────────────────────────────────
       - name: Post hooks ❯❯ Commit to repository
