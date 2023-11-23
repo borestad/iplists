@@ -3,4 +3,6 @@
 # https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0060548
 
 cd "$(dirname $0)"
-curl -sL https://assets.zoom.us/docs/ipranges/Zoom.txt | iprange >| zoom.ipv4
+
+name=zoom.ipv4
+curl -sL --fail https://assets.zoom.us/docs/ipranges/Zoom.txt -o $name.tmp && iprange $name.tmp >| $name
