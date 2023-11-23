@@ -26,10 +26,10 @@
     "https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/bkt",
     "https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/dust",
     "https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/ets",
-    "https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/gron",
-    "https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/sponge",
-    "https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/rg",
     "https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/fd",
+    "https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/gron",
+    "https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/iprange",
+    "https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/rg",
     "https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/sd",
     "https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/sponge"
   ],
