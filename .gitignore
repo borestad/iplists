@@ -48,10 +48,10 @@ Thumbs.db
 ehthumbs.db
 ehthumbs_vista.db
 
-.cache
-.cache-*
-.tmp
-.tmp-*
+*.cache
+*.cache-*
+*.tmp
+*.tmp-*
 paused.conf
 
 # Only dev environment - no need to clutter the repo
