@@ -17,6 +17,8 @@
     "eslint-plugin-unicorn": "^44.0.2"
   },
   "preinstallBinaries": [
+    "https://raw.githubusercontent.com/borestad/dotjitsu/master/bin/grepip",
+    "https://raw.githubusercontent.com/borestad/dotjitsu/master/bin/grepip6",
     "https://raw.githubusercontent.com/borestad/ci-utils/main/bin/ga-dump-context",
     "https://raw.githubusercontent.com/borestad/ci-utils/main/bin/ga-dump-env",
     "https://raw.githubusercontent.com/borestad/ci-utils/main/bin/ip-public",
