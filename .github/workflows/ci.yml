@@ -75,6 +75,7 @@ jobs:
         # if: github.event.schedule != '*/5 * * * *'
         run: |
           pstats memo --ttl=300s -- zoom/download
+          pstats memo --ttl=300s -- github/download
 
       # ─────────────────────────────────────────────────────
       - name: Post hooks ❯❯ Commit to repository
