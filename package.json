@@ -26,6 +26,7 @@
     "https://raw.githubusercontent.com/borestad/ci-utils/main/bin/pstats",
     "https://raw.githubusercontent.com/borestad/ci-utils/main/bin/system-info",
     "https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/bkt",
+    "https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/cidr-merger",
     "https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/dust",
     "https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/ets",
     "https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/fd",
