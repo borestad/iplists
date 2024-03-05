@@ -76,6 +76,7 @@ jobs:
         run: |
           pstats memo --ttl=300s -- zoom/download
           pstats memo --ttl=300s -- github/download
+          pstats memo --ttl=300s -- tailscale/download
 
       # ─────────────────────────────────────────────────────
       - name: Post hooks ❯❯ Commit to repository
