@@ -1,5 +1,5 @@
 # https://ipinfo.io/bogon
-0.0.0.0/8	          # "This" network
+0.0.0.0/8           # "This" network
 10.0.0.0/8          # Private-use networks
 100.64.0.0/10       # Carrier-grade NAT
 127.0.0.0/8         # Loopback
