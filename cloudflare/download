@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+
+cd "$(dirname $0)"
+
+name=cloudflare
+curl -sL --fail https://www.cloudflare.com/ips-v4 -o $name.ipv4.tmp || exit 0
+curl -sL --fail https://www.cloudflare.com/ips-v6 -o $name.ipv6.tmp || exit 0
+
+grepip < $name.ipv4.tmp | iprange > $name.ipv4
+grepip6 < $name.ipv6.tmp | cidr-merger > $name.ipv6
