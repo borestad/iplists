@@ -74,9 +74,7 @@ jobs:
       - name: Cron ❯❯ Job1
         # if: github.event.schedule != '*/5 * * * *'
         run: |
-          pstats memo --ttl=300s -- zoom/download
-          pstats memo --ttl=300s -- github/download
-          pstats memo --ttl=300s -- tailscale/download
+          fd download -tf -tx -x {}
 
       # ─────────────────────────────────────────────────────
       - name: Post hooks ❯❯ Commit to repository
