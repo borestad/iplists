@@ -5,8 +5,8 @@ cd "$(dirname $0)"
 name=tailscale-derp
 curl -sL --fail https://login.tailscale.com/derpmap/default -o $name.json.tmp || exit 0
 
-jq -r '.Regions[].Nodes[].IPv4' $name.json.tmp | iprange > $name.ipv4
-jq -r '.Regions[].Nodes[].IPv6' $name.json.tmp | cidr-merger > $name.ipv6
+jq -r '.Regions[].Nodes[].IPv4' $name.json.tmp | iprange >| $name.ipv4
+jq -r '.Regions[].Nodes[].IPv6' $name.json.tmp | cidr-merger >| $name.ipv6
 
 dig @1.1.1.1 login.tailscale.com | grep -v ';' | grep 'tailscale.com' | grepip >| tailscale-coordination.ipv4
 dig @1.1.1.1 controlplane.tailscale.com | grep -v ';' | grep 'tailscale.com' | grepip >> tailscale-coordination.ipv4
