@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+
+cd "$(dirname $0)"
+
+name=bitbucket
+curl -sL --fail https://ip-ranges.atlassian.com -o $name.json.tmp || exit 0
+
+jq .items $name.json.tmp | gron | grep cidr | sponge $name.list.tmp
+
+grepip < $name.list.tmp | iprange >| $name.ipv4
+grepip6 < $name.list.tmp | cidr-merger >| $name.ipv6
