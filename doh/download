@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+
+cd "$(dirname $0)"
+
+name=doh
+curl -sL --fail https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/master/doh-ipv4.txt -o $name.ipv4.tmp || exit 0
+curl -sL --fail https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/master/doh-ipv6.txt -o $name.ipv6.tmp || exit 0
+
+mv $name.ipv4.tmp $name.ipv4
+mv $name.ipv6.tmp $name.ipv6
+
+rm -f *.tmp
