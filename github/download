@@ -7,5 +7,6 @@ curl -sL --fail https://api.github.com/meta -o $name.json.tmp || exit 0
 
 # Nice & tidy
 jq . $name.json.tmp | sponge $name.json.tmp
+
 grepip < $name.json.tmp | iprange >| $name.ipv4
 grepip6 < $name.json.tmp | cidr-merger >| $name.ipv6

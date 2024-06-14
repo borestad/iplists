@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+
+cd "$(dirname $0)"
+
+# All google ips
+name=google
+curl -sL --fail https://raw.githubusercontent.com/lord-alfred/ipranges/main/google/ipv4.txt -o $name.ipv4.tmp || exit 0
+iprange $name.ipv4.tmp | sponge $name.ipv4
+
+curl -sL --fail https://raw.githubusercontent.com/lord-alfred/ipranges/main/google/ipv6.txt -o $name.ipv6.tmp || exit 0
+cidr-merger $name.ipv6.tmp | sponge $name.ipv6
+
+# Google bots
+name=google-bot
+curl -sL --fail https://developers.google.com/search/apis/ipranges/googlebot.json -o $name.json.tmp || exit 0
+
+# Nice & tidy
+jq .prefixes $name.json.tmp | sponge $name.json.tmp
+
+grepip < $name.json.tmp | iprange >| $name.ipv4
+grepip6 < $name.json.tmp | cidr-merger >| $name.ipv6
