@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+cd "$(dirname $0)"
+
+name=binaryedge
+curl -sL --fail https://api.binaryedge.io/v1/minions -o $name.json.tmp || exit 0
+
+jq .scanners $name.json.tmp | grepip | iprange -1 >| $name.ipv4
