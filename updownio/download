@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+
+cd "$(dirname $0)"
+
+name=updownio
+
+dig @1.1.1.1 +short A ips.updown.io >| updownio.ipv4.tmp &
+dig @1.1.1.1 +short AAAA ips.updown.io >| updownio.ipv6.tmp &
+wait
+
+cat *.ipv4.tmp | grepip | iprange -1 >| $name.ipv4
+cat *.ipv6.tmp | grepip6 | cidr-merger  >| $name.ipv6
+
+rm -f *.tmp
