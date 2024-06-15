@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+
+cd "$(dirname $0)"
+
+name=uptimerobot
+curl -sL --fail https://uptimerobot.com/inc/files/ips/IPv4andIPv6.txt -o $name.tmp || exit 0
+
+cat *.tmp | grepip | iprange >| $name.ipv4
+cat *.tmp | grepip6 | cidr-merger  >| $name.ipv6
+
+rm -f *.tmp
