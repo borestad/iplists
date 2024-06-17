@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+
+cd "$(dirname $0)"
+
+curl -sfL --compressed https://ipbl.herrbischoff.com/badasn.txt -o badasn.ipv4
+curl -sfL --compressed https://ipbl.herrbischoff.com/ai.txt -o ai.ipv4
+curl -sfL --compressed https://ipbl.herrbischoff.com/list.txt -o ipblock.ipv4
+curl -sfL --compressed https://ipbl.herrbischoff.com/tor.txt -o tor.ipv4
+
+iprange -1 ipblock.ipv4 | sponge ipblock.ipv4
+
+xargs -P2 -n 1 curl -sfL --compressed -O < urls.txt
+
+mkdir -p countries
+
+mv *.netset countries/ &> /dev/null
+fd .netset -x mv '{}' '{.}'.ipv4
