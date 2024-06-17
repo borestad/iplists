@@ -8,6 +8,7 @@ curl -SfL --no-progress-meter --compressed https://ipbl.herrbischoff.com/list.tx
 curl -SfL --no-progress-meter --compressed https://ipbl.herrbischoff.com/tor.txt -o tor.ipv4
 
 cat ipblock.ipv4 | grepip | iprange -1 | sponge ipblock.ipv4
+cat badasn.ipv4 | grepip | iprange | sponge ipblock.ipv4
 
 xargs -P4 -n 1 curl -SfL --no-progress-meter --compressed -O < urls.txt
 
