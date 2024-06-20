@@ -11,7 +11,7 @@ curl -sL --fail https://raw.githubusercontent.com/lord-alfred/ipranges/main/goog
 cidr-merger $name.ipv6.tmp | sponge $name.ipv6
 
 # Google bots
-name=google-bot
+name=googlebot
 curl -sL --fail https://developers.google.com/search/apis/ipranges/googlebot.json -o $name.json.tmp || exit 0
 
 # Nice & tidy

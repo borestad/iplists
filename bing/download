@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+cd "$(dirname $0)"
+
+name=bingbot
+curl -sL --fail  https://www.bing.com/toolbox/bingbot.json -o $name.json.tmp
+
+grepip < $name.json.tmp | iprange >| $name.ipv4
+grepip6 < $name.json.tmp | cidr-merger >| $name.ipv6
