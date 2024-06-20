@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+cd "$(dirname $0)"
+
+name=duckduckgobot
+curl -sL --fail https://raw.githubusercontent.com/duckduckgo/duckduckgo-help-pages/master/_docs/results/duckduckbot.md -o $name.txt.tmp || exit 0
+
+grepip < $name.txt.tmp | iprange -1 >| $name.ipv4
+grepip6 < $name.txt.tmp | cidr-merger >| $name.ipv6
