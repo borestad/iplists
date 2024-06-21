@@ -181,6 +181,19 @@ has-file-changed() {
   return 1
 }
 
+git-commit-to-repository() {
+  git config user.name github-actions
+  git config user.email github-actions@github.com
+  git pull --rebase --autostash
+  git add . --verbose
+
+  stats=$(git diff --cached --shortstat | sed -E 's/ (insertions?|deletions?|changed?,)//g')
+  DATE=$(date '+%Y-%m-%d %H:%M:%S')
+
+  git commit -m "🦄 \`$DATE\`  \`$stats\`" -a || true
+  git push
+}
+
 git-foreach-commit-to-repository() {
   DATE=$(date '+%Y/%m/%d %H:%M')
   LABEL="CRON"
