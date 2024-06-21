@@ -1,8 +1,12 @@
 #!/usr/bin/env bash
+set -eo pipefail
 
 # https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0060548
 
 cd "$(dirname $0)"
+TEMPFILE=$(mktemp)
 
-name=zoom.ipv4
-curl -sL --fail https://assets.zoom.us/docs/ipranges/Zoom.txt -o $name.tmp && iprange $name.tmp >| $name
+name=zoom
+curl --config ../.curlrc https://assets.zoom.us/docs/ipranges/Zoom.txt -o $TEMPFILE
+
+iprange $TEMPFILE >| $name.ipv4

@@ -1,12 +1,9 @@
 #!/usr/bin/env bash
+set -euo pipefail
 
 cd "$(dirname $0)"
 
 name=doh
-curl -sL --fail https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/master/doh-ipv4.txt -o $name.ipv4.tmp || exit 0
-curl -sL --fail https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/master/doh-ipv6.txt -o $name.ipv6.tmp || exit 0
+curl --config ../.curlrc -o $name.ipv4 https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/master/doh-ipv4.txt
+curl --config ../.curlrc -o $name.ipv6 https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/master/doh-ipv6.txt
 
-mv $name.ipv4.tmp $name.ipv4
-mv $name.ipv6.tmp $name.ipv6
-
-rm -f *.tmp

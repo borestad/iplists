@@ -4,22 +4,77 @@ set -euo pipefail
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # Preinstall
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+function exists() { command -v "$1" &> /dev/null; }
+
 download() {
   local url="$1"
   local software=$(basename "$url")
+  local location=/usr/local/bin/$software
 
-  if ! command -v "$software" &> /dev/null; then
-    echo "𐄂 $software is not installed, downloading ..."
-  else
-    printf "%-35s %s\n" "✔ $software is already preinstalled. " "[ `command -v $software` ] - installing anyway"
+  echo "✔ [Download]: $software into $location"
+  wget -O "$location" -q -nv --content-disposition "$url"
+  chmod +x "$location" 2> /dev/null || true
+}
+
+
+# A much faster alternative to apt-get install,
+# without any hooks that slows down installation
+install-deb() {
+  local pkgs="$@"
+  local exitcode=0
+
+  cat << 'EOF' | sudo tee /etc/dpkg/dpkg.cfg.d/01_nodoc > /dev/null
+path-exclude /usr/share/groff/*
+path-exclude /usr/share/info/*
+path-exclude /usr/share/lintian/*
+path-exclude /usr/share/linda/*
+path-exclude /var/cache/man/*
+path-exclude /usr/share/locale/*
+path-exclude /usr/share/doc/*
+path-exclude /usr/share/man/*
+EOF
+
+  echo "✔ [install-deb]: $pkgs"
+  sudo eatmydata -- apt-get clean
+  sudo eatmydata -- dpkg --clear-avail
+  sudo eatmydata -- apt-get -qq install --download-only -y $pkgs || exitcode=$?
+
+  if [ ! $exitcode -eq 0 ]; then
+    echo "[install-deb]: ❌ Error downloading $pkgs"
+    echo "[install-deb]: (1/2) Retrying with apt-fast update: $pkgs"
+    sudo eatmydata -- apt-fast update
+
+    echo "[install-deb]: (2/2) Retrying with apt-get --download-only: $pkgs"
+    sudo eatmydata -- apt-get -qq install --download-only -y $pkgs || exit 1
   fi
 
-    wget -O ~/.local/bin/$software -q -nv --content-disposition "$url"
-    chmod +x ~/.local/bin/$software 2> /dev/null || true
+  echo "✔ [install-deb]: Extracting *.deb: $pkgs"
+  ( sudo find . /var/cache/apt -iname '*.deb' -print0 | \
+    xargs -I {} -0  sudo dpkg --force-unsafe-io --vextract "{}" /) \
+  | grep -E '/(bin|sbin)/' | grep -Ev '/$'
 }
 
 preinstall-binaries() {
+  local dir=$PWD
+
+  # For testing purposes:
+  # sudo rm -rf /var/lib/apt/archives/*
+  # sudo rm -rf /var/cache/*
+
+  # Optimize apt install time (no need for mandb on a ci)
+  sudo cp -p /bin/true /usr/bin/mandb 2> /dev/null || true
+
+  # TODO: Needs some testing. But no need for hooks, since it's a shortlived CI process.
+  sudo rm -rf /etc/apt/apt.conf.d/*
+
   cp .github/scripts/ciutil ~/.local/bin/
+
+  # Install apt packages if available
+  pkgs=$(jq .dpkgInstallPackages[] package.json 2> /dev/null | xargs)
+
+  if [[ "$pkgs" != "" ]]; then
+    install-deb $pkgs &
+  fi
 
   for url in $(jq .preinstallBinaries package.json | jq -r .[]); do
     download "$url" &
@@ -27,8 +82,11 @@ preinstall-binaries() {
 
   wait
 
-install-nodemodules () {
-  if jq -e .dependencies $GITROOT/package.json &>/dev/null; then
+  cd $dir
+}
+
+install-nodemodules() {
+  if jq -e .dependencies `git rev-parse --show-toplevel`/package.json &> /dev/null; then
     cd $GITROOT
 
     # Applying dirty fix for *not* including @types/* in the production ci
@@ -40,143 +98,144 @@ install-nodemodules () {
     pnpm install --frozen-lockfile --production --prefer-offline --no-verify-store-integrity
 
     mv $RUNNER_TEMPDIR/pnpm-lock.yaml .
+  else
+    echo "Nothing to install"
   fi
 }
 
-
-}
-create-directories() {
-  mkdir -pv ~/.local/bin
-  mkdir -pv $ACTIONS_CACHE_DIR
-  mkdir -pv $ACTIONS_CACHE_BIN_DIR
-  mkdir -pv $PNPM_HOME
-  mkdir -pv $PNPM_STORE_DIR
-  mkdir -pv $RUNNER_TEMPDIR
-  mkdir -pv $DEBUG_DIR
+to_env() {
+  [[ "$2" == *"/"* ]] && (echo "$1 => $2" && mkdir -p $2 || true 2> /dev/null)
+  export $1=$2
+  echo "$1=$2" >> $GITHUB_ENV
 }
 
-optimize-apt-get-install() {
-  sudo cp -p /bin/true /usr/bin/mandb 2>/dev/null || true
-  sudo mv -f /var/cache/man /tmp/ 2>/dev/null || true
-}
-
-git-commit-to-repository() {
-  git config user.name github-actions
-  git config user.email github-actions@github.com
-  git pull --rebase --autostash
-  git add . --verbose
-
-  stats=$(git diff --cached --shortstat | sed -E 's/ (insertions?|deletions?|changed?,)//g')
-  DATE=$(date '+%Y-%m-%d %H:%M:%S')
-
-  git commit -m "🦄 \`$DATE\`  \`$stats\`" -a || true
-  git push
+add_path() {
+  echo $1 >> $GITHUB_PATH
 }
 
 set-env-variables() {
-  # Action Cache
-  export ACTIONS_CACHE_DIR=$RUNNER_WORKSPACE/.actions-cache
+  mkdir -pv ~/.local/bin
 
-  echo ACTIONS_CACHE_DIR=$ACTIONS_CACHE_DIR                    >> $GITHUB_ENV
-  echo ACTIONS_CACHE_BIN_DIR=$ACTIONS_CACHE_DIR/bin            >> $GITHUB_ENV
-  echo PNPM_STORE_DIR=$ACTIONS_CACHE_DIR/pnpm/pnpm-store       >> $GITHUB_ENV
-  echo EGET_BIN=$ACTIONS_CACHE_DIR/bin                         >> $GITHUB_ENV
-  echo DENO_DIR=$ACTIONS_CACHE_DIR/.deno                       >> $GITHUB_ENV
-  echo PNPM_HOME=$ACTIONS_CACHE_DIR/pnpm                       >> $GITHUB_ENV
+  # Action Cache
+  WS=$RUNNER_WORKSPACE
+
+  # to_env LD_PRELOAD /usr/lib/x86_64-linux-gnu/libeatmydata.so
+  to_env ACTIONS_CACHE_DIR $WS/.actions-cache
+  to_env ACTIONS_CACHE_BIN_DIR $WS/.actions-cache/bin
+  to_env PNPM_STORE_DIR $WS/.actions-cache/pnpm/pnpm-store
+  to_env EGET_BIN $WS/.actions-cache/bin
+  to_env DENO_DIR $WS/.actions-cache/.deno
+  to_env PNPM_HOME $WS/.actions-cache/pnpm
 
   # TTL Cache (Cache that will automatically be invalidated)
-  export TTL_CACHE_DIR=$RUNNER_WORKSPACE/.cache-ttl
-  echo TTL_CACHE_DIR=$TTL_CACHE_DIR                            >> $GITHUB_ENV
-  echo BKT_CACHE_DIR=$TTL_CACHE_DIR/bkt                        >> $GITHUB_ENV
+  to_env TTL_CACHE_DIR $WS/.cache-ttl
+  to_env BKT_CACHE_DIR $WS/.cache-ttl/bkt
+
+  # Files Cache (Cache that will automatically be invalidated)
+  to_env FILES_CACHE_DIR $WS/.cache-files
 
   # Other dirs
-  echo DEBUG_DIR=$RUNNER_WORKSPACE/.debug                      >> $GITHUB_ENV
-  echo RUNNER_TEMPDIR=$RUNNER_TEMP/`date +%s%N`                >> $GITHUB_ENV
+  to_env DEBUG_DIR $WS/.debug
+  to_env RUNNER_TEMPDIR $RUNNER_TEMP/$(date +%s%N)
 
   # Other env
-  echo CACHE_PREFIX=$(date +'%U')                              >> $GITHUB_ENV
-  echo NODE_ENV="production"                                   >> $GITHUB_ENV
-  echo TERM=xterm-256color                                     >> $GITHUB_ENV
-  echo FORCE_COLOR=1                                           >> $GITHUB_ENV
+  to_env CACHE_PREFIX_WEEKLY "$(date +'%U')"      # changes every week (i.e 06)
+  to_env CACHE_PREFIX_DAILY "$(date +'%Y-%m-%d')" # changes every day (i.e 2024-02-12)
+  date +'%U'
+  to_env NODE_ENV production
+  to_env TERM xterm-256color
+  to_env FORCE_COLOR 1
 
-  echo './node_modules/.bin'                                   >> $GITHUB_PATH
-  echo $HOME/.local/bin                                        >> $GITHUB_PATH
-  echo $RUNNER_WORKSPACE/.actions-cache/pnpm                   >> $GITHUB_PATH
-  echo $RUNNER_WORKSPACE/.actions-cache/bin                    >> $GITHUB_PATH
-  echo $GITHUB_WORKSPACE/.github/scripts                       >> $GITHUB_PATH
+  # PATH
+  add_path './node_modules/.bin'
+  add_path $HOME/.local/bin
+  add_path $WS/.actions-cache/pnpm
+  add_path $WS/.actions-cache/bin
+  add_path $GITHUB_WORKSPACE/.cron/scripts
 }
 
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# Time / Benchmark
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-time-now() {
-  date +%s.%N
-}
-
-benchmark() {
-  local start=$1
-  local end=${2:-$(time-now)}
-  printf %.2f $(echo "$end - $start" | bc -l)
-}
-
-timestamp() {
-  printf "\n%-65s %s\n" "⌛ Time: $(benchmark $start)s" "⌛ Total: $(benchmark $initstart)s"
-}
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # Debug / Statistics / Information
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-show-cache-structure() {
-  ✨ "Cache structure ($ACTIONS_CACHE_DIR)"
-  dust -b -P -s $ACTIONS_CACHE_DIR
-  echo
-
-  ✨ "Cache structure ($TTL_CACHE_DIR)"
-  dust -b -P -s $TTL_CACHE_DIR
-  echo
-}
+show-cache-structure-default() { dust -b -P -s -r $ACTIONS_CACHE_DIR && echo; }
+show-cache-structure-files() { dust -b -P -s -r $FILES_CACHE_DIR && echo; }
+show-cache-structure-ttl() { dust -b -P -s -r $TTL_CACHE_DIR && echo; }
+show-cache-structure-apt() { sudo dust -b -P -s -r /var/cache/apt/archives && echo; }
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # Formatters / Printers
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-✨() {
-  ___
-  start=$(time-now)
-  echo "✨ $1"
-  echo
-}
+✨() { ___; echo "✨ $1"; echo; }
 
-✓() { echo -e "✓ ${R} $1"; }
-
-___() {
-  printf "\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n"
-}
+___() { echo; printf '━%.0s' {1..80}; echo; }
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# File system
+# Git Utils
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-git-root() {
-  git rev-parse --show-toplevel
-}
-
-mk() {
-  mkdir -pv -p "$@" && cd "$_"
-}
-
-mkt() {
-  cd $(mktemp -d) && pwd
-}
-
 has-file-changed() {
-  changed_files="$(git diff-tree -r --name-only --no-commit-id ORIG_HEAD HEAD 2>/dev/null)"
+  changed_files="$(git diff-tree -r --name-only --no-commit-id ORIG_HEAD HEAD 2> /dev/null)"
   if $(echo "$changed_files" | grep --quiet "$1"); then
     return 0
   fi
   return 1
 }
 
+git-foreach-commit-to-repository() {
+  DATE=$(date '+%Y/%m/%d %H:%M')
+  LABEL="CRON"
+
+  echo
+  git diff --stat HEAD
+  echo
+
+  git config user.name github-actions
+  git config user.email github-actions@github.com
+  git pull --rebase --autostash
+
+  for file in $(git status -s | cut -c4-); do
+    echo "file: $file";
+    shortname=$(basename $file)
+    git add $file
+    stats=$(git diff --cached --shortstat | sed -E 's/ (insertions?|deletions?|changed?)//g' | sed 's/,//g' | xargs)
+    stats=$(echo $stats | sed 's/1 file//g' | xargs)
+    git commit -m "\`️️⚡️ $LABEL ⚡️\` \`$DATE\` \`$stats $shortname\`" || true
+    echo $stats
+  done
+
+  git push
+}
+
+
+git-commit-in-stash() {
+  local PREFIX=$1;
+  [ ! -z "$PREFIX" ] && { PREFIX="[$PREFIX] "; }
+
+  DATE=$(bkt --ttl=1min -- date '+%Y/%m/%d %H:%M')
+  LABEL="CRON"
+
+  stats=$(git diff --cached --shortstat | sed -E 's/ (insertions?|deletions?|changed?)//g' | sed 's/,//g' | sed -E 's/^1 file//g' | xargs)
+  git commit -m "\`️️⚡️ $LABEL ⚡️\` \`$DATE\` \`${PREFIX}${stats}\`" &> /dev/null || echo 'No files in stash'
+  echo $stats
+}
+
+
+git-batch-commit-to-repository() {
+  git config user.name github-actions
+  git config user.email github-actions@github.com
+  git pull --rebase --autostash
+
+  cd $GITHUB_WORKSPACE/sitemaps; git add . && git-commit-in-stash "sitemaps"
+  cd $GITHUB_WORKSPACE/stats;    git add . && git-commit-in-stash "stats"
+  cd $GITHUB_WORKSPACE;          git add \*nextdata* && git-commit-in-stash "nextdata"
+  cd $GITHUB_WORKSPACE;          git add . && git-commit-in-stash "assets"
+
+  git push
+}
+
+
+
 # Allow calling for methods from outside
 for i in "$@"; do
   "$i"
 done
-

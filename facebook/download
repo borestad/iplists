@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
+set -eo pipefail
 
 cd "$(dirname $0)"
+TEMPFILE=$(mktemp)
 
 ASNS=(
   32934
@@ -13,11 +15,10 @@ name=facebook
 
 for asn in "${ASNS[@]}"
 do
-  echo "ASN: $asn"
-  curl -sL --fail https://raw.githubusercontent.com/ipverse/asn-ip/master/as/$asn/ipv4-aggregated.txt -o $name-$asn.ipv4.tmp || exit 0
-  curl -sL --fail https://raw.githubusercontent.com/ipverse/asn-ip/master/as/$asn/ipv6-aggregated.txt -o $name-$asn.ipv6.tmp || exit 0
+  curl --config ../.curlrc https://raw.githubusercontent.com/ipverse/asn-ip/master/as/$asn/ipv4-aggregated.txt -o $TEMPFILE.4.$asn
+  curl --config ../.curlrc https://raw.githubusercontent.com/ipverse/asn-ip/master/as/$asn/ipv6-aggregated.txt -o $TEMPFILE.6.$asn
 done
 
-cat *.ipv4.tmp | grepip | iprange >| $name.ipv4
-cat *.ipv6.tmp | grepip6 | cidr-merger  >| $name.ipv6
+cat $TEMPFILE.4.* | grepip | iprange >| $name.ipv4
+cat $TEMPFILE.6.* | grepip6 | cidr-merger >| $name.ipv6
 

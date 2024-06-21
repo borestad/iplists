@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
+set -eo pipefail
 
 cd "$(dirname $0)"
+TEMPFILE=$(mktemp)
 
 name=updownio
 
@@ -11,4 +13,3 @@ wait
 cat *.ipv4.tmp | grepip | iprange -1 >| $name.ipv4
 cat *.ipv6.tmp | grepip6 | cidr-merger  >| $name.ipv6
 
-rm -f *.tmp

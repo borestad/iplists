@@ -1,21 +1,23 @@
 #!/usr/bin/env bash
+set -eo pipefail
 
 cd "$(dirname $0)"
+TEMPFILE=$(mktemp)
 
 # All google ips
 name=google
-curl -sL --fail https://raw.githubusercontent.com/lord-alfred/ipranges/main/google/ipv4.txt -o $name.ipv4.tmp || exit 0
-iprange $name.ipv4.tmp | sponge $name.ipv4
+curl --config ../.curlrc https://raw.githubusercontent.com/lord-alfred/ipranges/main/google/ipv4.txt -o $TEMPFILE
+iprange $TEMPFILE >| $name.ipv4
 
-curl -sL --fail https://raw.githubusercontent.com/lord-alfred/ipranges/main/google/ipv6.txt -o $name.ipv6.tmp || exit 0
-cidr-merger $name.ipv6.tmp | sponge $name.ipv6
+curl --config ../.curlrc https://raw.githubusercontent.com/lord-alfred/ipranges/main/google/ipv6.txt -o $TEMPFILE
+cidr-merger $TEMPFILE >| $name.ipv6
 
 # Google bots
 name=googlebot
-curl -sL --fail https://developers.google.com/search/apis/ipranges/googlebot.json -o $name.json.tmp || exit 0
+curl --config ../.curlrc https://developers.google.com/search/apis/ipranges/googlebot.json -o $TEMPFILE
 
 # Nice & tidy
-jq .prefixes $name.json.tmp | sponge $name.json.tmp
+jq .prefixes $TEMPFILE | sponge $TEMPFILE
 
-grepip < $name.json.tmp | iprange >| $name.ipv4
-grepip6 < $name.json.tmp | cidr-merger >| $name.ipv6
+grepip $TEMPFILE | iprange >| $name.ipv4
+grepip6 $TEMPFILE | cidr-merger >| $name.ipv6

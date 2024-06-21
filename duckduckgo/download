@@ -1,9 +1,10 @@
 #!/usr/bin/env bash
+set -eo pipefail
 
 cd "$(dirname $0)"
+TEMPFILE=$(mktemp)
 
+# run
 name=duckduckgobot
-curl -sL --fail https://raw.githubusercontent.com/duckduckgo/duckduckgo-help-pages/master/_docs/results/duckduckbot.md -o $name.txt.tmp || exit 0
-
-grepip < $name.txt.tmp | iprange -1 >| $name.ipv4
-grepip6 < $name.txt.tmp | cidr-merger >| $name.ipv6
+curl --config ../.curlrc https://raw.githubusercontent.com/duckduckgo/duckduckgo-help-pages/master/_docs/results/duckduckbot.md -o $TEMPFILE
+grepip $TEMPFILE | iprange -1 | sponge $name.ipv4

@@ -1,11 +1,10 @@
 #!/usr/bin/env bash
+set -eo pipefail
 
 cd "$(dirname $0)"
 
 name=uptimerobot
-curl -sL --fail https://uptimerobot.com/inc/files/ips/IPv4andIPv6.txt -o $name.tmp || exit 0
+curl --config ../.curlrc https://uptimerobot.com/inc/files/ips/IPv4andIPv6.txt -o $TEMPFILE
 
-cat *.tmp | grepip | iprange >| $name.ipv4
-cat *.tmp | grepip6 | cidr-merger  >| $name.ipv6
-
-rm -f *.tmp
+grepip $TEMPFILE | iprange >| $name.ipv4
+grepip6 $TEMPFILE | cidr-merger  >| $name.ipv6

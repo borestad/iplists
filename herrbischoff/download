@@ -1,18 +1,46 @@
 #!/usr/bin/env bash
+set -eo pipefail
 
 cd "$(dirname $0)"
-
-curl -SfL --no-progress-meter --compressed https://ipbl.herrbischoff.com/badasn.txt -o badasn.ipv4
-curl -SfL --no-progress-meter --compressed https://ipbl.herrbischoff.com/ai.txt -o ai.ipv4
-curl -SfL --no-progress-meter --compressed https://ipbl.herrbischoff.com/list.txt -o ipblock.ipv4
-curl -SfL --no-progress-meter --compressed https://ipbl.herrbischoff.com/tor.txt -o tor.ipv4
+DIR=$(pwd)
+curl --config ../.curlrc https://ipbl.herrbischoff.com/badasn.txt -o badasn.ipv4
+curl --config ../.curlrc https://ipbl.herrbischoff.com/ai.txt -o ai.ipv4
+curl --config ../.curlrc https://ipbl.herrbischoff.com/list.txt -o ipblock.ipv4
+curl --config ../.curlrc https://ipbl.herrbischoff.com/tor.txt -o tor.ipv4
 
 cat ipblock.ipv4 | grepip | iprange -1 | sponge ipblock.ipv4
 cat badasn.ipv4 | grepip | iprange | sponge ipblock.ipv4
 
-xargs -P4 -n 1 curl -SfL --no-progress-meter --compressed -O < urls.txt
+TEMPDIR=$(mktemp -d)
+cd $TEMPDIR
+echo $TEMPDIR
 
+wget2 \
+    --max-threads=1 \
+    --http2-request-window=2 \
+    --dns-timeout=10 \
+    --timeout==10 \
+    --read-timeout==10 \
+    --connect-timeout==10 \
+    --retry-connrefused \
+    --http-keep-alive \
+    --no-clobber \
+    --compression=br \
+    --report-speed bytes \
+    --adjust-extension \
+    --force-directories \
+    --progress=none \
+    --random-wait \
+    --waitretry \
+    --user-agent='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+    -i $DIR/urls.txt | \
+    grep -viE 'HTTP response 200|saving'
+
+
+# xargs -P1 -n 2 curl --config ../.curlrc -O < urls.txt
+
+cd $DIR
 mkdir -p countries
 
-mv *.netset countries/ &> /dev/null
+mv $TEMPDIR/git.herrbischoff.com/country-ip-blocks-alternative/plain/ipv4/*.netset countries/ &> /dev/null
 fd .netset -x mv '{}' '{.}'.ipv4

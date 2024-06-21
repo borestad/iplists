@@ -17,6 +17,7 @@
     "eslint-plugin-unicorn": "^44.0.2"
   },
   "preinstallBinaries": [
+    "https://raw.githubusercontent.com/borestad/dotjitsu/master/bin/dl",
     "https://raw.githubusercontent.com/borestad/dotjitsu/master/bin/grepip",
     "https://raw.githubusercontent.com/borestad/dotjitsu/master/bin/grepip6",
     "https://raw.githubusercontent.com/borestad/ci-utils/main/bin/ga-dump-context",
@@ -35,6 +36,10 @@
     "https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/rg",
     "https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/sd",
     "https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/sponge"
+  ],
+  "dpkgInstallPackages": [
+    "wget2",
+    "moreutils"
   ],
   "eslintConfig": {
     "extends": "@antfu",

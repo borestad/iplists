@@ -1,8 +1,10 @@
 #!/usr/bin/env bash
+set -eo pipefail
 
 cd "$(dirname $0)"
+TEMPFILE=$(mktemp)
 
 name=binaryedge
-curl -sL --fail https://api.binaryedge.io/v1/minions -o $name.json.tmp || exit 0
+curl --config ../.curlrc https://api.binaryedge.io/v1/minions -o $TEMPFILE
 
-jq .scanners $name.json.tmp | grepip | iprange -1 >| $name.ipv4
+jq .scanners $TEMPFILE | grepip | iprange -1 >| $name.ipv4

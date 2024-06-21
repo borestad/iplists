@@ -1,12 +1,12 @@
 #!/usr/bin/env bash
+set -eo pipefail
 
 cd "$(dirname $0)"
+TEMPFILE=$(mktemp)
 
 name=github
-curl -sL --fail https://api.github.com/meta -o $name.json.tmp || exit 0
+curl --config ../.curlrc https://api.github.com/meta -o $TEMPFILE
 
-# Nice & tidy
-jq . $name.json.tmp | sponge $name.json.tmp
-
-grepip < $name.json.tmp | iprange >| $name.ipv4
-grepip6 < $name.json.tmp | cidr-merger >| $name.ipv6
+jq . $TEMPFILE | sponge $TEMPFILE
+grepip $TEMPFILE | iprange >| $name.ipv4
+grepip6 $TEMPFILE | cidr-merger >| $name.ipv6

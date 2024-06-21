@@ -1,11 +1,13 @@
 #!/usr/bin/env bash
+set -eo pipefail
 
 cd "$(dirname $0)"
+TEMPFILE=$(mktemp)
 
 name=bitbucket
-curl -sL --fail https://ip-ranges.atlassian.com -o $name.json.tmp || exit 0
+curl --config ../.curlrc https://ip-ranges.atlassian.com -o $TEMPFILE
 
-jq .items $name.json.tmp | gron | grep cidr | sponge $name.list.tmp
+jq .items $TEMPFILE | gron | grep cidr | sponge $TEMPFILE
 
-grepip < $name.list.tmp | iprange >| $name.ipv4
-grepip6 < $name.list.tmp | cidr-merger >| $name.ipv6
+grepip $TEMPFILE | iprange >| $name.ipv4
+grepip6 $TEMPFILE | cidr-merger >| $name.ipv6

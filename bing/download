@@ -1,9 +1,10 @@
 #!/usr/bin/env bash
+#set -eo pipefail
 
 cd "$(dirname $0)"
+TEMPFILE=$(mktemp)
 
 name=bingbot
-curl -sL --fail  https://www.bing.com/toolbox/bingbot.json -o $name.json.tmp
+curl --config ../.curlrc https://www.bing.com/toolbox/bingbot.json -o $TEMPFILE
 
-grepip < $name.json.tmp | iprange >| $name.ipv4
-grepip6 < $name.json.tmp | cidr-merger >| $name.ipv6
+jq -r .prefixes[].ipv4Prefix $TEMPFILE | grepip | iprange >| $name.ipv4

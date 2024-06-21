@@ -1,10 +1,12 @@
 #!/usr/bin/env bash
+set -eo pipefail
 
 cd "$(dirname $0)"
+TEMPFILE=$(mktemp)
 
 name=cloudflare
-curl -sL --fail https://www.cloudflare.com/ips-v4 -o $name.ipv4.tmp || exit 0
-curl -sL --fail https://www.cloudflare.com/ips-v6 -o $name.ipv6.tmp || exit 0
+curl --config ../.curlrc https://www.cloudflare.com/ips-v4 -o $TEMPFILE.4
+curl --config ../.curlrc https://www.cloudflare.com/ips-v6 -o $TEMPFILE.6
 
-grepip < $name.ipv4.tmp | iprange >| $name.ipv4
-grepip6 < $name.ipv6.tmp | cidr-merger >| $name.ipv6
+grepip $TEMPFILE.4 | iprange >| $name.ipv4
+grepip6 $TEMPFILE.6 | cidr-merger >| $name.ipv6
