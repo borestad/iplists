@@ -94,7 +94,7 @@ jobs:
           git push
 
       # ─────────────────────────────────────────────────────
-      - name: "Debug ❯❯ Context Information"
+      - name: Debug ❯❯ Context Information
         id: github_context_step
         env:
           JSON_GITHUB: ${{ toJSON(github) }}
@@ -104,16 +104,19 @@ jobs:
           JSON_STRATEGY: ${{ toJSON(strategy) }}
           JSON_MATRIX: ${{ toJSON(MATRIX) }}
         run: |
+          . .github/scripts/ciutil
           ip-public
-          .github/scripts/ciutil show-cache-structure
-          .github/scripts/ciutil ___
+          ✨ "Debug: generic cache ($ACTIONS_CACHE_DIR)"    && show-cache-structure-default
+          ✨ "Debug: ttl cache ($TTL_CACHE_DIR)"            && show-cache-structure-ttl
+          ✨ "Debug: file cache ($FILES_CACHE_DIR)"         && show-cache-structure-files
+
+          ___
 
           printf "$JSON_GITHUB"    >> $DEBUG_DIR/github.json
           printf "$JSON_JOB"       >> $DEBUG_DIR/job.json
           printf "$JSON_STEPS"     >> $DEBUG_DIR/steps.json
           printf "$JSON_RUNNER"    >> $DEBUG_DIR/runner.json
           printf "$JSON_STRATEGY"  >> $DEBUG_DIR/strategy.json
-          printf $JSON_MATRIX      >> $DEBUG_DIR/matrix.json
+          printf "$JSON_MATRIX"    >> $DEBUG_DIR/matrix.json
 
-          ga-dump-context
-
+          ga-dump-context | tee /tmp/ga-dump-context.txt &> /dev/null && cat /tmp/ga-dump-context.txt
