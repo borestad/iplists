@@ -2,6 +2,7 @@
 set -eo pipefail
 
 cd "$(dirname $0)"
+TEMPFILE=$(mktemp)
 
 name=uptimerobot
 curl --config ../.curlrc https://uptimerobot.com/inc/files/ips/IPv4andIPv6.txt -o $TEMPFILE
