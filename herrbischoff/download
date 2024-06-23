@@ -9,7 +9,8 @@ curl --config ../.curlrc https://ipbl.herrbischoff.com/list.txt -o ipblock.ipv4
 curl --config ../.curlrc https://ipbl.herrbischoff.com/tor.txt -o tor.ipv4
 
 cat ipblock.ipv4 | grepip | iprange -1 | sponge ipblock.ipv4
-cat badasn.ipv4 | grepip | iprange | sponge ipblock.ipv4
+cat badasn.ipv4 | grepip | iprange | sponge badasn.ipv4
+cat tor.ipv4 | grepip | iprange | sponge tor.ipv4
 
 TEMPDIR=$(mktemp -d)
 cd $TEMPDIR
