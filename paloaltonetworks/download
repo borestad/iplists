@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+cd "$(dirname $0)"
+TEMPFILE=$(mktemp)
+
+name=paloaltonetworks
+
+# as/54538/ipv4-aggregated.txt:   # PALO ALTO NETWORKS
+# as/64280/ipv4-aggregated.txt:   # Palo Alto Networks, Inc
+# as/396421/ipv4-aggregated.txt:  # PALO ALTO NETWORKS
+
+curl -sL --config ../.curlrc \
+  https://raw.githubusercontent.com/ipverse/asn-ip/master/as/396421/ipv4-aggregated.txt \
+  https://raw.githubusercontent.com/ipverse/asn-ip/master/as/64280/ipv4-aggregated.txt \
+  https://raw.githubusercontent.com/ipverse/asn-ip/master/as/396421/ipv4-aggregated.txt \
+  >| $TEMPFILE
+
+grepip $TEMPFILE | iprange >| $name.ipv4
