@@ -1,0 +1,708 @@
+{
+  "ip_prefix": "13.34.111.192/27",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "99.78.152.0/22",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "16.30.0.0/16",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "150.222.48.192/27",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "18.99.144.0/20",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "15.230.138.0/24",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "13.247.0.0/16",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "96.0.40.0/21",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1-los-1"
+}
+{
+  "ip_prefix": "99.77.148.0/24",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "13.34.124.96/27",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "52.93.57.0/24",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "99.77.235.0/24",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "13.34.111.224/27",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "150.222.208.0/24",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "15.230.72.192/26",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "150.222.48.224/27",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "3.5.228.0/22",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "52.95.176.0/24",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "99.78.144.0/21",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "52.93.126.146/32",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "54.239.1.128/28",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "99.78.128.0/20",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "15.230.72.64/26",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "35.71.103.0/24",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "16.29.0.0/16",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "13.244.0.0/15",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "52.95.175.0/24",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "13.34.124.160/27",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "52.93.126.147/32",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "16.154.0.0/15",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "52.95.180.0/24",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "13.246.0.0/16",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "16.28.0.0/16",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "16.31.0.0/16",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "13.34.81.32/27",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "13.34.81.0/27",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "52.94.30.0/24",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "150.222.92.0/22",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "13.34.124.128/27",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "52.94.249.176/28",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "150.222.48.160/27",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "15.230.72.128/26",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "13.34.124.64/27",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "15.221.52.0/24",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "99.150.104.0/21",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "52.95.229.0/24",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "13.34.86.0/27",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "96.0.36.0/22",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1-los-1"
+}
+{
+  "ip_prefix": "15.177.91.0/24",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "13.34.86.32/27",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "15.193.10.0/24",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "3.5.202.0/23",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "13.244.121.0/26",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "13.244.122.0/24",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "13.244.165.192/26",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "13.244.176.128/26",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "13.244.176.64/26",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "13.244.35.128/26",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "13.244.35.192/26",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "13.245.241.64/26",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "13.246.243.128/25",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "13.246.243.64/26",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "13.246.244.0/23",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "13.246.248.0/22",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "99.77.235.0/24",
+  "region": "af-south-1",
+  "service": "CHIME_VOICECONNECTOR",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "3.5.228.0/22",
+  "region": "af-south-1",
+  "service": "S3",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "52.95.176.0/24",
+  "region": "af-south-1",
+  "service": "S3",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "52.95.175.0/24",
+  "region": "af-south-1",
+  "service": "S3",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "52.95.180.0/24",
+  "region": "af-south-1",
+  "service": "S3",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "3.5.202.0/23",
+  "region": "af-south-1",
+  "service": "S3",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "13.245.93.176/28",
+  "region": "af-south-1",
+  "service": "S3",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "13.245.93.192/28",
+  "region": "af-south-1",
+  "service": "S3",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "18.99.144.0/20",
+  "region": "af-south-1",
+  "service": "EC2",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "13.247.0.0/16",
+  "region": "af-south-1",
+  "service": "EC2",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "96.0.40.0/21",
+  "region": "af-south-1",
+  "service": "EC2",
+  "network_border_group": "af-south-1-los-1"
+}
+{
+  "ip_prefix": "99.77.148.0/24",
+  "region": "af-south-1",
+  "service": "EC2",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "99.77.235.0/24",
+  "region": "af-south-1",
+  "service": "EC2",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "3.5.228.0/22",
+  "region": "af-south-1",
+  "service": "EC2",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "35.71.103.0/24",
+  "region": "af-south-1",
+  "service": "EC2",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "13.244.0.0/15",
+  "region": "af-south-1",
+  "service": "EC2",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "13.246.0.0/16",
+  "region": "af-south-1",
+  "service": "EC2",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "52.94.249.176/28",
+  "region": "af-south-1",
+  "service": "EC2",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "99.150.104.0/21",
+  "region": "af-south-1",
+  "service": "EC2",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "52.95.229.0/24",
+  "region": "af-south-1",
+  "service": "EC2",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "96.0.36.0/22",
+  "region": "af-south-1",
+  "service": "EC2",
+  "network_border_group": "af-south-1-los-1"
+}
+{
+  "ip_prefix": "15.177.91.0/24",
+  "region": "af-south-1",
+  "service": "EC2",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "15.193.10.0/24",
+  "region": "af-south-1",
+  "service": "EC2",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "3.5.202.0/23",
+  "region": "af-south-1",
+  "service": "EC2",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "15.177.91.0/24",
+  "region": "af-south-1",
+  "service": "ROUTE53_HEALTHCHECKS_PUBLISHING",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "13.245.155.128/27",
+  "region": "af-south-1",
+  "service": "CLOUD9",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "13.245.155.224/27",
+  "region": "af-south-1",
+  "service": "CLOUD9",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "13.244.202.40/29",
+  "region": "af-south-1",
+  "service": "CODEBUILD",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "13.245.166.176/29",
+  "region": "af-south-1",
+  "service": "CODEBUILD",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "13.244.132.0/23",
+  "region": "af-south-1",
+  "service": "API_GATEWAY",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "13.246.70.0/23",
+  "region": "af-south-1",
+  "service": "API_GATEWAY",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "13.244.244.192/27",
+  "region": "af-south-1",
+  "service": "ROUTE53_RESOLVER",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "13.244.244.224/27",
+  "region": "af-south-1",
+  "service": "ROUTE53_RESOLVER",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "13.244.33.0/26",
+  "region": "af-south-1",
+  "service": "ROUTE53_RESOLVER",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "13.244.33.128/26",
+  "region": "af-south-1",
+  "service": "ROUTE53_RESOLVER",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "13.244.33.64/26",
+  "region": "af-south-1",
+  "service": "ROUTE53_RESOLVER",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "13.245.1.32/27",
+  "region": "af-south-1",
+  "service": "ROUTE53_RESOLVER",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "13.245.112.0/24",
+  "region": "af-south-1",
+  "service": "ROUTE53_RESOLVER",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "13.245.113.0/24",
+  "region": "af-south-1",
+  "service": "ROUTE53_RESOLVER",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "13.245.114.0/24",
+  "region": "af-south-1",
+  "service": "ROUTE53_RESOLVER",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "13.245.93.140/30",
+  "region": "af-south-1",
+  "service": "EBS",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "13.245.93.160/29",
+  "region": "af-south-1",
+  "service": "EBS",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "13.247.50.244/31",
+  "region": "af-south-1",
+  "service": "EBS",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "13.247.50.248/30",
+  "region": "af-south-1",
+  "service": "EBS",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "13.244.121.196/30",
+  "region": "af-south-1",
+  "service": "EC2_INSTANCE_CONNECT",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "13.247.76.100/30",
+  "region": "af-south-1",
+  "service": "KINESIS_VIDEO_STREAMS",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "13.247.76.96/31",
+  "region": "af-south-1",
+  "service": "KINESIS_VIDEO_STREAMS",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "13.246.108.0/22",
+  "region": "af-south-1",
+  "service": "WORKSPACES_GATEWAYS",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "13.246.120.0/22",
+  "region": "af-south-1",
+  "service": "WORKSPACES_GATEWAYS",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "13.245.127.232/30",
+  "region": "af-south-1",
+  "service": "AMAZON_APPFLOW",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "13.245.166.128/30",
+  "region": "af-south-1",
+  "service": "AMAZON_APPFLOW",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "13.245.166.132/30",
+  "region": "af-south-1",
+  "service": "AMAZON_APPFLOW",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "35.71.103.0/24",
+  "region": "af-south-1",
+  "service": "DYNAMODB",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "52.94.30.0/24",
+  "region": "af-south-1",
+  "service": "DYNAMODB",
+  "network_border_group": "af-south-1"
+}
