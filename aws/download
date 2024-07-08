@@ -1,0 +1,24 @@
+#!/usr/bin/env bash
+set -eo pipefail
+
+cd "$(dirname $0)"
+TEMPFILE=$(mktemp)
+
+name=aws
+curl --config ../.curlrc https://ip-ranges.amazonaws.com/ip-ranges.json -o aws.json
+
+# https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-regions-availability-zones.html
+cat aws.json | jq '.prefixes[] | select( .region | contains("ap-") )' | sponge aws-asia-pacific.json
+cat aws.json | jq '.prefixes[] | select( .region | contains("af-") )' | sponge aws-africa.json
+cat aws.json | jq '.prefixes[] | select( .region | contains("us-") )' | sponge aws-usa.json
+cat aws.json | jq '.prefixes[] | select( .region | contains("us-") )' | sponge aws-canada.json
+cat aws.json | jq '.prefixes[] | select( .region | contains("eu-") )' | sponge aws-europe.json
+cat aws.json | jq '.prefixes[] | select( .region | contains("il-") )' | sponge aws-israel.json
+cat aws.json | jq '.prefixes[] | select( .region | contains("me-") )' | sponge aws-middleeast.json
+cat aws.json | jq '.prefixes[] | select( .region | contains("sa-") )' | sponge aws-southamerica.json
+
+cat aws.json | grepip | sponge aws.ipv4
+
+fd 'aws-.*json' -x bash -c 'echo {.}; grepip {} | iprange | sponge {.}.ipv4'
+
+dig @1.1.1.1 TXT amazonses.com +short| grep 'v=spf1' | grepip | sponge aws-smtp.ipv4
