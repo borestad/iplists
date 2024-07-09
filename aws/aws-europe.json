@@ -737,12 +737,6 @@
   "network_border_group": "eu-north-1"
 }
 {
-  "ip_prefix": "54.25.72.0/24",
-  "region": "eu-north-1",
-  "service": "AMAZON",
-  "network_border_group": "eu-north-1-hel-1"
-}
-{
   "ip_prefix": "54.229.0.0/16",
   "region": "eu-west-1",
   "service": "AMAZON",
@@ -9825,12 +9819,6 @@
   "region": "eu-central-1",
   "service": "EC2",
   "network_border_group": "eu-central-1"
-}
-{
-  "ip_prefix": "54.25.72.0/24",
-  "region": "eu-north-1",
-  "service": "EC2",
-  "network_border_group": "eu-north-1-hel-1"
 }
 {
   "ip_prefix": "54.229.0.0/16",
