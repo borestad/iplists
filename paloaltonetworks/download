@@ -9,11 +9,30 @@ name=paloaltonetworks
 # as/54538/ipv4-aggregated.txt:   # PALO ALTO NETWORKS
 # as/64280/ipv4-aggregated.txt:   # Palo Alto Networks, Inc
 # as/396421/ipv4-aggregated.txt:  # PALO ALTO NETWORKS
+# https://knowledgebase.paloaltonetworks.com/KCSArticleDetail?id=kA14u000000wleTCAQ&lang=en_US%E2%80%A9
+
+# Ipranges
+cat << EOF > $TEMPFILE
+# Global:
+205.210.31.0/24
+198.235.24.0/24
+
+# Global Research:
+35.203.210.0/24
+35.203.211.0/24
+162.216.149.0/24
+162.216.150.0/24
+
+# Known Assets Monitoring (KAM):
+172.105.147.0/24
+144.86.173.0/24
+
+EOF
 
 curl -sL --config ../.curlrc \
   https://raw.githubusercontent.com/ipverse/asn-ip/master/as/396421/ipv4-aggregated.txt \
   https://raw.githubusercontent.com/ipverse/asn-ip/master/as/64280/ipv4-aggregated.txt \
   https://raw.githubusercontent.com/ipverse/asn-ip/master/as/396421/ipv4-aggregated.txt \
-  >| $TEMPFILE
+  >> $TEMPFILE
 
 grepip $TEMPFILE | iprange >| $name.ipv4
