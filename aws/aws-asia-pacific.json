@@ -5522,7 +5522,7 @@
   "ip_prefix": "173.82.10.0/24",
   "region": "ap-south-1",
   "service": "AMAZON",
-  "network_border_group": "ap-south-1-ccu-1"
+  "network_border_group": "ap-south-1-del-1"
 }
 {
   "ip_prefix": "176.32.64.0/19",
@@ -11180,7 +11180,7 @@
   "ip_prefix": "173.82.10.0/24",
   "region": "ap-south-1",
   "service": "EC2",
-  "network_border_group": "ap-south-1-ccu-1"
+  "network_border_group": "ap-south-1-del-1"
 }
 {
   "ip_prefix": "176.32.64.0/19",

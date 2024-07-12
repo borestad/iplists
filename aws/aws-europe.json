@@ -6062,7 +6062,7 @@
   "ip_prefix": "173.82.13.0/24",
   "region": "eu-central-1",
   "service": "AMAZON",
-  "network_border_group": "eu-central-1-ham-1"
+  "network_border_group": "eu-central-1-waw-1"
 }
 {
   "ip_prefix": "13.34.49.64/27",
@@ -10874,7 +10874,7 @@
   "ip_prefix": "173.82.13.0/24",
   "region": "eu-central-1",
   "service": "EC2",
-  "network_border_group": "eu-central-1-ham-1"
+  "network_border_group": "eu-central-1-waw-1"
 }
 {
   "ip_prefix": "3.8.0.0/14",
