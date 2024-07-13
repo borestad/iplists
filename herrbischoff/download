@@ -16,32 +16,39 @@ TEMPDIR=$(mktemp -d)
 cd $TEMPDIR
 echo $TEMPDIR
 
-wget2 \
-    --max-threads=1 \
-    --http2-request-window=2 \
-    --dns-timeout=10 \
-    --timeout==10 \
-    --read-timeout==10 \
-    --connect-timeout==10 \
-    --retry-connrefused \
-    --http-keep-alive \
-    --no-clobber \
-    --compression=br \
-    --report-speed bytes \
-    --adjust-extension \
-    --force-directories \
-    --progress=none \
-    --random-wait \
-    --waitretry \
-    --user-agent='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
-    -i $DIR/urls.txt | \
-    grep -viE 'HTTP response 200|saving'
+function dllist() {
+  local list=$1
+  wget2 \
+      --max-threads=1 \
+      --http2-request-window=2 \
+      --dns-timeout=10 \
+      --timeout==10 \
+      --read-timeout==10 \
+      --connect-timeout==10 \
+      --retry-connrefused \
+      --http-keep-alive \
+      --no-clobber \
+      --compression=br \
+      --report-speed bytes \
+      --adjust-extension \
+      --force-directories \
+      --progress=none \
+      --random-wait \
+      --waitretry \
+      --user-agent='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+      -i $list | \
+      grep -viE 'HTTP response 200|saving'
+}
 
 
-# xargs -P1 -n 2 curl --config ../.curlrc -O < urls.txt
+dllist $DIR/countries.txt
+dllist $DIR/countries2.txt
+
 
 cd $DIR
-mkdir -p countries
+mkdir -p countries countries2
 
 mv $TEMPDIR/git.herrbischoff.com/country-ip-blocks-alternative/plain/ipv4/*.netset countries/ &> /dev/null
-fd .netset -x mv '{}' '{.}'.ipv4
+mv $TEMPDIR/raw.githubusercontent.com/herrbischoff/country-ip-blocks/master/ipv4/*.cidr countries2/ &> /dev/null
+
+fd '.(netset|cidr)$' -x mv '{}' '{.}'.ipv4
