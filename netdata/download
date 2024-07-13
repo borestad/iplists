@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+set -eo pipefail
+
+cd "$(dirname $0)"
+name=netdata
+
+dig +time=15 +tries=2 +short @1.1.1.1 app.netdata.cloud | grep . | grepip >| $name.ipv4
