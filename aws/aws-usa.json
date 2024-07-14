@@ -6710,7 +6710,7 @@
   "ip_prefix": "173.82.4.0/24",
   "region": "us-east-1",
   "service": "AMAZON",
-  "network_border_group": "us-east-1-phl-1"
+  "network_border_group": "us-east-1-bos-1"
 }
 {
   "ip_prefix": "13.34.18.67/32",
@@ -7689,12 +7689,6 @@
   "region": "us-west-1",
   "service": "AMAZON",
   "network_border_group": "us-west-1"
-}
-{
-  "ip_prefix": "173.82.11.0/24",
-  "region": "us-east-2",
-  "service": "AMAZON",
-  "network_border_group": "us-east-2-mci-1a"
 }
 {
   "ip_prefix": "13.34.1.227/32",
@@ -10742,7 +10736,7 @@
   "ip_prefix": "173.82.7.0/24",
   "region": "us-west-2",
   "service": "AMAZON",
-  "network_border_group": "us-west-2-las-1"
+  "network_border_group": "us-west-2-pdx-1"
 }
 {
   "ip_prefix": "13.34.2.107/32",
@@ -10989,12 +10983,6 @@
   "region": "us-west-1",
   "service": "AMAZON",
   "network_border_group": "us-west-1"
-}
-{
-  "ip_prefix": "173.82.6.0/24",
-  "region": "us-east-1",
-  "service": "AMAZON",
-  "network_border_group": "us-east-1-mia-1"
 }
 {
   "ip_prefix": "13.34.1.193/32",
@@ -15332,7 +15320,7 @@
   "ip_prefix": "173.82.4.0/24",
   "region": "us-east-1",
   "service": "EC2",
-  "network_border_group": "us-east-1-phl-1"
+  "network_border_group": "us-east-1-bos-1"
 }
 {
   "ip_prefix": "15.220.226.0/24",
@@ -15585,12 +15573,6 @@
   "region": "us-east-1",
   "service": "EC2",
   "network_border_group": "us-east-1"
-}
-{
-  "ip_prefix": "173.82.11.0/24",
-  "region": "us-east-2",
-  "service": "EC2",
-  "network_border_group": "us-east-2-mci-1a"
 }
 {
   "ip_prefix": "52.95.255.96/28",
@@ -16250,7 +16232,7 @@
   "ip_prefix": "173.82.7.0/24",
   "region": "us-west-2",
   "service": "EC2",
-  "network_border_group": "us-west-2-las-1"
+  "network_border_group": "us-west-2-pdx-1"
 }
 {
   "ip_prefix": "54.239.103.128/26",
@@ -16281,12 +16263,6 @@
   "region": "us-west-2",
   "service": "EC2",
   "network_border_group": "us-west-2"
-}
-{
-  "ip_prefix": "173.82.6.0/24",
-  "region": "us-east-1",
-  "service": "EC2",
-  "network_border_group": "us-east-1-mia-1"
 }
 {
   "ip_prefix": "64.252.67.0/24",
