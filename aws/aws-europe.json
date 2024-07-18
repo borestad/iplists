@@ -11531,6 +11531,18 @@
   "network_border_group": "eu-central-1"
 }
 {
+  "ip_prefix": "15.193.5.0/24",
+  "region": "eu-west-2",
+  "service": "AMAZON_CONNECT",
+  "network_border_group": "eu-west-2"
+}
+{
+  "ip_prefix": "15.193.4.0/24",
+  "region": "eu-central-1",
+  "service": "AMAZON_CONNECT",
+  "network_border_group": "eu-central-1"
+}
+{
   "ip_prefix": "18.184.2.128/25",
   "region": "eu-central-1",
   "service": "AMAZON_CONNECT",

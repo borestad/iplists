@@ -527,6 +527,12 @@
   "network_border_group": "af-south-1"
 }
 {
+  "ip_prefix": "15.193.10.0/24",
+  "region": "af-south-1",
+  "service": "AMAZON_CONNECT",
+  "network_border_group": "af-south-1"
+}
+{
   "ip_prefix": "15.177.91.0/24",
   "region": "af-south-1",
   "service": "ROUTE53_HEALTHCHECKS_PUBLISHING",
