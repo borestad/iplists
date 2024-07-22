@@ -10133,6 +10133,18 @@
   "network_border_group": "ap-southeast-4"
 }
 {
+  "ip_prefix": "43.216.87.0/28",
+  "region": "ap-southeast-5",
+  "service": "S3",
+  "network_border_group": "ap-southeast-5"
+}
+{
+  "ip_prefix": "43.216.87.16/28",
+  "region": "ap-southeast-5",
+  "service": "S3",
+  "network_border_group": "ap-southeast-5"
+}
+{
   "ip_prefix": "3.5.140.0/22",
   "region": "ap-northeast-2",
   "service": "EC2",
