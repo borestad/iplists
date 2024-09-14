@@ -9935,6 +9935,12 @@
   "network_border_group": "eu-west-2"
 }
 {
+  "ip_prefix": "51.44.72.0/22",
+  "region": "eu-west-3",
+  "service": "WORKSPACES_GATEWAYS",
+  "network_border_group": "eu-west-3"
+}
+{
   "ip_prefix": "3.127.48.244/30",
   "region": "eu-central-1",
   "service": "AMAZON_APPFLOW",

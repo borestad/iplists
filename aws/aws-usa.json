@@ -15539,6 +15539,12 @@
   "network_border_group": "us-east-1"
 }
 {
+  "ip_prefix": "3.146.84.0/22",
+  "region": "us-east-2",
+  "service": "WORKSPACES_GATEWAYS",
+  "network_border_group": "us-east-2"
+}
+{
   "ip_prefix": "34.223.96.0/22",
   "region": "us-west-2",
   "service": "WORKSPACES_GATEWAYS",
