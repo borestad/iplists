@@ -11183,6 +11183,12 @@
   "network_border_group": "us-west-1"
 }
 {
+  "ip_prefix": "98.88.0.0/13",
+  "region": "us-east-1",
+  "service": "EC2",
+  "network_border_group": "us-east-1"
+}
+{
   "ip_prefix": "18.99.240.0/20",
   "region": "us-gov-west-1",
   "service": "EC2",
