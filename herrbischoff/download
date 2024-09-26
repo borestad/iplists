@@ -19,7 +19,6 @@ function dllist() {
       --retry-connrefused \
       --http-keep-alive \
       --no-clobber \
-      --compression=gz \
       --report-speed bytes \
       --adjust-extension \
       --force-directories \
