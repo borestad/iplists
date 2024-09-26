@@ -83,8 +83,16 @@ jobs:
       - name: Cron ❯❯ Job1
         # if: github.event.schedule != '*/5 * * * *'
         run: |
-          fd download --threads=2 -tf -tx -x bash -c "echo 🚀 {}; timeout 5m {} && echo ✔ {}" || true
+          # fd download --threads=2 -tf -tx -x bash -c "echo 🚀 {}; timeout 5m {} && echo ✔ {}" || true
           # fd download -tf -tx -x {} || true
+          cronjobs=($(fd -tf download));
+          for i in "${cronjobs[@]}"; do
+            echo;
+            echo '--------------------------------'
+            echo
+            echo "🚀 $i"
+            $i || true
+          done
           fd .ipv6 -tf -te -x rm || true
 
       # ─────────────────────────────────────────────────────
