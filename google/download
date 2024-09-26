@@ -21,3 +21,20 @@ jq .prefixes $TEMPFILE | sponge $TEMPFILE
 
 grepip $TEMPFILE | iprange >| $name.ipv4
 grepip6 $TEMPFILE | cidr-merger >| $name.ipv6
+
+# Google cloud
+https://www.gstatic.com/ipranges/cloud.json
+curl --config ../.curlrc https://developers.google.com/search/apis/ipranges/googlebot.json -o $TEMPFILE
+
+cat $TEMPFILE | jq '.prefixes[] | select( .scope | contains("us-") )' | jq .ipv4Prefix | grepip | sponge googlecloud-usa.ipv4
+cat $TEMPFILE | jq '.prefixes[] | select( .scope | contains("africa-") )' | jq .ipv4Prefix | grepip | sponge googlecloud-africa.ipv4
+cat $TEMPFILE | jq '.prefixes[] | select( .scope | contains("asia-") )' | jq .ipv4Prefix | grepip | sponge googlecloud-asia.ipv4
+cat $TEMPFILE | jq '.prefixes[] | select( .scope | contains("australia-") )' | jq .ipv4Prefix | grepip | sponge googlecloud-australia.ipv4
+cat $TEMPFILE | jq '.prefixes[] | select( .scope | contains("europe-west") )' | jq .ipv4Prefix | grepip | sponge googlecloud-europe-west.ipv4
+cat $TEMPFILE | jq '.prefixes[] | select( .scope | contains("europe-north") )' | jq .ipv4Prefix | grepip | sponge googlecloud-europe-north.ipv4
+cat $TEMPFILE | jq '.prefixes[] | select( .scope | contains("global") )' | jq .ipv4Prefix | grepip | sponge googlecloud-global.ipv4
+cat $TEMPFILE | jq '.prefixes[] | select( .scope | contains("me-") )' | jq .ipv4Prefix | grepip | sponge googlecloud-middleeast.ipv4
+cat $TEMPFILE | jq '.prefixes[] | select( .scope | contains("northamerica-") )' | jq .ipv4Prefix | grepip | sponge googlecloud-northamerica.ipv4
+cat $TEMPFILE | jq '.prefixes[] | select( .scope | contains("southamerica-") )' | jq .ipv4Prefix | grepip | sponge googlecloud-southamerica.ipv4
+
+fd 'googlecloud-.*ipv4' -x bash -c 'echo {.}; grepip {} | iprange | sponge {.}.ipv4'
