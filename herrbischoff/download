@@ -11,7 +11,7 @@ function dllist() {
   local list=$1
   wget2 \
       --max-threads=1 \
-      --http2-request-window=1 \
+      --http2-request-window=3 \
       --dns-timeout=5 \
       --timeout==5 \
       --read-timeout==5 \
