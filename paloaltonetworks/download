@@ -29,10 +29,10 @@ cat << EOF > $TEMPFILE
 
 EOF
 
-curl -sL --config ../.curlrc \
+curl --config ../.curlrc \
   https://raw.githubusercontent.com/ipverse/asn-ip/master/as/396421/ipv4-aggregated.txt \
+  https://raw.githubusercontent.com/ipverse/asn-ip/master/as/54538/ipv4-aggregated.txt \
   https://raw.githubusercontent.com/ipverse/asn-ip/master/as/64280/ipv4-aggregated.txt \
-  https://raw.githubusercontent.com/ipverse/asn-ip/master/as/396421/ipv4-aggregated.txt \
   >> $TEMPFILE
 
 grepip $TEMPFILE | iprange >| $name.ipv4

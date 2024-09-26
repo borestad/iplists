@@ -23,8 +23,7 @@ grepip $TEMPFILE | iprange >| $name.ipv4
 grepip6 $TEMPFILE | cidr-merger >| $name.ipv6
 
 # Google cloud
-https://www.gstatic.com/ipranges/cloud.json
-curl --config ../.curlrc https://developers.google.com/search/apis/ipranges/googlebot.json -o $TEMPFILE
+curl --config ../.curlrc https://www.gstatic.com/ipranges/cloud.json -o $TEMPFILE
 
 cat $TEMPFILE | jq '.prefixes[] | select( .scope | contains("us-") )' | jq .ipv4Prefix | grepip | sponge googlecloud-usa.ipv4
 cat $TEMPFILE | jq '.prefixes[] | select( .scope | contains("africa-") )' | jq .ipv4Prefix | grepip | sponge googlecloud-africa.ipv4
