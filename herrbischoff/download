@@ -11,22 +11,22 @@ function dllist() {
   local list=$1
   wget2 \
       --max-threads=1 \
-      --http2-request-window=2 \
-      --dns-timeout=10 \
-      --timeout==10 \
-      --read-timeout==10 \
-      --connect-timeout==10 \
+      --http2-request-window=1 \
+      --dns-timeout=5 \
+      --timeout==5 \
+      --read-timeout==5 \
+      --connect-timeout==5 \
       --retry-connrefused \
       --http-keep-alive \
       --no-clobber \
-      --compression=br \
+      --compression=gz \
       --report-speed bytes \
       --adjust-extension \
       --force-directories \
       --progress=none \
       --random-wait \
       --waitretry \
-      --user-agent='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+      --user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0' \
       -i $list | \
       grep -viE 'HTTP response 200|saving'
 }
