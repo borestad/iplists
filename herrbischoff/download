@@ -16,7 +16,6 @@ function dllist() {
       --timeout==5 \
       --read-timeout==5 \
       --connect-timeout==5 \
-      --retry-connrefused \
       --http-keep-alive \
       --no-clobber \
       --report-speed bytes \

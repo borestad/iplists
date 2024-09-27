@@ -1,14 +1,16 @@
 #!/usr/bin/env bash
-# set -euo pipefail
+set -euo pipefail
 
 cd "$(dirname $0)"
 TEMPDIR=$(mktemp -d)
 
 name=spamhaus
 
-curl -sfL https://www.spamhaus.org/drop/asndrop.json | \
+curl --config ../.curlrc https://www.spamhaus.org/drop/asndrop.json -o asndrop.json
+
+cat asndrop.json | \
   jq '.asn | select( . != null )' | \
-  xargs -I {} -P16 \
+  xargs -I {} -P8 \
     bash -c "echo 'ASN: {}'; curl --compressed --http2 -sfL https://raw.githubusercontent.com/ipverse/asn-ip/master/as/{}/ipv4-aggregated.txt -o $TEMPDIR/{}.ipv4"
 
 fd .ipv4 $TEMPDIR/ -x bash -c "echo; echo; cat {}" >| $name-asndrop.ipv4
