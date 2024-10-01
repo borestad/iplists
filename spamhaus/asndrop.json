@@ -237,7 +237,6 @@
 {"asn":214231,"rir":"ripencc","domain":"msk.host","cc":"RU","asname":"Cloud_Solutions-AS"}
 {"asn":214799,"rir":"ripencc","domain":"infiniroute.io","cc":"US","asname":"ATLASHOST-AS"}
 {"asn":214820,"rir":"ripencc","domain":"infiniroute.io","cc":"US","asname":"SUMMITARC-AS"}
-{"asn":214927,"rir":"ripencc","domain":"psb.hosting","cc":"RU","asname":"PSB-AS"}
 {"asn":214940,"rir":"ripencc","domain":"pfcloud.io","cc":"DE","asname":"KPRONET"}
 {"asn":214961,"rir":"ripencc","domain":"stellar-group.fr","cc":"BE","asname":"STELLARGROUPSAS"}
 {"asn":215127,"rir":"ripencc","domain":"410-teapot","cc":"GB","asname":"TEAPOTNET-AS"}
@@ -278,4 +277,4 @@
 {"asn":400328,"rir":"arin","domain":"ohiocloud.net","cc":"US","asname":"PRIVACY-IH"}
 {"asn":400506,"rir":"arin","domain":"blackappleus.com","cc":"US","asname":"BAIAS"}
 {"asn":400992,"rir":"arin","domain":"62yun.com","cc":"RU","asname":"ZHOUYISAT-COMMUNICATIONS"}
-{"type":"metadata","timestamp":1727794353,"size":24956,"records":280,"copyright":"(c) 2024 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1727797953,"size":24874,"records":279,"copyright":"(c) 2024 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
