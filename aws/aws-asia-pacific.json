@@ -713,6 +713,12 @@
   "network_border_group": "ap-south-1"
 }
 {
+  "ip_prefix": "13.248.79.0/24",
+  "region": "ap-southeast-6",
+  "service": "AMAZON",
+  "network_border_group": "ap-southeast-6"
+}
+{
   "ip_prefix": "40.193.0.0/16",
   "region": "ap-south-2",
   "service": "AMAZON",
@@ -2337,6 +2343,12 @@
   "region": "ap-southeast-4",
   "service": "AMAZON",
   "network_border_group": "ap-southeast-4"
+}
+{
+  "ip_prefix": "76.223.170.96/28",
+  "region": "ap-southeast-6",
+  "service": "AMAZON",
+  "network_border_group": "ap-southeast-6"
 }
 {
   "ip_prefix": "13.248.78.0/24",
@@ -11571,6 +11583,12 @@
   "region": "ap-southeast-7",
   "service": "DYNAMODB",
   "network_border_group": "ap-southeast-7"
+}
+{
+  "ip_prefix": "13.248.79.0/24",
+  "region": "ap-southeast-6",
+  "service": "DYNAMODB",
+  "network_border_group": "ap-southeast-6"
 }
 {
   "ip_prefix": "35.71.118.0/24",
