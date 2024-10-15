@@ -7175,6 +7175,12 @@
   "network_border_group": "us-east-2"
 }
 {
+  "ip_prefix": "142.4.165.0/24",
+  "region": "us-east-1",
+  "service": "AMAZON",
+  "network_border_group": "us-east-1"
+}
+{
   "ip_prefix": "142.4.178.0/24",
   "region": "us-east-1",
   "service": "AMAZON",
@@ -12447,6 +12453,12 @@
   "region": "us-east-2",
   "service": "EC2",
   "network_border_group": "us-east-2"
+}
+{
+  "ip_prefix": "142.4.165.0/24",
+  "region": "us-east-1",
+  "service": "EC2",
+  "network_border_group": "us-east-1"
 }
 {
   "ip_prefix": "142.4.178.0/24",
