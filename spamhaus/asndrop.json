@@ -25,6 +25,7 @@
 {"asn":38337,"rir":"apnic","domain":"niutelecom.com","cc":"CN","asname":"CNNIC-NTNet"}
 {"asn":39720,"rir":"ripencc","domain":"darkclub.com.ua","cc":"UA","asname":"MANILICH-AS"}
 {"asn":39770,"rir":"ripencc","domain":"eliteteam.to","cc":"SC","asname":"ELITETEAM-CUSTOMER-ASN-39770"}
+{"asn":39900,"rir":"ripencc","domain":"62yun.com","cc":"RU","asname":"DM"}
 {"asn":40193,"rir":"arin","domain":"trit.net","cc":"US","asname":"AS-TRIT"}
 {"asn":40665,"rir":"arin","domain":"spectrenetworks.net","cc":"US","asname":"SPCTR"}
 {"asn":41155,"rir":"ripencc","domain":"orbittelekom.com","cc":"TR","asname":"orbitdc"}
@@ -277,4 +278,4 @@
 {"asn":400992,"rir":"arin","domain":"62yun.com","cc":"RU","asname":"ZHOUYISAT-COMMUNICATIONS"}
 {"asn":401110,"rir":"arin","domain":"sovy.cloud","cc":"NL","asname":"AS-SOVYCLOUD"}
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
-{"type":"metadata","timestamp":1729084959,"size":24860,"records":279,"copyright":"(c) 2024 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1729090359,"size":24935,"records":280,"copyright":"(c) 2024 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
