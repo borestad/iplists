@@ -34,7 +34,6 @@
 {"asn":42419,"rir":"ripencc","domain":"tavriatrans.com.ua","cc":"UA","asname":"TAVRIA-TRANSSERVIS-AS"}
 {"asn":42624,"rir":"ripencc","domain":"simplecarrier.net","cc":"US","asname":"swissnetwork02"}
 {"asn":42694,"rir":"ripencc","domain":"uplink.in.md","cc":"MD","asname":"uplink"}
-{"asn":42881,"rir":"ripencc","domain":"infocloud.tech","cc":"MD","asname":"BADGER-BV"}
 {"asn":43072,"rir":"ripencc","domain":"thestack.net","cc":"HK","asname":"TheStack"}
 {"asn":43463,"rir":"ripencc","domain":"bst.lt","cc":"LT","asname":"BST-LT"}
 {"asn":43613,"rir":"ripencc","domain":"liptel.net.ua","cc":"UA","asname":"SOWA"}
@@ -176,7 +175,6 @@
 {"asn":203168,"rir":"ripencc","domain":"stellar-group.fr","cc":"BE","asname":"AS-CONSTANTMOULIN"}
 {"asn":203346,"rir":"ripencc","domain":"propersupportmedia.com","cc":"GB","asname":"AS-232WEB"}
 {"asn":203639,"rir":"ripencc","domain":"tekkadigital.com","cc":"CH","asname":"TEKNOLOGY"}
-{"asn":203950,"rir":"ripencc","domain":"infocloud.tech","cc":"MD","asname":"Viasat"}
 {"asn":203999,"rir":"ripencc","domain":"gwhostinglabs.com","cc":"IN","asname":"GeekyWorks"}
 {"asn":204057,"rir":"ripencc","domain":"dcxv.com","cc":"LT","asname":"DCXV-AS"}
 {"asn":204428,"rir":"ripencc","domain":"ssnet.eu","cc":"BG","asname":"SS-Net"}
@@ -203,8 +201,6 @@
 {"asn":209121,"rir":"ripencc","domain":"liptel.net.ua","cc":"UA","asname":"NOVYTSKA-AS"}
 {"asn":209605,"rir":"ripencc","domain":"serveroffer.lt","cc":"LT","asname":"hostbaltic"}
 {"asn":209737,"rir":"ripencc","domain":"meric.net.tr","cc":"TR","asname":"AS209737"}
-{"asn":209945,"rir":"ripencc","domain":"infocloud.tech","cc":"MD","asname":"Viasat"}
-{"asn":210027,"rir":"ripencc","domain":"infocloud.tech","cc":"MD","asname":"Viasat"}
 {"asn":210240,"rir":"ripencc","domain":"nts.center","cc":"RU","asname":"NTC-AS"}
 {"asn":210439,"rir":"ripencc","domain":"cantech.international","cc":"US","asname":"VISLOM"}
 {"asn":210530,"rir":"ripencc","domain":"ipconnect.services","cc":"SC","asname":"ip2con"}
@@ -226,7 +222,6 @@
 {"asn":212651,"rir":"ripencc","domain":"d-conect","cc":"UA","asname":"D-CONECT-AS"}
 {"asn":212867,"rir":"ripencc","domain":"brutalproxies.com","cc":"NL","asname":"SIPALTO"}
 {"asn":213058,"rir":"ripencc","domain":"privateinternethosting","cc":"UA","asname":"PIHL-AS"}
-{"asn":213137,"rir":"ripencc","domain":"infocloud.tech","cc":"MD","asname":"infocloud-srl"}
 {"asn":213257,"rir":"ripencc","domain":"meric.net.tr","cc":"TR","asname":"AS213257"}
 {"asn":213354,"rir":"ripencc","domain":"hosting.international","cc":"GB","asname":"International-Hosting-Solutions-AS"}
 {"asn":213371,"rir":"ripencc","domain":"zumy.eu","cc":"IN","asname":"SQUITTER-NETWORKS"}
@@ -276,4 +271,4 @@
 {"asn":400992,"rir":"arin","domain":"62yun.com","cc":"RU","asname":"ZHOUYISAT-COMMUNICATIONS"}
 {"asn":401110,"rir":"arin","domain":"sovy.cloud","cc":"NL","asname":"AS-SOVYCLOUD"}
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
-{"type":"metadata","timestamp":1729354959,"size":24760,"records":278,"copyright":"(c) 2024 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1729358559,"size":24326,"records":273,"copyright":"(c) 2024 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
