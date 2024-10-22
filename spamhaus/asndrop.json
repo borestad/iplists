@@ -228,6 +228,7 @@
 {"asn":213373,"rir":"ripencc","domain":"ipconnect.services","cc":"SC","asname":"IPCONNECT"}
 {"asn":213389,"rir":"ripencc","domain":"netip.com.ua","cc":"UA","asname":"ASPODOLSK"}
 {"asn":214231,"rir":"ripencc","domain":"msk.host","cc":"RU","asname":"Cloud_Solutions-AS"}
+{"asn":214369,"rir":"ripencc","domain":"smtpmailers.com","cc":"IN","asname":"BBXMANPOWER-AS"}
 {"asn":214799,"rir":"ripencc","domain":"infiniroute.io","cc":"US","asname":"ATLASHOST-AS"}
 {"asn":214820,"rir":"ripencc","domain":"infiniroute.io","cc":"US","asname":"SUMMITARC-AS"}
 {"asn":214927,"rir":"ripencc","domain":"psb.hosting","cc":"RU","asname":"PSB-AS"}
@@ -271,4 +272,4 @@
 {"asn":400992,"rir":"arin","domain":"62yun.com","cc":"RU","asname":"ZHOUYISAT-COMMUNICATIONS"}
 {"asn":401110,"rir":"arin","domain":"sovy.cloud","cc":"NL","asname":"AS-SOVYCLOUD"}
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
-{"type":"metadata","timestamp":1729614159,"size":24329,"records":273,"copyright":"(c) 2024 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1729617759,"size":24423,"records":274,"copyright":"(c) 2024 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
