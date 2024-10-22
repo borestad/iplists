@@ -170,7 +170,6 @@
 {"asn":202685,"rir":"ripencc","domain":"pfcloud.io","cc":"DE","asname":"as-pfcloud"}
 {"asn":202828,"rir":"ripencc","domain":"pfcloud.io","cc":"DE","asname":"HHY"}
 {"asn":202972,"rir":"ripencc","domain":"eksenbilisim.com.tr","cc":"TR","asname":"DATACENTERTURK-COM"}
-{"asn":202992,"rir":"ripencc","domain":"serveriux.com","cc":"TR","asname":"SERVERIUX"}
 {"asn":203120,"rir":"ripencc","domain":"globtelgroup.com","cc":"US","asname":"GTGL"}
 {"asn":203168,"rir":"ripencc","domain":"stellar-group.fr","cc":"BE","asname":"AS-CONSTANTMOULIN"}
 {"asn":203346,"rir":"ripencc","domain":"propersupportmedia.com","cc":"GB","asname":"AS-232WEB"}
@@ -272,4 +271,4 @@
 {"asn":400992,"rir":"arin","domain":"62yun.com","cc":"RU","asname":"ZHOUYISAT-COMMUNICATIONS"}
 {"asn":401110,"rir":"arin","domain":"sovy.cloud","cc":"NL","asname":"AS-SOVYCLOUD"}
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
-{"type":"metadata","timestamp":1729635759,"size":24420,"records":274,"copyright":"(c) 2024 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1729639359,"size":24333,"records":273,"copyright":"(c) 2024 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
