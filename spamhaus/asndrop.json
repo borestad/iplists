@@ -39,7 +39,7 @@
 {"asn":44317,"rir":"ripencc","domain":"mercurytelecom.net","cc":"US","asname":"MERCURYTELECOM"}
 {"asn":44386,"rir":"ripencc","domain":"ozon.ru","cc":"RU","asname":"OZON-AS"}
 {"asn":44774,"rir":"ripencc","domain":"62yun.com","cc":"RU","asname":"Megapolis"}
-{"asn":44853,"rir":"ripencc","domain":"telehost.org","cc":"MD","asname":"TELEHOST"}
+{"asn":44853,"rir":"ripencc","domain":"uplink.in.md","cc":"MD","asname":"TELEHOST"}
 {"asn":46664,"rir":"arin","domain":"volumedrive.com","cc":"US","asname":"VDI-NETWORK"}
 {"asn":47757,"rir":"ripencc","domain":"arkcloud.net","cc":"GB","asname":"ARK-NETWORKS"}
 {"asn":48198,"rir":"ripencc","domain":"avtotrans","cc":"UA","asname":"AVTOTRANS-EURO-AS"}
@@ -179,7 +179,7 @@
 {"asn":204490,"rir":"ripencc","domain":"contell.ru","cc":"RU","asname":"ASKONTEL"}
 {"asn":204502,"rir":"ripencc","domain":"livela","cc":"UA","asname":"LIVELA-AS"}
 {"asn":205083,"rir":"ripencc","domain":"xor.sc","cc":"SC","asname":"DATASHIELD_FILTER"}
-{"asn":205124,"rir":"ripencc","domain":"telehost.org","cc":"MD","asname":"AS_TELEHOST_COLO"}
+{"asn":205124,"rir":"ripencc","domain":"uplink.in.md","cc":"MD","asname":"AS_TELEHOST_COLO"}
 {"asn":205663,"rir":"arin","domain":"isofone.com","cc":"SE","asname":"ICL-256-205663"}
 {"asn":205835,"rir":"ripencc","domain":"uplink.in.md","cc":"MD","asname":"StefanVoda-UL"}
 {"asn":205911,"rir":"ripencc","domain":"uplink.in.md","cc":"MD","asname":"UP3-CRICOVA"}
@@ -270,4 +270,4 @@
 {"asn":400992,"rir":"arin","domain":"62yun.com","cc":"RU","asname":"ZHOUYISAT-COMMUNICATIONS"}
 {"asn":401110,"rir":"arin","domain":"sovy.cloud","cc":"NL","asname":"AS-SOVYCLOUD"}
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
-{"type":"metadata","timestamp":1730301759,"size":24254,"records":272,"copyright":"(c) 2024 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1730307159,"size":24254,"records":272,"copyright":"(c) 2024 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
