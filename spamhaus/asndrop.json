@@ -157,7 +157,6 @@
 {"asn":201249,"rir":"ripencc","domain":"iprowireless.com","cc":"AL","asname":"IPRO"}
 {"asn":201380,"rir":"ripencc","domain":"excitedmatch.com","cc":"UA","asname":"ALFABISNES-AS"}
 {"asn":201572,"rir":"ripencc","domain":"ekoiniciative.pp.ua","cc":"UA","asname":"EKO-INICIATIVE-AS"}
-{"asn":201626,"rir":"ripencc","domain":"podillia-hotel.com.ua","cc":"UA","asname":"PODILLIA-AS"}
 {"asn":202171,"rir":"ripencc","domain":"torero","cc":"UA","asname":"TORERO-AS"}
 {"asn":202267,"rir":"ripencc","domain":"dobrosvitkredo","cc":"UA","asname":"DOBROSVIT-AS"}
 {"asn":202302,"rir":"ripencc","domain":"s-host.com.ua","cc":"UA","asname":"NETH-AS"}
@@ -271,4 +270,4 @@
 {"asn":401109,"rir":"arin","domain":"zhongguancun.asia","cc":"US","asname":"ZHONGGUANCUN-CO"}
 {"asn":401110,"rir":"arin","domain":"sovy.cloud","cc":"NL","asname":"AS-SOVYCLOUD"}
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
-{"type":"metadata","timestamp":1730375559,"size":24340,"records":273,"copyright":"(c) 2024 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1730379159,"size":24243,"records":272,"copyright":"(c) 2024 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
