@@ -104,6 +104,7 @@
 {"asn":140184,"rir":"apnic","domain":"sfns","cc":"IN","asname":"SFNSNPL-AS"}
 {"asn":140208,"rir":"apnic","domain":"obhost.org","cc":"PK","asname":"OBHOST-AS-AP"}
 {"asn":140666,"rir":"apnic","domain":"kaopuyun.com","cc":"CN","asname":"ADPL-AS-AP"}
+{"asn":140787,"rir":"apnic","domain":"vinahost.vn","cc":"VN","asname":"LAMA-AS-VN"}
 {"asn":140941,"rir":"apnic","domain":"fulltimehosting.net","cc":"PK","asname":"FULLTIMEHOSTING-AS-AP"}
 {"asn":141333,"rir":"apnic","domain":"rocketmediagroups.com","cc":"IN","asname":"ROCKETGP-AS-IN"}
 {"asn":141567,"rir":"apnic","domain":"interspireaddon.co.in","cc":"IN","asname":"INTERSP-AS-IN"}
@@ -270,4 +271,4 @@
 {"asn":401109,"rir":"arin","domain":"zhongguancun.asia","cc":"US","asname":"ZHONGGUANCUN-CO"}
 {"asn":401110,"rir":"arin","domain":"sovy.cloud","cc":"NL","asname":"AS-SOVYCLOUD"}
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
-{"type":"metadata","timestamp":1730592669,"size":24243,"records":272,"copyright":"(c) 2024 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1730596269,"size":24327,"records":273,"copyright":"(c) 2024 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
