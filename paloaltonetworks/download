@@ -14,25 +14,20 @@ name=paloaltonetworks
 # Ipranges
 cat << EOF > $TEMPFILE
 # Global:
-205.210.31.0/24
-198.235.24.0/24
+https://www.abuseipdb.com/check-block/205.210.31.0/24
+https://www.abuseipdb.com/check-block/198.235.24.0/24
 
 # Global Research:
-35.203.210.0/24
-35.203.211.0/24
-162.216.149.0/24
-162.216.150.0/24
+https://www.abuseipdb.com/check-block/35.203.210.0/24
+https://www.abuseipdb.com/check-block/35.203.211.0/24
+https://www.abuseipdb.com/check-block/162.216.149.0/24
+https://www.abuseipdb.com/check-block/162.216.150.0/24
 
 # Known Assets Monitoring (KAM):
-172.105.147.0/24
-144.86.173.0/24
-
+https://www.abuseipdb.com/check-block/172.105.147.0/24
+https://www.abuseipdb.com/check-block/144.86.173.0/24
+https://www.abuseipdb.com/check-block/65.154.226.0/24
 EOF
 
-curl --config ../.curlrc \
-  https://raw.githubusercontent.com/ipverse/asn-ip/master/as/396421/ipv4-aggregated.txt \
-  https://raw.githubusercontent.com/ipverse/asn-ip/master/as/54538/ipv4-aggregated.txt \
-  https://raw.githubusercontent.com/ipverse/asn-ip/master/as/64280/ipv4-aggregated.txt \
-  >> $TEMPFILE
 
-grepip $TEMPFILE | iprange >| $name.ipv4
+grepip $TEMPFILE | iprange --min-prefix 24 >| $name.ipv4

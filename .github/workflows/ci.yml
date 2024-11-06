@@ -19,7 +19,8 @@ on:
 
   # https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#schedule
   schedule:
-    - cron: '*/55 * * * *'
+    - cron: '5 */6 * * *'
+
 
 jobs:
 

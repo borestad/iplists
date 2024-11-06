@@ -1,0 +1,33 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+cd "$(dirname $0)"
+TEMPFILE=$(mktemp)
+
+name=censys
+
+# Ipranges
+# # https://support.censys.io/hc/en-us/articles/360043177092-Opt-Out-of-Data-Collection
+cat << EOF > $TEMPFILE
+# AS398705 - DE - Censys, Inc
+https://www.abuseipdb.com/check-block/167.94.145.0/24
+https://www.abuseipdb.com/check-block/167.94.146.0/24
+
+# AS398722 - HK - Censys, Inc
+https://www.abuseipdb.com/check-block/199.45.154.0/24
+https://www.abuseipdb.com/check-block/199.45.155.0/24
+
+# AS398324 - US - Censys, Inc.
+https://www.abuseipdb.com/check-block/162.142.125.0/24
+https://www.abuseipdb.com/check-block/167.248.133.0/24
+https://www.abuseipdb.com/check-block/167.94.138.0/24
+https://www.abuseipdb.com/check-block/206.168.32.0/24
+https://www.abuseipdb.com/check-block/206.168.33.0/24
+https://www.abuseipdb.com/check-block/206.168.34.0/24
+
+https://www.abuseipdb.com/check-block/66.132.148.0/24
+https://www.abuseipdb.com/check-block/66.132.153.0/24
+https://www.abuseipdb.com/check-block/66.132.159.0/24
+EOF
+
+grepip $TEMPFILE | iprange --min-prefix 24 >| $name.ipv4
