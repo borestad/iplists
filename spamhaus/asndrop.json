@@ -2,7 +2,6 @@
 {"asn":7411,"rir":"arin","domain":"sulharai.com","cc":"US","asname":"WINTERSTORM"}
 {"asn":11938,"rir":"arin","domain":"ncryptd.net","cc":"GB","asname":"NCRYPTD"}
 {"asn":15828,"rir":"ripencc","domain":"almaseabi.net","cc":"IR","asname":"spaceshipnetworks"}
-{"asn":17048,"rir":"arin","domain":"awknet.com","cc":"US","asname":"OBJX"}
 {"asn":17447,"rir":"apnic","domain":"net4india.com","cc":"IN","asname":"NET4-IN"}
 {"asn":22801,"rir":"arin","domain":"intap.net","cc":"US","asname":"INTAP-1"}
 {"asn":24426,"rir":"apnic","domain":"myce.net.cn","cc":"CN","asname":"CNNIC-SINO-I"}
@@ -13,13 +12,11 @@
 {"asn":30490,"rir":"arin","domain":"ethr.net","cc":"US","asname":"ETHRN"}
 {"asn":32177,"rir":"arin","domain":"octalioninc.com","cc":"US","asname":"NOVA"}
 {"asn":32558,"rir":"arin","domain":"us53.com","cc":"US","asname":"BNSL-10-32558"}
-{"asn":33333,"rir":"arin","domain":"awknet.com","cc":"US","asname":"OBJX"}
 {"asn":34465,"rir":"ripencc","domain":"ncryptd.net","cc":"GB","asname":"NCRYPTD"}
 {"asn":34888,"rir":"ripencc","domain":"simplecarrier.net","cc":"US","asname":"swissnetwork01"}
 {"asn":34985,"rir":"apnic","domain":"netinnovation.net","cc":"US","asname":"NETINNOVATIONLLC-AS-AP"}
 {"asn":35624,"rir":"ripencc","domain":"silverstarinvest.co.uk","cc":"UA","asname":"SILVERSTAR-AS"}
 {"asn":35718,"rir":"ripencc","domain":"naunet.ru","cc":"RU","asname":"NAUNET-AS"}
-{"asn":36113,"rir":"arin","domain":"netopia.net","cc":"US","asname":"UTL-42-36113"}
 {"asn":38149,"rir":"apnic","domain":"bakrietelecom.com","cc":"ID","asname":"RATELINDONET-AS-ID"}
 {"asn":38337,"rir":"apnic","domain":"niutelecom.com","cc":"CN","asname":"CNNIC-NTNet"}
 {"asn":39720,"rir":"ripencc","domain":"darkclub.com.ua","cc":"UA","asname":"MANILICH-AS"}
@@ -245,6 +242,7 @@
 {"asn":215462,"rir":"ripencc","domain":"sircrosar.net","cc":"GB","asname":"BUGGZ-HOSTING"}
 {"asn":215476,"rir":"ripencc","domain":"insidenetwork.info","cc":"GB","asname":"InsideNetwork"}
 {"asn":215479,"rir":"ripencc","domain":"perfectonetworks.com","cc":"BR","asname":"PERFECTO-AS"}
+{"asn":215720,"rir":"ripencc","domain":"pfcloud.io","cc":"DE","asname":"SampuranBanerjee"}
 {"asn":215766,"rir":"ripencc","domain":"emanuelhosting.info","cc":"GB","asname":"EmanuelHosting"}
 {"asn":215789,"rir":"ripencc","domain":"rlab.kiev.ua","cc":"UA","asname":"KARINAR"}
 {"asn":215826,"rir":"ripencc","domain":"altawk.com","cc":"UA","asname":"Partner-Hosting-LTD"}
@@ -272,4 +270,4 @@
 {"asn":401109,"rir":"arin","domain":"zhongguancun.asia","cc":"US","asname":"ZHONGGUANCUN-CO"}
 {"asn":401110,"rir":"arin","domain":"sovy.cloud","cc":"NL","asname":"AS-SOVYCLOUD"}
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
-{"type":"metadata","timestamp":1730979669,"size":24412,"records":274,"copyright":"(c) 2024 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1731001269,"size":24269,"records":272,"copyright":"(c) 2024 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
