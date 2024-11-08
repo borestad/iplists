@@ -7253,6 +7253,12 @@
   "network_border_group": "ap-southeast-1"
 }
 {
+  "ip_prefix": "13.204.0.0/14",
+  "region": "ap-south-1",
+  "service": "EC2",
+  "network_border_group": "ap-south-1"
+}
+{
   "ip_prefix": "99.77.244.0/24",
   "region": "ap-northeast-1",
   "service": "EC2",
