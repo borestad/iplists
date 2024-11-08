@@ -44,7 +44,6 @@
 {"asn":49042,"rir":"ripencc","domain":"skb-enterprise.com","cc":"NL","asname":"PHANES-NETWORKS"}
 {"asn":49217,"rir":"ripencc","domain":"hostype.com","cc":"TR","asname":"HOSTYPE"}
 {"asn":49316,"rir":"ripencc","domain":"ncryptd.net","cc":"GB","asname":"NCRYPTD"}
-{"asn":49447,"rir":"ripencc","domain":"as49447.net","cc":"DM","asname":"NICEIT"}
 {"asn":49943,"rir":"ripencc","domain":"ozon.ru","cc":"RU","asname":"ITRESHENIYA-AS"}
 {"asn":50236,"rir":"ripencc","domain":"62yun.com","cc":"RU","asname":"Vertexlink_Communications"}
 {"asn":50286,"rir":"ripencc","domain":"cantech.international","cc":"US","asname":"CANTECH"}
@@ -270,4 +269,4 @@
 {"asn":401109,"rir":"arin","domain":"zhongguancun.asia","cc":"US","asname":"ZHONGGUANCUN-CO"}
 {"asn":401110,"rir":"arin","domain":"sovy.cloud","cc":"NL","asname":"AS-SOVYCLOUD"}
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
-{"type":"metadata","timestamp":1731066069,"size":24269,"records":272,"copyright":"(c) 2024 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1731087669,"size":24188,"records":271,"copyright":"(c) 2024 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
