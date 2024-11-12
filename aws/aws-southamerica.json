@@ -869,6 +869,12 @@
   "network_border_group": "sa-east-1"
 }
 {
+  "ip_prefix": "56.125.0.0/16",
+  "region": "sa-east-1",
+  "service": "EC2",
+  "network_border_group": "sa-east-1"
+}
+{
   "ip_prefix": "18.96.64.0/19",
   "region": "sa-east-1",
   "service": "EC2",
