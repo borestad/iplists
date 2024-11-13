@@ -11,7 +11,7 @@
 {"asn":27524,"rir":"arin","domain":"octalioninc.com","cc":"US","asname":"REAL"}
 {"asn":30490,"rir":"arin","domain":"ethr.net","cc":"US","asname":"ETHRN"}
 {"asn":32177,"rir":"arin","domain":"octalioninc.com","cc":"US","asname":"NOVA"}
-{"asn":32558,"rir":"arin","domain":"us53.com","cc":"US","asname":"BNSL-10-32558"}
+{"asn":32558,"rir":"arin","domain":"us53.com","cc":"HK","asname":"BNSL-10-32558"}
 {"asn":34465,"rir":"ripencc","domain":"ncryptd.net","cc":"GB","asname":"NCRYPTD"}
 {"asn":34888,"rir":"ripencc","domain":"simplecarrier.net","cc":"US","asname":"swissnetwork01"}
 {"asn":34985,"rir":"apnic","domain":"netinnovation.net","cc":"US","asname":"NETINNOVATIONLLC-AS-AP"}
@@ -269,4 +269,4 @@
 {"asn":401109,"rir":"arin","domain":"zhongguancun.asia","cc":"US","asname":"ZHONGGUANCUN-CO"}
 {"asn":401110,"rir":"arin","domain":"sovy.cloud","cc":"NL","asname":"AS-SOVYCLOUD"}
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
-{"type":"metadata","timestamp":1731433149,"size":24188,"records":271,"copyright":"(c) 2024 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1731454749,"size":24188,"records":271,"copyright":"(c) 2024 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
