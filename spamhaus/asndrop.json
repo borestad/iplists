@@ -221,6 +221,7 @@
 {"asn":213371,"rir":"ripencc","domain":"zumy.eu","cc":"IN","asname":"SQUITTER-NETWORKS"}
 {"asn":213373,"rir":"ripencc","domain":"ipconnect.services","cc":"SC","asname":"IPCONNECT"}
 {"asn":213389,"rir":"ripencc","domain":"netip.com.ua","cc":"UA","asname":"ASPODOLSK"}
+{"asn":213921,"rir":"ripencc","domain":"davidascottmotorsltd","cc":"GB","asname":"DA-MOTORS-AS"}
 {"asn":213945,"rir":"ripencc","domain":"meric.net.tr","cc":"TR","asname":"AS209737"}
 {"asn":214231,"rir":"ripencc","domain":"msk.host","cc":"RU","asname":"Cloud_Solutions-AS"}
 {"asn":214369,"rir":"ripencc","domain":"smtpmailers.com","cc":"IN","asname":"BBXMANPOWER-AS"}
@@ -269,4 +270,4 @@
 {"asn":401109,"rir":"arin","domain":"zhongguancun.asia","cc":"US","asname":"ZHONGGUANCUN-CO"}
 {"asn":401110,"rir":"arin","domain":"sovy.cloud","cc":"NL","asname":"AS-SOVYCLOUD"}
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
-{"type":"metadata","timestamp":1731584349,"size":24188,"records":271,"copyright":"(c) 2024 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1731605949,"size":24285,"records":272,"copyright":"(c) 2024 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
