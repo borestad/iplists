@@ -23,6 +23,7 @@
 {"asn":39770,"rir":"ripencc","domain":"eliteteam.to","cc":"SC","asname":"ELITETEAM-CUSTOMER-ASN-39770"}
 {"asn":39900,"rir":"ripencc","domain":"62yun.com","cc":"RU","asname":"DM"}
 {"asn":40193,"rir":"arin","domain":"trit.net","cc":"US","asname":"AS-TRIT"}
+{"asn":40403,"rir":"arin","domain":"therocksnet.com","cc":"US","asname":"RCS-ASN"}
 {"asn":40665,"rir":"arin","domain":"spectrenetworks.net","cc":"US","asname":"SPCTR"}
 {"asn":41155,"rir":"ripencc","domain":"orbittelekom.com","cc":"TR","asname":"orbitdc"}
 {"asn":41947,"rir":"ripencc","domain":"fly-group.ru","cc":"RU","asname":"WEBALTA-AS"}
@@ -144,6 +145,7 @@
 {"asn":198578,"rir":"ripencc","domain":"fiberlinkcc.com","cc":"US","asname":"ASFLRU"}
 {"asn":198711,"rir":"ripencc","domain":"kovancloud.com","cc":"FR","asname":"GASPARD-METAYER"}
 {"asn":199019,"rir":"ripencc","domain":"stellar-group.fr","cc":"BE","asname":"TYK-GROUP"}
+{"asn":199077,"rir":"ripencc","domain":"sion.dev","cc":"CH","asname":"AS_SIONDEV"}
 {"asn":199420,"rir":"ripencc","domain":"fly-group.ru","cc":"RU","asname":"FLYGROUP-AS"}
 {"asn":199598,"rir":"ripencc","domain":"fiberlinkcc.com","cc":"US","asname":"ASFBL"}
 {"asn":200010,"rir":"ripencc","domain":"cantech.international","cc":"US","asname":"VISLOM"}
@@ -270,4 +272,4 @@
 {"asn":401109,"rir":"arin","domain":"zhongguancun.asia","cc":"US","asname":"ZHONGGUANCUN-CO"}
 {"asn":401110,"rir":"arin","domain":"sovy.cloud","cc":"NL","asname":"AS-SOVYCLOUD"}
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
-{"type":"metadata","timestamp":1731692349,"size":24285,"records":272,"copyright":"(c) 2024 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1731715749,"size":24451,"records":274,"copyright":"(c) 2024 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
