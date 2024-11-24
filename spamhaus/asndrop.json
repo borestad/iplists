@@ -134,6 +134,7 @@
 {"asn":152194,"rir":"apnic","domain":"ctgserver.com","cc":"HK","asname":"CTGSERVERLIMITED-AS-AP"}
 {"asn":152327,"rir":"apnic","domain":"rasuhost.com.bd","cc":"BD","asname":"RASUWEBHOST-AS-AP"}
 {"asn":152486,"rir":"apnic","domain":"jdmbroadband.com","cc":"IN","asname":"NTSHIELD-AS-IN"}
+{"asn":153318,"rir":"apnic","domain":"karix.com","cc":"IN","asname":"MGAGEIND-AS-AP"}
 {"asn":197450,"rir":"ripencc","domain":"sunucun.com.tr","cc":"TR","asname":"SUNUCUN"}
 {"asn":197555,"rir":"ripencc","domain":"smartmieten.in","cc":"IN","asname":"SMARTMIETEN"}
 {"asn":198375,"rir":"ripencc","domain":"free-h.org","cc":"FR","asname":"INU-AS"}
@@ -274,4 +275,4 @@
 {"asn":401115,"rir":"arin","domain":"ekabi.net","cc":"US","asname":"EKABI"}
 {"asn":401116,"rir":"arin","domain":"nybula.com","cc":"US","asname":"NYBULA"}
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
-{"type":"metadata","timestamp":1732383549,"size":24581,"records":276,"copyright":"(c) 2024 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1732406949,"size":24667,"records":277,"copyright":"(c) 2024 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
