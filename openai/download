@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+set -eo pipefail
+
+cd "$(dirname $0)"
+TEMPFILE=$(mktemp)
+
+name=gptbot
+curl --config ../.curlrc https://openai.com/gptbot-ranges.txt  -o $TEMPFILE
+
+grepip $TEMPFILE | iprange >| $name.ipv4
