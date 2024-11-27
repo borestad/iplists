@@ -118,6 +118,7 @@
 {"asn":149181,"rir":"apnic","domain":"bhagwatsoft.in","cc":"IN","asname":"BHAGWAT-AS-IN"}
 {"asn":149197,"rir":"apnic","domain":"girdharicomp.in","cc":"IN","asname":"GIRDHARI-AS-IN"}
 {"asn":149208,"rir":"apnic","domain":"telerakesh.in","cc":"IN","asname":"RAKESSEN-AS-IN"}
+{"asn":149242,"rir":"apnic","domain":"ananyacomp.in","cc":"IN","asname":"ANANYAA-AS-IN"}
 {"asn":149286,"rir":"apnic","domain":"netinnovation.net","cc":"US","asname":"NETINNOVATIONLLC-AS-AP"}
 {"asn":149434,"rir":"apnic","domain":"mygefo.in","cc":"IN","asname":"GEFO-AP-AS"}
 {"asn":150030,"rir":"apnic","domain":"algoz.co.in","cc":"IN","asname":"ALGO-AS-IN"}
@@ -276,4 +277,4 @@
 {"asn":401115,"rir":"arin","domain":"ekabi.net","cc":"US","asname":"EKABI"}
 {"asn":401116,"rir":"arin","domain":"nybula.com","cc":"US","asname":"NYBULA"}
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
-{"type":"metadata","timestamp":1732642749,"size":24743,"records":278,"copyright":"(c) 2024 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1732666149,"size":24832,"records":279,"copyright":"(c) 2024 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
