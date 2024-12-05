@@ -185,7 +185,6 @@
 {"asn":206068,"rir":"ripencc","domain":"uplink.in.md","cc":"MD","asname":"HOSTING-UP"}
 {"asn":206371,"rir":"ripencc","domain":"cantech.international","cc":"US","asname":"VISLOM-LIMITED"}
 {"asn":206728,"rir":"ripencc","domain":"sshvps.net","cc":"RU","asname":"MEDIALAND-AS"}
-{"asn":206916,"rir":"ripencc","domain":"raspberry-jam.ru","cc":"SC","asname":"GTN-HOST-AS"}
 {"asn":207084,"rir":"ripencc","domain":"ncryptd.net","cc":"GB","asname":"NCRYPTD"}
 {"asn":207429,"rir":"ripencc","domain":"kapteyan.com.tr","cc":"TR","asname":"KAPTEYAN"}
 {"asn":207566,"rir":"ripencc","domain":"changway.hk","cc":"HK","asname":"LD007-AS"}
@@ -278,4 +277,4 @@
 {"asn":401115,"rir":"arin","domain":"ekabi.net","cc":"US","asname":"EKABI"}
 {"asn":401116,"rir":"arin","domain":"nybula.com","cc":"US","asname":"NYBULA"}
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
-{"type":"metadata","timestamp":1733377149,"size":24925,"records":280,"copyright":"(c) 2024 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1733398749,"size":24833,"records":279,"copyright":"(c) 2024 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
