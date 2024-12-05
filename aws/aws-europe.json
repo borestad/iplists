@@ -1445,6 +1445,12 @@
   "network_border_group": "eu-central-1"
 }
 {
+  "ip_prefix": "136.18.2.0/24",
+  "region": "eu-south-2",
+  "service": "AMAZON",
+  "network_border_group": "eu-south-2"
+}
+{
   "ip_prefix": "150.222.242.84/31",
   "region": "eu-west-3",
   "service": "AMAZON",
