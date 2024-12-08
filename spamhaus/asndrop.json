@@ -22,7 +22,7 @@
 {"asn":38337,"rir":"apnic","domain":"niutelecom.com","cc":"CN","asname":"CNNIC-NTNet"}
 {"asn":39720,"rir":"ripencc","domain":"darkclub.com.ua","cc":"UA","asname":"MANILICH-AS"}
 {"asn":39770,"rir":"ripencc","domain":"eliteteam.to","cc":"SC","asname":"ELITETEAM-CUSTOMER-ASN-39770"}
-{"asn":39900,"rir":"ripencc","domain":"62yun.com","cc":"RU","asname":"DM"}
+{"asn":39900,"rir":"ripencc","domain":"62yun.com","cc":"RU","asname":"GOODTEC"}
 {"asn":40193,"rir":"arin","domain":"trit.net","cc":"US","asname":"AS-TRIT"}
 {"asn":40403,"rir":"arin","domain":"therocksnet.com","cc":"US","asname":"RCS-ASN"}
 {"asn":40665,"rir":"arin","domain":"spectrenetworks.net","cc":"US","asname":"SPCTR"}
@@ -277,4 +277,4 @@
 {"asn":401115,"rir":"arin","domain":"ekabi.net","cc":"US","asname":"EKABI"}
 {"asn":401116,"rir":"arin","domain":"nybula.com","cc":"US","asname":"NYBULA"}
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
-{"type":"metadata","timestamp":1733593149,"size":24823,"records":279,"copyright":"(c) 2024 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1733614749,"size":24828,"records":279,"copyright":"(c) 2024 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
