@@ -76,8 +76,10 @@
 {"asn":62864,"rir":"arin","domain":"netinnovation.net","cc":"US","asname":"NILAS"}
 {"asn":63881,"rir":"apnic","domain":"medianetdigital.co","cc":"ID","asname":"MDI-AS-ID"}
 {"asn":64425,"rir":"ripencc","domain":"skb-enterprise.com","cc":"NL","asname":"SKB-Enterprise"}
+{"asn":132574,"rir":"arin","domain":"alphainfolab.com","cc":"IN","asname":"AI-1720-132574"}
 {"asn":132827,"rir":"apnic","domain":"g-w.bz","cc":"JP","asname":"GATEWAY-AS-AP"}
 {"asn":132930,"rir":"apnic","domain":"herbalvedawellness.com","cc":"IN","asname":"HERBALVE-AS-IN"}
+{"asn":133320,"rir":"apnic","domain":"alphainfolab.com","cc":"IN","asname":"ALPHA-AS-AP"}
 {"asn":133488,"rir":"apnic","domain":"servicehk.net","cc":"HK","asname":"SERVICE-AS-AP"}
 {"asn":133668,"rir":"apnic","domain":"eikontech.net","cc":"IN","asname":"INFOBB-AS-IN"}
 {"asn":133692,"rir":"apnic","domain":"fastnetcpl.com","cc":"IN","asname":"Fastnet-AS-IN"}
@@ -225,6 +227,7 @@
 {"asn":213889,"rir":"ripencc","domain":"meric.net.tr","cc":"TR","asname":"AS209737"}
 {"asn":213921,"rir":"ripencc","domain":"davidascottmotorsltd","cc":"GB","asname":"DA-MOTORS-AS"}
 {"asn":213945,"rir":"ripencc","domain":"meric.net.tr","cc":"TR","asname":"AS209737"}
+{"asn":214111,"rir":"ripencc","domain":"cloudcloak.org","cc":"AE","asname":"CloudCloak"}
 {"asn":214196,"rir":"ripencc","domain":"privatenetwork.ltd","cc":"RU","asname":"Vladylsav-Naumets"}
 {"asn":214231,"rir":"ripencc","domain":"msk.host","cc":"RU","asname":"Cloud_Solutions-AS"}
 {"asn":214369,"rir":"ripencc","domain":"smtpmailers.com","cc":"IN","asname":"BBXMANPOWER-AS"}
@@ -270,6 +273,7 @@
 {"asn":398741,"rir":"arin","domain":"62yun.com","cc":"RU","asname":"AS-VERTEXLINK-01"}
 {"asn":399979,"rir":"arin","domain":"493networking.cc","cc":"US","asname":"AS-493NETWORKING"}
 {"asn":400018,"rir":"arin","domain":"seacom.cc","cc":"US","asname":"CLOUD"}
+{"asn":400171,"rir":"arin","domain":"alphainfolab.com","cc":"IN","asname":"AS-AINFO"}
 {"asn":400506,"rir":"arin","domain":"blackappleus.com","cc":"US","asname":"BAIAS"}
 {"asn":400992,"rir":"arin","domain":"62yun.com","cc":"RU","asname":"ZHOUYISAT-COMMUNICATIONS"}
 {"asn":401109,"rir":"arin","domain":"zhongguancun.asia","cc":"US","asname":"ZHONGGUANCUN-CO"}
@@ -277,4 +281,4 @@
 {"asn":401115,"rir":"arin","domain":"ekabi.net","cc":"US","asname":"EKABI"}
 {"asn":401116,"rir":"arin","domain":"nybula.com","cc":"US","asname":"NYBULA"}
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
-{"type":"metadata","timestamp":1733679549,"size":24828,"records":279,"copyright":"(c) 2024 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1733702949,"size":25185,"records":283,"copyright":"(c) 2024 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
