@@ -224,6 +224,7 @@
 {"asn":213371,"rir":"ripencc","domain":"zumy.eu","cc":"IN","asname":"SQUITTER-NETWORKS"}
 {"asn":213373,"rir":"ripencc","domain":"ipconnect.services","cc":"SC","asname":"IPCONNECT"}
 {"asn":213389,"rir":"ripencc","domain":"netip.com.ua","cc":"UA","asname":"ASPODOLSK"}
+{"asn":213828,"rir":"ripencc","domain":"whitelabel.sh","cc":"IL","asname":"OXIWAVE-AS"}
 {"asn":213889,"rir":"ripencc","domain":"meric.net.tr","cc":"TR","asname":"AS209737"}
 {"asn":213921,"rir":"ripencc","domain":"davidascottmotorsltd","cc":"GB","asname":"DA-MOTORS-AS"}
 {"asn":213945,"rir":"ripencc","domain":"meric.net.tr","cc":"TR","asname":"AS209737"}
@@ -231,6 +232,8 @@
 {"asn":214196,"rir":"ripencc","domain":"privatenetwork.ltd","cc":"RU","asname":"Vladylsav-Naumets"}
 {"asn":214231,"rir":"ripencc","domain":"msk.host","cc":"RU","asname":"Cloud_Solutions-AS"}
 {"asn":214369,"rir":"ripencc","domain":"smtpmailers.com","cc":"IN","asname":"BBXMANPOWER-AS"}
+{"asn":214472,"rir":"ripencc","domain":"offshore.cx","cc":"LU","asname":"OFFSHORE"}
+{"asn":214497,"rir":"ripencc","domain":"whitelabel.sh","cc":"IL","asname":"WHITELABEL"}
 {"asn":214799,"rir":"ripencc","domain":"infiniroute.io","cc":"US","asname":"ATLASHOST-AS"}
 {"asn":214820,"rir":"ripencc","domain":"infiniroute.io","cc":"US","asname":"SUMMITARC-AS"}
 {"asn":214927,"rir":"ripencc","domain":"psb.hosting","cc":"RU","asname":"PSB-AS"}
@@ -281,4 +284,4 @@
 {"asn":401115,"rir":"arin","domain":"ekabi.net","cc":"US","asname":"EKABI"}
 {"asn":401116,"rir":"arin","domain":"nybula.com","cc":"US","asname":"NYBULA"}
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
-{"type":"metadata","timestamp":1733852349,"size":25185,"records":283,"copyright":"(c) 2024 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1733875749,"size":25445,"records":286,"copyright":"(c) 2024 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
