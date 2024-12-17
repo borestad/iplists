@@ -881,6 +881,30 @@
   "network_border_group": "sa-east-1"
 }
 {
+  "ip_prefix": "15.228.64.0/22",
+  "region": "sa-east-1",
+  "service": "WORKSPACES_GATEWAYS",
+  "network_border_group": "sa-east-1"
+}
+{
+  "ip_prefix": "18.230.103.0/24",
+  "region": "sa-east-1",
+  "service": "WORKSPACES_GATEWAYS",
+  "network_border_group": "sa-east-1"
+}
+{
+  "ip_prefix": "18.230.104.0/23",
+  "region": "sa-east-1",
+  "service": "WORKSPACES_GATEWAYS",
+  "network_border_group": "sa-east-1"
+}
+{
+  "ip_prefix": "54.233.204.0/24",
+  "region": "sa-east-1",
+  "service": "WORKSPACES_GATEWAYS",
+  "network_border_group": "sa-east-1"
+}
+{
   "ip_prefix": "64.252.81.0/24",
   "region": "sa-east-1",
   "service": "EC2",
@@ -1400,30 +1424,6 @@
   "ip_prefix": "15.229.206.228/30",
   "region": "sa-east-1",
   "service": "KINESIS_VIDEO_STREAMS",
-  "network_border_group": "sa-east-1"
-}
-{
-  "ip_prefix": "15.228.64.0/22",
-  "region": "sa-east-1",
-  "service": "WORKSPACES_GATEWAYS",
-  "network_border_group": "sa-east-1"
-}
-{
-  "ip_prefix": "18.230.103.0/24",
-  "region": "sa-east-1",
-  "service": "WORKSPACES_GATEWAYS",
-  "network_border_group": "sa-east-1"
-}
-{
-  "ip_prefix": "18.230.104.0/23",
-  "region": "sa-east-1",
-  "service": "WORKSPACES_GATEWAYS",
-  "network_border_group": "sa-east-1"
-}
-{
-  "ip_prefix": "54.233.204.0/24",
-  "region": "sa-east-1",
-  "service": "WORKSPACES_GATEWAYS",
   "network_border_group": "sa-east-1"
 }
 {

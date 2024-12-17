@@ -245,6 +245,12 @@
   "network_border_group": "il-central-1"
 }
 {
+  "ip_prefix": "51.17.72.0/22",
+  "region": "il-central-1",
+  "service": "WORKSPACES_GATEWAYS",
+  "network_border_group": "il-central-1"
+}
+{
   "ip_prefix": "51.85.0.0/16",
   "region": "il-central-1",
   "service": "EC2",
@@ -362,12 +368,6 @@
   "ip_prefix": "51.16.183.224/29",
   "region": "il-central-1",
   "service": "EC2_INSTANCE_CONNECT",
-  "network_border_group": "il-central-1"
-}
-{
-  "ip_prefix": "51.17.72.0/22",
-  "region": "il-central-1",
-  "service": "WORKSPACES_GATEWAYS",
   "network_border_group": "il-central-1"
 }
 {
