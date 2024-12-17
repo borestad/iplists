@@ -10775,6 +10775,12 @@
   "network_border_group": "us-west-1"
 }
 {
+  "ip_prefix": "56.137.0.0/16",
+  "region": "us-gov-west-1",
+  "service": "EC2",
+  "network_border_group": "us-gov-west-1"
+}
+{
   "ip_prefix": "155.146.176.0/20",
   "region": "us-east-1",
   "service": "EC2",
