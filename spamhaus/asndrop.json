@@ -173,7 +173,7 @@
 {"asn":202481,"rir":"ripencc","domain":"reapolis","cc":"UA","asname":"REAPOLIS-AS"}
 {"asn":202685,"rir":"ripencc","domain":"pfcloud.io","cc":"DE","asname":"as-pfcloud"}
 {"asn":202828,"rir":"ripencc","domain":"pfcloud.io","cc":"DE","asname":"HHY"}
-{"asn":202972,"rir":"ripencc","domain":"eksenbilisim.com.tr","cc":"TR","asname":"MOONDC-COM"}
+{"asn":202972,"rir":"ripencc","domain":"eksenbilisim.com.tr","cc":"TR","asname":"NEO-NET"}
 {"asn":203120,"rir":"ripencc","domain":"globtelgroup.com","cc":"US","asname":"GTGL"}
 {"asn":203168,"rir":"ripencc","domain":"stellar-group.fr","cc":"BE","asname":"AS-CONSTANTMOULIN"}
 {"asn":203346,"rir":"ripencc","domain":"propersupportmedia.com","cc":"GB","asname":"AS-232WEB"}
@@ -288,4 +288,4 @@
 {"asn":401115,"rir":"arin","domain":"ekabi.net","cc":"US","asname":"EKABI"}
 {"asn":401116,"rir":"arin","domain":"nybula.com","cc":"US","asname":"NYBULA"}
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
-{"type":"metadata","timestamp":1735148349,"size":25800,"records":290,"copyright":"(c) 2024 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1735171749,"size":25797,"records":290,"copyright":"(c) 2024 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
