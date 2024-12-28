@@ -51,7 +51,7 @@
 {"asn":49316,"rir":"ripencc","domain":"ncryptd.net","cc":"GB","asname":"NCRYPTD"}
 {"asn":49943,"rir":"ripencc","domain":"ozon.ru","cc":"RU","asname":"ITRESHENIYA-AS"}
 {"asn":50236,"rir":"ripencc","domain":"62yun.com","cc":"RU","asname":"Vertexlink_Communications"}
-{"asn":50308,"rir":"ripencc","domain":"ozon.ru","cc":"RU","asname":"NETMOS-AS"}
+{"asn":50308,"rir":"ripencc","domain":"ozon.ru","cc":"RU","asname":"AS50308"}
 {"asn":50580,"rir":"ripencc","domain":"pfcloud.io","cc":"DE","asname":"MARIO"}
 {"asn":50935,"rir":"ripencc","domain":"hosting.international","cc":"GB","asname":"International-Hosting-Solutions-AS"}
 {"asn":51381,"rir":"ripencc","domain":"eliteteam.to","cc":"SC","asname":"ELITETEAM-PEERING-AZ1"}
@@ -289,4 +289,4 @@
 {"asn":401115,"rir":"arin","domain":"ekabi.net","cc":"US","asname":"EKABI"}
 {"asn":401116,"rir":"arin","domain":"nybula.com","cc":"US","asname":"NYBULA"}
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
-{"type":"metadata","timestamp":1735321149,"size":25898,"records":291,"copyright":"(c) 2024 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1735344549,"size":25896,"records":291,"copyright":"(c) 2024 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
