@@ -2,7 +2,6 @@
 {"asn":7411,"rir":"arin","domain":"sulharai.com","cc":"US","asname":"WINTERSTORM"}
 {"asn":11331,"rir":"arin","domain":"us53.com","cc":"HK","asname":"BINNETSOL-APC"}
 {"asn":11938,"rir":"arin","domain":"ncryptd.net","cc":"GB","asname":"NCRYPTD"}
-{"asn":15828,"rir":"ripencc","domain":"almaseabi.net","cc":"IR","asname":"spaceshipnetworks"}
 {"asn":17447,"rir":"apnic","domain":"net4india.com","cc":"IN","asname":"NET4-IN"}
 {"asn":22801,"rir":"arin","domain":"intap.net","cc":"US","asname":"INTAP-1"}
 {"asn":23865,"rir":"apnic","domain":"netinnovation.net","cc":"US","asname":"NETINNOVATIONLLC-AS-AP"}
@@ -287,4 +286,4 @@
 {"asn":401115,"rir":"arin","domain":"ekabi.net","cc":"US","asname":"EKABI"}
 {"asn":401116,"rir":"arin","domain":"nybula.com","cc":"US","asname":"NYBULA"}
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
-{"type":"metadata","timestamp":1736294949,"size":25714,"records":289,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1736314749,"size":25620,"records":288,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
