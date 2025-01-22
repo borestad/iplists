@@ -177,7 +177,6 @@
 {"asn":203120,"rir":"ripencc","domain":"globtelgroup.com","cc":"US","asname":"GTGL"}
 {"asn":203168,"rir":"ripencc","domain":"stellar-group.fr","cc":"BE","asname":"AS-CONSTANTMOULIN"}
 {"asn":203346,"rir":"ripencc","domain":"propersupportmedia.com","cc":"GB","asname":"AS-232WEB"}
-{"asn":203639,"rir":"ripencc","domain":"tekkadigital.com","cc":"CH","asname":"TEKNOLOGY"}
 {"asn":203999,"rir":"ripencc","domain":"gwhostinglabs.com","cc":"IN","asname":"GeekyWorks"}
 {"asn":204057,"rir":"ripencc","domain":"dcxv.com","cc":"LT","asname":"DCXV-AS"}
 {"asn":204428,"rir":"ripencc","domain":"ssnet.eu","cc":"BG","asname":"SS-Net"}
@@ -286,4 +285,4 @@
 {"asn":401115,"rir":"arin","domain":"ekabi.net","cc":"US","asname":"EKABI"}
 {"asn":401116,"rir":"arin","domain":"nybula.com","cc":"US","asname":"NYBULA"}
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
-{"type":"metadata","timestamp":1737481074,"size":25617,"records":288,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1737504474,"size":25527,"records":287,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
