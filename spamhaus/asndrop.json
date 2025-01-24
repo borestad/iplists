@@ -112,6 +112,7 @@
 {"asn":141836,"rir":"apnic","domain":"imaginetechnosoft.co.in","cc":"IN","asname":"IMAGINE-AS-IN"}
 {"asn":141853,"rir":"apnic","domain":"srjnhospitality.com","cc":"IN","asname":"SRJNH-AS-IN"}
 {"asn":141875,"rir":"apnic","domain":"zen4softsolution","cc":"IN","asname":"ZEN4-AS-IN"}
+{"asn":142002,"rir":"apnic","domain":"scloud.sg","cc":"SG","asname":"SCLOUDPTELTD-AS"}
 {"asn":142062,"rir":"apnic","domain":"qlhost.cc","cc":"HK","asname":"HQTC-AS-AP"}
 {"asn":142430,"rir":"apnic","domain":"digivps.com","cc":"IN","asname":"DIGIVPS-AS-AP"}
 {"asn":142519,"rir":"apnic","domain":"smtpmailers.com","cc":"IN","asname":"SMTPM-AS-IN"}
@@ -285,4 +286,4 @@
 {"asn":401115,"rir":"arin","domain":"ekabi.net","cc":"US","asname":"EKABI"}
 {"asn":401116,"rir":"arin","domain":"nybula.com","cc":"US","asname":"NYBULA"}
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
-{"type":"metadata","timestamp":1737718674,"size":25527,"records":287,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1737740274,"size":25614,"records":288,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
