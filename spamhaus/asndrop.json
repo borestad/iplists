@@ -236,6 +236,7 @@
 {"asn":214196,"rir":"ripencc","domain":"privatenetwork.ltd","cc":"RU","asname":"Vladylsav-Naumets"}
 {"asn":214231,"rir":"ripencc","domain":"msk.host","cc":"RU","asname":"Cloud_Solutions-AS"}
 {"asn":214295,"rir":"ripencc","domain":"audit-data.info","cc":"MD","asname":"SKYNET"}
+{"asn":214318,"rir":"ripencc","domain":"cloudsolution.host","cc":"HR","asname":"NETCODE"}
 {"asn":214351,"rir":"ripencc","domain":"as214351.com","cc":"GB","asname":"FEMOIT"}
 {"asn":214472,"rir":"ripencc","domain":"offshore.cx","cc":"LU","asname":"OFFSHORE"}
 {"asn":214497,"rir":"ripencc","domain":"whitelabel.sh","cc":"IL","asname":"WHITELABEL"}
@@ -288,4 +289,4 @@
 {"asn":401115,"rir":"arin","domain":"ekabi.net","cc":"US","asname":"EKABI"}
 {"asn":401116,"rir":"arin","domain":"nybula.com","cc":"US","asname":"NYBULA"}
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
-{"type":"metadata","timestamp":1737977874,"size":25793,"records":290,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1737999474,"size":25883,"records":291,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
