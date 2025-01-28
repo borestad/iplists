@@ -216,7 +216,6 @@
 {"asn":211849,"rir":"ripencc","domain":"62yun.com","cc":"RU","asname":"KAKHAROV-AS"}
 {"asn":211922,"rir":"ripencc","domain":"ipconnect.services","cc":"SC","asname":"IPDISTR"}
 {"asn":212283,"rir":"ripencc","domain":"rosa-holidays.com","cc":"BG","asname":"ROZA-AS"}
-{"asn":212294,"rir":"ripencc","domain":"pfcloud.io","cc":"DE","asname":"MARIO"}
 {"asn":212448,"rir":"ripencc","domain":"turkbil.com.tr","cc":"TR","asname":"turkbil"}
 {"asn":212496,"rir":"ripencc","domain":"goodtec.lv","cc":"LV","asname":"GOODTEC"}
 {"asn":212651,"rir":"ripencc","domain":"d-conect","cc":"UA","asname":"D-CONECT-AS"}
@@ -289,4 +288,4 @@
 {"asn":401115,"rir":"arin","domain":"ekabi.net","cc":"US","asname":"EKABI"}
 {"asn":401116,"rir":"arin","domain":"nybula.com","cc":"US","asname":"NYBULA"}
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
-{"type":"metadata","timestamp":1738022874,"size":25883,"records":291,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1738042674,"size":25803,"records":290,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
