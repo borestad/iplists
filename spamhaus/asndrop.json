@@ -146,7 +146,6 @@
 {"asn":197555,"rir":"ripencc","domain":"smartmieten.in","cc":"IN","asname":"SMARTMIETEN"}
 {"asn":198375,"rir":"ripencc","domain":"free-h.org","cc":"FR","asname":"INU-AS"}
 {"asn":198427,"rir":"ripencc","domain":"raindews.online","cc":"HR","asname":"RaindewsOnline"}
-{"asn":198465,"rir":"ripencc","domain":"bthoster.com","cc":"GB","asname":"bthoster"}
 {"asn":198571,"rir":"ripencc","domain":"plainproxies.com","cc":"DE","asname":"PlainProxies"}
 {"asn":198578,"rir":"ripencc","domain":"fiberlinkcc.com","cc":"US","asname":"ASFLRU"}
 {"asn":198711,"rir":"ripencc","domain":"kovancloud.com","cc":"FR","asname":"GASPARD-METAYER"}
@@ -264,7 +263,6 @@
 {"asn":215789,"rir":"ripencc","domain":"rlab.kiev.ua","cc":"UA","asname":"KARINAR"}
 {"asn":215826,"rir":"ripencc","domain":"altawk.com","cc":"UA","asname":"Partner-Hosting-LTD"}
 {"asn":215854,"rir":"ripencc","domain":"cloudto.nl","cc":"NL","asname":"CLOUDTO-AS"}
-{"asn":215862,"rir":"ripencc","domain":"netshield.is","cc":"BR","asname":"SOUZA-AS"}
 {"asn":215930,"rir":"ripencc","domain":"almaseabi.net","cc":"IR","asname":"COD"}
 {"asn":215998,"rir":"ripencc","domain":"skyserverhost.com","cc":"IR","asname":"SkyServerHost"}
 {"asn":216156,"rir":"ripencc","domain":"pfcloud.io","cc":"DE","asname":"EPIKWIRE-NET"}
@@ -288,4 +286,4 @@
 {"asn":401115,"rir":"arin","domain":"ekabi.net","cc":"US","asname":"EKABI"}
 {"asn":401116,"rir":"arin","domain":"nybula.com","cc":"US","asname":"NYBULA"}
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
-{"type":"metadata","timestamp":1738109274,"size":25803,"records":290,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1738129074,"size":25633,"records":288,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
