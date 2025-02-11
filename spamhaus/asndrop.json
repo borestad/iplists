@@ -1,4 +1,5 @@
 {"asn":6060,"rir":"arin","domain":"management-alliance-group","cc":"US","asname":"MAGI-NET-GW"}
+{"asn":6517,"rir":"arin","domain":"zeromist.net","cc":"US","asname":"ZEROMIST-AS-1"}
 {"asn":7411,"rir":"arin","domain":"sulharai.com","cc":"US","asname":"WINTERSTORM"}
 {"asn":11331,"rir":"arin","domain":"us53.com","cc":"HK","asname":"BINNETSOL-APC"}
 {"asn":11938,"rir":"arin","domain":"ncryptd.net","cc":"GB","asname":"NCRYPTD"}
@@ -19,6 +20,7 @@
 {"asn":35624,"rir":"ripencc","domain":"fineproxy.org","cc":"RU","asname":"SILVERSTAR-AS"}
 {"asn":35718,"rir":"ripencc","domain":"naunet.ru","cc":"RU","asname":"NAUNET-AS"}
 {"asn":35830,"rir":"ripencc","domain":"fineproxy.org","cc":"RU","asname":"BTTGROUP-AS"}
+{"asn":37707,"rir":"afrinic","domain":"seyix.sc","cc":"SC","asname":"SEY-IX-PEERING"}
 {"asn":38149,"rir":"apnic","domain":"bakrietelecom.com","cc":"ID","asname":"RATELINDONET-AS-ID"}
 {"asn":38337,"rir":"apnic","domain":"niutelecom.com","cc":"CN","asname":"CNNIC-NTNet"}
 {"asn":39720,"rir":"ripencc","domain":"darkclub.com.ua","cc":"UA","asname":"MANILICH-AS"}
@@ -281,4 +283,4 @@
 {"asn":401115,"rir":"arin","domain":"ekabi.net","cc":"US","asname":"EKABI"}
 {"asn":401116,"rir":"arin","domain":"nybula.com","cc":"US","asname":"NYBULA"}
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
-{"type":"metadata","timestamp":1739252274,"size":25201,"records":283,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1739273874,"size":25372,"records":285,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
