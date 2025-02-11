@@ -267,6 +267,7 @@
 {"asn":216419,"rir":"ripencc","domain":"matrixllp","cc":"BR","asname":"AS-MATRIXTELECOM"}
 {"asn":266724,"rir":"lacnic","domain":"donserver.cl","cc":"CL","asname":"MYRIAM_PILAR_ESCOBAR_VEGA_(DON_SERVER)"}
 {"asn":327814,"rir":"afrinic","domain":"ecoband.net","cc":"GH","asname":"Ecoband"}
+{"asn":327837,"rir":"afrinic","domain":"seyix.sc","cc":"SC","asname":"SEY-IX-MANAGEMENT"}
 {"asn":328095,"rir":"afrinic","domain":"bluegate-exchange.co.za","cc":"ZA","asname":"BLUEGATE-EXCHANGE-AS"}
 {"asn":328958,"rir":"afrinic","domain":"cybrscrb.com","cc":"SC","asname":"CL21-AS"}
 {"asn":329325,"rir":"afrinic","domain":"maxko.org","cc":"HR","asname":"Maxko-for-Gaming-Development"}
@@ -283,4 +284,4 @@
 {"asn":401115,"rir":"arin","domain":"ekabi.net","cc":"US","asname":"EKABI"}
 {"asn":401116,"rir":"arin","domain":"nybula.com","cc":"US","asname":"NYBULA"}
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
-{"type":"metadata","timestamp":1739273874,"size":25372,"records":285,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1739295474,"size":25462,"records":286,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
