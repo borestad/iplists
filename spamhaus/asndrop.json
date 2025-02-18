@@ -143,6 +143,7 @@
 {"asn":152192,"rir":"apnic","domain":"gmtech.com.bd","cc":"BD","asname":"GMTECH-AS-AP"}
 {"asn":152194,"rir":"apnic","domain":"ctgserver.com","cc":"HK","asname":"CTGSERVERLIMITED-AS-AP"}
 {"asn":152327,"rir":"apnic","domain":"rasuhost.com.bd","cc":"BD","asname":"RASUWEBHOST-AS-AP"}
+{"asn":152485,"rir":"apnic","domain":"hosterdaddy.com","cc":"IN","asname":"HOSTER-AS-IN"}
 {"asn":152486,"rir":"apnic","domain":"jdmbroadband.com","cc":"IN","asname":"NTSHIELD-AS-IN"}
 {"asn":153318,"rir":"apnic","domain":"karix.com","cc":"IN","asname":"MGAGEIND-AS-AP"}
 {"asn":197450,"rir":"ripencc","domain":"sunucun.com.tr","cc":"TR","asname":"SUNUCUN"}
@@ -227,6 +228,7 @@
 {"asn":213371,"rir":"ripencc","domain":"zumy.eu","cc":"IN","asname":"SQUITTER-NETWORKS"}
 {"asn":213373,"rir":"ripencc","domain":"ipconnect.services","cc":"SC","asname":"IPCONNECT"}
 {"asn":213389,"rir":"ripencc","domain":"netip.com.ua","cc":"UA","asname":"ASPODOLSK"}
+{"asn":213438,"rir":"ripencc","domain":"colocatel.com","cc":"SC","asname":"colocatel-inc"}
 {"asn":213676,"rir":"ripencc","domain":"eksenbilisim.com.tr","cc":"TR","asname":"NEO_INTERNET"}
 {"asn":213828,"rir":"ripencc","domain":"whitelabel.sh","cc":"IL","asname":"OXIWAVE-AS"}
 {"asn":213889,"rir":"ripencc","domain":"meric.net.tr","cc":"TR","asname":"AS209737"}
@@ -248,6 +250,7 @@
 {"asn":214940,"rir":"ripencc","domain":"pfcloud.io","cc":"DE","asname":"KPRONET"}
 {"asn":214943,"rir":"ripencc","domain":"railnet","cc":"US","asname":"RAILNET"}
 {"asn":214961,"rir":"ripencc","domain":"stellar-group.fr","cc":"BE","asname":"STELLARGROUPSAS"}
+{"asn":215117,"rir":"ripencc","domain":"hosterdaddy.com","cc":"IN","asname":"HOSTERDADDY"}
 {"asn":215127,"rir":"ripencc","domain":"410-teapot","cc":"GB","asname":"TEAPOT"}
 {"asn":215176,"rir":"ripencc","domain":"secureanalitics.com","cc":"GB","asname":"HOSTINGMEDIAVPNLTD"}
 {"asn":215208,"rir":"ripencc","domain":"dolphinhost.net","cc":"GB","asname":"DOLPHINNETWORKS"}
@@ -289,4 +292,4 @@
 {"asn":401115,"rir":"arin","domain":"ekabi.net","cc":"US","asname":"EKABI"}
 {"asn":401116,"rir":"arin","domain":"nybula.com","cc":"US","asname":"NYBULA"}
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
-{"type":"metadata","timestamp":1739878674,"size":25904,"records":291,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1739900274,"size":26176,"records":294,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
