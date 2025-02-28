@@ -164,7 +164,6 @@
 {"asn":197450,"rir":"ripencc","domain":"sunucun.com.tr","cc":"TR","asname":"SUNUCUN"}
 {"asn":197555,"rir":"ripencc","domain":"smartmieten.in","cc":"IN","asname":"SMARTMIETEN"}
 {"asn":198375,"rir":"ripencc","domain":"free-h.org","cc":"FR","asname":"INU-AS"}
-{"asn":198427,"rir":"ripencc","domain":"raindews.online","cc":"HR","asname":"RaindewsOnline"}
 {"asn":198571,"rir":"ripencc","domain":"plainproxies.com","cc":"DE","asname":"PlainProxies"}
 {"asn":198578,"rir":"ripencc","domain":"fiberlinkcc.com","cc":"US","asname":"ASFLRU"}
 {"asn":198711,"rir":"ripencc","domain":"kovancloud.com","cc":"FR","asname":"GASPARD-METAYER"}
@@ -312,4 +311,4 @@
 {"asn":401115,"rir":"arin","domain":"ekabi.net","cc":"US","asname":"EKABI"}
 {"asn":401116,"rir":"arin","domain":"nybula.com","cc":"US","asname":"NYBULA"}
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
-{"type":"metadata","timestamp":1740701274,"size":27828,"records":314,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1740721074,"size":27734,"records":313,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
