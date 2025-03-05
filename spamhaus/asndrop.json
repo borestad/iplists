@@ -28,7 +28,6 @@
 {"asn":38337,"rir":"apnic","domain":"niutelecom.com","cc":"CN","asname":"CNNIC-NTNet"}
 {"asn":38946,"rir":"ripencc","domain":"bignet.ua","cc":"UA","asname":"SMARTMEDIANETWORK-1-AS"}
 {"asn":39720,"rir":"ripencc","domain":"darkclub.com.ua","cc":"UA","asname":"MANILICH-AS"}
-{"asn":39770,"rir":"ripencc","domain":"eliteteam.to","cc":"SC","asname":"ELITETEAM-CUSTOMER-ASN-39770"}
 {"asn":40193,"rir":"arin","domain":"trit.net","cc":"US","asname":"AS-TRIT"}
 {"asn":40403,"rir":"arin","domain":"therocksnet.com","cc":"US","asname":"RCS-ASN"}
 {"asn":40665,"rir":"arin","domain":"spectrenetworks.net","cc":"US","asname":"SPCTR"}
@@ -63,7 +62,6 @@
 {"asn":49316,"rir":"ripencc","domain":"ncryptd.net","cc":"GB","asname":"NCRYPTD"}
 {"asn":50236,"rir":"ripencc","domain":"62yun.com","cc":"RU","asname":"Vertexlink_Communications"}
 {"asn":50308,"rir":"ripencc","domain":"ozon.ru","cc":"RU","asname":"AS50308"}
-{"asn":50580,"rir":"ripencc","domain":"pfcloud.io","cc":"DE","asname":"MARIO"}
 {"asn":50935,"rir":"ripencc","domain":"hosting.international","cc":"GB","asname":"International-Hosting-Solutions-AS"}
 {"asn":51045,"rir":"ripencc","domain":"bignet.ua","cc":"UA","asname":"DEMENIN-AS"}
 {"asn":51124,"rir":"ripencc","domain":"bignet.ua","cc":"UA","asname":"ITPLUS-UA-AS"}
@@ -85,7 +83,6 @@
 {"asn":58854,"rir":"apnic","domain":"kaopuyun.com","cc":"CN","asname":"kaopy"}
 {"asn":59425,"rir":"ripencc","domain":"changway.hk","cc":"HK","asname":"HORIZONMSK-AS"}
 {"asn":59683,"rir":"ripencc","domain":"vip-net.net","cc":"RU","asname":"iridatelecom"}
-{"asn":60424,"rir":"ripencc","domain":"eliteteam.to","cc":"SC","asname":"ELITETEAM-PEERING-AZ3"}
 {"asn":60707,"rir":"ripencc","domain":"kapteyan.com.tr","cc":"TR","asname":"KAPTEYANAS"}
 {"asn":60842,"rir":"ripencc","domain":"62yun.com","cc":"RU","asname":"HUIZE-HOLDINGS-AS"}
 {"asn":61302,"rir":"ripencc","domain":"62yun.com","cc":"RU","asname":"Huize_Telecom"}
@@ -308,4 +305,4 @@
 {"asn":401115,"rir":"arin","domain":"ekabi.net","cc":"US","asname":"EKABI"}
 {"asn":401116,"rir":"arin","domain":"nybula.com","cc":"US","asname":"NYBULA"}
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
-{"type":"metadata","timestamp":1741131474,"size":27484,"records":310,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1741153074,"size":27204,"records":307,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
