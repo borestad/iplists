@@ -282,7 +282,6 @@
 {"asn":215789,"rir":"ripencc","domain":"rlab.kiev.ua","cc":"UA","asname":"KARINAR"}
 {"asn":215826,"rir":"ripencc","domain":"altawk.com","cc":"UA","asname":"Partner-Hosting-LTD"}
 {"asn":215930,"rir":"ripencc","domain":"almaseabi.net","cc":"IR","asname":"COD"}
-{"asn":215998,"rir":"ripencc","domain":"skyserverhost.com","cc":"IR","asname":"UNKNOWN"}
 {"asn":216156,"rir":"ripencc","domain":"pfcloud.io","cc":"DE","asname":"EPIKWIRE-NET"}
 {"asn":216240,"rir":"ripencc","domain":"mortalsoft.online","cc":"RS","asname":"MortalSoft"}
 {"asn":216419,"rir":"ripencc","domain":"matrixllp","cc":"BR","asname":"AS-MATRIXTELECOM"}
@@ -305,4 +304,4 @@
 {"asn":401115,"rir":"arin","domain":"ekabi.net","cc":"US","asname":"EKABI"}
 {"asn":401116,"rir":"arin","domain":"nybula.com","cc":"US","asname":"NYBULA"}
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
-{"type":"metadata","timestamp":1741219674,"size":27198,"records":307,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1741239474,"size":27109,"records":306,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
