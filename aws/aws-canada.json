@@ -4445,6 +4445,12 @@
   "network_border_group": "us-west-2"
 }
 {
+  "ip_prefix": "16.153.0.0/16",
+  "region": "us-gov-east-1",
+  "service": "AMAZON",
+  "network_border_group": "us-gov-east-1"
+}
+{
   "ip_prefix": "52.93.91.108/32",
   "region": "us-east-1",
   "service": "AMAZON",
@@ -6447,6 +6453,12 @@
   "region": "us-east-1",
   "service": "AMAZON",
   "network_border_group": "us-east-1-dfw-1"
+}
+{
+  "ip_prefix": "16.152.0.0/16",
+  "region": "us-gov-east-1",
+  "service": "AMAZON",
+  "network_border_group": "us-gov-east-1"
 }
 {
   "ip_prefix": "52.93.55.166/31",
