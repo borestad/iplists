@@ -11,6 +11,6 @@ curl --config ../.curlrc https://www.spamhaus.org/drop/asndrop.json -o asndrop.j
 cat asndrop.json | \
   jq '.asn | select( . != null )' | \
   xargs -I {} -P8 \
-    bash -c "echo 'ASN: {}'; curl --compressed --http2 -sfL https://raw.githubusercontent.com/ipverse/asn-ip/master/as/{}/ipv4-aggregated.txt -o $TEMPDIR/{}.ipv4"
+    bash -c "echo 'ASN: {}'; curl --compressed --http2 -sfL https://raw.githubusercontent.com/ipverse/asn-ip/master/as/{}/ipv4-aggregated.txt -o $TEMPDIR/{}.ipv4" || true
 
-fd .ipv4 $TEMPDIR/ -x bash -c "echo; echo; cat {}" >| $name-asndrop.ipv4
+fd .ipv4 $TEMPDIR/ -x bash -c "echo; cat {}" >| $name-asndrop.ipv4
