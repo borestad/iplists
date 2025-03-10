@@ -6,6 +6,9 @@ TEMPDIR=$(mktemp -d)
 
 name=spamhaus
 
+##
+## ASNDROP
+##
 curl --config ../.curlrc https://www.spamhaus.org/drop/asndrop.json -o asndrop.json
 
 cat asndrop.json | \
@@ -14,3 +17,10 @@ cat asndrop.json | \
     bash -c "echo 'ASN: {}'; curl --compressed --http2 -sfL https://raw.githubusercontent.com/ipverse/asn-ip/master/as/{}/ipv4-aggregated.txt -o $TEMPDIR/{}.ipv4" || true
 
 fd .ipv4 $TEMPDIR/ -x bash -c "echo; cat {}" >| $name-asndrop.ipv4
+
+
+##
+## DROP
+##
+curl --config ../.curlrc https://www.spamhaus.org/drop/drop_v4.json -o drop_v4.json
+cat drop_v4.json | jq -r .cidr | grepip | iprange >| $name-drop.ipv4
