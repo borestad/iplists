@@ -8441,6 +8441,12 @@
   "network_border_group": "eu-south-1"
 }
 {
+  "ip_prefix": "13.62.0.0/15",
+  "region": "eu-north-1",
+  "service": "EC2",
+  "network_border_group": "eu-north-1"
+}
+{
   "ip_prefix": "35.96.96.0/20",
   "region": "eu-central-1",
   "service": "EC2",
