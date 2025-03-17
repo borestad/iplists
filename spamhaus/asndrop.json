@@ -297,6 +297,7 @@
 {"asn":395111,"rir":"arin","domain":"kvchosting.com","cc":"US","asname":"KVCNET-2009"}
 {"asn":398638,"rir":"arin","domain":"jellydigital.net","cc":"US","asname":"JELLYDIGITAL"}
 {"asn":398741,"rir":"arin","domain":"62yun.com","cc":"RU","asname":"AS-VERTEXLINK-01"}
+{"asn":398770,"rir":"arin","domain":"greatcommunications.net","cc":"US","asname":"TC"}
 {"asn":399979,"rir":"arin","domain":"493networking.cc","cc":"US","asname":"AS-493NETWORKING"}
 {"asn":400018,"rir":"arin","domain":"seacom.cc","cc":"US","asname":"CLOUD"}
 {"asn":400171,"rir":"arin","domain":"alphainfolab.com","cc":"IN","asname":"AS-AINFO"}
@@ -307,4 +308,4 @@
 {"asn":401115,"rir":"arin","domain":"ekabi.net","cc":"US","asname":"EKABI"}
 {"asn":401116,"rir":"arin","domain":"nybula.com","cc":"US","asname":"NYBULA"}
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
-{"type":"metadata","timestamp":1742211474,"size":27356,"records":309,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1742234874,"size":27443,"records":310,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
