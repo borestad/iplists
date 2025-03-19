@@ -38,7 +38,6 @@
 {"asn":42505,"rir":"ripencc","domain":"bignet.ua","cc":"UA","asname":"R-TEL-AS"}
 {"asn":42624,"rir":"ripencc","domain":"simplecarrier.net","cc":"US","asname":"swissnetwork02"}
 {"asn":42694,"rir":"ripencc","domain":"uplink.in.md","cc":"MD","asname":"uplink"}
-{"asn":43072,"rir":"ripencc","domain":"thestack.net","cc":"HK","asname":"TheStack"}
 {"asn":43444,"rir":"ripencc","domain":"fineproxy.org","cc":"RU","asname":"BNS-AS"}
 {"asn":43463,"rir":"ripencc","domain":"bst.lt","cc":"LT","asname":"BST-LT"}
 {"asn":43613,"rir":"ripencc","domain":"liptel.net.ua","cc":"UA","asname":"SOWA"}
@@ -187,7 +186,6 @@
 {"asn":202425,"rir":"ripencc","domain":"ipvolume.net","cc":"NL","asname":"INT-NETWORK"}
 {"asn":202481,"rir":"ripencc","domain":"reapolis","cc":"UA","asname":"REAPOLIS-AS"}
 {"asn":202685,"rir":"ripencc","domain":"pfcloud.io","cc":"DE","asname":"as-pfcloud"}
-{"asn":202828,"rir":"ripencc","domain":"pfcloud.io","cc":"DE","asname":"HHY"}
 {"asn":202972,"rir":"ripencc","domain":"eksenbilisim.com.tr","cc":"TR","asname":"NEO-NET"}
 {"asn":203120,"rir":"ripencc","domain":"globtelgroup.com","cc":"US","asname":"GTGL"}
 {"asn":203168,"rir":"ripencc","domain":"stellar-group.fr","cc":"BE","asname":"AS-CONSTANTMOULIN"}
@@ -307,4 +305,4 @@
 {"asn":401115,"rir":"arin","domain":"ekabi.net","cc":"US","asname":"EKABI"}
 {"asn":401116,"rir":"arin","domain":"nybula.com","cc":"US","asname":"NYBULA"}
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
-{"type":"metadata","timestamp":1742342874,"size":27360,"records":309,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1742362674,"size":27198,"records":307,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
