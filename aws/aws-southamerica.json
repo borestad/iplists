@@ -1157,6 +1157,18 @@
   "network_border_group": "sa-east-1"
 }
 {
+  "ip_prefix": "56.125.46.0/24",
+  "region": "sa-east-1",
+  "service": "CLOUDFRONT",
+  "network_border_group": "sa-east-1"
+}
+{
+  "ip_prefix": "56.125.47.0/32",
+  "region": "sa-east-1",
+  "service": "CLOUDFRONT",
+  "network_border_group": "sa-east-1"
+}
+{
   "ip_prefix": "3.2.49.0/24",
   "region": "sa-east-1",
   "service": "GLOBALACCELERATOR",
