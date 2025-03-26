@@ -161,9 +161,7 @@
 {"asn":198375,"rir":"ripencc","domain":"free-h.org","cc":"FR","asname":"INU-AS"}
 {"asn":198571,"rir":"ripencc","domain":"plainproxies.com","cc":"DE","asname":"PlainProxies"}
 {"asn":198578,"rir":"ripencc","domain":"fiberlinkcc.com","cc":"US","asname":"ASFLRU"}
-{"asn":198711,"rir":"ripencc","domain":"kovancloud.com","cc":"FR","asname":"GASPARD-METAYER"}
 {"asn":198953,"rir":"ripencc","domain":"proton66.ru","cc":"RU","asname":"proton66"}
-{"asn":199019,"rir":"ripencc","domain":"stellar-group.fr","cc":"BE","asname":"TYK-GROUP"}
 {"asn":199420,"rir":"ripencc","domain":"fly-group.ru","cc":"RU","asname":"FLYGROUP-AS"}
 {"asn":199598,"rir":"ripencc","domain":"fiberlinkcc.com","cc":"US","asname":"ASFBL"}
 {"asn":199654,"rir":"ripencc","domain":"oxide.host","cc":"GB","asname":"OXIDE-GROUP-LIMITED"}
@@ -187,7 +185,6 @@
 {"asn":202685,"rir":"ripencc","domain":"pfcloud.io","cc":"DE","asname":"as-pfcloud"}
 {"asn":202972,"rir":"ripencc","domain":"eksenbilisim.com.tr","cc":"TR","asname":"NEO-NET"}
 {"asn":203120,"rir":"ripencc","domain":"globtelgroup.com","cc":"US","asname":"GTGL"}
-{"asn":203168,"rir":"ripencc","domain":"stellar-group.fr","cc":"BE","asname":"AS-CONSTANTMOULIN"}
 {"asn":203346,"rir":"ripencc","domain":"propersupportmedia.com","cc":"GB","asname":"AS-232WEB"}
 {"asn":203959,"rir":"ripencc","domain":"bignet.ua","cc":"UA","asname":"DEM-AS"}
 {"asn":203999,"rir":"ripencc","domain":"gwhostinglabs.com","cc":"IN","asname":"GeekyWorks"}
@@ -304,4 +301,4 @@
 {"asn":401115,"rir":"arin","domain":"ekabi.net","cc":"US","asname":"EKABI"}
 {"asn":401116,"rir":"arin","domain":"nybula.com","cc":"US","asname":"NYBULA"}
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
-{"type":"metadata","timestamp":1742945874,"size":27085,"records":306,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1742969274,"size":26803,"records":303,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
