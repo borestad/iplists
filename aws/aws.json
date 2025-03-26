@@ -1,6 +1,6 @@
 {
-  "syncToken": "1742918001",
-  "createDate": "2025-03-25-15-53-21",
+  "syncToken": "1742934202",
+  "createDate": "2025-03-25-20-23-22",
   "prefixes": [
     {
       "ip_prefix": "3.4.12.4/32",
@@ -9265,6 +9265,12 @@
       "region": "eu-west-1",
       "service": "AMAZON",
       "network_border_group": "eu-west-1"
+    },
+    {
+      "ip_prefix": "15.190.236.0/22",
+      "region": "me-west-1",
+      "service": "AMAZON",
+      "network_border_group": "me-west-1"
     },
     {
       "ip_prefix": "15.221.32.0/24",
@@ -19345,6 +19351,12 @@
       "region": "GLOBAL",
       "service": "AMAZON",
       "network_border_group": "GLOBAL"
+    },
+    {
+      "ip_prefix": "15.190.144.0/20",
+      "region": "me-west-1",
+      "service": "AMAZON",
+      "network_border_group": "me-west-1"
     },
     {
       "ip_prefix": "15.230.15.62/31",
@@ -61181,6 +61193,12 @@
       "network_border_group": "GLOBAL"
     },
     {
+      "ipv6_prefix": "2600:f0f0:4100::/40",
+      "region": "GLOBAL",
+      "service": "AMAZON",
+      "network_border_group": "GLOBAL"
+    },
+    {
       "ipv6_prefix": "2400:7fc0:4000:100::/56",
       "region": "cn-north-1",
       "service": "AMAZON",
@@ -71864,6 +71882,12 @@
       "ipv6_prefix": "2600:9000:ab00::/40",
       "region": "GLOBAL",
       "service": "GLOBALACCELERATOR",
+      "network_border_group": "GLOBAL"
+    },
+    {
+      "ipv6_prefix": "2600:f0f0:4100::/40",
+      "region": "GLOBAL",
+      "service": "CHIME_MEETINGS",
       "network_border_group": "GLOBAL"
     },
     {
