@@ -35,16 +35,16 @@ dllist $DIR/countries2.txt
 mv -v $TEMPDIR/raw.githubusercontent.com/herrbischoff/country-ip-blocks/master/ipv4/*.cidr $DIR/countries2/ &> /dev/null
 fd '.(netset|cidr)$' $DIR -x mv '{}' '{.}'.ipv4
 
-dllist $DIR/countries.txt
-mv -v $TEMPDIR/git.herrbischoff.com/country-ip-blocks-alternative/plain/ipv4/*.netset $DIR/countries/ &> /dev/null
-fd '.(netset|cidr)$' $DIR -x mv '{}' '{.}'.ipv4
+# dllist $DIR/countries.txt
+# mv -v $TEMPDIR/git.herrbischoff.com/country-ip-blocks-alternative/plain/ipv4/*.netset $DIR/countries/ &> /dev/null
+# fd '.(netset|cidr)$' $DIR -x mv '{}' '{.}'.ipv4
 
-cd $DIR
-curl --config ../.curlrc https://ipbl.herrbischoff.com/badasn.txt -o badasn.ipv4
-curl --config ../.curlrc https://ipbl.herrbischoff.com/ai.txt -o ai.ipv4
-curl --config ../.curlrc https://ipbl.herrbischoff.com/list.txt -o ipblock.ipv4
-curl --config ../.curlrc https://ipbl.herrbischoff.com/tor.txt -o tor.ipv4
+# cd $DIR
+# curl --config ../.curlrc https://ipbl.herrbischoff.com/badasn.txt -o badasn.ipv4
+# curl --config ../.curlrc https://ipbl.herrbischoff.com/ai.txt -o ai.ipv4
+# curl --config ../.curlrc https://ipbl.herrbischoff.com/list.txt -o ipblock.ipv4
+# curl --config ../.curlrc https://ipbl.herrbischoff.com/tor.txt -o tor.ipv4
 
-cat ipblock.ipv4 | grepip | iprange -1 | sponge ipblock.ipv4
-cat badasn.ipv4 | grepip | iprange | sponge badasn.ipv4
-cat tor.ipv4 | grepip | iprange | sponge tor.ipv4
+# cat ipblock.ipv4 | grepip | iprange -1 | sponge ipblock.ipv4
+# cat badasn.ipv4 | grepip | iprange | sponge badasn.ipv4
+# cat tor.ipv4 | grepip | iprange | sponge tor.ipv4
