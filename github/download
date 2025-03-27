@@ -2,11 +2,21 @@
 set -eo pipefail
 
 cd "$(dirname $0)"
-TEMPFILE=$(mktemp)
-
 name=github
-curl --config ../.curlrc https://api.github.com/meta -o $TEMPFILE
 
-jq . $TEMPFILE | sponge $TEMPFILE
-grepip $TEMPFILE | iprange >| $name.ipv4
-grepip6 $TEMPFILE | cidr-merger >| $name.ipv6
+DATA=$(bkt --ttl=1m -- curl -sL https://api.github.com/meta) || exit 0;
+
+TMP="tmp.tmp"
+{ echo "$DATA" | jq .actions >| ${TMP}; } && { grepip < $TMP | iprange >| github-actions4.ipv4; } && { grepip6 < $TMP >| github-actions.ipv6; }
+{ echo "$DATA" | jq .hooks >| $TMP; } && { grepip < $TMP | iprange >| github-hooks.ipv4; } && { grepip6 < $TMP >| github-hooks.ipv6; }
+{ echo "$DATA" | jq .web >| $TMP; } && { grepip < $TMP | iprange >| github-web.ipv4; } && { grepip6 < $TMP >| github-web.ipv6; }
+{ echo "$DATA" | jq .api >| $TMP; } && { grepip < $TMP | iprange >| github-api.ipv4; } && { grepip6 < $TMP >| github-api.ipv6; }
+{ echo "$DATA" | jq .git >| $TMP; } && { grepip < $TMP | iprange >| github-git.ipv4; } && { grepip6 < $TMP >| github-git.ipv6; }
+{ echo "$DATA" | jq .github_enterprise_importer >| $TMP; } && { grepip < $TMP | iprange >| github-enterprise_importer.ipv4; } && { grepip6 < $TMP >| github-enterprise_importer.ipv6; }
+{ echo "$DATA" | jq .packages >| $TMP; } && { grepip < $TMP | iprange >| github-packages.ipv4; } && { grepip6 < $TMP >| github-packages.ipv6; }
+{ echo "$DATA" | jq .pages >| $TMP; } && { grepip < $TMP | iprange >| github-pages.ipv4; } && { grepip6 < $TMP >| github-pages.ipv6; }
+{ echo "$DATA" | jq .importer >| $TMP; } && { grepip < $TMP | iprange >| github-importer.ipv4; } && { grepip6 < $TMP >| github-importer.ipv6; }
+{ echo "$DATA" | jq .actions_macos >| $TMP; } && { grepip < $TMP | iprange >| github-actions_macos.ipv4; } && { grepip6 < $TMP >| github-actions_macos.ipv6; }
+{ echo "$DATA" | jq .codespaces >| $TMP; } && { grepip < $TMP | iprange >| github-codespaces.ipv4; } && { grepip6 < $TMP >| github-codespaces.ipv6; }
+{ echo "$DATA" | jq .dependabot >| $TMP; } && { grepip < $TMP | iprange >| github-dependabot.ipv4; } && { grepip6 < $TMP >| github-dependabot.ipv6; }
+{ echo "$DATA" | jq .copilot >| $TMP; } && { grepip < $TMP | iprange >| github-copilot.ipv4; } && { grepip6 < $TMP >| github-copilot.ipv6; }
