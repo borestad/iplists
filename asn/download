@@ -1,0 +1,31 @@
+#!/usr/bin/env bash
+set -eo pipefail
+
+cd "$(dirname $0)"
+
+DIR=$(pwd)
+TEMPFILE=`mktemp`;
+shfmt -mn malicious.cfg >| $TEMPFILE;
+
+TEMPDIR=$(mktemp -d) && cd $TEMPDIR;
+
+wget2 \
+--max-threads=2 \
+--http2-request-window=4 \
+--dns-timeout=10 \
+--timeout==10 \
+--read-timeout==10 \
+--connect-timeout==10 \
+--retry-connrefused \
+--http-keep-alive \
+--no-clobber \
+--compression=br \
+--report-speed bytes \
+--adjust-extension \
+--force-directories \
+--progress=none \
+--random-wait \
+--waitretry \
+-i $TEMPFILE
+
+pwd
