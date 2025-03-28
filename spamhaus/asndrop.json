@@ -80,7 +80,6 @@
 {"asn":58854,"rir":"apnic","domain":"kaopuyun.com","cc":"CN","asname":"kaopy"}
 {"asn":59425,"rir":"ripencc","domain":"changway.hk","cc":"HK","asname":"HORIZONMSK-AS"}
 {"asn":59683,"rir":"ripencc","domain":"vip-net.net","cc":"RU","asname":"iridatelecom"}
-{"asn":60707,"rir":"ripencc","domain":"kapteyan.com.tr","cc":"TR","asname":"KAPTEYANAS"}
 {"asn":60842,"rir":"ripencc","domain":"62yun.com","cc":"RU","asname":"HUIZE-HOLDINGS-AS"}
 {"asn":61302,"rir":"ripencc","domain":"62yun.com","cc":"RU","asname":"Huize_Telecom"}
 {"asn":61432,"rir":"ripencc","domain":"link-host.com","cc":"UA","asname":"VAIZ-AS"}
@@ -205,7 +204,6 @@
 {"asn":206728,"rir":"ripencc","domain":"sshvps.net","cc":"RU","asname":"MEDIALAND-AS"}
 {"asn":207084,"rir":"ripencc","domain":"ncryptd.net","cc":"GB","asname":"NCRYPTD"}
 {"asn":207088,"rir":"ripencc","domain":"adoard.com","cc":"RO","asname":"ADOARD"}
-{"asn":207429,"rir":"ripencc","domain":"kapteyan.com.tr","cc":"TR","asname":"KAPTEYAN"}
 {"asn":207566,"rir":"ripencc","domain":"changway.hk","cc":"HK","asname":"LD007-AS"}
 {"asn":207787,"rir":"ripencc","domain":"orbittelekom.com","cc":"TR","asname":"daily"}
 {"asn":208046,"rir":"ripencc","domain":"hostslick.de","cc":"DE","asname":"ColocationX-Datacenter"}
@@ -301,4 +299,4 @@
 {"asn":401115,"rir":"arin","domain":"ekabi.net","cc":"US","asname":"EKABI"}
 {"asn":401116,"rir":"arin","domain":"nybula.com","cc":"US","asname":"NYBULA"}
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
-{"type":"metadata","timestamp":1743161874,"size":26803,"records":303,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1743183474,"size":26626,"records":301,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
