@@ -10757,6 +10757,12 @@
   "network_border_group": "us-west-2"
 }
 {
+  "ip_prefix": "44.248.100.0/23",
+  "region": "us-west-2",
+  "service": "AMAZON",
+  "network_border_group": "us-west-2"
+}
+{
   "ip_prefix": "99.77.251.0/24",
   "region": "us-west-1",
   "service": "CHIME_VOICECONNECTOR",
