@@ -214,6 +214,7 @@
 {"asn":209737,"rir":"ripencc","domain":"meric.net.tr","cc":"TR","asname":"AS209737"}
 {"asn":210240,"rir":"ripencc","domain":"nts.center","cc":"RU","asname":"NTC-AS"}
 {"asn":210530,"rir":"ripencc","domain":"ipconnect.services","cc":"SC","asname":"ip2con"}
+{"asn":210644,"rir":"ripencc","domain":"aeza.net","cc":"RU","asname":"AEZA-AS"}
 {"asn":210756,"rir":"ripencc","domain":"62yun.com","cc":"RU","asname":"EdgeCenterLLC"}
 {"asn":210950,"rir":"ripencc","domain":"erishennya","cc":"UA","asname":"ERISHENNYA-ASN"}
 {"asn":211199,"rir":"ripencc","domain":"liptel.net.ua","cc":"UA","asname":"LIPTEL-AS"}
@@ -277,6 +278,7 @@
 {"asn":215826,"rir":"ripencc","domain":"altawk.com","cc":"UA","asname":"Partner-Hosting-LTD"}
 {"asn":215930,"rir":"ripencc","domain":"almaseabi.net","cc":"IR","asname":"COD"}
 {"asn":216240,"rir":"ripencc","domain":"mortalsoft.online","cc":"RS","asname":"MortalSoft"}
+{"asn":216246,"rir":"ripencc","domain":"aeza.net","cc":"RU","asname":"RU-AEZA-AS"}
 {"asn":216419,"rir":"ripencc","domain":"matrixllp","cc":"BR","asname":"AS-MATRIXTELECOM"}
 {"asn":266724,"rir":"lacnic","domain":"donserver.cl","cc":"CL","asname":"MYRIAM_PILAR_ESCOBAR_VEGA_(DON_SERVER)"}
 {"asn":327814,"rir":"afrinic","domain":"ecoband.net","cc":"GH","asname":"Ecoband"}
@@ -298,4 +300,4 @@
 {"asn":401115,"rir":"arin","domain":"ekabi.net","cc":"US","asname":"EKABI"}
 {"asn":401116,"rir":"arin","domain":"nybula.com","cc":"US","asname":"NYBULA"}
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
-{"type":"metadata","timestamp":1743831474,"size":26531,"records":300,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1743853074,"size":26694,"records":302,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
