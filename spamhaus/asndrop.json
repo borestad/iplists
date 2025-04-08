@@ -131,6 +131,7 @@
 {"asn":146999,"rir":"apnic","domain":"hellomails.com","cc":"IN","asname":"HELLOMAILS1-AS-AP"}
 {"asn":147186,"rir":"apnic","domain":"vcclhosting.com","cc":"IN","asname":"VCCLCLOUDPVTLTD-AS-AP"}
 {"asn":147211,"rir":"apnic","domain":"onlinepragathi.com","cc":"IN","asname":"PRAGATHI-AS-IN"}
+{"asn":147287,"rir":"apnic","domain":"dataparadise.net","cc":"IN","asname":"DATAPARA1-AS-IN"}
 {"asn":147291,"rir":"apnic","domain":"khalidgroup.co","cc":"PK","asname":"KHALIDGROUP-AS-AP"}
 {"asn":149181,"rir":"apnic","domain":"bhagwatsoft.in","cc":"IN","asname":"BHAGWAT-AS-IN"}
 {"asn":149197,"rir":"apnic","domain":"girdharicomp.in","cc":"IN","asname":"GIRDHARI-AS-IN"}
@@ -299,4 +300,4 @@
 {"asn":401115,"rir":"arin","domain":"ekabi.net","cc":"US","asname":"EKABI"}
 {"asn":401116,"rir":"arin","domain":"nybula.com","cc":"US","asname":"NYBULA"}
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
-{"type":"metadata","timestamp":1744092474,"size":26604,"records":301,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1744112274,"size":26698,"records":302,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
