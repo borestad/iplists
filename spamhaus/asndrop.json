@@ -52,6 +52,7 @@
 {"asn":47893,"rir":"ripencc","domain":"bignet.ua","cc":"UA","asname":"R-TEL-AS"}
 {"asn":47926,"rir":"ripencc","domain":"bignet.ua","cc":"UA","asname":"LIRUKRAINE"}
 {"asn":47945,"rir":"ripencc","domain":"bignet.ua","cc":"UA","asname":"R-TEL-AS"}
+{"asn":48090,"rir":"ripencc","domain":"pptechnology.cc","cc":"GB","asname":"DMZHOST"}
 {"asn":48198,"rir":"ripencc","domain":"avtotrans","cc":"UA","asname":"AVTOTRANS-EURO-AS"}
 {"asn":48589,"rir":"ripencc","domain":"imtigernet","cc":"GB","asname":"SOW-a-AS"}
 {"asn":49042,"rir":"ripencc","domain":"skb-enterprise.com","cc":"NL","asname":"PHANES-NETWORKS"}
@@ -303,4 +304,4 @@
 {"asn":401115,"rir":"arin","domain":"ekabi.net","cc":"US","asname":"EKABI"}
 {"asn":401116,"rir":"arin","domain":"nybula.com","cc":"US","asname":"NYBULA"}
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
-{"type":"metadata","timestamp":1744285074,"size":26944,"records":305,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1744306674,"size":27030,"records":306,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
