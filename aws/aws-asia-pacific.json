@@ -12035,6 +12035,12 @@
   "network_border_group": "ap-southeast-4"
 }
 {
+  "ip_prefix": "43.216.87.48/29",
+  "region": "ap-southeast-5",
+  "service": "EC2_INSTANCE_CONNECT",
+  "network_border_group": "ap-southeast-5"
+}
+{
   "ip_prefix": "43.199.26.124/31",
   "region": "ap-east-1",
   "service": "KINESIS_VIDEO_STREAMS",
