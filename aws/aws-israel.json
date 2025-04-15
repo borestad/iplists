@@ -53,6 +53,12 @@
   "network_border_group": "il-central-1"
 }
 {
+  "ip_prefix": "54.7.0.0/16",
+  "region": "il-central-1",
+  "service": "AMAZON",
+  "network_border_group": "il-central-1"
+}
+{
   "ip_prefix": "150.222.52.64/27",
   "region": "il-central-1",
   "service": "AMAZON",
@@ -138,6 +144,12 @@
 }
 {
   "ip_prefix": "16.165.0.0/16",
+  "region": "il-central-1",
+  "service": "AMAZON",
+  "network_border_group": "il-central-1"
+}
+{
+  "ip_prefix": "54.6.0.0/16",
   "region": "il-central-1",
   "service": "AMAZON",
   "network_border_group": "il-central-1"
