@@ -135,6 +135,7 @@
 {"asn":147287,"rir":"apnic","domain":"dataparadise.net","cc":"IN","asname":"DATAPARA1-AS-IN"}
 {"asn":147291,"rir":"apnic","domain":"khalidgroup.co","cc":"PK","asname":"KHALIDGROUP-AS-AP"}
 {"asn":149181,"rir":"apnic","domain":"bhagwatsoft.in","cc":"IN","asname":"BHAGWAT-AS-IN"}
+{"asn":149196,"rir":"apnic","domain":"zaifcomp.in","cc":"IN","asname":"ZAIFCOMP-AS-IN"}
 {"asn":149197,"rir":"apnic","domain":"girdharicomp.in","cc":"IN","asname":"GIRDHARI-AS-IN"}
 {"asn":149208,"rir":"apnic","domain":"telerakesh.in","cc":"IN","asname":"RAKESSEN-AS-IN"}
 {"asn":149242,"rir":"apnic","domain":"ananyacomp.in","cc":"IN","asname":"ANANYAA-AS-IN"}
@@ -260,6 +261,7 @@
 {"asn":214746,"rir":"ripencc","domain":"infiniroute.io","cc":"US","asname":"DNNET-NL"}
 {"asn":214799,"rir":"ripencc","domain":"infiniroute.io","cc":"US","asname":"ATLASHOST-AS"}
 {"asn":214820,"rir":"ripencc","domain":"infiniroute.io","cc":"US","asname":"SUMMITARC-AS"}
+{"asn":214860,"rir":"ripencc","domain":"wensliai.com","cc":"HK","asname":"STELLAR-GLOW-SERVICES"}
 {"asn":214927,"rir":"ripencc","domain":"psb.hosting","cc":"RU","asname":"PSB-AS"}
 {"asn":214940,"rir":"ripencc","domain":"pfcloud.io","cc":"DE","asname":"KPRONET"}
 {"asn":214943,"rir":"ripencc","domain":"railnet","cc":"US","asname":"RAILNET"}
@@ -303,4 +305,4 @@
 {"asn":401115,"rir":"arin","domain":"ekabi.net","cc":"US","asname":"EKABI"}
 {"asn":401116,"rir":"arin","domain":"nybula.com","cc":"US","asname":"NYBULA"}
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
-{"type":"metadata","timestamp":1744868274,"size":26931,"records":305,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1744889874,"size":27117,"records":307,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
