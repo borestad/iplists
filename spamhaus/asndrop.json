@@ -81,6 +81,7 @@
 {"asn":58854,"rir":"apnic","domain":"kaopuyun.com","cc":"CN","asname":"kaopy"}
 {"asn":59425,"rir":"ripencc","domain":"changway.hk","cc":"HK","asname":"HORIZONMSK-AS"}
 {"asn":59683,"rir":"ripencc","domain":"vip-net.net","cc":"RU","asname":"iridatelecom"}
+{"asn":60458,"rir":"ripencc","domain":"sered.net","cc":"ES","asname":"ASN-XTUDIONET"}
 {"asn":60842,"rir":"ripencc","domain":"62yun.com","cc":"RU","asname":"HUIZE-HOLDINGS-AS"}
 {"asn":61432,"rir":"ripencc","domain":"link-host.com","cc":"UA","asname":"VAIZ-AS"}
 {"asn":61879,"rir":"lacnic","domain":"aleducacional.com.br","cc":"BR","asname":"América_Latina_Educacional_Adm._e_Serviços_LTDA"}
@@ -205,6 +206,7 @@
 {"asn":206068,"rir":"ripencc","domain":"uplink.in.md","cc":"MD","asname":"HOSTING"}
 {"asn":206371,"rir":"ripencc","domain":"cantech.international","cc":"US","asname":"VISLOM-LIMITED"}
 {"asn":206728,"rir":"ripencc","domain":"sshvps.net","cc":"RU","asname":"MEDIALAND-AS"}
+{"asn":207046,"rir":"ripencc","domain":"sered.net","cc":"ES","asname":"redservicio"}
 {"asn":207084,"rir":"ripencc","domain":"ncryptd.net","cc":"GB","asname":"NCRYPTD"}
 {"asn":207088,"rir":"ripencc","domain":"adoard.com","cc":"RO","asname":"ADOARD"}
 {"asn":207566,"rir":"ripencc","domain":"changway.hk","cc":"HK","asname":"LD007-AS"}
@@ -226,11 +228,13 @@
 {"asn":211199,"rir":"ripencc","domain":"liptel.net.ua","cc":"UA","asname":"LIPTEL-AS"}
 {"asn":211238,"rir":"ripencc","domain":"zumy.eu","cc":"IN","asname":"DCYBER"}
 {"asn":211619,"rir":"ripencc","domain":"maxko.org","cc":"HR","asname":"MAXKO"}
+{"asn":211659,"rir":"ripencc","domain":"stimllc.ru","cc":"RU","asname":"STIMUL-AS"}
 {"asn":211673,"rir":"ripencc","domain":"mynymbox.io","cc":"KN","asname":"Mynymbox"}
 {"asn":211720,"rir":"ripencc","domain":"xor.sc","cc":"SC","asname":"DATASHIELD_CH"}
 {"asn":211762,"rir":"ripencc","domain":"fineproxy.org","cc":"RU","asname":"REGION40"}
 {"asn":211849,"rir":"ripencc","domain":"62yun.com","cc":"RU","asname":"KAKHAROV-AS"}
 {"asn":211922,"rir":"ripencc","domain":"ipconnect.services","cc":"SC","asname":"IPDISTR"}
+{"asn":212017,"rir":"ripencc","domain":"cubilloconstrucciones.com","cc":"ES","asname":"CUBILLO"}
 {"asn":212283,"rir":"ripencc","domain":"rosa-holidays.com","cc":"BG","asname":"ROZA-AS"}
 {"asn":212448,"rir":"ripencc","domain":"turkbil.com.tr","cc":"TR","asname":"turkbil"}
 {"asn":212651,"rir":"ripencc","domain":"d-conect","cc":"UA","asname":"D-CONECT-AS"}
@@ -246,6 +250,7 @@
 {"asn":213511,"rir":"ripencc","domain":"vonie.net","cc":"TR","asname":"VSVK"}
 {"asn":213622,"rir":"ripencc","domain":"baremetal.ae","cc":"AE","asname":"BAREMETAL"}
 {"asn":213676,"rir":"ripencc","domain":"eksenbilisim.com.tr","cc":"TR","asname":"NEO_INTERNET"}
+{"asn":213790,"rir":"ripencc","domain":"btcloud.ro","cc":"GB","asname":"LimitedNetwork-AS"}
 {"asn":213828,"rir":"ripencc","domain":"whitelabel.sh","cc":"IL","asname":"OXIWAVE-AS"}
 {"asn":213889,"rir":"ripencc","domain":"meric.net.tr","cc":"TR","asname":"AS209737"}
 {"asn":213921,"rir":"ripencc","domain":"davidascottmotorsltd","cc":"GB","asname":"DA-MOTORS-AS"}
@@ -305,4 +310,4 @@
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
 {"asn":401502,"rir":"arin","domain":"baremetal.ae","cc":"AE","asname":"AS-FALCON"}
 {"asn":401616,"rir":"arin","domain":"prv8net","cc":"PA","asname":"PNL"}
-{"type":"metadata","timestamp":1746509874,"size":27100,"records":307,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1746531474,"size":27544,"records":312,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
