@@ -220,6 +220,7 @@
 {"asn":209737,"rir":"ripencc","domain":"meric.net.tr","cc":"TR","asname":"AS209737"}
 {"asn":210240,"rir":"ripencc","domain":"nts.center","cc":"RU","asname":"NTC-AS"}
 {"asn":210530,"rir":"ripencc","domain":"ipconnect.services","cc":"SC","asname":"ip2con"}
+{"asn":210546,"rir":"ripencc","domain":"hostinux.com","cc":"UA","asname":"AS-WAF"}
 {"asn":210644,"rir":"ripencc","domain":"aeza.net","cc":"RU","asname":"AEZA-AS"}
 {"asn":210756,"rir":"ripencc","domain":"62yun.com","cc":"RU","asname":"EdgeCenterLLC"}
 {"asn":210848,"rir":"ripencc","domain":"server-panel.org","cc":"SC","asname":"TK-NET"}
@@ -239,6 +240,7 @@
 {"asn":212283,"rir":"ripencc","domain":"rosa-holidays.com","cc":"BG","asname":"ROZA-AS"}
 {"asn":212448,"rir":"ripencc","domain":"turkbil.com.tr","cc":"TR","asname":"turkbil"}
 {"asn":212651,"rir":"ripencc","domain":"d-conect","cc":"UA","asname":"D-CONECT-AS"}
+{"asn":212701,"rir":"ripencc","domain":"hostinux.com","cc":"UA","asname":"HOSTINUX-AS"}
 {"asn":212867,"rir":"ripencc","domain":"brutalproxies.com","cc":"NL","asname":"SIPALTO"}
 {"asn":213058,"rir":"ripencc","domain":"privateinternethosting","cc":"UA","asname":"PIHL-AS"}
 {"asn":213257,"rir":"ripencc","domain":"meric.net.tr","cc":"TR","asname":"AS213257"}
@@ -312,4 +314,4 @@
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
 {"asn":401502,"rir":"arin","domain":"baremetal.ae","cc":"AE","asname":"AS-FALCON"}
 {"asn":401616,"rir":"arin","domain":"prv8net","cc":"PA","asname":"PNL"}
-{"type":"metadata","timestamp":1746769074,"size":27725,"records":314,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1746790674,"size":27896,"records":316,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
