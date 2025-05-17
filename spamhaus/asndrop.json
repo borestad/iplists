@@ -110,6 +110,7 @@
 {"asn":132574,"rir":"arin","domain":"alphainfolab.com","cc":"IN","asname":"AI-1720-132574"}
 {"asn":132781,"rir":"apnic","domain":"karix.com","cc":"IN","asname":"UNICEL-AS"}
 {"asn":132827,"rir":"apnic","domain":"g-w.bz","cc":"JP","asname":"GATEWAY-AS-AP"}
+{"asn":132899,"rir":"apnic","domain":"urnets.com","cc":"TW","asname":"USL-AS-AP"}
 {"asn":132930,"rir":"apnic","domain":"herbalvedawellness.com","cc":"IN","asname":"HERBALVE-AS-IN"}
 {"asn":133320,"rir":"apnic","domain":"alphainfolab.com","cc":"IN","asname":"ALPHA-AS-AP"}
 {"asn":133488,"rir":"apnic","domain":"servicehk.net","cc":"HK","asname":"SERVICE-AS-AP"}
@@ -147,6 +148,7 @@
 {"asn":142062,"rir":"apnic","domain":"qlhost.cc","cc":"HK","asname":"HQTC-AS-AP"}
 {"asn":142430,"rir":"apnic","domain":"digivps.com","cc":"IN","asname":"DIGIVPS-AS-AP"}
 {"asn":142519,"rir":"apnic","domain":"smtpmailers.com","cc":"IN","asname":"SMTPM-AS-IN"}
+{"asn":146887,"rir":"apnic","domain":"noobtech.in","cc":"IN","asname":"NOOBTECH-AS-IN"}
 {"asn":146999,"rir":"apnic","domain":"hellomails.com","cc":"IN","asname":"HELLOMAILS1-AS-AP"}
 {"asn":147186,"rir":"apnic","domain":"vcclhosting.com","cc":"IN","asname":"VCCLCLOUDPVTLTD-AS-AP"}
 {"asn":147211,"rir":"apnic","domain":"onlinepragathi.com","cc":"IN","asname":"PRAGATHI-AS-IN"}
@@ -384,4 +386,4 @@
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
 {"asn":401502,"rir":"arin","domain":"baremetal.ae","cc":"AE","asname":"AS-FALCON"}
 {"asn":401616,"rir":"arin","domain":"prv8net","cc":"PA","asname":"PNL"}
-{"type":"metadata","timestamp":1747438674,"size":34193,"records":386,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1747462074,"size":34363,"records":388,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
