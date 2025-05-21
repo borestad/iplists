@@ -17639,6 +17639,24 @@
   "network_border_group": "us-west-2"
 }
 {
+  "ip_prefix": "18.97.33.128/25",
+  "region": "us-east-1",
+  "service": "AURORA_DSQL",
+  "network_border_group": "us-east-1"
+}
+{
+  "ip_prefix": "18.97.139.128/25",
+  "region": "us-east-2",
+  "service": "AURORA_DSQL",
+  "network_border_group": "us-east-2"
+}
+{
+  "ip_prefix": "18.98.20.128/25",
+  "region": "us-west-2",
+  "service": "AURORA_DSQL",
+  "network_border_group": "us-west-2"
+}
+{
   "ip_prefix": "44.216.41.152/29",
   "region": "us-east-1",
   "service": "MEDIA_PACKAGE_V2",
