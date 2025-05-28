@@ -5555,6 +5555,12 @@
   "network_border_group": "eu-west-1"
 }
 {
+  "ip_prefix": "35.55.16.0/24",
+  "region": "eu-central-1",
+  "service": "AMAZON",
+  "network_border_group": "eu-central-1"
+}
+{
   "ip_prefix": "52.144.210.128/26",
   "region": "eu-west-1",
   "service": "AMAZON",
@@ -7961,6 +7967,12 @@
   "network_border_group": "eu-west-1"
 }
 {
+  "ip_prefix": "35.55.16.0/24",
+  "region": "eu-central-1",
+  "service": "IVS_REALTIME",
+  "network_border_group": "eu-central-1"
+}
+{
   "ip_prefix": "52.129.130.0/24",
   "region": "eu-west-1",
   "service": "IVS_REALTIME",
@@ -9513,6 +9525,12 @@
   "region": "eu-south-1",
   "service": "EC2",
   "network_border_group": "eu-south-1"
+}
+{
+  "ip_prefix": "35.55.16.0/24",
+  "region": "eu-central-1",
+  "service": "EC2",
+  "network_border_group": "eu-central-1"
 }
 {
   "ip_prefix": "64.252.86.0/24",
