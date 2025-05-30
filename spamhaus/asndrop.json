@@ -217,7 +217,7 @@
 {"asn":203120,"rir":"ripencc","domain":"globtelgroup.com","cc":"US","asname":"GTGL"}
 {"asn":203346,"rir":"ripencc","domain":"propersupportmedia.com","cc":"GB","asname":"AS-232WEB"}
 {"asn":203624,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"COLOCATION-CORPO"}
-{"asn":203950,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"Corporate-Communications"}
+{"asn":203950,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"hosting"}
 {"asn":203959,"rir":"ripencc","domain":"bignet.ua","cc":"UA","asname":"DEM-AS"}
 {"asn":203999,"rir":"ripencc","domain":"gwhostinglabs.com","cc":"IN","asname":"GeekyWorks"}
 {"asn":204057,"rir":"ripencc","domain":"dcxv.com","cc":"LT","asname":"DCXV-AS"}
@@ -279,9 +279,9 @@
 {"asn":209883,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"CHISINAU"}
 {"asn":209889,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"Chisinau"}
 {"asn":209896,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"COLOCATION"}
-{"asn":209944,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"MDIX-FILTER-AS"}
+{"asn":209944,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"hosting"}
 {"asn":209945,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"MDIX"}
-{"asn":209961,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"MDIX"}
+{"asn":209961,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"Hosting"}
 {"asn":209963,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"Exchange"}
 {"asn":209982,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"peering"}
 {"asn":210027,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"HOSTING"}
@@ -387,4 +387,4 @@
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
 {"asn":401502,"rir":"arin","domain":"baremetal.ae","cc":"AE","asname":"AS-FALCON"}
 {"asn":401616,"rir":"arin","domain":"prv8net","cc":"PA","asname":"PNL"}
-{"type":"metadata","timestamp":1748540274,"size":34444,"records":389,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1748563674,"size":34423,"records":389,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
