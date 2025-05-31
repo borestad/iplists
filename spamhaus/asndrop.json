@@ -13,7 +13,7 @@
 {"asn":24567,"rir":"apnic","domain":"qtcloud.co.jp","cc":"JP","asname":"QTINC-AS-AP"}
 {"asn":25288,"rir":"ripencc","domain":"bignet.ua","cc":"UA","asname":"LIR-UKRAINE-AS"}
 {"asn":26561,"rir":"arin","domain":"mylir.co.uk","cc":"GB","asname":"NETRIDGE-LLC"}
-{"asn":26701,"rir":"arin","domain":"ncryptd.net","cc":"GB","asname":"NADS"}
+{"asn":26701,"rir":"arin","domain":"ncryptd.net","cc":"GB","asname":"AADS"}
 {"asn":27524,"rir":"arin","domain":"octalioninc.com","cc":"US","asname":"OCTALION"}
 {"asn":30490,"rir":"arin","domain":"ethr.net","cc":"US","asname":"ETHRN"}
 {"asn":32177,"rir":"arin","domain":"octalioninc.com","cc":"US","asname":"OCTALION"}
@@ -387,4 +387,4 @@
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
 {"asn":401502,"rir":"arin","domain":"baremetal.ae","cc":"AE","asname":"AS-FALCON"}
 {"asn":401616,"rir":"arin","domain":"prv8net","cc":"PA","asname":"PNL"}
-{"type":"metadata","timestamp":1748648274,"size":34423,"records":389,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1748669874,"size":34423,"records":389,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
