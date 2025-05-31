@@ -5,7 +5,6 @@
 {"asn":9164,"rir":"ripencc","domain":"bignet.ua","cc":"UA","asname":"R-TEL-AS"}
 {"asn":11331,"rir":"arin","domain":"us53.com","cc":"HK","asname":"BINNETSOL-APC"}
 {"asn":11938,"rir":"arin","domain":"ncryptd.net","cc":"GB","asname":"NCRYPTD"}
-{"asn":13875,"rir":"arin","domain":"mxfiber.com","cc":"HK","asname":"T-MOBILE-AS13875"}
 {"asn":17447,"rir":"apnic","domain":"net4india.com","cc":"IN","asname":"NET4-IN"}
 {"asn":22801,"rir":"arin","domain":"intap.net","cc":"US","asname":"INTAP-1"}
 {"asn":23865,"rir":"apnic","domain":"netinnovation.net","cc":"US","asname":"NETINNOVATIONLLC-AS-AP"}
@@ -387,4 +386,4 @@
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
 {"asn":401502,"rir":"arin","domain":"baremetal.ae","cc":"AE","asname":"AS-FALCON"}
 {"asn":401616,"rir":"arin","domain":"prv8net","cc":"PA","asname":"PNL"}
-{"type":"metadata","timestamp":1748691474,"size":34423,"records":389,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1748713074,"size":34335,"records":388,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
