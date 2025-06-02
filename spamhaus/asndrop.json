@@ -6,6 +6,7 @@
 {"asn":11331,"rir":"arin","domain":"us53.com","cc":"HK","asname":"BINNETSOL-APC"}
 {"asn":11938,"rir":"arin","domain":"ncryptd.net","cc":"GB","asname":"NCRYPTD"}
 {"asn":17447,"rir":"apnic","domain":"net4india.com","cc":"IN","asname":"NET4-IN"}
+{"asn":17994,"rir":"apnic","domain":"appserv.co.nz","cc":"NZ","asname":"ASL-AS-AP"}
 {"asn":22801,"rir":"arin","domain":"intap.net","cc":"US","asname":"INTAP-1"}
 {"asn":23865,"rir":"apnic","domain":"netinnovation.net","cc":"US","asname":"NETINNOVATIONLLC-AS-AP"}
 {"asn":24426,"rir":"apnic","domain":"myce.net.cn","cc":"CN","asname":"CNNIC-SINO-I"}
@@ -369,6 +370,7 @@
 {"asn":266724,"rir":"lacnic","domain":"donserver.cl","cc":"CL","asname":"MYRIAM_PILAR_ESCOBAR_VEGA_(DON_SERVER)"}
 {"asn":327837,"rir":"afrinic","domain":"seyix.sc","cc":"SC","asname":"SEY-IX-MANAGEMENT"}
 {"asn":328095,"rir":"afrinic","domain":"bluegate-exchange.co.za","cc":"ZA","asname":"BLUEGATE-EXCHANGE-AS"}
+{"asn":328819,"rir":"afrinic","domain":"bluecentrix.co.za","cc":"ZA","asname":"BPL-AS"}
 {"asn":328958,"rir":"afrinic","domain":"cybrscrb.com","cc":"SC","asname":"CL21-AS"}
 {"asn":329325,"rir":"afrinic","domain":"maxko.org","cc":"HR","asname":"Maxko-for-Gaming-Development"}
 {"asn":398638,"rir":"arin","domain":"jellydigital.net","cc":"US","asname":"JELLYDIGITAL"}
@@ -386,4 +388,4 @@
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
 {"asn":401502,"rir":"arin","domain":"baremetal.ae","cc":"AE","asname":"AS-FALCON"}
 {"asn":401616,"rir":"arin","domain":"prv8net","cc":"PA","asname":"PNL"}
-{"type":"metadata","timestamp":1748842674,"size":34335,"records":388,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1748864274,"size":34507,"records":390,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
