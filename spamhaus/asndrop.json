@@ -55,6 +55,7 @@
 {"asn":44589,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"Hosting"}
 {"asn":44774,"rir":"ripencc","domain":"62yun.com","cc":"RU","asname":"STARK"}
 {"asn":44801,"rir":"ripencc","domain":"bignet.ua","cc":"UA","asname":"R-TEL-AS"}
+{"asn":45753,"rir":"apnic","domain":"simcentric.com","cc":"HK","asname":"NETSEC-HK"}
 {"asn":46664,"rir":"arin","domain":"volumedrive.com","cc":"US","asname":"VDI-NETWORK"}
 {"asn":47500,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"BLACKHOLE-ASN"}
 {"asn":47893,"rir":"ripencc","domain":"bignet.ua","cc":"UA","asname":"R-TEL-AS"}
@@ -388,4 +389,4 @@
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
 {"asn":401502,"rir":"arin","domain":"baremetal.ae","cc":"AE","asname":"AS-FALCON"}
 {"asn":401616,"rir":"arin","domain":"prv8net","cc":"PA","asname":"PNL"}
-{"type":"metadata","timestamp":1748864274,"size":34507,"records":390,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1748885874,"size":34592,"records":391,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
