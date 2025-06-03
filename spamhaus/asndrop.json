@@ -107,6 +107,7 @@
 {"asn":62281,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"VIDEOMAG-AS"}
 {"asn":62864,"rir":"arin","domain":"netinnovation.net","cc":"US","asname":"NILAS"}
 {"asn":63881,"rir":"apnic","domain":"medianetdigital.co","cc":"ID","asname":"MDI-AS-ID"}
+{"asn":64160,"rir":"lacnic","domain":"innetra.com","cc":"GB","asname":"NimblyNet_Limited"}
 {"asn":64425,"rir":"ripencc","domain":"skb-enterprise.com","cc":"NL","asname":"SKB-Enterprise"}
 {"asn":131750,"rir":"apnic","domain":"sufia.tv","cc":"ID","asname":"SUFIANET-AS-ID"}
 {"asn":132574,"rir":"arin","domain":"alphainfolab.com","cc":"IN","asname":"AI-1720-132574"}
@@ -389,4 +390,4 @@
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
 {"asn":401502,"rir":"arin","domain":"baremetal.ae","cc":"AE","asname":"AS-FALCON"}
 {"asn":401616,"rir":"arin","domain":"prv8net","cc":"PA","asname":"PNL"}
-{"type":"metadata","timestamp":1748885874,"size":34592,"records":391,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1748907474,"size":34683,"records":392,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}

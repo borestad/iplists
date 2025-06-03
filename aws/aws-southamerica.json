@@ -149,6 +149,12 @@
   "network_border_group": "sa-east-1"
 }
 {
+  "ip_prefix": "35.55.26.0/24",
+  "region": "sa-east-1",
+  "service": "AMAZON",
+  "network_border_group": "sa-east-1"
+}
+{
   "ip_prefix": "56.124.128.0/17",
   "region": "sa-east-1",
   "service": "AMAZON",
@@ -371,6 +377,12 @@
   "network_border_group": "sa-east-1"
 }
 {
+  "ip_prefix": "35.55.27.0/24",
+  "region": "sa-east-1",
+  "service": "AMAZON",
+  "network_border_group": "sa-east-1"
+}
+{
   "ip_prefix": "15.251.0.25/32",
   "region": "sa-east-1",
   "service": "AMAZON",
@@ -486,6 +498,12 @@
 }
 {
   "ip_prefix": "15.221.132.0/22",
+  "region": "sa-east-1",
+  "service": "AMAZON",
+  "network_border_group": "sa-east-1"
+}
+{
+  "ip_prefix": "35.55.25.0/24",
   "region": "sa-east-1",
   "service": "AMAZON",
   "network_border_group": "sa-east-1"
@@ -881,6 +899,12 @@
   "network_border_group": "sa-east-1"
 }
 {
+  "ip_prefix": "35.55.26.0/24",
+  "region": "sa-east-1",
+  "service": "IVS_REALTIME",
+  "network_border_group": "sa-east-1"
+}
+{
   "ip_prefix": "35.50.176.0/24",
   "region": "sa-east-1",
   "service": "IVS_REALTIME",
@@ -888,6 +912,18 @@
 }
 {
   "ip_prefix": "35.50.177.0/24",
+  "region": "sa-east-1",
+  "service": "IVS_REALTIME",
+  "network_border_group": "sa-east-1"
+}
+{
+  "ip_prefix": "35.55.27.0/24",
+  "region": "sa-east-1",
+  "service": "IVS_REALTIME",
+  "network_border_group": "sa-east-1"
+}
+{
+  "ip_prefix": "35.55.25.0/24",
   "region": "sa-east-1",
   "service": "IVS_REALTIME",
   "network_border_group": "sa-east-1"
@@ -989,6 +1025,12 @@
   "network_border_group": "sa-east-1"
 }
 {
+  "ip_prefix": "35.55.26.0/24",
+  "region": "sa-east-1",
+  "service": "EC2",
+  "network_border_group": "sa-east-1"
+}
+{
   "ip_prefix": "99.77.234.0/24",
   "region": "sa-east-1",
   "service": "EC2",
@@ -1067,6 +1109,12 @@
   "network_border_group": "sa-east-1"
 }
 {
+  "ip_prefix": "35.55.27.0/24",
+  "region": "sa-east-1",
+  "service": "EC2",
+  "network_border_group": "sa-east-1"
+}
+{
   "ip_prefix": "64.252.80.0/24",
   "region": "sa-east-1",
   "service": "EC2",
@@ -1080,6 +1128,12 @@
 }
 {
   "ip_prefix": "54.232.0.0/16",
+  "region": "sa-east-1",
+  "service": "EC2",
+  "network_border_group": "sa-east-1"
+}
+{
+  "ip_prefix": "35.55.25.0/24",
   "region": "sa-east-1",
   "service": "EC2",
   "network_border_group": "sa-east-1"
