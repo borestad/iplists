@@ -363,7 +363,6 @@
 {"asn":215479,"rir":"ripencc","domain":"perfectonetworks.com","cc":"BR","asname":"PERFECTO-AS"}
 {"asn":215720,"rir":"ripencc","domain":"pfcloud.io","cc":"DE","asname":"SampuranBanerjee"}
 {"asn":215766,"rir":"ripencc","domain":"emanuelhosting.info","cc":"GB","asname":"EmanuelHosting"}
-{"asn":215789,"rir":"ripencc","domain":"rlab.kiev.ua","cc":"UA","asname":"KARINAR"}
 {"asn":215826,"rir":"ripencc","domain":"altawk.com","cc":"UA","asname":"Partner-Hosting-LTD"}
 {"asn":215930,"rir":"ripencc","domain":"almaseabi.net","cc":"IR","asname":"COD"}
 {"asn":216240,"rir":"ripencc","domain":"mortalsoft.online","cc":"RS","asname":"MortalSoft"}
@@ -390,4 +389,4 @@
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
 {"asn":401502,"rir":"arin","domain":"baremetal.ae","cc":"AE","asname":"AS-FALCON"}
 {"asn":401616,"rir":"arin","domain":"prv8net","cc":"PA","asname":"PNL"}
-{"type":"metadata","timestamp":1748972274,"size":34683,"records":392,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1748995674,"size":34599,"records":391,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
