@@ -11771,6 +11771,18 @@
   "network_border_group": "eu-central-1"
 }
 {
+  "ip_prefix": "18.101.90.56/31",
+  "region": "eu-south-2",
+  "service": "KINESIS_VIDEO_STREAMS",
+  "network_border_group": "eu-south-2"
+}
+{
+  "ip_prefix": "18.101.90.60/30",
+  "region": "eu-south-2",
+  "service": "KINESIS_VIDEO_STREAMS",
+  "network_border_group": "eu-south-2"
+}
+{
   "ip_prefix": "54.247.243.134/31",
   "region": "eu-west-1",
   "service": "KINESIS_VIDEO_STREAMS",
