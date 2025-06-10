@@ -378,7 +378,7 @@
 {"asn":398741,"rir":"arin","domain":"62yun.com","cc":"RU","asname":"AS-VERTEXLINK-01"}
 {"asn":398770,"rir":"arin","domain":"greatcommunications.net","cc":"US","asname":"TC"}
 {"asn":399979,"rir":"arin","domain":"493networking.cc","cc":"US","asname":"AS-493NETWORKING"}
-{"asn":400018,"rir":"arin","domain":"seacom.cc","cc":"US","asname":"CLOUD"}
+{"asn":400018,"rir":"arin","domain":"seacom.cc","cc":"US","asname":"ATT-ENTERPRISES-LLC"}
 {"asn":400171,"rir":"arin","domain":"alphainfolab.com","cc":"IN","asname":"AS-AINFO"}
 {"asn":400506,"rir":"arin","domain":"blackappleus.com","cc":"US","asname":"BAIAS"}
 {"asn":400992,"rir":"arin","domain":"62yun.com","cc":"RU","asname":"ZHOUYISAT-COMMUNICATIONS"}
@@ -389,4 +389,4 @@
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
 {"asn":401502,"rir":"arin","domain":"baremetal.ae","cc":"AE","asname":"AS-FALCON"}
 {"asn":401616,"rir":"arin","domain":"prv8net","cc":"PA","asname":"PNL"}
-{"type":"metadata","timestamp":1749125274,"size":34599,"records":391,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1749533874,"size":34613,"records":391,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
