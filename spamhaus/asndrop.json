@@ -57,6 +57,7 @@
 {"asn":44801,"rir":"ripencc","domain":"bignet.ua","cc":"UA","asname":"R-TEL-AS"}
 {"asn":45753,"rir":"apnic","domain":"simcentric.com","cc":"HK","asname":"NETSEC-HK"}
 {"asn":46664,"rir":"arin","domain":"volumedrive.com","cc":"US","asname":"VDI-NETWORK"}
+{"asn":47105,"rir":"ripencc","domain":"vaultdweller.net","cc":"EE","asname":"dedbropro"}
 {"asn":47500,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"BLACKHOLE-ASN"}
 {"asn":47893,"rir":"ripencc","domain":"bignet.ua","cc":"UA","asname":"R-TEL-AS"}
 {"asn":47926,"rir":"ripencc","domain":"bignet.ua","cc":"UA","asname":"LIRUKRAINE"}
@@ -82,7 +83,6 @@
 {"asn":51447,"rir":"ripencc","domain":"rootlayer.net","cc":"BD","asname":"ROOTLAYERNET"}
 {"asn":51490,"rir":"ripencc","domain":"propersupportmedia.com","cc":"GB","asname":"PROPER-AS"}
 {"asn":53958,"rir":"arin","domain":"auproxies.com","cc":"US","asname":"BART-BM"}
-{"asn":55020,"rir":"arin","domain":"laruscloudservices.com","cc":"US","asname":"IDCCLOUD"}
 {"asn":55748,"rir":"apnic","domain":"morsejp.com","cc":"JP","asname":"MORSE-JP"}
 {"asn":56291,"rir":"apnic","domain":"ace-idc.com","cc":"JP","asname":"ACE-AS-AP"}
 {"asn":56873,"rir":"ripencc","domain":"eliteteam.to","cc":"SC","asname":"ELITETEAM-ANTIDDOS"}
@@ -97,6 +97,7 @@
 {"asn":58854,"rir":"apnic","domain":"kaopuyun.com","cc":"CN","asname":"kaopy"}
 {"asn":59425,"rir":"ripencc","domain":"changway.hk","cc":"HK","asname":"HORIZONMSK-AS"}
 {"asn":59683,"rir":"ripencc","domain":"vip-net.net","cc":"RU","asname":"iridatelecom"}
+{"asn":59753,"rir":"ripencc","domain":"vaultdweller.net","cc":"EE","asname":"XHOSTIS-AS"}
 {"asn":59841,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"PUBLIC-DNS-ASN"}
 {"asn":60458,"rir":"ripencc","domain":"sered.net","cc":"ES","asname":"ASN-XTUDIONET"}
 {"asn":60581,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"REBDACONS-AS"}
@@ -201,6 +202,7 @@
 {"asn":202171,"rir":"ripencc","domain":"torero","cc":"UA","asname":"TORERO-AS"}
 {"asn":202267,"rir":"ripencc","domain":"dobrosvitkredo","cc":"UA","asname":"DOBROSVIT-AS"}
 {"asn":202302,"rir":"ripencc","domain":"s-host.com.ua","cc":"UA","asname":"NETH-AS"}
+{"asn":202306,"rir":"ripencc","domain":"hostglobal.plus","cc":"RU","asname":"HOSTGLOBALPLUS-AS"}
 {"asn":202318,"rir":"ripencc","domain":"ekoiniciative.pp.ua","cc":"UA","asname":"EKOINICIATIVE-AS"}
 {"asn":202383,"rir":"ripencc","domain":"el-k-stil","cc":"UA","asname":"EL-K-STIL-AS"}
 {"asn":202388,"rir":"ripencc","domain":"club-nadiya","cc":"UA","asname":"CLUB-NADIYA-AS"}
@@ -219,6 +221,7 @@
 {"asn":203120,"rir":"ripencc","domain":"globtelgroup.com","cc":"US","asname":"GTGL"}
 {"asn":203346,"rir":"ripencc","domain":"propersupportmedia.com","cc":"GB","asname":"AS-232WEB"}
 {"asn":203624,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"COLOCATION-CORPO"}
+{"asn":203834,"rir":"ripencc","domain":"vaultdweller.net","cc":"EE","asname":"dedbropro-as"}
 {"asn":203950,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"hosting"}
 {"asn":203959,"rir":"ripencc","domain":"bignet.ua","cc":"UA","asname":"DEM-AS"}
 {"asn":203999,"rir":"ripencc","domain":"gwhostinglabs.com","cc":"IN","asname":"GeekyWorks"}
@@ -389,4 +392,4 @@
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
 {"asn":401502,"rir":"arin","domain":"baremetal.ae","cc":"AE","asname":"AS-FALCON"}
 {"asn":401616,"rir":"arin","domain":"prv8net","cc":"PA","asname":"PNL"}
-{"type":"metadata","timestamp":1749555474,"size":34613,"records":391,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1749578874,"size":34891,"records":394,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
