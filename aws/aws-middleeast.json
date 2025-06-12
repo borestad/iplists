@@ -1427,6 +1427,18 @@
   "network_border_group": "me-south-1"
 }
 {
+  "ip_prefix": "16.24.91.116/31",
+  "region": "me-south-1",
+  "service": "KINESIS_VIDEO_STREAMS",
+  "network_border_group": "me-south-1"
+}
+{
+  "ip_prefix": "16.24.91.120/30",
+  "region": "me-south-1",
+  "service": "KINESIS_VIDEO_STREAMS",
+  "network_border_group": "me-south-1"
+}
+{
   "ip_prefix": "16.24.91.70/31",
   "region": "me-south-1",
   "service": "KINESIS_VIDEO_STREAMS",
