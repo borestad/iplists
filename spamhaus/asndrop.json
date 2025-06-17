@@ -353,7 +353,7 @@
 {"asn":214820,"rir":"ripencc","domain":"infiniroute.io","cc":"US","asname":"SUMMITARC-AS"}
 {"asn":214860,"rir":"ripencc","domain":"wensliai.com","cc":"HK","asname":"STELLAR-GLOW-SERVICES"}
 {"asn":214927,"rir":"ripencc","domain":"psb.hosting","cc":"RU","asname":"PSB-AS"}
-{"asn":214940,"rir":"ripencc","domain":"pfcloud.io","cc":"DE","asname":"KPRONET"}
+{"asn":214940,"rir":"ripencc","domain":"virtualine.org","cc":"GB","asname":"KPRONET"}
 {"asn":214943,"rir":"ripencc","domain":"railnet","cc":"US","asname":"RAILNET"}
 {"asn":215117,"rir":"ripencc","domain":"hosterdaddy.com","cc":"IN","asname":"HOSTERDADDY"}
 {"asn":215127,"rir":"ripencc","domain":"410-teapot","cc":"GB","asname":"TEAPOT"}
@@ -394,4 +394,4 @@
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
 {"asn":401502,"rir":"arin","domain":"baremetal.ae","cc":"AE","asname":"AS-FALCON"}
 {"asn":401616,"rir":"arin","domain":"prv8net","cc":"PA","asname":"PNL"}
-{"type":"metadata","timestamp":1750138674,"size":35062,"records":396,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1750162074,"size":35066,"records":396,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
