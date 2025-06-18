@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+set -eo pipefail
+
+cd "$(dirname $0)"
+TEMPFILE=$(mktemp)
+
+ASNS=(
+  714
+  6185
+)
+
+name=apple
+
+for asn in "${ASNS[@]}"
+do
+  curl --config ../.curlrc https://raw.githubusercontent.com/ipverse/asn-ip/master/as/$asn/ipv4-aggregated.txt -o $TEMPFILE.4.$asn
+  curl --config ../.curlrc https://raw.githubusercontent.com/ipverse/asn-ip/master/as/$asn/ipv6-aggregated.txt -o $TEMPFILE.6.$asn
+done
+
+cat $TEMPFILE.4.* | grepip | iprange >| $name.ipv4
+cat $TEMPFILE.6.* | grepip6 | cidr-merger >| $name.ipv6
+
