@@ -20,3 +20,7 @@ done
 cat $TEMPFILE.4.* | grepip | iprange >| $name.ipv4
 cat $TEMPFILE.6.* | grepip6 | cidr-merger >| $name.ipv6
 
+
+name=applebot
+curl --config ../.curlrc https://search.developer.apple.com/applebot.json -o $TEMPFILE.applebot
+grepip $TEMPFILE.applebot | iprange >| $name.ipv4
