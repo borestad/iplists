@@ -381,7 +381,6 @@
 {"asn":329325,"rir":"afrinic","domain":"maxko.org","cc":"HR","asname":"Maxko-for-Gaming-Development"}
 {"asn":398638,"rir":"arin","domain":"jellydigital.net","cc":"US","asname":"JELLYDIGITAL"}
 {"asn":398741,"rir":"arin","domain":"62yun.com","cc":"RU","asname":"AS-VERTEXLINK-01"}
-{"asn":398770,"rir":"arin","domain":"greatcommunications.net","cc":"US","asname":"TC"}
 {"asn":399979,"rir":"arin","domain":"493networking.cc","cc":"US","asname":"AS-493NETWORKING"}
 {"asn":400018,"rir":"arin","domain":"seacom.cc","cc":"US","asname":"ATT-ENTERPRISES-LLC"}
 {"asn":400171,"rir":"arin","domain":"alphainfolab.com","cc":"IN","asname":"AS-AINFO"}
@@ -394,4 +393,4 @@
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
 {"asn":401502,"rir":"arin","domain":"baremetal.ae","cc":"AE","asname":"AS-FALCON"}
 {"asn":401616,"rir":"arin","domain":"prv8net","cc":"PA","asname":"PNL"}
-{"type":"metadata","timestamp":1750333074,"size":35066,"records":396,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1750356474,"size":34979,"records":395,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
