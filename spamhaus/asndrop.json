@@ -100,7 +100,6 @@
 {"asn":59683,"rir":"ripencc","domain":"vip-net.net","cc":"RU","asname":"iridatelecom"}
 {"asn":59753,"rir":"ripencc","domain":"vaultdweller.net","cc":"EE","asname":"XHOSTIS-AS"}
 {"asn":59841,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"PUBLIC-DNS-ASN"}
-{"asn":60458,"rir":"ripencc","domain":"sered.net","cc":"ES","asname":"ASN-XTUDIONET"}
 {"asn":60581,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"REBDACONS-AS"}
 {"asn":60842,"rir":"ripencc","domain":"62yun.com","cc":"RU","asname":"HUIZE-HOLDINGS-AS"}
 {"asn":61432,"rir":"ripencc","domain":"link-host.com","cc":"UA","asname":"VAIZ-AS"}
@@ -265,7 +264,6 @@
 {"asn":206744,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"COLOCATION"}
 {"asn":206750,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"TRANZIT"}
 {"asn":206847,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"TRANZIT"}
-{"asn":207046,"rir":"ripencc","domain":"sered.net","cc":"ES","asname":"redservicio"}
 {"asn":207084,"rir":"ripencc","domain":"ncryptd.net","cc":"GB","asname":"NCRYPTD"}
 {"asn":207088,"rir":"ripencc","domain":"adoard.com","cc":"RO","asname":"ADOARD"}
 {"asn":207159,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"Hartum_TV_SRL"}
@@ -393,4 +391,4 @@
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
 {"asn":401502,"rir":"arin","domain":"baremetal.ae","cc":"AE","asname":"AS-FALCON"}
 {"asn":401616,"rir":"arin","domain":"prv8net","cc":"PA","asname":"PNL"}
-{"type":"metadata","timestamp":1750421274,"size":34979,"records":395,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1750441074,"size":34808,"records":393,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
