@@ -6366,9 +6366,9 @@
 }
 {
   "ip_prefix": "35.96.250.0/24",
-  "region": "eu-west-2",
+  "region": "eu-west-3",
   "service": "AMAZON",
-  "network_border_group": "eu-west-2"
+  "network_border_group": "eu-west-3"
 }
 {
   "ip_prefix": "54.240.236.70/32",
@@ -10038,9 +10038,9 @@
 }
 {
   "ip_prefix": "35.96.250.0/24",
-  "region": "eu-west-2",
+  "region": "eu-west-3",
   "service": "EC2",
-  "network_border_group": "eu-west-2"
+  "network_border_group": "eu-west-3"
 }
 {
   "ip_prefix": "13.154.0.0/16",
