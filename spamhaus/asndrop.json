@@ -72,6 +72,7 @@
 {"asn":49006,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"Systems"}
 {"asn":49042,"rir":"ripencc","domain":"skb-enterprise.com","cc":"NL","asname":"PHANES-NETWORKS"}
 {"asn":49217,"rir":"ripencc","domain":"hostype.com","cc":"TR","asname":"HOSTYPE"}
+{"asn":49418,"rir":"ripencc","domain":"chosting.solutions","cc":"UA","asname":"AS-NETSHIELD"}
 {"asn":49443,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"SISTEME"}
 {"asn":50138,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"CTC-ALFA-AS"}
 {"asn":50236,"rir":"ripencc","domain":"62yun.com","cc":"RU","asname":"Vertexlink_Communications"}
@@ -185,6 +186,7 @@
 {"asn":198571,"rir":"ripencc","domain":"plainproxies.com","cc":"DE","asname":"PlainProxies"}
 {"asn":198578,"rir":"ripencc","domain":"fiberlinkcc.com","cc":"US","asname":"ASFLRU"}
 {"asn":198953,"rir":"ripencc","domain":"proton66.ru","cc":"RU","asname":"proton66"}
+{"asn":198981,"rir":"ripencc","domain":"chosting.solutions","cc":"UA","asname":"NETSHIELD-BYOIP"}
 {"asn":199420,"rir":"ripencc","domain":"fly-group.ru","cc":"RU","asname":"FLYGROUP-AS"}
 {"asn":199598,"rir":"ripencc","domain":"fiberlinkcc.com","cc":"US","asname":"ASFBL"}
 {"asn":199654,"rir":"ripencc","domain":"oxide.host","cc":"GB","asname":"OXIDE-GROUP-LIMITED"}
@@ -391,4 +393,4 @@
 {"asn":401116,"rir":"arin","domain":"nybula.com","cc":"US","asname":"NYBULA"}
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
 {"asn":401616,"rir":"arin","domain":"prv8net","cc":"PA","asname":"PNL"}
-{"type":"metadata","timestamp":1751542674,"size":34867,"records":393,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1751564274,"size":35059,"records":395,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
