@@ -37,7 +37,7 @@
 {"asn":41155,"rir":"ripencc","domain":"orbittelekom.com","cc":"TR","asname":"orbitdc"}
 {"asn":41171,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"NETWORKS_RENT"}
 {"asn":41947,"rir":"ripencc","domain":"fly-group.ru","cc":"RU","asname":"WEBALTA-AS"}
-{"asn":42192,"rir":"ripencc","domain":"idodns.com","cc":"JP","asname":"Idodns"}
+{"asn":42192,"rir":"ripencc","domain":"idodns.com","cc":"JP","asname":"India"}
 {"asn":42419,"rir":"ripencc","domain":"tavriatrans.com.ua","cc":"UA","asname":"TAVRIA-TRANSSERVIS-AS"}
 {"asn":42505,"rir":"ripencc","domain":"bignet.ua","cc":"UA","asname":"R-TEL-AS"}
 {"asn":42624,"rir":"ripencc","domain":"simplecarrier.net","cc":"US","asname":"swissnetwork02"}
@@ -385,4 +385,4 @@
 {"asn":401116,"rir":"arin","domain":"nybula.com","cc":"US","asname":"NYBULA"}
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
 {"asn":401616,"rir":"arin","domain":"prv8net","cc":"PA","asname":"PNL"}
-{"type":"metadata","timestamp":1751477874,"size":34320,"records":387,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1751501274,"size":34319,"records":387,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
