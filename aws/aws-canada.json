@@ -11561,6 +11561,12 @@
   "network_border_group": "us-east-1"
 }
 {
+  "ip_prefix": "1.178.8.0/24",
+  "region": "us-east-2",
+  "service": "S3",
+  "network_border_group": "us-east-2"
+}
+{
   "ip_prefix": "3.141.102.208/28",
   "region": "us-east-2",
   "service": "S3",
