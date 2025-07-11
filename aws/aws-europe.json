@@ -7973,6 +7973,12 @@
   "network_border_group": "eu-west-3"
 }
 {
+  "ip_prefix": "1.178.10.0/24",
+  "region": "eu-central-1",
+  "service": "S3",
+  "network_border_group": "eu-central-1"
+}
+{
   "ip_prefix": "3.65.246.0/28",
   "region": "eu-central-1",
   "service": "S3",
