@@ -295,6 +295,7 @@
 {"asn":210530,"rir":"ripencc","domain":"ipconnect.services","cc":"SC","asname":"ip2con"}
 {"asn":210546,"rir":"ripencc","domain":"hostinux.com","cc":"UA","asname":"AS-WAF"}
 {"asn":210644,"rir":"ripencc","domain":"aeza.net","cc":"RU","asname":"AEZA-AS"}
+{"asn":210707,"rir":"ripencc","domain":"dadeh-pardazesh-boroumand-kerman","cc":"IR","asname":"Company"}
 {"asn":210756,"rir":"ripencc","domain":"62yun.com","cc":"RU","asname":"EdgeCenterLLC"}
 {"asn":210848,"rir":"ripencc","domain":"server-panel.org","cc":"SC","asname":"TK-NET"}
 {"asn":210919,"rir":"ripencc","domain":"idodns.com","cc":"JP","asname":"seacom"}
@@ -392,4 +393,4 @@
 {"asn":401116,"rir":"arin","domain":"nybula.com","cc":"US","asname":"NYBULA"}
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
 {"asn":401616,"rir":"arin","domain":"prv8net","cc":"PA","asname":"PNL"}
-{"type":"metadata","timestamp":1752428274,"size":34965,"records":394,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1752451674,"size":35069,"records":395,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
