@@ -5,8 +5,10 @@
 {"asn":9164,"rir":"ripencc","domain":"bignet.ua","cc":"UA","asname":"R-TEL-AS"}
 {"asn":11331,"rir":"arin","domain":"us53.com","cc":"HK","asname":"BINNETSOL-APC"}
 {"asn":11938,"rir":"arin","domain":"ncryptd.net","cc":"GB","asname":"NCRYPTD"}
+{"asn":14956,"rir":"arin","domain":"cloudzy.com","cc":"US","asname":"ROUTERHOSTING"}
 {"asn":17447,"rir":"apnic","domain":"net4india.com","cc":"IN","asname":"NET4-IN"}
 {"asn":17994,"rir":"apnic","domain":"appserv.co.nz","cc":"NZ","asname":"ASL-AS-AP"}
+{"asn":22295,"rir":"arin","domain":"advinservices.com","cc":"US","asname":"ADVIN"}
 {"asn":22801,"rir":"arin","domain":"intap.net","cc":"US","asname":"INTAP-1"}
 {"asn":23865,"rir":"apnic","domain":"netinnovation.net","cc":"US","asname":"NETINNOVATIONLLC-AS-AP"}
 {"asn":24426,"rir":"apnic","domain":"myce.net.cn","cc":"CN","asname":"CNNIC-SINO-I"}
@@ -248,6 +250,7 @@
 {"asn":206068,"rir":"ripencc","domain":"uplink.in.md","cc":"MD","asname":"HOSTING"}
 {"asn":206085,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"HOSTING"}
 {"asn":206127,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"MDA-HOSTING"}
+{"asn":206216,"rir":"ripencc","domain":"advinservices.com","cc":"US","asname":"ADVIN-AS"}
 {"asn":206305,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"HOSTING"}
 {"asn":206340,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"HOSTING"}
 {"asn":206371,"rir":"ripencc","domain":"cantech.international","cc":"US","asname":"VISLOM-LIMITED"}
@@ -362,6 +365,7 @@
 {"asn":215183,"rir":"ripencc","domain":"vaultdweller.net","cc":"EE","asname":"zhaikov-as"}
 {"asn":215310,"rir":"ripencc","domain":"pfcloud.io","cc":"DE","asname":"USERCLOUD"}
 {"asn":215376,"rir":"ripencc","domain":"sshvps.net","cc":"RU","asname":"mlcloud"}
+{"asn":215381,"rir":"ripencc","domain":"rockhoster.com","cc":"IN","asname":"RockHoster"}
 {"asn":215420,"rir":"ripencc","domain":"sircrosar.net","cc":"GB","asname":"JAMIEFREE"}
 {"asn":215436,"rir":"ripencc","domain":"infiniroute.io","cc":"US","asname":"WHITELABELNETWORKS"}
 {"asn":215460,"rir":"ripencc","domain":"infiniroute.io","cc":"US","asname":"DANIEL"}
@@ -395,4 +399,4 @@
 {"asn":401116,"rir":"arin","domain":"nybula.com","cc":"US","asname":"NYBULA"}
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
 {"asn":401616,"rir":"arin","domain":"prv8net","cc":"PA","asname":"PNL"}
-{"type":"metadata","timestamp":1752557874,"size":35284,"records":397,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1752581274,"size":35631,"records":401,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
