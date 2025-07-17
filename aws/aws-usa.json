@@ -14159,6 +14159,12 @@
   "network_border_group": "us-east-1-mci-1"
 }
 {
+  "ip_prefix": "16.144.0.0/16",
+  "region": "us-west-2",
+  "service": "EC2",
+  "network_border_group": "us-west-2"
+}
+{
   "ip_prefix": "35.96.33.0/24",
   "region": "us-west-1",
   "service": "EC2",
@@ -14733,6 +14739,12 @@
   "region": "us-east-1",
   "service": "EC2",
   "network_border_group": "us-east-1-iah-2"
+}
+{
+  "ip_prefix": "16.145.0.0/16",
+  "region": "us-west-2",
+  "service": "EC2",
+  "network_border_group": "us-west-2"
 }
 {
   "ip_prefix": "35.96.15.0/24",
