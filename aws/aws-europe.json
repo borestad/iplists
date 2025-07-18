@@ -6461,6 +6461,12 @@
   "network_border_group": "eu-west-2"
 }
 {
+  "ip_prefix": "80.126.0.0/24",
+  "region": "eu-north-1",
+  "service": "AMAZON",
+  "network_border_group": "eu-north-1"
+}
+{
   "ip_prefix": "15.230.15.16/32",
   "region": "eu-central-1",
   "service": "AMAZON",
