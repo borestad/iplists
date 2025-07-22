@@ -8831,6 +8831,12 @@
   "network_border_group": "eu-south-2"
 }
 {
+  "ip_prefix": "15.216.0.0/16",
+  "region": "eu-south-2",
+  "service": "EC2",
+  "network_border_group": "eu-south-2"
+}
+{
   "ip_prefix": "52.95.255.128/28",
   "region": "eu-central-1",
   "service": "EC2",
@@ -8937,6 +8943,12 @@
   "region": "eu-west-1",
   "service": "EC2",
   "network_border_group": "eu-west-1"
+}
+{
+  "ip_prefix": "15.217.0.0/16",
+  "region": "eu-south-2",
+  "service": "EC2",
+  "network_border_group": "eu-south-2"
 }
 {
   "ip_prefix": "99.77.55.25/32",
