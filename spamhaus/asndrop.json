@@ -280,6 +280,7 @@
 {"asn":208312,"rir":"ripencc","domain":"changway.hk","cc":"HK","asname":"redbytes"}
 {"asn":208485,"rir":"ripencc","domain":"eksenbilisim.com.tr","cc":"TR","asname":"EKSENBILISIM"}
 {"asn":209121,"rir":"ripencc","domain":"liptel.net.ua","cc":"UA","asname":"NOVYTSKA-AS"}
+{"asn":209298,"rir":"ripencc","domain":"pinaton.ru","cc":"RU","asname":"PINATON-AS"}
 {"asn":209309,"rir":"ripencc","domain":"changway.hk","cc":"HK","asname":"ONIKS-AS"}
 {"asn":209375,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"TRANZIT"}
 {"asn":209396,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"HOSTING"}
@@ -400,4 +401,4 @@
 {"asn":401116,"rir":"arin","domain":"nybula.com","cc":"US","asname":"NYBULA"}
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
 {"asn":401616,"rir":"arin","domain":"prv8net","cc":"PA","asname":"PNL"}
-{"type":"metadata","timestamp":1753249130,"size":35713,"records":402,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1753270674,"size":35798,"records":403,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
