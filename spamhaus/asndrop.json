@@ -237,7 +237,6 @@
 {"asn":205083,"rir":"ripencc","domain":"xor.sc","cc":"SC","asname":"DATASHIELD_FILTER"}
 {"asn":205124,"rir":"ripencc","domain":"uplink.in.md","cc":"MD","asname":"COLOCATION"}
 {"asn":205301,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"COLOCATION"}
-{"asn":205663,"rir":"arin","domain":"isofone.com","cc":"SE","asname":"ICL-256-205663"}
 {"asn":205770,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"AUTOMATICA"}
 {"asn":205835,"rir":"ripencc","domain":"uplink.in.md","cc":"MD","asname":"COLOCATION"}
 {"asn":205884,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"LexistarAllianceLTD"}
@@ -398,4 +397,4 @@
 {"asn":401116,"rir":"arin","domain":"nybula.com","cc":"US","asname":"NYBULA"}
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
 {"asn":401616,"rir":"arin","domain":"prv8net","cc":"PA","asname":"PNL"}
-{"type":"metadata","timestamp":1753464790,"size":35537,"records":400,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1753489990,"size":35450,"records":399,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
