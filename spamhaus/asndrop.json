@@ -24,6 +24,7 @@
 {"asn":34888,"rir":"ripencc","domain":"simplecarrier.net","cc":"US","asname":"swissnetwork01"}
 {"asn":34985,"rir":"apnic","domain":"netinnovation.net","cc":"US","asname":"NETINNOVATIONLLC-AS-AP"}
 {"asn":35346,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"EUROTELECOM"}
+{"asn":35478,"rir":"ripencc","domain":"bunea.eu","cc":"RO","asname":"DATACENTER"}
 {"asn":35624,"rir":"ripencc","domain":"fineproxy.org","cc":"RU","asname":"SILVERSTAR-AS"}
 {"asn":35718,"rir":"ripencc","domain":"naunet.ru","cc":"RU","asname":"NAUNET-AS"}
 {"asn":35830,"rir":"ripencc","domain":"fineproxy.org","cc":"RU","asname":"BTTGROUP-AS"}
@@ -41,6 +42,7 @@
 {"asn":41171,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"NETWORKS_RENT"}
 {"asn":41947,"rir":"ripencc","domain":"fly-group.ru","cc":"RU","asname":"WEBALTA-AS"}
 {"asn":42192,"rir":"ripencc","domain":"idodns.com","cc":"JP","asname":"India"}
+{"asn":42397,"rir":"ripencc","domain":"bunea.eu","cc":"RO","asname":"BUNEA-HIGH-VOLUME-NETWORK"}
 {"asn":42419,"rir":"ripencc","domain":"tavriatrans.com.ua","cc":"UA","asname":"TAVRIA-TRANSSERVIS-AS"}
 {"asn":42505,"rir":"ripencc","domain":"bignet.ua","cc":"UA","asname":"R-TEL-AS"}
 {"asn":42624,"rir":"ripencc","domain":"simplecarrier.net","cc":"US","asname":"swissnetwork02"}
@@ -63,6 +65,7 @@
 {"asn":46664,"rir":"arin","domain":"volumedrive.com","cc":"US","asname":"VDI-NETWORK"}
 {"asn":47105,"rir":"ripencc","domain":"vaultdweller.net","cc":"EE","asname":"dedbropro"}
 {"asn":47500,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"BLACKHOLE-ASN"}
+{"asn":47890,"rir":"ripencc","domain":"bunea.eu","cc":"RO","asname":"UNMANAGED-DEDICATED-SERVERS"}
 {"asn":47893,"rir":"ripencc","domain":"bignet.ua","cc":"UA","asname":"R-TEL-AS"}
 {"asn":47926,"rir":"ripencc","domain":"bignet.ua","cc":"UA","asname":"LIRUKRAINE"}
 {"asn":47945,"rir":"ripencc","domain":"bignet.ua","cc":"UA","asname":"R-TEL-AS"}
@@ -106,6 +109,7 @@
 {"asn":61432,"rir":"ripencc","domain":"link-host.com","cc":"UA","asname":"VAIZ-AS"}
 {"asn":61879,"rir":"lacnic","domain":"aleducacional.com.br","cc":"BR","asname":"América_Latina_Educacional_Adm._e_Serviços_LTDA"}
 {"asn":62281,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"VIDEOMAG-AS"}
+{"asn":62380,"rir":"ripencc","domain":"bunea.eu","cc":"RO","asname":"BUNEA-HIGH-PEER-NETWORK"}
 {"asn":62864,"rir":"arin","domain":"netinnovation.net","cc":"US","asname":"NILAS"}
 {"asn":63881,"rir":"apnic","domain":"medianetdigital.co","cc":"ID","asname":"MDI-AS-ID"}
 {"asn":64425,"rir":"ripencc","domain":"skb-enterprise.com","cc":"NL","asname":"SKB-Enterprise"}
@@ -397,4 +401,4 @@
 {"asn":401116,"rir":"arin","domain":"nybula.com","cc":"US","asname":"NYBULA"}
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
 {"asn":401616,"rir":"arin","domain":"prv8net","cc":"PA","asname":"PNL"}
-{"type":"metadata","timestamp":1753767190,"size":35450,"records":399,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1753790590,"size":35823,"records":403,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
