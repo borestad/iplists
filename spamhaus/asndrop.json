@@ -8,7 +8,6 @@
 {"asn":14956,"rir":"arin","domain":"cloudzy.com","cc":"US","asname":"ROUTERHOSTING"}
 {"asn":17447,"rir":"apnic","domain":"net4india.com","cc":"IN","asname":"NET4-IN"}
 {"asn":17994,"rir":"apnic","domain":"appserv.co.nz","cc":"NZ","asname":"ASL-AS-AP"}
-{"asn":22295,"rir":"arin","domain":"advinservices.com","cc":"US","asname":"ADVIN"}
 {"asn":22801,"rir":"arin","domain":"intap.net","cc":"US","asname":"INTAP-1"}
 {"asn":23865,"rir":"apnic","domain":"netinnovation.net","cc":"US","asname":"NETINNOVATIONLLC-AS-AP"}
 {"asn":24426,"rir":"apnic","domain":"myce.net.cn","cc":"CN","asname":"CNNIC-SINO-I"}
@@ -250,7 +249,6 @@
 {"asn":206068,"rir":"ripencc","domain":"uplink.in.md","cc":"MD","asname":"HOSTING"}
 {"asn":206085,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"HOSTING"}
 {"asn":206127,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"MDA-HOSTING"}
-{"asn":206216,"rir":"ripencc","domain":"advinservices.com","cc":"US","asname":"ADVIN-AS"}
 {"asn":206305,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"HOSTING"}
 {"asn":206340,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"HOSTING"}
 {"asn":206371,"rir":"ripencc","domain":"cantech.international","cc":"US","asname":"VISLOM-LIMITED"}
@@ -387,6 +385,7 @@
 {"asn":328095,"rir":"afrinic","domain":"bluegate-exchange.co.za","cc":"ZA","asname":"BLUEGATE-EXCHANGE-AS"}
 {"asn":328819,"rir":"afrinic","domain":"bluecentrix.co.za","cc":"ZA","asname":"BPL-AS"}
 {"asn":328958,"rir":"afrinic","domain":"cybrscrb.com","cc":"SC","asname":"CL21-AS"}
+{"asn":329007,"rir":"afrinic","domain":"elende.ao","cc":"AO","asname":"ELENDE"}
 {"asn":329325,"rir":"afrinic","domain":"maxko.org","cc":"HR","asname":"Maxko-for-Gaming-Development"}
 {"asn":398638,"rir":"arin","domain":"jellydigital.net","cc":"US","asname":"JELLYDIGITAL"}
 {"asn":398741,"rir":"arin","domain":"62yun.com","cc":"RU","asname":"AS-VERTEXLINK-01"}
@@ -402,4 +401,4 @@
 {"asn":401116,"rir":"arin","domain":"nybula.com","cc":"US","asname":"NYBULA"}
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
 {"asn":401616,"rir":"arin","domain":"prv8net","cc":"PA","asname":"PNL"}
-{"type":"metadata","timestamp":1753939990,"size":35918,"records":404,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1753961590,"size":35825,"records":403,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
