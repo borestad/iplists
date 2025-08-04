@@ -371,6 +371,7 @@
 {"asn":215176,"rir":"ripencc","domain":"secureanalitics.com","cc":"GB","asname":"HOSTINGMEDIAVPNLTD"}
 {"asn":215183,"rir":"ripencc","domain":"vaultdweller.net","cc":"EE","asname":"zhaikov-as"}
 {"asn":215310,"rir":"ripencc","domain":"pfcloud.io","cc":"DE","asname":"USERCLOUD"}
+{"asn":215340,"rir":"ripencc","domain":"62yun.com","cc":"RU","asname":"MySim-Nigeria"}
 {"asn":215376,"rir":"ripencc","domain":"sshvps.net","cc":"RU","asname":"mlcloud"}
 {"asn":215381,"rir":"ripencc","domain":"rockhoster.com","cc":"IN","asname":"RockHoster"}
 {"asn":215420,"rir":"ripencc","domain":"sircrosar.net","cc":"GB","asname":"JAMIEFREE"}
@@ -411,4 +412,4 @@
 {"asn":401616,"rir":"arin","domain":"prv8net","cc":"PA","asname":"PNL"}
 {"asn":401696,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD"}
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
-{"type":"metadata","timestamp":1754242391,"size":36696,"records":413,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1754265790,"size":36783,"records":414,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
