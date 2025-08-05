@@ -11,8 +11,10 @@
 {"asn":22801,"rir":"arin","domain":"intap.net","cc":"US","asname":"INTAP-1"}
 {"asn":23865,"rir":"apnic","domain":"netinnovation.net","cc":"US","asname":"NETINNOVATIONLLC-AS-AP"}
 {"asn":24426,"rir":"apnic","domain":"myce.net.cn","cc":"CN","asname":"CNNIC-SINO-I"}
+{"asn":24544,"rir":"apnic","domain":"cloudie.hk","cc":"HK","asname":"Overcasts-AS-AP"}
 {"asn":24567,"rir":"apnic","domain":"qtcloud.co.jp","cc":"JP","asname":"QTINC-AS-AP"}
 {"asn":25288,"rir":"ripencc","domain":"bignet.ua","cc":"UA","asname":"LIR-UKRAINE-AS"}
+{"asn":25862,"rir":"arin","domain":"cloudie.hk","cc":"HK","asname":"ISNX"}
 {"asn":26561,"rir":"arin","domain":"mylir.co.uk","cc":"GB","asname":"NETRIDGE-LLC"}
 {"asn":26701,"rir":"arin","domain":"ncryptd.net","cc":"GB","asname":"AADS"}
 {"asn":27524,"rir":"arin","domain":"octalioninc.com","cc":"US","asname":"OCTALION"}
@@ -31,6 +33,7 @@
 {"asn":38149,"rir":"apnic","domain":"bakrietelecom.com","cc":"ID","asname":"RATELINDONET-AS-ID"}
 {"asn":38337,"rir":"apnic","domain":"niutelecom.com","cc":"CN","asname":"CNNIC-NTNet"}
 {"asn":38462,"rir":"apnic","domain":"oce.ne.jp","cc":"JP","asname":"OCE-AS-AP"}
+{"asn":38871,"rir":"apnic","domain":"cloudie.hk","cc":"HK","asname":"InfoMove-HK-AP"}
 {"asn":38946,"rir":"ripencc","domain":"bignet.ua","cc":"UA","asname":"SMARTMEDIANETWORK-1-AS"}
 {"asn":39690,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"HOSTING"}
 {"asn":39720,"rir":"ripencc","domain":"darkclub.com.ua","cc":"UA","asname":"MANILICH-AS"}
@@ -91,6 +94,7 @@
 {"asn":51490,"rir":"ripencc","domain":"propersupportmedia.com","cc":"GB","asname":"PROPER-AS"}
 {"asn":53958,"rir":"arin","domain":"auproxies.com","cc":"US","asname":"BART-BM"}
 {"asn":55748,"rir":"apnic","domain":"morsejp.com","cc":"JP","asname":"MORSE-JP"}
+{"asn":55933,"rir":"apnic","domain":"cloudie.hk","cc":"HK","asname":"CLOUDIE-AS-AP"}
 {"asn":56291,"rir":"apnic","domain":"ace-idc.com","cc":"JP","asname":"ACE-AS-AP"}
 {"asn":56873,"rir":"ripencc","domain":"eliteteam.to","cc":"SC","asname":"ELITETEAM-ANTIDDOS"}
 {"asn":57415,"rir":"ripencc","domain":"bignet.ua","cc":"UA","asname":"R-TEL-AS"}
@@ -121,18 +125,24 @@
 {"asn":133488,"rir":"apnic","domain":"servicehk.net","cc":"HK","asname":"SERVICE-AS-AP"}
 {"asn":133668,"rir":"apnic","domain":"eikontech.net","cc":"IN","asname":"INFOBB-AS-IN"}
 {"asn":133692,"rir":"apnic","domain":"fastnetcpl.com","cc":"IN","asname":"Fastnet-AS-IN"}
+{"asn":133731,"rir":"apnic","domain":"cloudie.hk","cc":"HK","asname":"CLOUDIE-AS-AP"}
 {"asn":133994,"rir":"apnic","domain":"rmhospitality.co.in","cc":"IN","asname":"RMHOSPITALITY-AS-IN"}
+{"asn":134121,"rir":"apnic","domain":"itsidc.com","cc":"HK","asname":"RAINBOW-HK"}
+{"asn":134176,"rir":"apnic","domain":"cloudie.hk","cc":"HK","asname":"CLOUDIE-AS-AP"}
+{"asn":134196,"rir":"apnic","domain":"cloudie.hk","cc":"HK","asname":"ANYUN-INTERNET-TECHNOLOGY-HK-CO-LIMITED"}
 {"asn":135271,"rir":"apnic","domain":"globtelgroup.com","cc":"US","asname":"GLOBTELGROUP-AS-AP"}
 {"asn":135752,"rir":"apnic","domain":"evokedigital.in","cc":"IN","asname":"EVOKEDS-AS"}
 {"asn":136231,"rir":"apnic","domain":"kaopuyun.com","cc":"CN","asname":"KAOPU-HK"}
 {"asn":136367,"rir":"apnic","domain":"herbzoothealthcare.co.in","cc":"IN","asname":"HERBZOOT-AS-IN"}
 {"asn":136923,"rir":"apnic","domain":"thestack.net","cc":"HK","asname":"WIT-AS-AP"}
 {"asn":137156,"rir":"apnic","domain":"blueberrywebs.com","cc":"IN","asname":"BLUEB-AS"}
+{"asn":137508,"rir":"apnic","domain":"itsidc.com","cc":"HK","asname":"RAINBOWIDC-AS-AP"}
 {"asn":138643,"rir":"apnic","domain":"hitel.com.kh","cc":"KH","asname":"CXICL-AS-AP"}
 {"asn":138687,"rir":"apnic","domain":"xdeer.com","cc":"HK","asname":"XDEER-AS-AP"}
 {"asn":138749,"rir":"apnic","domain":"robustedge.com","cc":"IN","asname":"ROBUSTED-AS-IN"}
 {"asn":138808,"rir":"apnic","domain":"intechmandiri.com","cc":"ID","asname":"INTECHMANDIRI-AS-ID"}
 {"asn":138915,"rir":"apnic","domain":"kaopuyun.com","cc":"CN","asname":"KAOPU-HK"}
+{"asn":138968,"rir":"apnic","domain":"itsidc.com","cc":"HK","asname":"RAINBOWIDC-AS-AP"}
 {"asn":139660,"rir":"apnic","domain":"obhost.org","cc":"PK","asname":"OBHOST-AS-AP"}
 {"asn":139789,"rir":"apnic","domain":"zumy.eu","cc":"IN","asname":"ZUMY-AS-AP"}
 {"asn":140125,"rir":"apnic","domain":"cyberauticssoftwares.co.in","cc":"IN","asname":"CYBERAUTICS-AS-IN"}
@@ -279,6 +289,7 @@
 {"asn":208312,"rir":"ripencc","domain":"changway.hk","cc":"HK","asname":"redbytes"}
 {"asn":208317,"rir":"ripencc","domain":"kontrast.md","cc":"MD","asname":"SF-digitalservices"}
 {"asn":208485,"rir":"ripencc","domain":"eksenbilisim.com.tr","cc":"TR","asname":"EKSENBILISIM"}
+{"asn":208525,"rir":"ripencc","domain":"cloudie.hk","cc":"HK","asname":"AIRULIMITED"}
 {"asn":209121,"rir":"ripencc","domain":"liptel.net.ua","cc":"UA","asname":"NOVYTSKA-AS"}
 {"asn":209290,"rir":"ripencc","domain":"galeonllc.ru","cc":"RU","asname":"GALEON-AS"}
 {"asn":209298,"rir":"ripencc","domain":"pinaton.ru","cc":"RU","asname":"PINATON-AS"}
@@ -370,6 +381,7 @@
 {"asn":215176,"rir":"ripencc","domain":"secureanalitics.com","cc":"GB","asname":"HOSTINGMEDIAVPNLTD"}
 {"asn":215183,"rir":"ripencc","domain":"vaultdweller.net","cc":"EE","asname":"zhaikov-as"}
 {"asn":215310,"rir":"ripencc","domain":"pfcloud.io","cc":"DE","asname":"USERCLOUD"}
+{"asn":215311,"rir":"ripencc","domain":"regxa.iq","cc":"IQ","asname":"REGXA-CLOUD"}
 {"asn":215340,"rir":"ripencc","domain":"62yun.com","cc":"RU","asname":"MySim-Nigeria"}
 {"asn":215376,"rir":"ripencc","domain":"sshvps.net","cc":"RU","asname":"mlcloud"}
 {"asn":215381,"rir":"ripencc","domain":"rockhoster.com","cc":"IN","asname":"RockHoster"}
@@ -411,4 +423,4 @@
 {"asn":401616,"rir":"arin","domain":"prv8net","cc":"PA","asname":"PNL"}
 {"asn":401696,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD"}
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
-{"type":"metadata","timestamp":1754371990,"size":36698,"records":413,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1754395391,"size":37746,"records":425,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
