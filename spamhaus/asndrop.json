@@ -215,7 +215,6 @@
 {"asn":202470,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"CLOUD"}
 {"asn":202481,"rir":"ripencc","domain":"reapolis","cc":"UA","asname":"REAPOLIS-AS"}
 {"asn":202511,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"HOSTING"}
-{"asn":202685,"rir":"ripencc","domain":"pfcloud.io","cc":"DE","asname":"as-pfcloud"}
 {"asn":202822,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"Upnet-iT-SRL"}
 {"asn":202943,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"SC_SnL_Panifcom_SRL"}
 {"asn":202960,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"DONTU-PRIM-AS"}
@@ -412,4 +411,4 @@
 {"asn":401616,"rir":"arin","domain":"prv8net","cc":"PA","asname":"PNL"}
 {"asn":401696,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD"}
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
-{"type":"metadata","timestamp":1754328790,"size":36783,"records":414,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1754352191,"size":36698,"records":413,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
