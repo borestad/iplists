@@ -284,6 +284,7 @@
 {"asn":207238,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"TVNET"}
 {"asn":207246,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"NETSAT_DV"}
 {"asn":207566,"rir":"ripencc","domain":"changway.hk","cc":"HK","asname":"LD007-AS"}
+{"asn":207812,"rir":"ripencc","domain":"dm-auto.eu","cc":"BG","asname":"DM_AUTO"}
 {"asn":207957,"rir":"ripencc","domain":"serv.host","cc":"UA","asname":"ServHost-AS"}
 {"asn":208198,"rir":"ripencc","domain":"eksenbilisim.com.tr","cc":"TR","asname":"Mavi-NET"}
 {"asn":208312,"rir":"ripencc","domain":"changway.hk","cc":"HK","asname":"redbytes"}
@@ -422,4 +423,4 @@
 {"asn":401616,"rir":"arin","domain":"prv8net","cc":"PA","asname":"PNL"}
 {"asn":401696,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD"}
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
-{"type":"metadata","timestamp":1754890390,"size":37663,"records":424,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1754911990,"size":37745,"records":425,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
