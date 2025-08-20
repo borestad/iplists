@@ -35,6 +35,12 @@
   "network_border_group": "ap-southeast-1"
 }
 {
+  "ip_prefix": "216.244.32.0/22",
+  "region": "ap-east-1",
+  "service": "AMAZON",
+  "network_border_group": "ap-east-1"
+}
+{
   "ip_prefix": "3.108.0.0/14",
   "region": "ap-south-1",
   "service": "AMAZON",
@@ -4517,6 +4523,12 @@
   "network_border_group": "ap-northeast-1"
 }
 {
+  "ip_prefix": "216.244.36.0/23",
+  "region": "ap-northeast-1",
+  "service": "AMAZON",
+  "network_border_group": "ap-northeast-1"
+}
+{
   "ip_prefix": "52.64.128.0/17",
   "region": "ap-southeast-2",
   "service": "AMAZON",
@@ -4563,6 +4575,12 @@
   "region": "ap-southeast-6",
   "service": "AMAZON",
   "network_border_group": "ap-southeast-6"
+}
+{
+  "ip_prefix": "216.244.48.0/20",
+  "region": "ap-northeast-1",
+  "service": "AMAZON",
+  "network_border_group": "ap-northeast-1"
 }
 {
   "ip_prefix": "3.4.12.20/32",
@@ -5229,6 +5247,12 @@
   "region": "ap-northeast-3",
   "service": "AMAZON",
   "network_border_group": "ap-northeast-3"
+}
+{
+  "ip_prefix": "216.244.24.0/21",
+  "region": "ap-east-1",
+  "service": "AMAZON",
+  "network_border_group": "ap-east-1"
 }
 {
   "ip_prefix": "43.214.0.0/15",
@@ -8519,6 +8543,12 @@
   "network_border_group": "ap-northeast-2"
 }
 {
+  "ip_prefix": "216.244.32.0/22",
+  "region": "ap-east-1",
+  "service": "EC2",
+  "network_border_group": "ap-east-1"
+}
+{
   "ip_prefix": "3.108.0.0/14",
   "region": "ap-south-1",
   "service": "EC2",
@@ -10187,6 +10217,12 @@
   "network_border_group": "ap-south-1"
 }
 {
+  "ip_prefix": "216.244.36.0/23",
+  "region": "ap-northeast-1",
+  "service": "EC2",
+  "network_border_group": "ap-northeast-1"
+}
+{
   "ip_prefix": "52.64.128.0/17",
   "region": "ap-southeast-2",
   "service": "EC2",
@@ -10209,6 +10245,12 @@
   "region": "ap-northeast-2",
   "service": "EC2",
   "network_border_group": "ap-northeast-2"
+}
+{
+  "ip_prefix": "216.244.48.0/20",
+  "region": "ap-northeast-1",
+  "service": "EC2",
+  "network_border_group": "ap-northeast-1"
 }
 {
   "ip_prefix": "15.220.192.0/22",
@@ -10449,6 +10491,12 @@
   "region": "ap-southeast-1",
   "service": "EC2",
   "network_border_group": "ap-southeast-1-sggov-sin-1a"
+}
+{
+  "ip_prefix": "216.244.24.0/21",
+  "region": "ap-east-1",
+  "service": "EC2",
+  "network_border_group": "ap-east-1"
 }
 {
   "ip_prefix": "64.252.98.0/24",
