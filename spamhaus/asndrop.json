@@ -1,4 +1,5 @@
 {"asn":6060,"rir":"arin","domain":"management-alliance-group","cc":"US","asname":"MAGI-NET-GW"}
+{"asn":6186,"rir":"arin","domain":"mylir.co.uk","cc":"GB","asname":"GARCIA-ASN"}
 {"asn":6729,"rir":"ripencc","domain":"bignet.ua","cc":"UA","asname":"DEMENIN-AS"}
 {"asn":7411,"rir":"arin","domain":"sulharai.com","cc":"US","asname":"WINTERSTORM"}
 {"asn":7907,"rir":"arin","domain":"networldtron.net","cc":"US","asname":"NETWORD-CORP"}
@@ -411,7 +412,7 @@
 {"asn":329325,"rir":"afrinic","domain":"maxko.org","cc":"HR","asname":"Maxko-for-Gaming-Development"}
 {"asn":398638,"rir":"arin","domain":"jellydigital.net","cc":"US","asname":"JELLYDIGITAL"}
 {"asn":398741,"rir":"arin","domain":"62yun.com","cc":"RU","asname":"AS-VERTEXLINK-01"}
-{"asn":398770,"rir":"arin","domain":"greatcommunications.net","cc":"US","asname":"TC"}
+{"asn":398770,"rir":"arin","domain":"mylir.co.uk","cc":"GB","asname":"TC"}
 {"asn":399979,"rir":"arin","domain":"493networking.cc","cc":"US","asname":"AS-493NETWORKING"}
 {"asn":400018,"rir":"arin","domain":"seacom.cc","cc":"US","asname":"ATT-ENTERPRISES-LLC"}
 {"asn":400171,"rir":"arin","domain":"alphainfolab.com","cc":"IN","asname":"AS-AINFO"}
@@ -425,4 +426,4 @@
 {"asn":401616,"rir":"arin","domain":"prv8net","cc":"PA","asname":"PNL"}
 {"asn":401696,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD"}
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
-{"type":"metadata","timestamp":1755839832,"size":37929,"records":427,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1755863232,"size":37998,"records":428,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
