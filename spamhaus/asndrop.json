@@ -91,7 +91,6 @@
 {"asn":51381,"rir":"ripencc","domain":"eliteteam.to","cc":"SC","asname":"ELITETEAM-PEERING-AZ1"}
 {"asn":51396,"rir":"ripencc","domain":"pfcloud.io","cc":"DE","asname":"PFCLOUD"}
 {"asn":51447,"rir":"ripencc","domain":"rootlayer.net","cc":"BD","asname":"ROOTLAYERNET"}
-{"asn":51490,"rir":"ripencc","domain":"propersupportmedia.com","cc":"GB","asname":"PROPER-AS"}
 {"asn":53958,"rir":"arin","domain":"auproxies.com","cc":"US","asname":"BART-BM"}
 {"asn":55748,"rir":"apnic","domain":"morsejp.com","cc":"JP","asname":"MORSE-JP"}
 {"asn":55933,"rir":"apnic","domain":"cloudie.hk","cc":"HK","asname":"CLOUDIE-AS-AP"}
@@ -231,7 +230,6 @@
 {"asn":202972,"rir":"ripencc","domain":"eksenbilisim.com.tr","cc":"TR","asname":"NEO-NET"}
 {"asn":203025,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"ASN-COLOCATION"}
 {"asn":203120,"rir":"ripencc","domain":"globtelgroup.com","cc":"US","asname":"GTGL"}
-{"asn":203346,"rir":"ripencc","domain":"propersupportmedia.com","cc":"GB","asname":"AS-232WEB"}
 {"asn":203624,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"COLOCATION-CORPO"}
 {"asn":203834,"rir":"ripencc","domain":"vaultdweller.net","cc":"EE","asname":"dedbropro-as"}
 {"asn":203950,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"hosting"}
@@ -426,4 +424,4 @@
 {"asn":401616,"rir":"arin","domain":"prv8net","cc":"PA","asname":"PNL"}
 {"asn":401696,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD"}
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
-{"type":"metadata","timestamp":1756381632,"size":37993,"records":428,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1756403232,"size":37802,"records":426,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
