@@ -330,6 +330,7 @@
 {"asn":211762,"rir":"ripencc","domain":"fineproxy.org","cc":"RU","asname":"REGION40"}
 {"asn":211849,"rir":"ripencc","domain":"62yun.com","cc":"RU","asname":"KAKHAROV-AS"}
 {"asn":211922,"rir":"ripencc","domain":"ipconnect.services","cc":"SC","asname":"IPDISTR"}
+{"asn":211955,"rir":"ripencc","domain":"notbad.cloud","cc":"RU","asname":"NOTBADHOSTING"}
 {"asn":212017,"rir":"ripencc","domain":"cubilloconstrucciones.com","cc":"ES","asname":"CUBILLO"}
 {"asn":212283,"rir":"ripencc","domain":"rosa-holidays.com","cc":"BG","asname":"ROZA-AS"}
 {"asn":212448,"rir":"ripencc","domain":"turkbil.com.tr","cc":"TR","asname":"turkbil"}
@@ -425,4 +426,4 @@
 {"asn":401616,"rir":"arin","domain":"prv8net","cc":"PA","asname":"PNL"}
 {"asn":401696,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD"}
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
-{"type":"metadata","timestamp":1756662432,"size":37890,"records":427,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1756684032,"size":37980,"records":428,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
