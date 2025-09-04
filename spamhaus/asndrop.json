@@ -204,7 +204,6 @@
 {"asn":199785,"rir":"ripencc","domain":"chosting.solutions","cc":"UA","asname":"CHSN-AS"}
 {"asn":200010,"rir":"ripencc","domain":"cantech.international","cc":"US","asname":"VISLOM"}
 {"asn":200373,"rir":"ripencc","domain":"plainproxies.com","cc":"DE","asname":"Drei-K-Tech-GmbH"}
-{"asn":200514,"rir":"ripencc","domain":"knownsrv.com","cc":"HR","asname":"KnownSRV"}
 {"asn":200593,"rir":"ripencc","domain":"pro-spero.ru","cc":"RU","asname":"PROSPERO-AS"}
 {"asn":200699,"rir":"ripencc","domain":"xor.sc","cc":"SC","asname":"DATASHIELD_NL"}
 {"asn":201249,"rir":"ripencc","domain":"iprowireless.com","cc":"AL","asname":"IPRO"}
@@ -426,4 +425,4 @@
 {"asn":401616,"rir":"arin","domain":"prv8net","cc":"PA","asname":"PNL"}
 {"asn":401696,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD"}
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
-{"type":"metadata","timestamp":1756964832,"size":37977,"records":428,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1756986432,"size":37892,"records":427,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
