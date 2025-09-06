@@ -29,7 +29,6 @@
 {"asn":35346,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"EUROTELECOM"}
 {"asn":35478,"rir":"ripencc","domain":"bunea.eu","cc":"RO","asname":"DATACENTER"}
 {"asn":35624,"rir":"ripencc","domain":"fineproxy.org","cc":"RU","asname":"SILVERSTAR-AS"}
-{"asn":35718,"rir":"ripencc","domain":"naunet.ru","cc":"RU","asname":"NAUNET-AS"}
 {"asn":35830,"rir":"ripencc","domain":"fineproxy.org","cc":"RU","asname":"BTTGROUP-AS"}
 {"asn":37707,"rir":"afrinic","domain":"seyix.sc","cc":"SC","asname":"SEY-IX-PEERING"}
 {"asn":38149,"rir":"apnic","domain":"bakrietelecom.com","cc":"ID","asname":"RATELINDONET-AS-ID"}
@@ -424,4 +423,4 @@
 {"asn":401616,"rir":"arin","domain":"prv8net","cc":"PA","asname":"PNL"}
 {"asn":401696,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD"}
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
-{"type":"metadata","timestamp":1757092632,"size":37801,"records":426,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1757117832,"size":37719,"records":425,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
