@@ -10,7 +10,6 @@
 {"asn":14956,"rir":"arin","domain":"cloudzy.com","cc":"US","asname":"ROUTERHOSTING"}
 {"asn":17447,"rir":"apnic","domain":"net4india.com","cc":"IN","asname":"NET4-IN"}
 {"asn":17994,"rir":"apnic","domain":"appserv.co.nz","cc":"NZ","asname":"ASL-AS-AP"}
-{"asn":22801,"rir":"arin","domain":"intap.net","cc":"US","asname":"INTAP-1"}
 {"asn":23865,"rir":"apnic","domain":"netinnovation.net","cc":"US","asname":"NETINNOVATIONLLC-AS-AP"}
 {"asn":24426,"rir":"apnic","domain":"myce.net.cn","cc":"CN","asname":"CNNIC-SINO-I"}
 {"asn":24544,"rir":"apnic","domain":"cloudie.hk","cc":"HK","asname":"Overcasts-AS-AP"}
@@ -423,4 +422,4 @@
 {"asn":401616,"rir":"arin","domain":"prv8net","cc":"PA","asname":"PNL"}
 {"asn":401696,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD"}
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
-{"type":"metadata","timestamp":1757418432,"size":37704,"records":425,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1757440032,"size":37627,"records":424,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
