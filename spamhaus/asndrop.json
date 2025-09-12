@@ -205,6 +205,7 @@
 {"asn":200593,"rir":"ripencc","domain":"pro-spero.ru","cc":"RU","asname":"PROSPERO-AS"}
 {"asn":200699,"rir":"ripencc","domain":"xor.sc","cc":"SC","asname":"DATASHIELD_NL"}
 {"asn":201249,"rir":"ripencc","domain":"iprowireless.com","cc":"AL","asname":"IPRO"}
+{"asn":201292,"rir":"ripencc","domain":"agrofirma-aleks","cc":"UA","asname":"AS-AGRO"}
 {"asn":201380,"rir":"ripencc","domain":"excitedmatch.com","cc":"UA","asname":"ALFABISNES-AS"}
 {"asn":201572,"rir":"ripencc","domain":"ekoiniciative.pp.ua","cc":"UA","asname":"EKO-INICIATIVE-AS"}
 {"asn":201626,"rir":"ripencc","domain":"bignet.ua","cc":"UA","asname":"PODILLIA-AS"}
@@ -422,4 +423,4 @@
 {"asn":401616,"rir":"arin","domain":"prv8net","cc":"PA","asname":"PNL"}
 {"asn":401696,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD"}
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
-{"type":"metadata","timestamp":1757612832,"size":37644,"records":424,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1757634432,"size":37731,"records":425,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
