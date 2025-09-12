@@ -32,7 +32,6 @@
 {"asn":37707,"rir":"afrinic","domain":"seyix.sc","cc":"SC","asname":"SEY-IX-PEERING"}
 {"asn":38149,"rir":"apnic","domain":"bakrietelecom.com","cc":"ID","asname":"RATELINDONET-AS-ID"}
 {"asn":38337,"rir":"apnic","domain":"niutelecom.com","cc":"CN","asname":"CNNIC-NTNet"}
-{"asn":38462,"rir":"apnic","domain":"oce.ne.jp","cc":"JP","asname":"OCE-AS-AP"}
 {"asn":38871,"rir":"apnic","domain":"cloudie.hk","cc":"HK","asname":"InfoMove-HK-AP"}
 {"asn":38946,"rir":"ripencc","domain":"bignet.ua","cc":"UA","asname":"SMARTMEDIANETWORK-1-AS"}
 {"asn":39690,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"HOSTING"}
@@ -423,4 +422,4 @@
 {"asn":401616,"rir":"arin","domain":"prv8net","cc":"PA","asname":"PNL"}
 {"asn":401696,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD"}
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
-{"type":"metadata","timestamp":1757654232,"size":37731,"records":425,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1757677632,"size":37651,"records":424,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
