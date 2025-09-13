@@ -112,7 +112,6 @@
 {"asn":62380,"rir":"ripencc","domain":"bunea.eu","cc":"RO","asname":"BUNEA-HIGH-PEER-NETWORK"}
 {"asn":62864,"rir":"arin","domain":"netinnovation.net","cc":"US","asname":"NILAS"}
 {"asn":63881,"rir":"apnic","domain":"medianetdigital.co","cc":"ID","asname":"MDI-AS-ID"}
-{"asn":64425,"rir":"ripencc","domain":"skb-enterprise.com","cc":"NL","asname":"SKB-Enterprise"}
 {"asn":131750,"rir":"apnic","domain":"sufia.tv","cc":"ID","asname":"SUFIANET-AS-ID"}
 {"asn":132574,"rir":"arin","domain":"alphainfolab.com","cc":"IN","asname":"AI-1720-132574"}
 {"asn":132827,"rir":"apnic","domain":"g-w.bz","cc":"JP","asname":"GATEWAY-AS-AP"}
@@ -422,4 +421,4 @@
 {"asn":401616,"rir":"arin","domain":"prv8net","cc":"PA","asname":"PNL"}
 {"asn":401696,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD"}
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
-{"type":"metadata","timestamp":1757699232,"size":37651,"records":424,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1757720832,"size":37555,"records":423,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
