@@ -75,7 +75,6 @@
 {"asn":48693,"rir":"ripencc","domain":"ntup.net","cc":"RU","asname":"NTSERVICE-AS"}
 {"asn":48974,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"COLOCATION"}
 {"asn":49006,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"Systems"}
-{"asn":49042,"rir":"ripencc","domain":"skb-enterprise.com","cc":"NL","asname":"PHANES-CLOUD"}
 {"asn":49217,"rir":"ripencc","domain":"hostype.com","cc":"TR","asname":"HOSTYPE"}
 {"asn":49418,"rir":"ripencc","domain":"chosting.solutions","cc":"UA","asname":"AS-NETSHIELD"}
 {"asn":49443,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"SISTEME"}
@@ -421,4 +420,4 @@
 {"asn":401616,"rir":"arin","domain":"prv8net","cc":"PA","asname":"PNL"}
 {"asn":401696,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD"}
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
-{"type":"metadata","timestamp":1757956632,"size":37555,"records":423,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1757981832,"size":37461,"records":422,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
