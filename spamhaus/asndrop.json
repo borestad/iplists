@@ -59,6 +59,7 @@
 {"asn":44317,"rir":"ripencc","domain":"mercurytelecom.net","cc":"US","asname":"MERCURYTELECOM"}
 {"asn":44386,"rir":"ripencc","domain":"ozon.ru","cc":"RU","asname":"OZON-AS"}
 {"asn":44477,"rir":"ripencc","domain":"stark-industries.solutions","cc":"MD","asname":"THE-HOSTING"}
+{"asn":44559,"rir":"ripencc","domain":"ithostline.com","cc":"IN","asname":"ITHOSTLINE"}
 {"asn":44589,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"Hosting"}
 {"asn":44774,"rir":"ripencc","domain":"stark-industries.solutions","cc":"MD","asname":"STARK"}
 {"asn":44801,"rir":"ripencc","domain":"bignet.ua","cc":"UA","asname":"R-TEL-AS"}
@@ -159,7 +160,6 @@
 {"asn":142430,"rir":"apnic","domain":"digivps.com","cc":"IN","asname":"DIGIVPS-AS-AP"}
 {"asn":142519,"rir":"apnic","domain":"smtpmailers.com","cc":"IN","asname":"SMTPM-AS-IN"}
 {"asn":146887,"rir":"apnic","domain":"noobtech.in","cc":"IN","asname":"MAINT-IN-IRINN"}
-{"asn":147186,"rir":"apnic","domain":"vcclhosting.com","cc":"IN","asname":"VCCLCLOUDPVTLTD-AS-AP"}
 {"asn":147211,"rir":"apnic","domain":"onlinepragathi.com","cc":"IN","asname":"PRAGATHI-AS-IN"}
 {"asn":147287,"rir":"apnic","domain":"dataparadise.net","cc":"IN","asname":"DATAPARA1-AS-IN"}
 {"asn":147291,"rir":"apnic","domain":"khalidgroup.co","cc":"PK","asname":"KHALIDGROUP-AS-AP"}
@@ -175,6 +175,8 @@
 {"asn":150082,"rir":"apnic","domain":"isofttechnology.net","cc":"IN","asname":"GARGASSO-AS-IN"}
 {"asn":150091,"rir":"apnic","domain":"vedimantra.co.in","cc":"IN","asname":"VEDIMA-AS-IN"}
 {"asn":150100,"rir":"apnic","domain":"arkcomtele.com","cc":"IN","asname":"ARKCOM-AS-IN"}
+{"asn":150101,"rir":"apnic","domain":"ithostline.com","cc":"IN","asname":"YASHITS-AS-IN"}
+{"asn":150102,"rir":"apnic","domain":"ithostline.com","cc":"IN","asname":"ITSERVICE-AS-IN"}
 {"asn":150604,"rir":"apnic","domain":"globalsol.co.in","cc":"IN","asname":"GLOBALSOL-AS-IN"}
 {"asn":150813,"rir":"apnic","domain":"thoimmo.com","cc":"VN","asname":"MINHTHOIPC-VN"}
 {"asn":150860,"rir":"apnic","domain":"jetcloud.vn","cc":"VN","asname":"JETCLOUD-VN"}
@@ -294,6 +296,7 @@
 {"asn":209605,"rir":"ripencc","domain":"serveroffer.lt","cc":"LT","asname":"hostbaltic"}
 {"asn":209737,"rir":"ripencc","domain":"meric.net.tr","cc":"TR","asname":"AS209737"}
 {"asn":209800,"rir":"ripencc","domain":"virtualine.org","cc":"GB","asname":"metaspinner-asn"}
+{"asn":209847,"rir":"ripencc","domain":"stark-industries.solutions","cc":"MD","asname":"THE"}
 {"asn":209868,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"HOSTING"}
 {"asn":209883,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"CHISINAU"}
 {"asn":209889,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"Chisinau"}
@@ -322,6 +325,7 @@
 {"asn":211659,"rir":"ripencc","domain":"stimllc.ru","cc":"RU","asname":"STIMUL-AS"}
 {"asn":211673,"rir":"ripencc","domain":"mynymbox.io","cc":"KN","asname":"Mynymbox"}
 {"asn":211720,"rir":"ripencc","domain":"xor.sc","cc":"SC","asname":"DATASHIELD_CH"}
+{"asn":211736,"rir":"ripencc","domain":"pwnhost.com","cc":"UA","asname":"FDN3"}
 {"asn":211762,"rir":"ripencc","domain":"fineproxy.org","cc":"RU","asname":"REGION40"}
 {"asn":211849,"rir":"ripencc","domain":"62yun.com","cc":"RU","asname":"KAKHAROV-AS"}
 {"asn":211922,"rir":"ripencc","domain":"ipconnect.services","cc":"SC","asname":"IPDISTR"}
@@ -419,4 +423,4 @@
 {"asn":401616,"rir":"arin","domain":"prv8net","cc":"PA","asname":"PNL"}
 {"asn":401696,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD"}
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
-{"type":"metadata","timestamp":1758107832,"size":37363,"records":421,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1758131232,"size":37708,"records":425,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
