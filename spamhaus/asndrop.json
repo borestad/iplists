@@ -41,7 +41,6 @@
 {"asn":40963,"rir":"ripencc","domain":"bignet.ua","cc":"UA","asname":"PRAID-AS"}
 {"asn":41155,"rir":"ripencc","domain":"orbittelekom.com","cc":"TR","asname":"orbitdc"}
 {"asn":41171,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"NETWORKS_RENT"}
-{"asn":41947,"rir":"ripencc","domain":"fly-group.ru","cc":"RU","asname":"WEBALTA-AS"}
 {"asn":42192,"rir":"ripencc","domain":"idodns.com","cc":"JP","asname":"India"}
 {"asn":42397,"rir":"ripencc","domain":"bunea.eu","cc":"RO","asname":"BUNEA-HIGH-VOLUME-NETWORK"}
 {"asn":42419,"rir":"ripencc","domain":"tavriatrans.com.ua","cc":"UA","asname":"TAVRIA-TRANSSERVIS-AS"}
@@ -424,4 +423,4 @@
 {"asn":401616,"rir":"arin","domain":"prv8net","cc":"PA","asname":"PNL"}
 {"asn":401696,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD"}
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
-{"type":"metadata","timestamp":1758217632,"size":37810,"records":426,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1758239232,"size":37724,"records":425,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
