@@ -114,7 +114,6 @@
 {"asn":131750,"rir":"apnic","domain":"sufia.tv","cc":"ID","asname":"SUFIANET-AS-ID"}
 {"asn":132574,"rir":"arin","domain":"alphainfolab.com","cc":"IN","asname":"AI-1720-132574"}
 {"asn":132827,"rir":"apnic","domain":"g-w.bz","cc":"JP","asname":"GATEWAY-AS-AP"}
-{"asn":132899,"rir":"apnic","domain":"urnets.com","cc":"TW","asname":"USL-AS-AP"}
 {"asn":132930,"rir":"apnic","domain":"herbalvedawellness.com","cc":"IN","asname":"HERBALVE-AS-IN"}
 {"asn":133320,"rir":"apnic","domain":"alphainfolab.com","cc":"IN","asname":"ALPHA-AS-AP"}
 {"asn":133488,"rir":"apnic","domain":"servicehk.net","cc":"HK","asname":"SERVICE-AS-AP"}
@@ -423,4 +422,4 @@
 {"asn":401616,"rir":"arin","domain":"prv8net","cc":"PA","asname":"PNL"}
 {"asn":401696,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD"}
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
-{"type":"metadata","timestamp":1758541633,"size":37724,"records":425,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1758563232,"size":37642,"records":424,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
