@@ -160,6 +160,7 @@
 {"asn":142062,"rir":"apnic","domain":"qlhost.cc","cc":"HK","asname":"HQTC-AS-AP"}
 {"asn":142430,"rir":"apnic","domain":"digivps.com","cc":"IN","asname":"DIGIVPS-AS-AP"}
 {"asn":142519,"rir":"apnic","domain":"smtpmailers.com","cc":"IN","asname":"SMTPM-AS-IN"}
+{"asn":142622,"rir":"apnic","domain":"bunnycommunications.com","cc":"US","asname":"DIL-AS-AP"}
 {"asn":146887,"rir":"apnic","domain":"noobtech.in","cc":"IN","asname":"MAINT-IN-IRINN"}
 {"asn":147211,"rir":"apnic","domain":"onlinepragathi.com","cc":"IN","asname":"PRAGATHI-AS-IN"}
 {"asn":147287,"rir":"apnic","domain":"dataparadise.net","cc":"IN","asname":"DATAPARA1-AS-IN"}
@@ -426,4 +427,4 @@
 {"asn":401616,"rir":"arin","domain":"prv8net","cc":"PA","asname":"PNL"}
 {"asn":401696,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD"}
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
-{"type":"metadata","timestamp":1759232832,"size":38051,"records":428,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1759254432,"size":38146,"records":429,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
