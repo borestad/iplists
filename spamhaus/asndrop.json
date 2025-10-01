@@ -193,7 +193,6 @@
 {"asn":197414,"rir":"ripencc","domain":"zservers.ru","cc":"RU","asname":"XHOST-INTERNET-SOLUTIONS"}
 {"asn":197450,"rir":"ripencc","domain":"sunucun.com.tr","cc":"TR","asname":"SUNUCUN"}
 {"asn":197555,"rir":"ripencc","domain":"smartmieten.in","cc":"IN","asname":"SMARTMIETEN"}
-{"asn":198375,"rir":"ripencc","domain":"free-h.org","cc":"FR","asname":"INU-AS"}
 {"asn":198571,"rir":"ripencc","domain":"plainproxies.com","cc":"DE","asname":"PlainProxies"}
 {"asn":198578,"rir":"ripencc","domain":"fiberlinkcc.com","cc":"US","asname":"ASFLRU"}
 {"asn":198953,"rir":"ripencc","domain":"proton66.ru","cc":"RU","asname":"proton66"}
@@ -380,6 +379,7 @@
 {"asn":214940,"rir":"ripencc","domain":"virtualine.org","cc":"GB","asname":"KPRONET"}
 {"asn":214943,"rir":"ripencc","domain":"virtualine.org","cc":"GB","asname":"RAILNET"}
 {"asn":215117,"rir":"ripencc","domain":"hosterdaddy.com","cc":"IN","asname":"HOSTERDADDY"}
+{"asn":215125,"rir":"ripencc","domain":"cyberology.nl","cc":"NL","asname":"Cyberology-AS"}
 {"asn":215127,"rir":"ripencc","domain":"410.lol","cc":"GB","asname":"TEAPOT"}
 {"asn":215176,"rir":"ripencc","domain":"secureanalitics.com","cc":"GB","asname":"HOSTINGMEDIAVPNLTD"}
 {"asn":215183,"rir":"ripencc","domain":"vaultdweller.net","cc":"EE","asname":"zhaikov-as"}
@@ -427,4 +427,4 @@
 {"asn":401616,"rir":"arin","domain":"prv8net","cc":"PA","asname":"PNL"}
 {"asn":401696,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD"}
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
-{"type":"metadata","timestamp":1759254432,"size":38146,"records":429,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1759277832,"size":38156,"records":429,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
