@@ -324,7 +324,6 @@
 {"asn":211522,"rir":"ripencc","domain":"aeza.net","cc":"RU","asname":"HYPERCORELTD"}
 {"asn":211619,"rir":"ripencc","domain":"maxko.org","cc":"HR","asname":"MAXKO"}
 {"asn":211659,"rir":"ripencc","domain":"stimllc.ru","cc":"RU","asname":"STIMUL-AS"}
-{"asn":211673,"rir":"ripencc","domain":"mynymbox.io","cc":"KN","asname":"Mynymbox"}
 {"asn":211720,"rir":"ripencc","domain":"xor.sc","cc":"SC","asname":"DATASHIELD_CH"}
 {"asn":211736,"rir":"ripencc","domain":"pwnhost.com","cc":"UA","asname":"FDN3"}
 {"asn":211762,"rir":"ripencc","domain":"fineproxy.org","cc":"RU","asname":"REGION40"}
@@ -426,4 +425,4 @@
 {"asn":401616,"rir":"arin","domain":"prv8net","cc":"PA","asname":"PNL"}
 {"asn":401696,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD"}
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
-{"type":"metadata","timestamp":1759727832,"size":38064,"records":428,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1759749432,"size":37980,"records":427,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
