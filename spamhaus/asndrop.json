@@ -278,7 +278,7 @@
 {"asn":206847,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"TRANZIT"}
 {"asn":207088,"rir":"ripencc","domain":"adoard.com","cc":"RO","asname":"ADOARD"}
 {"asn":207159,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"Hartum_TV_SRL"}
-{"asn":207184,"rir":"ripencc","domain":"telchakgoldventuresprivatelimitedinternational.xyz","cc":"ZW","asname":"TELCHAK-AS"}
+{"asn":207184,"rir":"ripencc","domain":"dolphinhost.net","cc":"GB","asname":"TELCHAK-AS"}
 {"asn":207238,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"TVNET"}
 {"asn":207246,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"NETSAT_DV"}
 {"asn":207566,"rir":"ripencc","domain":"changway.hk","cc":"HK","asname":"LD007-AS"}
@@ -314,6 +314,7 @@
 {"asn":210316,"rir":"ripencc","domain":"elekoms.net.ua","cc":"UA","asname":"ELEKOMS-AS"}
 {"asn":210369,"rir":"ripencc","domain":"mxcloud","cc":"UA","asname":"MXCloud-as"}
 {"asn":210530,"rir":"ripencc","domain":"ipconnect.services","cc":"SC","asname":"ip2con"}
+{"asn":210558,"rir":"ripencc","domain":"as210558.net","cc":"DE","asname":"services-1337-gmbh"}
 {"asn":210644,"rir":"ripencc","domain":"aeza.net","cc":"RU","asname":"AEZA-AS"}
 {"asn":210707,"rir":"ripencc","domain":"dadeh-pardazesh-boroumand-kerman","cc":"IR","asname":"Company"}
 {"asn":210756,"rir":"ripencc","domain":"62yun.com","cc":"RU","asname":"EdgeCenterLLC"}
@@ -418,6 +419,7 @@
 {"asn":400018,"rir":"arin","domain":"seacom.cc","cc":"US","asname":"CLOUD"}
 {"asn":400171,"rir":"arin","domain":"alphainfolab.com","cc":"IN","asname":"AS-AINFO"}
 {"asn":400506,"rir":"arin","domain":"blackappleus.com","cc":"US","asname":"BAIAS"}
+{"asn":400519,"rir":"arin","domain":"methods.dev","cc":"US","asname":"PLAYIT-GG"}
 {"asn":400992,"rir":"arin","domain":"62yun.com","cc":"RU","asname":"ZHOUYISAT-COMMUNICATIONS"}
 {"asn":401109,"rir":"arin","domain":"zhongguancun.asia","cc":"US","asname":"ZHONGGUANCUN-CO"}
 {"asn":401110,"rir":"arin","domain":"sovy.cloud","cc":"NL","asname":"AS-SOVYCLOUD"}
@@ -426,4 +428,4 @@
 {"asn":401616,"rir":"arin","domain":"prv8net","cc":"PA","asname":"PNL"}
 {"asn":401696,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD"}
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
-{"type":"metadata","timestamp":1760010432,"size":38085,"records":428,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1760032032,"size":38227,"records":430,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
