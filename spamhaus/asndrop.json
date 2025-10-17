@@ -130,7 +130,7 @@
 {"asn":134196,"rir":"apnic","domain":"cloudie.hk","cc":"HK","asname":"ANYUN-INTERNET-TECHNOLOGY-HK-CO-LIMITED"}
 {"asn":135271,"rir":"apnic","domain":"globtelgroup.com","cc":"US","asname":"GLOBTELGROUP-AS-AP"}
 {"asn":135752,"rir":"apnic","domain":"evokedigital.in","cc":"IN","asname":"EVOKEDS-AS"}
-{"asn":136231,"rir":"apnic","domain":"kaopuyun.com","cc":"CN","asname":"KAOPU-HK"}
+{"asn":136231,"rir":"apnic","domain":"kaopuyun.com","cc":"CN","asname":"UNKNOWN"}
 {"asn":136367,"rir":"apnic","domain":"herbzoothealthcare.co.in","cc":"IN","asname":"HERBZOOT-AS-IN"}
 {"asn":136923,"rir":"apnic","domain":"thestack.net","cc":"HK","asname":"WIT-AS-AP"}
 {"asn":137156,"rir":"apnic","domain":"blueberrywebs.com","cc":"IN","asname":"BLUEB-AS"}
@@ -430,4 +430,4 @@
 {"asn":401616,"rir":"arin","domain":"prv8net","cc":"PA","asname":"PNL"}
 {"asn":401696,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD"}
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
-{"type":"metadata","timestamp":1760701782,"size":38408,"records":432,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1760723232,"size":38407,"records":432,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
