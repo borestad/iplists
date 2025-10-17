@@ -228,7 +228,6 @@
 {"asn":202943,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"SC_SnL_Panifcom_SRL"}
 {"asn":202960,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"DONTU-PRIM-AS"}
 {"asn":202965,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"DONTV-PRIM-AS"}
-{"asn":202972,"rir":"ripencc","domain":"eksenbilisim.com.tr","cc":"TR","asname":"NEO-NET"}
 {"asn":203025,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"ASN-COLOCATION"}
 {"asn":203120,"rir":"ripencc","domain":"globtelgroup.com","cc":"US","asname":"GTGL"}
 {"asn":203624,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"COLOCATION-CORPO"}
@@ -431,4 +430,4 @@
 {"asn":401616,"rir":"arin","domain":"prv8net","cc":"PA","asname":"PNL"}
 {"asn":401696,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD"}
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
-{"type":"metadata","timestamp":1760636832,"size":38499,"records":433,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1760658433,"size":38408,"records":432,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
