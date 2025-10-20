@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+set -eo pipefail
+
+cd "$(dirname $0)"
+TEMPFILE=$(mktemp)
+
+name=modat
+curl --config ../.curlrc https://scanner.modat.io/ipv4.txt -o $TEMPFILE
+
+iprange $TEMPFILE >| $name.ipv4
