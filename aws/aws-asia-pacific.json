@@ -3773,6 +3773,12 @@
   "network_border_group": "ap-northeast-1"
 }
 {
+  "ip_prefix": "1.178.91.0/24",
+  "region": "ap-northeast-2",
+  "service": "AMAZON",
+  "network_border_group": "ap-northeast-2"
+}
+{
   "ip_prefix": "15.193.9.0/24",
   "region": "ap-northeast-2",
   "service": "AMAZON",
@@ -10167,6 +10173,12 @@
   "region": "ap-southeast-3",
   "service": "EC2",
   "network_border_group": "ap-southeast-3"
+}
+{
+  "ip_prefix": "1.178.91.0/24",
+  "region": "ap-northeast-2",
+  "service": "EC2",
+  "network_border_group": "ap-northeast-2"
 }
 {
   "ip_prefix": "15.193.9.0/24",
