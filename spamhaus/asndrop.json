@@ -59,6 +59,7 @@
 {"asn":43743,"rir":"ripencc","domain":"bignet.ua","cc":"UA","asname":"KRUIZUA-AS"}
 {"asn":44208,"rir":"ripencc","domain":"farahoosh.ir","cc":"IR","asname":"Farahoosh"}
 {"asn":44317,"rir":"ripencc","domain":"mercurytelecom.net","cc":"US","asname":"MERCURYTELECOM"}
+{"asn":44382,"rir":"ripencc","domain":"fibacloud.com","cc":"TR","asname":"WhiteLabel"}
 {"asn":44386,"rir":"ripencc","domain":"ozon.ru","cc":"RU","asname":"OZON-AS"}
 {"asn":44477,"rir":"ripencc","domain":"stark-industries.solutions","cc":"MD","asname":"HOSTING"}
 {"asn":44559,"rir":"ripencc","domain":"ithostline.com","cc":"IN","asname":"ITHOSTLINE"}
@@ -428,4 +429,4 @@
 {"asn":401616,"rir":"arin","domain":"prv8net","cc":"PA","asname":"PNL"}
 {"asn":401696,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD"}
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
-{"type":"metadata","timestamp":1761565632,"size":38214,"records":430,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1761587232,"size":38301,"records":431,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
