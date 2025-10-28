@@ -24,6 +24,7 @@
 {"asn":30490,"rir":"arin","domain":"ethr.net","cc":"US","asname":"ETHRN"}
 {"asn":32177,"rir":"arin","domain":"octalioninc.com","cc":"US","asname":"OCTALION"}
 {"asn":32558,"rir":"arin","domain":"us53.com","cc":"HK","asname":"BNSL-10-32558"}
+{"asn":33042,"rir":"arin","domain":"netiface.co.uk","cc":"GB","asname":"NETIFACE-TORONTO"}
 {"asn":33993,"rir":"ripencc","domain":"stark-industries.solutions","cc":"MD","asname":"UFO-AS"}
 {"asn":34888,"rir":"ripencc","domain":"simplecarrier.net","cc":"US","asname":"swissnetwork01"}
 {"asn":34985,"rir":"apnic","domain":"netinnovation.net","cc":"JP","asname":"NETINNOVATIONLLC-AS-AP"}
@@ -31,6 +32,7 @@
 {"asn":35478,"rir":"ripencc","domain":"bunea.eu","cc":"RO","asname":"DATACENTER"}
 {"asn":35624,"rir":"ripencc","domain":"fineproxy.org","cc":"RU","asname":"SILVERSTAR-AS"}
 {"asn":35830,"rir":"ripencc","domain":"fineproxy.org","cc":"RU","asname":"BTTGROUP-AS"}
+{"asn":36680,"rir":"arin","domain":"netiface.co.uk","cc":"GB","asname":"NETIFACELLC"}
 {"asn":37707,"rir":"afrinic","domain":"seyix.sc","cc":"SC","asname":"SEY-IX-PEERING"}
 {"asn":38149,"rir":"apnic","domain":"bakrietelecom.com","cc":"ID","asname":"RATELINDONET-AS-ID"}
 {"asn":38337,"rir":"apnic","domain":"niutelecom.com","cc":"CN","asname":"CNNIC-NTNet"}
@@ -106,6 +108,7 @@
 {"asn":59683,"rir":"ripencc","domain":"vip-net.net","cc":"RU","asname":"iridatelecom"}
 {"asn":59753,"rir":"ripencc","domain":"vaultdweller.net","cc":"EE","asname":"XHOSTIS-AS"}
 {"asn":59841,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"PUBLIC-DNS-ASN"}
+{"asn":60223,"rir":"ripencc","domain":"netiface.co.uk","cc":"GB","asname":"NETIFACE-AS"}
 {"asn":60581,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"REBDACONS-AS"}
 {"asn":60842,"rir":"ripencc","domain":"62yun.com","cc":"RU","asname":"HUIZE-HOLDINGS-AS"}
 {"asn":61432,"rir":"ripencc","domain":"link-host.com","cc":"UA","asname":"VAIZ-AS"}
@@ -281,6 +284,7 @@
 {"asn":207566,"rir":"ripencc","domain":"changway.hk","cc":"HK","asname":"LD007-AS"}
 {"asn":207812,"rir":"ripencc","domain":"dm-auto.eu","cc":"BG","asname":"DM_AUTO"}
 {"asn":207957,"rir":"ripencc","domain":"serv.host","cc":"UA","asname":"ServHost-AS"}
+{"asn":208137,"rir":"ripencc","domain":"feoprest.info","cc":"RO","asname":"FPS12"}
 {"asn":208198,"rir":"ripencc","domain":"eksenbilisim.com.tr","cc":"TR","asname":"Eylul-NET"}
 {"asn":208312,"rir":"ripencc","domain":"changway.hk","cc":"HK","asname":"redbytes"}
 {"asn":208317,"rir":"ripencc","domain":"kontrast.md","cc":"MD","asname":"SF-digitalservices"}
@@ -347,6 +351,7 @@
 {"asn":213389,"rir":"ripencc","domain":"netip.com.ua","cc":"UA","asname":"ASPODOLSK"}
 {"asn":213438,"rir":"ripencc","domain":"colocatel.com","cc":"SC","asname":"colocatel-inc"}
 {"asn":213441,"rir":"ripencc","domain":"slayergroup.ltd","cc":"GB","asname":"SLAYER-AS"}
+{"asn":213448,"rir":"ripencc","domain":"netiface.co.uk","cc":"GB","asname":"NETIFACEUK-AS"}
 {"asn":213511,"rir":"ripencc","domain":"vonie.net","cc":"TR","asname":"VSVK"}
 {"asn":213652,"rir":"ripencc","domain":"sunucun.com.tr","cc":"TR","asname":"Sunucun-Cloud"}
 {"asn":213676,"rir":"ripencc","domain":"eksenbilisim.com.tr","cc":"TR","asname":"NEO_INTERNET"}
@@ -375,6 +380,7 @@
 {"asn":214927,"rir":"ripencc","domain":"psb.hosting","cc":"RU","asname":"PSB-AS"}
 {"asn":214940,"rir":"ripencc","domain":"virtualine.org","cc":"GB","asname":"KPRONET"}
 {"asn":214943,"rir":"ripencc","domain":"virtualine.org","cc":"GB","asname":"RAILNET"}
+{"asn":214967,"rir":"ripencc","domain":"optibounce.fun","cc":"US","asname":"OPTIBOUNCE"}
 {"asn":215117,"rir":"ripencc","domain":"hosterdaddy.com","cc":"IN","asname":"HOSTERDADDY"}
 {"asn":215125,"rir":"ripencc","domain":"cyberology.nl","cc":"NL","asname":"Cyberology-AS"}
 {"asn":215127,"rir":"ripencc","domain":"410.lol","cc":"GB","asname":"TEAPOT"}
@@ -425,6 +431,7 @@
 {"asn":401116,"rir":"arin","domain":"nybula.com","cc":"US","asname":"NYBULA"}
 {"asn":401120,"rir":"arin","domain":"cheapy.host","cc":"US","asname":"CHEAPY-HOST"}
 {"asn":401616,"rir":"arin","domain":"prv8net","cc":"PA","asname":"PNL"}
+{"asn":401626,"rir":"arin","domain":"netiface.co.uk","cc":"GB","asname":"NETIFACE-TORONTO"}
 {"asn":401696,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD"}
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
-{"type":"metadata","timestamp":1761630432,"size":38109,"records":429,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1761652032,"size":38731,"records":436,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
