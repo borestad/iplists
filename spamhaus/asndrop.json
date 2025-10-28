@@ -61,10 +61,8 @@
 {"asn":44317,"rir":"ripencc","domain":"mercurytelecom.net","cc":"US","asname":"MERCURYTELECOM"}
 {"asn":44382,"rir":"ripencc","domain":"fibacloud.com","cc":"TR","asname":"WhiteLabel"}
 {"asn":44386,"rir":"ripencc","domain":"ozon.ru","cc":"RU","asname":"OZON-AS"}
-{"asn":44477,"rir":"ripencc","domain":"stark-industries.solutions","cc":"MD","asname":"HOSTING"}
 {"asn":44559,"rir":"ripencc","domain":"ithostline.com","cc":"IN","asname":"ITHOSTLINE"}
 {"asn":44589,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"Hosting"}
-{"asn":44774,"rir":"ripencc","domain":"stark-industries.solutions","cc":"MD","asname":"STARK"}
 {"asn":44801,"rir":"ripencc","domain":"bignet.ua","cc":"UA","asname":"R-TEL-AS"}
 {"asn":46664,"rir":"arin","domain":"volumedrive.com","cc":"US","asname":"VDI-NETWORK"}
 {"asn":47105,"rir":"ripencc","domain":"vaultdweller.net","cc":"EE","asname":"dedbropro"}
@@ -429,4 +427,4 @@
 {"asn":401616,"rir":"arin","domain":"prv8net","cc":"PA","asname":"PNL"}
 {"asn":401696,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD"}
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
-{"type":"metadata","timestamp":1761608832,"size":38301,"records":431,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1761630432,"size":38109,"records":429,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
