@@ -275,6 +275,12 @@
   "network_border_group": "sa-east-1"
 }
 {
+  "ip_prefix": "15.177.107.0/24",
+  "region": "sa-west-1",
+  "service": "AMAZON",
+  "network_border_group": "sa-west-1"
+}
+{
   "ip_prefix": "150.222.9.0/24",
   "region": "sa-east-1",
   "service": "AMAZON",
@@ -1145,6 +1151,12 @@
   "network_border_group": "sa-east-1"
 }
 {
+  "ip_prefix": "15.177.107.0/24",
+  "region": "sa-west-1",
+  "service": "EC2",
+  "network_border_group": "sa-west-1"
+}
+{
   "ip_prefix": "35.50.177.0/24",
   "region": "sa-east-1",
   "service": "EC2",
@@ -1371,6 +1383,12 @@
   "region": "sa-east-1",
   "service": "GLOBALACCELERATOR",
   "network_border_group": "sa-east-1"
+}
+{
+  "ip_prefix": "15.177.107.0/24",
+  "region": "sa-west-1",
+  "service": "ROUTE53_HEALTHCHECKS_PUBLISHING",
+  "network_border_group": "sa-west-1"
 }
 {
   "ip_prefix": "15.177.88.0/24",
