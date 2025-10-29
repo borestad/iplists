@@ -1733,6 +1733,12 @@
   "network_border_group": "eu-north-1"
 }
 {
+  "ip_prefix": "3.5.120.0/22",
+  "region": "eu-central-1",
+  "service": "AMAZON",
+  "network_border_group": "eu-central-1"
+}
+{
   "ip_prefix": "15.230.15.182/31",
   "region": "eu-central-1",
   "service": "AMAZON",
@@ -7979,6 +7985,12 @@
   "network_border_group": "eu-west-1"
 }
 {
+  "ip_prefix": "3.5.120.0/22",
+  "region": "eu-central-1",
+  "service": "S3",
+  "network_border_group": "eu-central-1"
+}
+{
   "ip_prefix": "16.15.20.0/22",
   "region": "eu-central-1",
   "service": "S3",
@@ -9021,6 +9033,12 @@
   "region": "eu-north-1",
   "service": "EC2",
   "network_border_group": "eu-north-1"
+}
+{
+  "ip_prefix": "3.5.120.0/22",
+  "region": "eu-central-1",
+  "service": "EC2",
+  "network_border_group": "eu-central-1"
 }
 {
   "ip_prefix": "208.78.135.0/24",
