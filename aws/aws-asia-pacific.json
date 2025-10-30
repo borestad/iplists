@@ -5345,6 +5345,12 @@
   "network_border_group": "ap-southeast-7"
 }
 {
+  "ip_prefix": "40.168.224.0/28",
+  "region": "ap-southeast-1",
+  "service": "AMAZON",
+  "network_border_group": "ap-southeast-1"
+}
+{
   "ip_prefix": "52.93.33.9/32",
   "region": "ap-southeast-2",
   "service": "AMAZON",
