@@ -193,6 +193,7 @@
 {"asn":152485,"rir":"apnic","domain":"hosterdaddy.com","cc":"IN","asname":"HOSTER-AS-IN"}
 {"asn":152486,"rir":"apnic","domain":"jdmbroadband.com","cc":"IN","asname":"NTSHIELD-AS-IN"}
 {"asn":154177,"rir":"apnic","domain":"kaopuyun.com","cc":"CN","asname":"LIGHT4-AS-AP"}
+{"asn":154206,"rir":"apnic","domain":"cloudie.hk","cc":"HK","asname":"CDN1COM-AS-AP"}
 {"asn":197414,"rir":"ripencc","domain":"zservers.ru","cc":"RU","asname":"XHOST-INTERNET-SOLUTIONS"}
 {"asn":197450,"rir":"ripencc","domain":"sunucun.com.tr","cc":"TR","asname":"SUNUCUN"}
 {"asn":197555,"rir":"ripencc","domain":"smartmieten.in","cc":"IN","asname":"SMARTMIETEN"}
@@ -434,4 +435,4 @@
 {"asn":401626,"rir":"arin","domain":"netiface.co.uk","cc":"GB","asname":"NETIFACE-TORONTO"}
 {"asn":401696,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD"}
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
-{"type":"metadata","timestamp":1762341432,"size":38731,"records":436,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1762364832,"size":38817,"records":437,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
