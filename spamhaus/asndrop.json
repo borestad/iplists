@@ -213,7 +213,7 @@
 {"asn":201380,"rir":"ripencc","domain":"excitedmatch.com","cc":"UA","asname":"ALFABISNES-AS"}
 {"asn":201572,"rir":"ripencc","domain":"ekoiniciative.pp.ua","cc":"UA","asname":"EKO-INICIATIVE-AS"}
 {"asn":201626,"rir":"ripencc","domain":"bignet.ua","cc":"UA","asname":"PODILLIA-AS"}
-{"asn":201813,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"HOSTING"}
+{"asn":201813,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"CONTRUST"}
 {"asn":202171,"rir":"ripencc","domain":"torero","cc":"UA","asname":"TORERO-AS"}
 {"asn":202267,"rir":"ripencc","domain":"dobrosvitkredo","cc":"UA","asname":"DOBROSVIT-AS"}
 {"asn":202302,"rir":"ripencc","domain":"s-host.com.ua","cc":"UA","asname":"NETH-AS"}
@@ -435,4 +435,4 @@
 {"asn":401626,"rir":"arin","domain":"netiface.co.uk","cc":"GB","asname":"NETIFACE-TORONTO"}
 {"asn":401696,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD"}
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
-{"type":"metadata","timestamp":1762451233,"size":38817,"records":437,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1762472832,"size":38818,"records":437,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
