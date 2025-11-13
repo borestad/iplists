@@ -340,7 +340,6 @@
 {"asn":212666,"rir":"ripencc","domain":"eksenbilisim.com.tr","cc":"TR","asname":"ipv4-net"}
 {"asn":212701,"rir":"ripencc","domain":"hostinux.com","cc":"UA","asname":"HOSTINUX-AS"}
 {"asn":212867,"rir":"ripencc","domain":"brutalproxies.com","cc":"NL","asname":"SIPALTO"}
-{"asn":213058,"rir":"ripencc","domain":"privateinternethosting","cc":"UA","asname":"PIHL-AS"}
 {"asn":213137,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"LexistarAllianceLTD"}
 {"asn":213354,"rir":"ripencc","domain":"hosting.international","cc":"GB","asname":"International-Hosting-Solutions-AS"}
 {"asn":213355,"rir":"ripencc","domain":"changway.hk","cc":"HK","asname":"HGN-AS"}
@@ -430,4 +429,4 @@
 {"asn":401626,"rir":"arin","domain":"netiface.co.uk","cc":"GB","asname":"NETIFACE-TORONTO"}
 {"asn":401696,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD"}
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
-{"type":"metadata","timestamp":1762993032,"size":38728,"records":432,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1763012832,"size":38634,"records":431,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
