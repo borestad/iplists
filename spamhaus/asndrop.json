@@ -315,6 +315,7 @@
 {"asn":210530,"rir":"ripencc","domain":"ipconnect.services","cc":"SC","asname":"ip2con"}
 {"asn":210558,"rir":"ripencc","domain":"as210558.net","cc":"DE","asname":"services-1337-gmbh"}
 {"asn":210644,"rir":"ripencc","domain":"aeza.net","cc":"RU","asname":"AEZA-AS"}
+{"asn":210654,"rir":"ripencc","domain":"serverion.com","cc":"NL","asname":"SRVN-AS"}
 {"asn":210707,"rir":"ripencc","domain":"dadeh-pardazesh-boroumand-kerman","cc":"IR","asname":"Company"}
 {"asn":210756,"rir":"ripencc","domain":"62yun.com","cc":"RU","asname":"EdgeCenterLLC"}
 {"asn":210848,"rir":"ripencc","domain":"server-panel.org","cc":"SC","asname":"TK-NET"}
@@ -340,6 +341,7 @@
 {"asn":212666,"rir":"ripencc","domain":"eksenbilisim.com.tr","cc":"TR","asname":"ipv4-net"}
 {"asn":212701,"rir":"ripencc","domain":"hostinux.com","cc":"UA","asname":"HOSTINUX-AS"}
 {"asn":212867,"rir":"ripencc","domain":"brutalproxies.com","cc":"NL","asname":"SIPALTO"}
+{"asn":213035,"rir":"ripencc","domain":"serverion.com","cc":"NL","asname":"AS-SERVERION"}
 {"asn":213137,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"LexistarAllianceLTD"}
 {"asn":213354,"rir":"ripencc","domain":"hosting.international","cc":"GB","asname":"International-Hosting-Solutions-AS"}
 {"asn":213355,"rir":"ripencc","domain":"changway.hk","cc":"HK","asname":"HGN-AS"}
@@ -414,10 +416,12 @@
 {"asn":398741,"rir":"arin","domain":"62yun.com","cc":"RU","asname":"AS-VERTEXLINK-01"}
 {"asn":398770,"rir":"arin","domain":"mylir.co.uk","cc":"GB","asname":"TC"}
 {"asn":399073,"rir":"arin","domain":"bunnycommunications.com","cc":"US","asname":"TBB-ASN"}
+{"asn":399471,"rir":"arin","domain":"serverion.com","cc":"NL","asname":"AS-DESEQUITY"}
 {"asn":399979,"rir":"arin","domain":"493networking.cc","cc":"US","asname":"AS-493NETWORKING"}
 {"asn":400018,"rir":"arin","domain":"seacom.cc","cc":"US","asname":"CLOUD"}
 {"asn":400171,"rir":"arin","domain":"alphainfolab.com","cc":"IN","asname":"AS-AINFO"}
 {"asn":400328,"rir":"arin","domain":"pfcloud.io","cc":"DE","asname":"INTELLIGENCE"}
+{"asn":400377,"rir":"arin","domain":"serverion.com","cc":"NL","asname":"AS-DC"}
 {"asn":400506,"rir":"arin","domain":"blackappleus.com","cc":"US","asname":"BAIAS"}
 {"asn":400519,"rir":"arin","domain":"methods.dev","cc":"US","asname":"PLAYIT-GG"}
 {"asn":400992,"rir":"arin","domain":"62yun.com","cc":"RU","asname":"ZHOUYISAT-COMMUNICATIONS"}
@@ -429,4 +433,4 @@
 {"asn":401626,"rir":"arin","domain":"netiface.co.uk","cc":"GB","asname":"NETIFACE-TORONTO"}
 {"asn":401696,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD"}
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
-{"type":"metadata","timestamp":1763380032,"size":38634,"records":431,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1763401633,"size":38976,"records":435,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
