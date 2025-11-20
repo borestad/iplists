@@ -10061,6 +10061,12 @@
   "network_border_group": "eu-south-2"
 }
 {
+  "ip_prefix": "15.224.0.0/16",
+  "region": "eu-west-3",
+  "service": "EC2",
+  "network_border_group": "eu-west-3"
+}
+{
   "ip_prefix": "99.150.16.0/21",
   "region": "eu-central-1",
   "service": "EC2",
