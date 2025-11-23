@@ -49,7 +49,7 @@
 {"asn":42419,"rir":"ripencc","domain":"tavriatrans.com.ua","cc":"UA","asname":"TAVRIA-TRANSSERVIS-AS"}
 {"asn":42505,"rir":"ripencc","domain":"bignet.ua","cc":"UA","asname":"R-TEL-AS"}
 {"asn":42624,"rir":"ripencc","domain":"simplecarrier.net","cc":"US","asname":"swissnetwork02"}
-{"asn":42694,"rir":"ripencc","domain":"uplink.in.md","cc":"MD","asname":"HOSTING"}
+{"asn":42694,"rir":"ripencc","domain":"uplink.in.md","cc":"MD","asname":"CONTRUST"}
 {"asn":42881,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"MARKET"}
 {"asn":43094,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"GIGANET"}
 {"asn":43444,"rir":"ripencc","domain":"fineproxy.org","cc":"RU","asname":"BNS-AS"}
@@ -430,4 +430,4 @@
 {"asn":401626,"rir":"arin","domain":"netiface.co.uk","cc":"GB","asname":"NETIFACE-TORONTO"}
 {"asn":401696,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD"}
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
-{"type":"metadata","timestamp":1763834549,"size":38727,"records":432,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1763856149,"size":38728,"records":432,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
