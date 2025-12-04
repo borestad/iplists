@@ -1,3 +1,4 @@
+{"asn":245,"rir":"arin","domain":"planningresearchcorp.com","cc":"US","asname":"PRC-AS"}
 {"asn":5065,"rir":"arin","domain":"bunnycommunications.com","cc":"US","asname":"BUNNY-COMMUNICATIONS-GLOBAL"}
 {"asn":6060,"rir":"arin","domain":"management-alliance-group","cc":"US","asname":"MAGI-NET-GW"}
 {"asn":6186,"rir":"arin","domain":"mylir.co.uk","cc":"GB","asname":"GARCIA-ASN"}
@@ -170,7 +171,6 @@
 {"asn":149208,"rir":"apnic","domain":"telerakesh.in","cc":"IN","asname":"RAKESSEN-AS-IN"}
 {"asn":149242,"rir":"apnic","domain":"ananyacomp.in","cc":"IN","asname":"ANANYAA-AS-IN"}
 {"asn":149286,"rir":"apnic","domain":"netinnovation.net","cc":"JP","asname":"NETINNOVATIONLLC-AS-AP"}
-{"asn":149434,"rir":"apnic","domain":"mygefo.in","cc":"IN","asname":"GEFO-AP-AS"}
 {"asn":150030,"rir":"apnic","domain":"algoz.co.in","cc":"IN","asname":"ALGO-AS-IN"}
 {"asn":150036,"rir":"apnic","domain":"heebshealthcare.co.in","cc":"IN","asname":"HEEBS-AS-IN"}
 {"asn":150082,"rir":"apnic","domain":"isofttechnology.net","cc":"IN","asname":"GARGASSO-AS-IN"}
@@ -433,4 +433,5 @@
 {"asn":401626,"rir":"arin","domain":"netiface.co.uk","cc":"GB","asname":"NETIFACE-TORONTO"}
 {"asn":401696,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD"}
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
-{"type":"metadata","timestamp":1764849114,"size":38976,"records":435,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"asn":402075,"rir":"arin","domain":"securecommsgroup.xyz","cc":"US","asname":"PEEKABO"}
+{"type":"metadata","timestamp":1764868914,"size":39072,"records":436,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
