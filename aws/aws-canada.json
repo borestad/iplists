@@ -1853,6 +1853,12 @@
   "network_border_group": "us-east-2"
 }
 {
+  "ip_prefix": "52.219.23.0/24",
+  "region": "us-west-1",
+  "service": "AMAZON",
+  "network_border_group": "us-west-1"
+}
+{
   "ip_prefix": "68.66.112.0/20",
   "region": "us-east-1",
   "service": "AMAZON",
@@ -12021,6 +12027,12 @@
   "region": "us-east-1",
   "service": "S3",
   "network_border_group": "us-east-1"
+}
+{
+  "ip_prefix": "52.219.23.0/24",
+  "region": "us-west-1",
+  "service": "S3",
+  "network_border_group": "us-west-1"
 }
 {
   "ip_prefix": "18.34.72.0/21",
