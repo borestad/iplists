@@ -103,7 +103,6 @@
 {"asn":59425,"rir":"ripencc","domain":"changway.hk","cc":"HK","asname":"HORIZONMSK-AS"}
 {"asn":59651,"rir":"ripencc","domain":"fineproxy.org","cc":"RU","asname":"AS-QualityNetwork"}
 {"asn":59683,"rir":"ripencc","domain":"vip-net.net","cc":"RU","asname":"iridatelecom"}
-{"asn":59753,"rir":"ripencc","domain":"vaultdweller.net","cc":"EE","asname":"as-vd"}
 {"asn":59841,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"PUBLIC-DNS-ASN"}
 {"asn":60223,"rir":"ripencc","domain":"netiface.co.uk","cc":"GB","asname":"NETIFACE-AS"}
 {"asn":60581,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"REBDACONS-AS"}
@@ -188,7 +187,6 @@
 {"asn":152486,"rir":"apnic","domain":"jdmbroadband.com","cc":"IN","asname":"NTSHIELD-AS-IN"}
 {"asn":154177,"rir":"apnic","domain":"kaopuyun.com","cc":"CN","asname":"LIGHT4-AS-AP"}
 {"asn":154206,"rir":"apnic","domain":"cloudie.hk","cc":"HK","asname":"CDN1COM-AS-AP"}
-{"asn":197414,"rir":"ripencc","domain":"zservers.ru","cc":"RU","asname":"XHOST-INTERNET-SOLUTIONS"}
 {"asn":197450,"rir":"ripencc","domain":"sunucun.com.tr","cc":"TR","asname":"SUNUCUN"}
 {"asn":197555,"rir":"ripencc","domain":"smartmieten.in","cc":"IN","asname":"SMARTMIETEN"}
 {"asn":198571,"rir":"ripencc","domain":"plainproxies.com","cc":"DE","asname":"PlainProxies"}
@@ -230,7 +228,6 @@
 {"asn":203025,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"ASN-COLOCATION"}
 {"asn":203120,"rir":"ripencc","domain":"globtelgroup.com","cc":"US","asname":"GTGL"}
 {"asn":203624,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"COLOCATION-CORPO"}
-{"asn":203834,"rir":"ripencc","domain":"vaultdweller.net","cc":"EE","asname":"as-vd"}
 {"asn":203950,"rir":"ripencc","domain":"kontrast.md","cc":"MD","asname":"LexistarAllianceLTD"}
 {"asn":203959,"rir":"ripencc","domain":"bignet.ua","cc":"UA","asname":"DEM-AS"}
 {"asn":203999,"rir":"ripencc","domain":"gwhostinglabs.com","cc":"IN","asname":"GeekyWorks"}
@@ -427,4 +424,4 @@
 {"asn":401696,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD"}
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
 {"asn":402075,"rir":"arin","domain":"securecommsgroup.xyz","cc":"US","asname":"PEEKABO"}
-{"type":"metadata","timestamp":1766016278,"size":38239,"records":429,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1766036078,"size":37968,"records":426,"copyright":"(c) 2025 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
