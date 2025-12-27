@@ -1,8 +1,0 @@
-# https://openai.com/gptbot-ranges.txt
-# Behind a WAF, so adding manually for now
-52.230.152.0/24
-52.233.106.0/24
-20.171.206.0/24
-20.171.207.0/24
-4.227.36.0/25
-172.182.201.192/28
