@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+#set -eo pipefail
+
+cd "$(dirname $0)"
+TEMPFILE=$(mktemp)
+
+name=openai
+curl --config ../.curlrc https://openai.com/searchbot.json -o $TEMPFILE
+
+jq -r .prefixes[].ipv4Prefix $TEMPFILE | grepip | iprange >| $name.ipv4
