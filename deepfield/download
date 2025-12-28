@@ -6,6 +6,6 @@ TEMPFILE=$(mktemp)
 
 name=deepfield
 curl --config ../.curlrc https://genome.deepfield.net/crawlers.txt -o $TEMPFILE
-$TEMPFILE | grepip | iprange >| $name.ipv4
-$TEMPFILE | grepip6 | cidr-merger >| $name.ipv6
+cat $TEMPFILE | grepip | iprange >| $name.ipv4
+cat $TEMPFILE | grepip6 | cidr-merger >| $name.ipv6
 
