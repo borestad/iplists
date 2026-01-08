@@ -179,6 +179,12 @@
   "network_border_group": "me-south-1"
 }
 {
+  "ip_prefix": "1.178.16.0/24",
+  "region": "me-south-1",
+  "service": "AMAZON",
+  "network_border_group": "me-south-1"
+}
+{
   "ip_prefix": "99.77.0.0/20",
   "region": "me-central-1",
   "service": "AMAZON",
@@ -1068,6 +1074,12 @@
 }
 {
   "ip_prefix": "35.50.210.0/24",
+  "region": "me-south-1",
+  "service": "EC2",
+  "network_border_group": "me-south-1"
+}
+{
+  "ip_prefix": "1.178.16.0/24",
   "region": "me-south-1",
   "service": "EC2",
   "network_border_group": "me-south-1"
