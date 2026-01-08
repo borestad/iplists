@@ -137,6 +137,8 @@
 {"cidr":"45.141.84.0/22","sblid":"SBL680524","rir":"ripencc"}
 {"cidr":"45.141.198.0/23","sblid":"SBL689984","rir":"ripencc"}
 {"cidr":"45.141.215.0/24","sblid":"SBL682999","rir":"ripencc"}
+{"cidr":"45.142.152.0/22","sblid":"SBL691440","rir":null}
+{"cidr":"45.142.154.0/24","sblid":"SBL691439","rir":null}
 {"cidr":"45.142.155.0/24","sblid":"SBL640405","rir":"ripencc"}
 {"cidr":"45.142.193.0/24","sblid":"SBL671783","rir":"ripencc"}
 {"cidr":"45.143.201.0/24","sblid":"SBL625748","rir":"ripencc"}
@@ -150,6 +152,7 @@
 {"cidr":"45.153.34.0/24","sblid":"SBL679667","rir":"ripencc"}
 {"cidr":"45.154.98.0/24","sblid":"SBL687510","rir":"ripencc"}
 {"cidr":"45.156.87.0/24","sblid":"SBL688017","rir":"ripencc"}
+{"cidr":"45.172.219.0/24","sblid":"SBL691435","rir":null}
 {"cidr":"45.186.152.0/22","sblid":"SBL540824","rir":"lacnic"}
 {"cidr":"45.192.178.0/23","sblid":"SBL498361","rir":"afrinic"}
 {"cidr":"45.194.66.0/24","sblid":"SBL683023","rir":"afrinic"}
@@ -447,8 +450,10 @@
 {"cidr":"103.173.40.0/24","sblid":"SBL652521","rir":"apnic"}
 {"cidr":"103.174.130.0/23","sblid":"SBL637444","rir":"apnic"}
 {"cidr":"103.175.229.0/24","sblid":"SBL637334","rir":"apnic"}
+{"cidr":"103.177.228.0/23","sblid":"SBL629006","rir":"apnic"}
 {"cidr":"103.177.238.0/23","sblid":"SBL681777","rir":"apnic"}
 {"cidr":"103.179.148.0/24","sblid":"SBL639191","rir":"apnic"}
+{"cidr":"103.180.180.0/23","sblid":"SBL654624","rir":"apnic"}
 {"cidr":"103.185.162.0/24","sblid":"SBL683028","rir":"apnic"}
 {"cidr":"103.192.228.0/22","sblid":"SBL310419","rir":"apnic"}
 {"cidr":"103.193.184.0/22","sblid":"SBL650046","rir":"apnic"}
@@ -992,6 +997,8 @@
 {"cidr":"194.180.64.0/20","sblid":"SBL679673","rir":"ripencc"}
 {"cidr":"195.14.98.0/24","sblid":"SBL625430","rir":"ripencc"}
 {"cidr":"195.22.149.0/24","sblid":"SBL552932","rir":"ripencc"}
+{"cidr":"195.24.236.0/24","sblid":"SBL691433","rir":null}
+{"cidr":"195.24.237.0/24","sblid":"SBL691434","rir":null}
 {"cidr":"195.66.27.0/24","sblid":"SBL679703","rir":"ripencc"}
 {"cidr":"195.96.32.0/19","sblid":"SBL679674","rir":"ripencc"}
 {"cidr":"195.133.16.0/24","sblid":"SBL689981","rir":"ripencc"}
@@ -1006,6 +1013,8 @@
 {"cidr":"196.10.64.0/19","sblid":"SBL458171","rir":"afrinic"}
 {"cidr":"196.15.64.0/18","sblid":"SBL458198","rir":"afrinic"}
 {"cidr":"196.16.0.0/14","sblid":"SBL364590","rir":"afrinic"}
+{"cidr":"196.49.11.0/24","sblid":"SBL675329","rir":"afrinic"}
+{"cidr":"196.223.43.0/24","sblid":"SBL675328","rir":"afrinic"}
 {"cidr":"196.251.66.0/23","sblid":"SBL675237","rir":"afrinic"}
 {"cidr":"196.251.69.0/24","sblid":"SBL675241","rir":"afrinic"}
 {"cidr":"196.251.70.0/23","sblid":"SBL675242","rir":"afrinic"}
@@ -1167,7 +1176,9 @@
 {"cidr":"200.1.4.0/23","sblid":"SBL689628","rir":"lacnic"}
 {"cidr":"200.10.32.0/20","sblid":"SBL233407","rir":"lacnic"}
 {"cidr":"200.13.64.0/20","sblid":"SBL544031","rir":"lacnic"}
+{"cidr":"200.13.192.0/19","sblid":"SBL689939","rir":"lacnic"}
 {"cidr":"200.22.0.0/16","sblid":"SBL84896","rir":"lacnic"}
+{"cidr":"200.23.165.0/24","sblid":"SBL691436","rir":null}
 {"cidr":"200.71.124.0/22","sblid":"SBL237882","rir":"lacnic"}
 {"cidr":"200.189.44.0/22","sblid":"SBL291132","rir":"lacnic"}
 {"cidr":"201.148.168.0/22","sblid":"SBL247631","rir":"ripencc"}
@@ -1427,7 +1438,9 @@
 {"cidr":"212.224.93.0/24","sblid":"SBL630769","rir":"ripencc"}
 {"cidr":"212.237.152.0/21","sblid":"SBL594332","rir":"apnic"}
 {"cidr":"213.21.237.0/24","sblid":"SBL655369","rir":"ripencc"}
+{"cidr":"213.177.179.0/24","sblid":"SBL691432","rir":null}
 {"cidr":"213.190.14.0/24","sblid":"SBL689629","rir":"ripencc"}
+{"cidr":"213.209.159.0/24","sblid":"SBL691429","rir":null}
 {"cidr":"216.7.96.0/20","sblid":"SBL682309","rir":"arin"}
 {"cidr":"216.9.224.0/22","sblid":"SBL677075","rir":"arin"}
 {"cidr":"216.63.240.0/22","sblid":"SBL624913","rir":"arin"}
@@ -1451,4 +1464,4 @@
 {"cidr":"223.169.0.0/16","sblid":"SBL208009","rir":"apnic"}
 {"cidr":"223.173.0.0/16","sblid":"SBL204954","rir":"apnic"}
 {"cidr":"223.254.0.0/16","sblid":"SBL212803","rir":"apnic"}
-{"type":"metadata","timestamp":1767872078,"size":88705,"records":1453,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1767884678,"size":89482,"records":1466,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
