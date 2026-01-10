@@ -10595,6 +10595,12 @@
   "network_border_group": "eu-south-2"
 }
 {
+  "ip_prefix": "16.18.0.0/16",
+  "region": "eu-central-2",
+  "service": "EC2",
+  "network_border_group": "eu-central-2"
+}
+{
   "ip_prefix": "99.77.157.0/24",
   "region": "eu-west-3",
   "service": "EC2",

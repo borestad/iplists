@@ -359,6 +359,12 @@
   "network_border_group": "il-central-1"
 }
 {
+  "ip_prefix": "16.164.0.0/16",
+  "region": "il-central-1",
+  "service": "EC2",
+  "network_border_group": "il-central-1"
+}
+{
   "ip_prefix": "3.5.56.0/22",
   "region": "il-central-1",
   "service": "EC2",
