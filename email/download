@@ -1,0 +1,116 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+cd "$(dirname $0)"
+
+fetch_spf() {
+  local name="$1" domain="$2"
+  local ipv outfile tmp
+
+  echo "Fetching $name SPF records..."
+  for ipv in 4 6; do
+    outfile="$name.ipv$ipv"
+    tmp=$(mktemp)
+    if [[ $ipv == 4 ]]; then
+      if extract_spf_ips "$domain" "$ipv" | grepip | iprange >| "$tmp"; then
+        mv -f "$tmp" "$outfile"
+      else
+        echo "WARN: $name IPv$ipv fetch failed" >&2
+      fi
+      continue
+    fi
+
+    if extract_spf_ips "$domain" "$ipv" | grepip6 | cidr-merger >| "$tmp"; then
+      [[ -s "$tmp" ]] && mv -f "$tmp" "$outfile"
+    else
+      rc=$?
+      if [[ $rc -eq 1 ]]; then
+        echo "INFO: $name has no IPv6 SPF" >&2
+      else
+        echo "WARN: $name IPv$ipv fetch failed" >&2
+      fi
+    fi
+  done
+}
+
+fetch_o365_exchange() {
+  local name="$1"
+  local tmpjson tmpips tmpout ipv filter
+
+  echo "Fetching Office 365 Exchange IPs..."
+  tmpjson=$(mktemp)
+  tmpips=$(mktemp)
+
+  if ! curl --config ../.curlrc -o "$tmpjson" "https://endpoints.office.com/endpoints/worldwide?clientrequestid=$(uuidgen)"; then
+    echo "WARN: Office 365 fetch failed" >&2
+    return 0
+  fi
+
+  if ! jq -r '.[] | select(.serviceArea=="Exchange") | .ips[]?' "$tmpjson" >| "$tmpips"; then
+    echo "WARN: Office 365 JSON parse failed" >&2
+    return 0
+  fi
+
+  for ipv in 4 6; do
+    filter=grepip
+    [[ $ipv == 6 ]] && filter=grepip6
+
+    tmpout=$(mktemp)
+    if [[ $ipv == 4 ]]; then
+      if $filter <"$tmpips" | iprange >| "$tmpout"; then
+        mv -f "$tmpout" "$name.ipv$ipv"
+      else
+        echo "WARN: Office 365 IPv$ipv parse failed" >&2
+      fi
+      continue
+    fi
+
+    if $filter <"$tmpips" | cidr-merger >| "$tmpout"; then
+      [[ -s "$tmpout" ]] && mv -f "$tmpout" "$name.ipv$ipv"
+    else
+      rc=$?
+      if [[ $rc -eq 1 ]]; then
+        echo "INFO: Office 365 has no IPv6" >&2
+      else
+        echo "WARN: Office 365 IPv$ipv parse failed" >&2
+      fi
+    fi
+  done
+}
+
+# Helper function to recursively follow SPF records and extract IPs
+extract_spf_ips() {
+  local domain=$1
+  local ipv=$2  # 4 or 6
+  local pattern="ip${ipv}"
+
+  dig @1.1.1.1 +short TXT "$domain" | tr -d '"' | tr ' ' '\n' | {
+    while IFS= read -r token; do
+      if [[ $token =~ ^${pattern}: ]]; then
+        echo "${token#${pattern}:}"
+      elif [[ $token =~ ^include: ]]; then
+        # Recursively follow includes
+        extract_spf_ips "${token#include:}" "$ipv"
+      fi
+    done
+  }
+}
+
+fetch_o365_exchange office365-exchange-smtp
+
+services=(
+  gmail-smtp _spf.google.com
+  aws-ses-smtp amazonses.com
+  sendgrid-smtp sendgrid.net
+  mailgun-smtp mailgun.org
+  postmark-smtp spf.mtasv.net
+  sparkpost-smtp sparkpostmail.com
+  mailchimp-smtp servers.mcsv.net
+  mandrill-smtp mandrillapp.com
+  mailjet-smtp mailjet.com
+  sendinblue-smtp sendinblue.com
+)
+
+for ((i=0; i<${#services[@]}; i+=2)); do
+  fetch_spf "${services[i]}" "${services[i+1]}"
+done
