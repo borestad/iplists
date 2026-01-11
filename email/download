@@ -104,7 +104,6 @@ services=(
   sendgrid-smtp sendgrid.net
   mailgun-smtp mailgun.org
   postmark-smtp spf.mtasv.net
-  sparkpost-smtp sparkpostmail.com
   mailchimp-smtp servers.mcsv.net
   mandrill-smtp mandrillapp.com
   mailjet-smtp mailjet.com
