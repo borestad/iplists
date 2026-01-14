@@ -12,7 +12,7 @@
 {"asn":13875,"rir":"arin","domain":"mxfiber.com","cc":"HK","asname":"AS13875-MX-FIBER"}
 {"asn":14956,"rir":"arin","domain":"cloudzy.com","cc":"US","asname":"ROUTERHOSTING"}
 {"asn":17447,"rir":"apnic","domain":"net4india.com","cc":"IN","asname":"NET4-IN"}
-{"asn":17994,"rir":"apnic","domain":"appserv.co.nz","cc":"NZ","asname":"ASL-AS-AP"}
+{"asn":17994,"rir":"apnic","domain":"appserv.co.nz","cc":"NZ","asname":"SPARK-AS-AP"}
 {"asn":23865,"rir":"apnic","domain":"netinnovation.net","cc":"JP","asname":"NETINNOVATIONLLC-AS-AP"}
 {"asn":24426,"rir":"apnic","domain":"myce.net.cn","cc":"CN","asname":"CNNIC-SINO-I"}
 {"asn":24544,"rir":"apnic","domain":"cloudie.hk","cc":"HK","asname":"Overcasts-AS-AP"}
@@ -424,4 +424,4 @@
 {"asn":401696,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD"}
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
 {"asn":402075,"rir":"arin","domain":"securecommsgroup.xyz","cc":"US","asname":"PEEKABO"}
-{"type":"metadata","timestamp":1768390478,"size":37971,"records":426,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1768412078,"size":37973,"records":426,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
