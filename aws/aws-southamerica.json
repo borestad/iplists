@@ -1031,6 +1031,12 @@
   "network_border_group": "sa-east-1"
 }
 {
+  "ip_prefix": "1.178.95.0/24",
+  "region": "sa-east-1",
+  "service": "S3",
+  "network_border_group": "sa-east-1"
+}
+{
   "ip_prefix": "15.228.107.0/28",
   "region": "sa-east-1",
   "service": "S3",
