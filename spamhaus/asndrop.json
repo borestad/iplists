@@ -95,7 +95,7 @@
 {"asn":55748,"rir":"apnic","domain":"morsejp.com","cc":"JP","asname":"MORSE-JP"}
 {"asn":55933,"rir":"apnic","domain":"cloudie.hk","cc":"HK","asname":"CLOUDIE-AS-AP"}
 {"asn":56291,"rir":"apnic","domain":"ace-idc.com","cc":"JP","asname":"ACE-AS-AP"}
-{"asn":56362,"rir":"ripencc","domain":"pitline.net","cc":"UA","asname":"INTETICSFE-AS"}
+{"asn":56362,"rir":"ripencc","domain":"pitline.net","cc":"UA","asname":"PITLINE-AS"}
 {"asn":56873,"rir":"ripencc","domain":"eliteteam.to","cc":"SC","asname":"ELITETEAM-ANTIDDOS"}
 {"asn":57100,"rir":"ripencc","domain":"pitline.net","cc":"UA","asname":"WEBNETWORK"}
 {"asn":57415,"rir":"ripencc","domain":"bignet.ua","cc":"UA","asname":"R-TEL-AS"}
@@ -424,4 +424,4 @@
 {"asn":401696,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD"}
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
 {"asn":402075,"rir":"arin","domain":"securecommsgroup.xyz","cc":"US","asname":"PEEKABO"}
-{"type":"metadata","timestamp":1768500278,"size":37973,"records":426,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1768521879,"size":37970,"records":426,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
