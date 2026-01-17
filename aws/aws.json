@@ -1,6 +1,6 @@
 {
-  "syncToken": "1768550884",
-  "createDate": "2026-01-16-08-08-04",
+  "syncToken": "1768598884",
+  "createDate": "2026-01-16-21-28-04",
   "prefixes": [
     {
       "ip_prefix": "3.4.12.4/32",
@@ -21327,12 +21327,6 @@
       "network_border_group": "us-gov-east-1"
     },
     {
-      "ip_prefix": "23.228.194.0/24",
-      "region": "us-east-1",
-      "service": "AMAZON",
-      "network_border_group": "us-east-1"
-    },
-    {
       "ip_prefix": "51.0.88.0/21",
       "region": "me-central-1",
       "service": "AMAZON",
@@ -35925,6 +35919,12 @@
       "network_border_group": "us-east-1"
     },
     {
+      "ip_prefix": "3.2.65.0/24",
+      "region": "us-east-1",
+      "service": "S3",
+      "network_border_group": "us-east-1"
+    },
+    {
       "ip_prefix": "44.192.134.240/28",
       "region": "us-east-1",
       "service": "S3",
@@ -44271,12 +44271,6 @@
       "network_border_group": "us-gov-east-1"
     },
     {
-      "ip_prefix": "23.228.194.0/24",
-      "region": "us-east-1",
-      "service": "EC2",
-      "network_border_group": "us-east-1"
-    },
-    {
       "ip_prefix": "51.0.88.0/21",
       "region": "me-central-1",
       "service": "EC2",
@@ -47199,6 +47193,12 @@
       "network_border_group": "GLOBAL"
     },
     {
+      "ip_prefix": "52.61.226.0/23",
+      "region": "us-gov-west-1",
+      "service": "ROUTE53",
+      "network_border_group": "us-gov-west-1"
+    },
+    {
       "ip_prefix": "34.217.143.0/24",
       "region": "us-west-2",
       "service": "ROUTE53",
@@ -47293,6 +47293,12 @@
       "region": "us-gov-east-1",
       "service": "ROUTE53",
       "network_border_group": "us-gov-east-1"
+    },
+    {
+      "ip_prefix": "96.127.116.0/23",
+      "region": "us-gov-west-1",
+      "service": "ROUTE53",
+      "network_border_group": "us-gov-west-1"
     },
     {
       "ip_prefix": "120.52.22.96/27",
@@ -74448,6 +74454,12 @@
     },
     {
       "ipv6_prefix": "2600:f0f0:6100::/48",
+      "region": "us-east-1",
+      "service": "S3",
+      "network_border_group": "us-east-1"
+    },
+    {
+      "ipv6_prefix": "2600:f0f0:6101::/48",
       "region": "us-east-1",
       "service": "S3",
       "network_border_group": "us-east-1"
