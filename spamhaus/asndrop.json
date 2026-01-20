@@ -92,6 +92,7 @@
 {"asn":51447,"rir":"ripencc","domain":"rootlayer.net","cc":"BD","asname":"ROOTLAYERNET"}
 {"asn":51511,"rir":"ripencc","domain":"pitline.net","cc":"UA","asname":"TRADE-EXPRESS-AS"}
 {"asn":53958,"rir":"arin","domain":"auproxies.com","cc":"US","asname":"BART-BM"}
+{"asn":54497,"rir":"arin","domain":"lhwebtech.com","cc":"US","asname":"LHWEBTECH-AS"}
 {"asn":55748,"rir":"apnic","domain":"morsejp.com","cc":"JP","asname":"MORSE-JP"}
 {"asn":55933,"rir":"apnic","domain":"cloudie.hk","cc":"HK","asname":"CLOUDIE-AS-AP"}
 {"asn":56291,"rir":"apnic","domain":"ace-idc.com","cc":"JP","asname":"ACE-AS-AP"}
@@ -396,6 +397,7 @@
 {"asn":266702,"rir":"lacnic","domain":"nodonorte.net.ar","cc":"AR","asname":"MEGALINK_S.R.L."}
 {"asn":266724,"rir":"lacnic","domain":"donserver.cl","cc":"CL","asname":"MYRIAM_PILAR_ESCOBAR_VEGA_(DON_SERVER)"}
 {"asn":327837,"rir":"afrinic","domain":"seyix.sc","cc":"SC","asname":"SEY-IX-MANAGEMENT"}
+{"asn":327952,"rir":"afrinic","domain":"ntel.com.ng","cc":"NG","asname":"AS-NATCOM"}
 {"asn":328095,"rir":"afrinic","domain":"bluegate-exchange.co.za","cc":"ZA","asname":"BLUEGATE-EXCHANGE-AS"}
 {"asn":328819,"rir":"afrinic","domain":"bluecentrix.co.za","cc":"ZA","asname":"BPL-AS"}
 {"asn":328958,"rir":"afrinic","domain":"cybrscrb.com","cc":"SC","asname":"CL21-AS"}
@@ -423,4 +425,4 @@
 {"asn":401696,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD"}
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
 {"asn":402075,"rir":"arin","domain":"securecommsgroup.xyz","cc":"US","asname":"PEEKABO"}
-{"type":"metadata","timestamp":1768887278,"size":37883,"records":425,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1768910678,"size":38054,"records":427,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
