@@ -407,6 +407,12 @@
   "network_border_group": "af-south-1"
 }
 {
+  "ip_prefix": "1.178.18.0/24",
+  "region": "af-south-1",
+  "service": "S3",
+  "network_border_group": "af-south-1"
+}
+{
   "ip_prefix": "13.245.93.176/28",
   "region": "af-south-1",
   "service": "S3",
