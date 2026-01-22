@@ -198,6 +198,7 @@
 {"asn":198926,"rir":"ripencc","domain":"rapidoserver.com","cc":"IR","asname":"Fazel"}
 {"asn":198953,"rir":"ripencc","domain":"proton66.ru","cc":"RU","asname":"proton66"}
 {"asn":198981,"rir":"ripencc","domain":"chosting.solutions","cc":"UA","asname":"NETSHIELD-BYOIP"}
+{"asn":199052,"rir":"ripencc","domain":"netiface.co.uk","cc":"GB","asname":"AS-AQUAHOST"}
 {"asn":199420,"rir":"ripencc","domain":"fly-group.ru","cc":"RU","asname":"FLYGROUP-AS"}
 {"asn":199785,"rir":"ripencc","domain":"chosting.solutions","cc":"UA","asname":"CHSN-AS"}
 {"asn":200010,"rir":"ripencc","domain":"cantech.international","cc":"US","asname":"VISLOM"}
@@ -232,6 +233,7 @@
 {"asn":203025,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"ASN-COLOCATION"}
 {"asn":203120,"rir":"ripencc","domain":"globtelgroup.com","cc":"US","asname":"GTGL"}
 {"asn":203624,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"COLOCATION-CORPO"}
+{"asn":203861,"rir":"ripencc","domain":"netiface.co.uk","cc":"GB","asname":"MITEFLUX-AS"}
 {"asn":203950,"rir":"ripencc","domain":"kontrast.md","cc":"MD","asname":"LexistarAllianceLTD"}
 {"asn":203959,"rir":"ripencc","domain":"bignet.ua","cc":"UA","asname":"DEM-AS"}
 {"asn":203999,"rir":"ripencc","domain":"gwhostinglabs.com","cc":"IN","asname":"GeekyWorks"}
@@ -425,4 +427,4 @@
 {"asn":401696,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD"}
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
 {"asn":402075,"rir":"arin","domain":"securecommsgroup.xyz","cc":"US","asname":"PEEKABO"}
-{"type":"metadata","timestamp":1769083478,"size":38060,"records":427,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1769103278,"size":38240,"records":429,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
