@@ -7295,6 +7295,12 @@
   "network_border_group": "eu-west-1"
 }
 {
+  "ip_prefix": "184.76.0.0/14",
+  "region": "eu-central-1",
+  "service": "AMAZON",
+  "network_border_group": "eu-central-1"
+}
+{
   "ip_prefix": "46.137.0.0/17",
   "region": "eu-west-1",
   "service": "AMAZON",
