@@ -6557,6 +6557,12 @@
   "network_border_group": "ap-northeast-1"
 }
 {
+  "ip_prefix": "56.61.0.0/16",
+  "region": "ap-southeast-5",
+  "service": "AMAZON",
+  "network_border_group": "ap-southeast-5"
+}
+{
   "ip_prefix": "56.96.0.0/16",
   "region": "ap-southeast-4",
   "service": "AMAZON",
