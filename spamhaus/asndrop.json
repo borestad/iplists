@@ -83,7 +83,6 @@
 {"asn":49443,"rir":"ripencc","domain":"kontrast.md","cc":"MD","asname":"SISTEME"}
 {"asn":50138,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"CTC-ALFA-AS"}
 {"asn":50236,"rir":"ripencc","domain":"62yun.com","cc":"RU","asname":"Vertexlink_Communications"}
-{"asn":50935,"rir":"ripencc","domain":"hosting.international","cc":"GB","asname":"International-Hosting-Solutions-AS"}
 {"asn":51045,"rir":"ripencc","domain":"bignet.ua","cc":"UA","asname":"DEMENIN-AS"}
 {"asn":51124,"rir":"ripencc","domain":"bignet.ua","cc":"UA","asname":"ITPLUS-UA-AS"}
 {"asn":51246,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"RASVTV"}
@@ -344,7 +343,6 @@
 {"asn":212867,"rir":"ripencc","domain":"brutalproxies.com","cc":"NL","asname":"SIPALTO"}
 {"asn":213035,"rir":"ripencc","domain":"serverion.com","cc":"NL","asname":"AS-SERVERION"}
 {"asn":213137,"rir":"ripencc","domain":"kontrast.md","cc":"MD","asname":"Contrust"}
-{"asn":213354,"rir":"ripencc","domain":"hosting.international","cc":"GB","asname":"International-Hosting-Solutions-AS"}
 {"asn":213355,"rir":"ripencc","domain":"changway.hk","cc":"HK","asname":"HGN-AS"}
 {"asn":213371,"rir":"ripencc","domain":"zumy.eu","cc":"IN","asname":"SQUITTER-NETWORKS"}
 {"asn":213373,"rir":"ripencc","domain":"ipconnect.services","cc":"SC","asname":"IPCONNECT"}
@@ -428,4 +426,4 @@
 {"asn":401696,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD"}
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
 {"asn":402075,"rir":"arin","domain":"securecommsgroup.xyz","cc":"US","asname":"PEEKABO"}
-{"type":"metadata","timestamp":1769513678,"size":38303,"records":430,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1769535278,"size":38064,"records":428,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
