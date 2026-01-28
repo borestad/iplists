@@ -3911,6 +3911,12 @@
   "network_border_group": "eu-west-2"
 }
 {
+  "ip_prefix": "35.97.194.0/24",
+  "region": "eu-west-1",
+  "service": "AMAZON",
+  "network_border_group": "eu-west-1"
+}
+{
   "ip_prefix": "52.144.216.10/31",
   "region": "eu-north-1",
   "service": "AMAZON",
