@@ -234,6 +234,7 @@
 {"asn":202965,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"DONTV-PRIM-AS"}
 {"asn":203025,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"ASN-COLOCATION"}
 {"asn":203120,"rir":"ripencc","domain":"globtelgroup.com","cc":"US","asname":"GTGL"}
+{"asn":203273,"rir":"ripencc","domain":"aeza.net","cc":"RU","asname":"NetCraftersOUe"}
 {"asn":203624,"rir":"ripencc","domain":"eurotelecom.info","cc":"MD","asname":"COLOCATION-CORPO"}
 {"asn":203861,"rir":"ripencc","domain":"netiface.co.uk","cc":"GB","asname":"MITEFLUX-AS"}
 {"asn":203950,"rir":"ripencc","domain":"kontrast.md","cc":"MD","asname":"LexistarAllianceLTD"}
@@ -430,4 +431,4 @@
 {"asn":401696,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD"}
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
 {"asn":402075,"rir":"arin","domain":"securecommsgroup.xyz","cc":"US","asname":"PEEKABO"}
-{"type":"metadata","timestamp":1770486242,"size":38401,"records":432,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1770511442,"size":38488,"records":433,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
