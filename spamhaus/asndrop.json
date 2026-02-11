@@ -240,7 +240,7 @@
 {"asn":206017,"rir":"ripencc","domain":"uplink.in.md","cc":"MD","asname":"HOSTING"}
 {"asn":206068,"rir":"ripencc","domain":"uplink.in.md","cc":"MD","asname":"HOSTING"}
 {"asn":206127,"rir":"ripencc","domain":"kontrast.md","cc":"MD","asname":"LexistarAllianceLTD"}
-{"asn":206305,"rir":"ripencc","domain":"kontrast.md","cc":"MD","asname":"LexistarAllianceLTD"}
+{"asn":206305,"rir":"ripencc","domain":"kontrast.md","cc":"MD","asname":"Contrust"}
 {"asn":206340,"rir":"ripencc","domain":"kontrast.md","cc":"MD","asname":"LexistarAllianceLTD"}
 {"asn":206413,"rir":"ripencc","domain":"kontrast.md","cc":"MD","asname":"LexistarAllianceLTD"}
 {"asn":206535,"rir":"ripencc","domain":"kontrast.md","cc":"MD","asname":"LexistarAllianceLTD"}
@@ -292,7 +292,7 @@
 {"asn":210714,"rir":"ripencc","domain":"eksenbilisim.com.tr","cc":"TR","asname":"Turkan-Orhan"}
 {"asn":210756,"rir":"ripencc","domain":"62yun.com","cc":"RU","asname":"EdgeCenterLLC"}
 {"asn":210848,"rir":"ripencc","domain":"server-panel.org","cc":"SC","asname":"TK-NET"}
-{"asn":210919,"rir":"ripencc","domain":"idodns.com","cc":"JP","asname":"seacom"}
+{"asn":210919,"rir":"ripencc","domain":"idodns.com","cc":"JP","asname":"korea"}
 {"asn":210950,"rir":"ripencc","domain":"erishennya","cc":"UA","asname":"ERISHENNYA-ASN"}
 {"asn":211121,"rir":"ripencc","domain":"imtigernet","cc":"GB","asname":"tiger-msk"}
 {"asn":211138,"rir":"ripencc","domain":"private-hosting.eu","cc":"DE","asname":"PRIVATEHOSTING-NET"}
@@ -377,6 +377,7 @@
 {"asn":328958,"rir":"afrinic","domain":"cybrscrb.com","cc":"SC","asname":"CL21-AS"}
 {"asn":329007,"rir":"afrinic","domain":"elende.ao","cc":"AO","asname":"ELENDE"}
 {"asn":329325,"rir":"afrinic","domain":"maxko.org","cc":"HR","asname":"Maxko-for-Gaming-Development"}
+{"asn":395092,"rir":"arin","domain":"shockhosting.net","cc":"US","asname":"SHOCK-1"}
 {"asn":398638,"rir":"arin","domain":"jellydigital.net","cc":"US","asname":"JELLYDIGITAL"}
 {"asn":398741,"rir":"arin","domain":"62yun.com","cc":"RU","asname":"AS-VERTEXLINK-01"}
 {"asn":399073,"rir":"arin","domain":"bunnycommunications.com","cc":"US","asname":"TBB-ASN"}
@@ -398,4 +399,4 @@
 {"asn":401696,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD"}
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
 {"asn":402075,"rir":"arin","domain":"securecommsgroup.xyz","cc":"US","asname":"PEEKABO"}
-{"type":"metadata","timestamp":1770745442,"size":35505,"records":400,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1770768842,"size":35578,"records":401,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
