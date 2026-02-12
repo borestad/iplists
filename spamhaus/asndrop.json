@@ -82,6 +82,7 @@
 {"asn":51396,"rir":"ripencc","domain":"pfcloud.io","cc":"DE","asname":"PFCLOUD"}
 {"asn":51447,"rir":"ripencc","domain":"rootlayer.net","cc":"BD","asname":"ROOTLAYERNET"}
 {"asn":51511,"rir":"ripencc","domain":"pitline.net","cc":"UA","asname":"TRADE-EXPRESS-AS"}
+{"asn":51722,"rir":"ripencc","domain":"pixoof.com","cc":"TR","asname":"AS-PIXOOF"}
 {"asn":53958,"rir":"arin","domain":"auproxies.com","cc":"US","asname":"BART-BM"}
 {"asn":54497,"rir":"arin","domain":"lhwebtech.com","cc":"US","asname":"LHWEBTECH-AS"}
 {"asn":55748,"rir":"apnic","domain":"morsejp.com","cc":"JP","asname":"MORSE-JP"}
@@ -227,19 +228,14 @@
 {"asn":204868,"rir":"ripencc","domain":"kontrast.md","cc":"MD","asname":"LexistarAllianceLTD"}
 {"asn":204872,"rir":"ripencc","domain":"kontrast.md","cc":"MD","asname":"LexistarAllianceLTD"}
 {"asn":205083,"rir":"ripencc","domain":"xor.sc","cc":"SC","asname":"DATASHIELD_FILTER"}
-{"asn":205124,"rir":"ripencc","domain":"uplink.in.md","cc":"MD","asname":"COLOCATION"}
 {"asn":205301,"rir":"ripencc","domain":"kontrast.md","cc":"MD","asname":"LexistarAllianceLTD"}
 {"asn":205486,"rir":"ripencc","domain":"sunucun.com.tr","cc":"TR","asname":"LKGF"}
 {"asn":205745,"rir":"ripencc","domain":"kontrast.md","cc":"MD","asname":"LexistarAllianceLTD"}
 {"asn":205759,"rir":"ripencc","domain":"ghostynetworks.com","cc":"US","asname":"GHOSTYNETWORKS"}
 {"asn":205770,"rir":"ripencc","domain":"kontrast.md","cc":"MD","asname":"LexistarAllianceLTD"}
 {"asn":205775,"rir":"ripencc","domain":"neoncore.biz","cc":"US","asname":"neoncorenetworks"}
-{"asn":205835,"rir":"ripencc","domain":"uplink.in.md","cc":"MD","asname":"COLOCATION"}
 {"asn":205884,"rir":"ripencc","domain":"kontrast.md","cc":"MD","asname":"LexistarAllianceLTD"}
-{"asn":205911,"rir":"ripencc","domain":"uplink.in.md","cc":"MD","asname":"HOSTING"}
 {"asn":206005,"rir":"ripencc","domain":"kontrast.md","cc":"MD","asname":"ZYNOO"}
-{"asn":206017,"rir":"ripencc","domain":"uplink.in.md","cc":"MD","asname":"HOSTING"}
-{"asn":206068,"rir":"ripencc","domain":"uplink.in.md","cc":"MD","asname":"HOSTING"}
 {"asn":206127,"rir":"ripencc","domain":"kontrast.md","cc":"MD","asname":"LexistarAllianceLTD"}
 {"asn":206305,"rir":"ripencc","domain":"kontrast.md","cc":"MD","asname":"Contrust"}
 {"asn":206340,"rir":"ripencc","domain":"kontrast.md","cc":"MD","asname":"LexistarAllianceLTD"}
@@ -399,4 +395,4 @@
 {"asn":401696,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD"}
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
 {"asn":402075,"rir":"arin","domain":"securecommsgroup.xyz","cc":"US","asname":"PEEKABO"}
-{"type":"metadata","timestamp":1770896642,"size":35571,"records":401,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1770918242,"size":35228,"records":397,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
