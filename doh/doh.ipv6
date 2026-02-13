@@ -41,9 +41,6 @@
 2001:470:1f15:b80::53                   # opennic.i2pd.xyz
 2001:470:20::2                          # ordns.he.net
 2001:470:26:7c::195                     # ibksturm.synology.me
-2001:470:28:286:1::                     # ns.trcnet.fi
-2001:470:28:287:1::                     # ns.trcnet.fi
-2001:470:28:aa2:1::                     # ns.trcnet.fi
 2001:470:36:3fc:0:feed:dad:b055         # dns.repinger.com
 2001:470:71:6dc::53                     # opennic2.i2pd.xyz
 2001:470:f829:8593:3::7                 # doh.max.net.id
@@ -60,7 +57,7 @@
 2001:4ca0:200:3:200:5efe:8d54:451d      # muli.stusta.mhn.de
 2001:550:2:6f::f3:2                     # doh1.b-cdn.net, doh2.b-cdn.net
 2001:550:5a00:5eb::db5:face             # rdu01.dnscry.pt
-2001:558:fd00:ca::a                     # doh.xfinity.com, doh2.gslb2.xfinity.com
+2001:558:fd00:ca::5                     # doh.xfinity.com, doh2.gslb2.xfinity.com
 2001:558:fe21:6b:96:113:151:145         # dot.xfinity.com
 2001:578:3f::30                         # doh.cox.net, dot.cox.net
 2001:620:0:ff::2                        # dns.switch.ch
@@ -109,8 +106,6 @@
 2001:b030:1416:ff01::bb                 # dns.tipsy.coffee
 2001:ba0:27f:2e00::1                    # dns.mateo.ovh
 2001:bc8:1640:35f1:dc00:ff:fe3a:abcb    # doh.kel.pe
-2001:bc8:255e:100::1                    # dns.novg.net
-2001:bc8:255e:200::1                    # dns.novg.net
 2001:bc8:710:1efa:dc00:ff:fe34:a339     # fr-dns1.bancuh.com
 2001:de4::101                           # dns.twnic.tw
 2001:de4::102                           # dns.twnic.tw
@@ -122,7 +117,7 @@
 2001:df7:5300:18::64f                   # puredns.org
 2001:e68:5040:a7da:d8e7:f548:508b:6346  # fwgw.orangepipc.mywire.org
 2003:180:2:7000:0:4:0:53                # dns.telekom.de
-2003:180:2:8100:0:4:0:53                # dns.telekom.de
+2003:180:2:b000:0:4:0:53                # dns.telekom.de
 2003:4:e0b0:102:0:4:0:53                # dns.t53.de
 2003:5f:c010:1:212:185:200:25           # dns1.conne.net
 2003:a:133:1500::2                      # doh.kekew.info
@@ -164,7 +159,6 @@
 2400:8902::f03c:92ff:fe80:38b7          # dns.kuuhaku.moe
 2400:8902::f03c:93ff:feb8:2f31          # dns.wang.art
 2400:8902::f03c:95ff:fe59:27bc          # dns.nodoa.me
-2400:8904::f03c:92ff:fe29:cb19          # dns.therifleman.name
 2400:c401::5054:ff:fe1b:b036            # adl.adfilter.net
 2400:d321:2191:8363::1                  # dns.albony.xyz
 2400:ddc0:b000::2                       # jp-kix.doh.sb
@@ -201,7 +195,6 @@
 2406:da1a:1b5:d610:89b3:1adf:c159:a35e  # pihole.aws.ketan.dev
 2406:ef80:2:8f28::1                     # sg.teradns.org
 2406:ef80:2:e976::1                     # dns.syaifullah.com
-2407:0:3006:537a::1                     # gustamadh.dynv6.net
 2407:24c0:2::154:3                      # dns.gi.co.id
 2407:3640:2205:1668::1                  # dot-sg.blahdns.com
 2407:3640:2238:5447::1                  # asia.tri-dns.net
@@ -211,6 +204,7 @@
 240d:c000:f000:ea00:70d8:5996:f8e4:0    # dns.flymc.cc
 240d:c000:f05f:7900:8234:d91e:8082:0    # blog.kimiblock.top
 240d:c000:f05f:7900:8234:d91e:8082:1    # blog.kimiblock.top
+240d:c000:f07f:9500:58dc:b774:bc9e:0    # dns.imaicool.com
 240d:c010:74:2::171                     # doh.totoro.pub
 240d:c010:75:1::119                     # dns.233py.com, doh.233py.com, edns.233py.com, i.233py.com, ndns.233py.com, sdns.233py.com, wdns.233py.com
 240d:c010:75:1::19a                     # doh.totoro.pub
@@ -266,14 +260,14 @@
 2600:4c00:80:8::a                       # atl01.dnscry.pt
 2600:6c7f:f000:202::7                   # doh-01.spectrum.com
 2600:6c7f:f000:202::8                   # doh-02.spectrum.com
-2600:9000:28a3:3a00:f:5c7a:55c0:93a1    # eth.link
-2600:9000:28a3:4000:f:5c7a:55c0:93a1    # eth.link
+2600:9000:28a3:2200:f:5c7a:55c0:93a1    # eth.link
 2600:9000:28a3:5800:f:5c7a:55c0:93a1    # eth.link
-2600:9000:28a3:6800:f:5c7a:55c0:93a1    # eth.link
-2600:9000:28a3:9600:f:5c7a:55c0:93a1    # eth.link
-2600:9000:28a3:b000:f:5c7a:55c0:93a1    # eth.link
+2600:9000:28a3:6e00:f:5c7a:55c0:93a1    # eth.link
+2600:9000:28a3:7a00:f:5c7a:55c0:93a1    # eth.link
+2600:9000:28a3:9800:f:5c7a:55c0:93a1    # eth.link
 2600:9000:28a3:e000:f:5c7a:55c0:93a1    # eth.link
-2600:9000:28a3:e200:f:5c7a:55c0:93a1    # eth.link
+2600:9000:28a3:f200:f:5c7a:55c0:93a1    # eth.link
+2600:9000:28a3:fe00:f:5c7a:55c0:93a1    # eth.link
 2602:f7f8:2:c::a                        # nyc01.dnscry.pt
 2602:f7f8:6:a::a                        # mia01.dnscry.pt
 2602:f7f8:7:d::a                        # lax01.dnscry.pt
@@ -313,6 +307,7 @@
 2603:c023:1:8763:80d6:891:ed34:7b18     # dns.chromeina.top
 2603:c023:7:8700::8888                  # oraclejp2.chungyu.com
 2603:c023:c003:3d4c:0:3106:acb8:2787    # dns.meeo.win
+2603:c024:4507:6821:456c:317b:2f25:11bc # tuandns.duckdns.org
 2603:c024:4509:b8aa:420a:4988:30a:5acd  # dns.0ooo.icu
 2603:c024:9:35af:19c7:3532:ac18:f4b9    # dns.moonssif.com
 2603:c024:c012:57ac:ee9d:55c3:e00e:a82d # hitian.me
@@ -343,6 +338,7 @@
 2606:1a40::22                           # dns.controld.com
 2606:2040:140:131::2                    # ada.openbld.net
 2606:2040:1800:bb::2                    # ada.openbld.net
+2606:4700:130:436c:6f75:6466:6c61:7265  # o1.lt, www.maxfong.cc
 2606:4700:20::681a:1f1                  # v.recipes
 2606:4700:20::681a:289                  # blitz-setup.ahadns.com, blitz.ahadns.com
 2606:4700:20::681a:389                  # blitz-setup.ahadns.com, blitz.ahadns.com
@@ -386,9 +382,7 @@
 2606:4700:3031::6815:4c9a               # doh.killtw.im
 2606:4700:3031::6815:5105               # h.gjrick.tw
 2606:4700:3031::6815:887                # comss.one
-2606:4700:3031::6815:df1                # o1.lt
 2606:4700:3031::6815:fa9                # dns.240527.xyz
-2606:4700:3031::ac43:8582               # o1.lt
 2606:4700:3031::ac43:8939               # pm1239-bd.xyz
 2606:4700:3031::ac43:9d36               # dns.paulo.nom.za, paulo.nom.za
 2606:4700:3031::ac43:cf99               # bazooki-infra.dev
@@ -419,7 +413,6 @@
 2606:4700:3033::6815:2134               # dns.lihj.me
 2606:4700:3033::6815:248b               # dnsguard.pub
 2606:4700:3033::6815:2ac6               # pooblet.co.za
-2606:4700:3033::6815:2bd                # www.maxfong.cc
 2606:4700:3033::6815:37fa               # dns.hanahira.dev
 2606:4700:3033::6815:3dfe               # dns.mayx.eu.org
 2606:4700:3033::6815:413a               # loadlow.me
@@ -487,7 +480,6 @@
 2606:4700:3036::6815:3dbc               # dns.iki.my.id
 2606:4700:3036::6815:48b9               # 0ms.dev, cdn.0ms.dev
 2606:4700:3036::6815:4ea                # dns.cynthialabs.net
-2606:4700:3036::ac43:8191               # www.maxfong.cc
 2606:4700:3036::ac43:8809               # polisitogel.webcam
 2606:4700:3036::ac43:8bab               # lukscasino-542-tr.xyz
 2606:4700:3036::ac43:8d69               # dns.lihj.me
@@ -1525,6 +1517,7 @@
 2a01:4f8:c17:de8b::1                    # dns.deadsec.net
 2a01:4f8:c17:ec67::1                    # dot-de.blahdns.com
 2a01:4f8:c17:f85c::1                    # dns.nick-slowinski.de
+2a01:4f9:2b:1305::2                     # dns.froth.zone
 2a01:4f9:c010:2b9f::2                   # fuchur.pentament.de
 2a01:4f9:c010:9863::1                   # resolver-eu.haringstad.com
 2a01:4f9:c010:d7f4::1                   # dns.anon.no
@@ -1733,7 +1726,6 @@
 2a03:4000:2:d8::1                       # dns.murgi.de
 2a03:4000:2a:2c1::1                     # dns.hahnjo.de
 2a03:4000:31:81::                       # dns.clanless.ovh
-2a03:4000:32:16a::1                     # vorlif.org
 2a03:4000:38:20e::853                   # dns.kernel-error.de
 2a03:4000:42:6c5::1                     # dns.bermeitinger.eu
 2a03:4000:47:8b::1                      # dns.kescher.at
@@ -1748,7 +1740,6 @@
 2a03:4000:6:d07e::                      # dukun.de
 2a03:4000:6b:191:9825:1cff:fe34:bbe     # jabber-germany.de, www.jabber-germany.de
 2a03:4000:a:71::1                       # doh.webnmail.de
-2a03:50a0:14:7a::2                      # ns.trcnet.fi
 2a03:5180:7:2:84ba:82f4:da86:1          # adguard.wirimij.nl
 2a03:7900:2:0:31:3:104:161              # nat64.tuxis.nl
 2a03:90c0:1e7::39                       # tlv01.dnscry.pt

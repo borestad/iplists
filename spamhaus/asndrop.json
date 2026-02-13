@@ -219,6 +219,7 @@
 {"asn":203959,"rir":"ripencc","domain":"bignet.ua","cc":"UA","asname":"DEM-AS"}
 {"asn":203999,"rir":"ripencc","domain":"gwhostinglabs.com","cc":"IN","asname":"GeekyWorks"}
 {"asn":204057,"rir":"ripencc","domain":"dcxv.com","cc":"LT","asname":"DCXV-AS"}
+{"asn":204330,"rir":"ripencc","domain":"aluy.net","cc":"DE","asname":"JMREED"}
 {"asn":204428,"rir":"ripencc","domain":"ssnet.eu","cc":"BG","asname":"SS-Net"}
 {"asn":204487,"rir":"ripencc","domain":"bignet.ua","cc":"UA","asname":"R179"}
 {"asn":204490,"rir":"ripencc","domain":"contell.ru","cc":"RU","asname":"ASKONTEL"}
@@ -295,7 +296,7 @@
 {"asn":211138,"rir":"ripencc","domain":"private-hosting.eu","cc":"DE","asname":"PRIVATEHOSTING-NET"}
 {"asn":211199,"rir":"ripencc","domain":"liptel.net.ua","cc":"UA","asname":"LIPTEL-AS"}
 {"asn":211238,"rir":"ripencc","domain":"zumy.eu","cc":"IN","asname":"DCYBER"}
-{"asn":211507,"rir":"ripencc","domain":"develapp.me","cc":"DE","asname":"lain"}
+{"asn":211507,"rir":"ripencc","domain":"aluy.net","cc":"DE","asname":"lain"}
 {"asn":211522,"rir":"ripencc","domain":"aeza.net","cc":"RU","asname":"HYPERCORELTD"}
 {"asn":211619,"rir":"ripencc","domain":"maxko.org","cc":"HR","asname":"MAXKO"}
 {"asn":211659,"rir":"ripencc","domain":"stimllc.ru","cc":"RU","asname":"STIMUL-AS"}
@@ -395,4 +396,4 @@
 {"asn":401696,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD"}
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
 {"asn":402075,"rir":"arin","domain":"securecommsgroup.xyz","cc":"US","asname":"PEEKABO"}
-{"type":"metadata","timestamp":1770963242,"size":35228,"records":397,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1770983042,"size":35304,"records":398,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}

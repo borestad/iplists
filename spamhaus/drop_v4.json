@@ -486,7 +486,6 @@
 {"cidr":"103.237.86.0/23","sblid":"SBL655827","rir":"apnic"}
 {"cidr":"103.240.252.0/22","sblid":"SBL213844","rir":"apnic"}
 {"cidr":"103.241.194.0/23","sblid":"SBL691779","rir":"apnic"}
-{"cidr":"103.242.4.0/22","sblid":"SBL220033","rir":"apnic"}
 {"cidr":"103.243.240.0/22","sblid":"SBL220056","rir":"apnic"}
 {"cidr":"103.248.68.0/22","sblid":"SBL220034","rir":"apnic"}
 {"cidr":"103.249.72.0/22","sblid":"SBL258918","rir":"apnic"}
@@ -1123,6 +1122,7 @@
 {"cidr":"199.26.137.0/24","sblid":"SBL212765","rir":"arin"}
 {"cidr":"199.26.207.0/24","sblid":"SBL221772","rir":"arin"}
 {"cidr":"199.26.251.0/24","sblid":"SBL221782","rir":"arin"}
+{"cidr":"199.33.146.0/24","sblid":"SBL521991","rir":"arin"}
 {"cidr":"199.33.222.0/24","sblid":"SBL221781","rir":"arin"}
 {"cidr":"199.34.128.0/18","sblid":"SBL96704","rir":"arin"}
 {"cidr":"199.38.0.0/21","sblid":"SBL525955","rir":"arin"}
@@ -1134,6 +1134,7 @@
 {"cidr":"199.84.56.0/22","sblid":"SBL210092","rir":"arin"}
 {"cidr":"199.84.60.0/24","sblid":"SBL210093","rir":"arin"}
 {"cidr":"199.84.64.0/19","sblid":"SBL96702","rir":"arin"}
+{"cidr":"199.88.251.0/24","sblid":"SBL520065","rir":"arin"}
 {"cidr":"199.89.16.0/20","sblid":"SBL156916","rir":"arin"}
 {"cidr":"199.89.198.0/24","sblid":"SBL212766","rir":"arin"}
 {"cidr":"199.103.64.0/22","sblid":"SBL647171","rir":"arin"}
@@ -1256,6 +1257,7 @@
 {"cidr":"204.80.198.0/24","sblid":"SBL217200","rir":"arin"}
 {"cidr":"204.86.16.0/20","sblid":"SBL181088","rir":"arin"}
 {"cidr":"204.87.199.0/24","sblid":"SBL210160","rir":"arin"}
+{"cidr":"204.87.234.0/24","sblid":"SBL521856","rir":"arin"}
 {"cidr":"204.88.160.0/20","sblid":"SBL530315","rir":"arin"}
 {"cidr":"204.89.202.0/24","sblid":"SBL613528","rir":"arin"}
 {"cidr":"204.89.224.0/24","sblid":"SBL11667","rir":"arin"}
@@ -1482,4 +1484,4 @@
 {"cidr":"223.169.0.0/16","sblid":"SBL208009","rir":"apnic"}
 {"cidr":"223.173.0.0/16","sblid":"SBL204954","rir":"apnic"}
 {"cidr":"223.254.0.0/16","sblid":"SBL212803","rir":"apnic"}
-{"type":"metadata","timestamp":1770963242,"size":90627,"records":1484,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1770979442,"size":90747,"records":1486,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
