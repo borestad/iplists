@@ -20,6 +20,7 @@
 {"asn":24567,"rir":"apnic","domain":"qtcloud.co.jp","cc":"JP","asname":"QTINC-AS-AP"}
 {"asn":25288,"rir":"ripencc","domain":"bignet.ua","cc":"UA","asname":"LIR-UKRAINE-AS"}
 {"asn":25862,"rir":"arin","domain":"cloudie.hk","cc":"HK","asname":"ISNX"}
+{"asn":26173,"rir":"lacnic","domain":"wirelesscuracao.com","cc":"CW","asname":"King's_Cross_N.V."}
 {"asn":26561,"rir":"arin","domain":"mylir.co.uk","cc":"GB","asname":"NETRIDGE"}
 {"asn":26701,"rir":"arin","domain":"ncryptd.net","cc":"GB","asname":"AADS"}
 {"asn":30490,"rir":"arin","domain":"ethr.net","cc":"US","asname":"ETHRN"}
@@ -395,4 +396,4 @@
 {"asn":401696,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD"}
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
 {"asn":402075,"rir":"arin","domain":"securecommsgroup.xyz","cc":"US","asname":"PEEKABO"}
-{"type":"metadata","timestamp":1771222442,"size":35218,"records":397,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1771242242,"size":35317,"records":398,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
