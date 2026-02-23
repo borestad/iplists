@@ -195,6 +195,7 @@
 {"asn":200373,"rir":"ripencc","domain":"plainproxies.com","cc":"DE","asname":"Drei-K-Tech-GmbH"}
 {"asn":200593,"rir":"ripencc","domain":"pro-spero.ru","cc":"RU","asname":"PROSPERO-AS"}
 {"asn":200699,"rir":"ripencc","domain":"xor.sc","cc":"SC","asname":"DATASHIELD_NL"}
+{"asn":200733,"rir":"ripencc","domain":"biil.ru","cc":"GB","asname":"BILRU"}
 {"asn":201249,"rir":"ripencc","domain":"iprowireless.com","cc":"AL","asname":"IPRO"}
 {"asn":201292,"rir":"ripencc","domain":"agrofirma-aleks","cc":"UA","asname":"AS-AGRO"}
 {"asn":201380,"rir":"ripencc","domain":"excitedmatch.com","cc":"UA","asname":"ALFABISNES-AS"}
@@ -289,7 +290,7 @@
 {"asn":210654,"rir":"ripencc","domain":"serverion.com","cc":"NL","asname":"SRVN-AS"}
 {"asn":210705,"rir":"ripencc","domain":"rapidoserver.com","cc":"IR","asname":"RapidoServer"}
 {"asn":210707,"rir":"ripencc","domain":"dadeh-pardazesh-boroumand-kerman","cc":"IR","asname":"Company"}
-{"asn":210714,"rir":"ripencc","domain":"eksenbilisim.com.tr","cc":"TR","asname":"Turkan-Orhan"}
+{"asn":210714,"rir":"ripencc","domain":"eksenbilisim.com.tr","cc":"TR","asname":"WORLD-NET"}
 {"asn":210756,"rir":"ripencc","domain":"62yun.com","cc":"RU","asname":"EdgeCenterLLC"}
 {"asn":210848,"rir":"ripencc","domain":"server-panel.org","cc":"SC","asname":"TK-NET"}
 {"asn":210919,"rir":"ripencc","domain":"idodns.com","cc":"JP","asname":"korea"}
@@ -398,4 +399,4 @@
 {"asn":401696,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD"}
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
 {"asn":402075,"rir":"arin","domain":"securecommsgroup.xyz","cc":"US","asname":"PEEKABO"}
-{"type":"metadata","timestamp":1771780442,"size":35491,"records":400,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1771807442,"size":35565,"records":401,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
