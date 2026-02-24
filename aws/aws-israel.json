@@ -461,6 +461,18 @@
   "network_border_group": "il-central-1"
 }
 {
+  "ip_prefix": "16.164.22.0/31",
+  "region": "il-central-1",
+  "service": "KINESIS_VIDEO_STREAMS",
+  "network_border_group": "il-central-1"
+}
+{
+  "ip_prefix": "16.164.22.4/30",
+  "region": "il-central-1",
+  "service": "KINESIS_VIDEO_STREAMS",
+  "network_border_group": "il-central-1"
+}
+{
   "ip_prefix": "13.248.72.0/24",
   "region": "il-central-1",
   "service": "DYNAMODB",
