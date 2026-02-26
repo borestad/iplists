@@ -86,6 +86,7 @@
 {"asn":51722,"rir":"ripencc","domain":"pixoof.com","cc":"TR","asname":"AS-PIXOOF"}
 {"asn":53958,"rir":"arin","domain":"auproxies.com","cc":"US","asname":"BART-BM"}
 {"asn":54497,"rir":"arin","domain":"lhwebtech.com","cc":"US","asname":"LHWEBTECH-AS"}
+{"asn":55154,"rir":"arin","domain":"madgenius.com","cc":"US","asname":"MADGEN-01"}
 {"asn":55748,"rir":"apnic","domain":"morsejp.com","cc":"JP","asname":"MORSE-JP"}
 {"asn":55933,"rir":"apnic","domain":"cloudie.hk","cc":"HK","asname":"CLOUDIE-AS-AP"}
 {"asn":56291,"rir":"apnic","domain":"ace-idc.com","cc":"JP","asname":"ACE-AS-AP"}
@@ -267,7 +268,7 @@
 {"asn":208525,"rir":"ripencc","domain":"cloudie.hk","cc":"HK","asname":"AIRULIMITED"}
 {"asn":208846,"rir":"ripencc","domain":"atom3.com.ua","cc":"UA","asname":"ATOM3-AS"}
 {"asn":209121,"rir":"ripencc","domain":"liptel.net.ua","cc":"UA","asname":"NOVYTSKA-AS"}
-{"asn":209290,"rir":"ripencc","domain":"galeonllc.ru","cc":"RU","asname":"GALEON-AS"}
+{"asn":209290,"rir":"ripencc","domain":"changway.hk","cc":"HK","asname":"GALEON-AS"}
 {"asn":209375,"rir":"ripencc","domain":"kontrast.md","cc":"MD","asname":"Contrust-Solutions"}
 {"asn":209396,"rir":"ripencc","domain":"kontrast.md","cc":"MD","asname":"Contrust-Solutions"}
 {"asn":209605,"rir":"ripencc","domain":"serveroffer.lt","cc":"LT","asname":"hostbaltic"}
@@ -300,8 +301,8 @@
 {"asn":211507,"rir":"ripencc","domain":"aluy.net","cc":"DE","asname":"lain"}
 {"asn":211522,"rir":"ripencc","domain":"aeza.net","cc":"RU","asname":"HYPERCORELTD"}
 {"asn":211619,"rir":"ripencc","domain":"maxko.org","cc":"HR","asname":"MAXKO"}
-{"asn":211659,"rir":"ripencc","domain":"stimllc.ru","cc":"RU","asname":"STIMUL-AS"}
-{"asn":211663,"rir":"ripencc","domain":"galeonllc.ru","cc":"RU","asname":"GALEON-AS"}
+{"asn":211659,"rir":"ripencc","domain":"changway.hk","cc":"HK","asname":"STIMUL-AS"}
+{"asn":211663,"rir":"ripencc","domain":"changway.hk","cc":"HK","asname":"GALEON-AS"}
 {"asn":211720,"rir":"ripencc","domain":"xor.sc","cc":"SC","asname":"DATASHIELD_CH"}
 {"asn":211736,"rir":"ripencc","domain":"pwnhost.com","cc":"UA","asname":"FDN3"}
 {"asn":211762,"rir":"ripencc","domain":"fineproxy.org","cc":"RU","asname":"REGION40"}
@@ -365,7 +366,7 @@
 {"asn":215930,"rir":"ripencc","domain":"almaseabi.net","cc":"IR","asname":"COD"}
 {"asn":216127,"rir":"ripencc","domain":"nuxt.cloud","cc":"RU","asname":"AS-NUXTCLOUD"}
 {"asn":216246,"rir":"ripencc","domain":"aeza.net","cc":"RU","asname":"RU-AEZA-AS"}
-{"asn":216341,"rir":"ripencc","domain":"optimllc.ru","cc":"RU","asname":"OPTIMA-AS"}
+{"asn":216341,"rir":"ripencc","domain":"changway.hk","cc":"HK","asname":"OPTIMA-AS"}
 {"asn":266702,"rir":"lacnic","domain":"nodonorte.net.ar","cc":"AR","asname":"MEGALINK_S.R.L."}
 {"asn":266724,"rir":"lacnic","domain":"donserver.cl","cc":"CL","asname":"MYRIAM_PILAR_ESCOBAR_VEGA_(DON_SERVER)"}
 {"asn":327837,"rir":"afrinic","domain":"seyix.sc","cc":"SC","asname":"SEY-IX-MANAGEMENT"}
@@ -397,4 +398,4 @@
 {"asn":401696,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD"}
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
 {"asn":402075,"rir":"arin","domain":"securecommsgroup.xyz","cc":"US","asname":"PEEKABO"}
-{"type":"metadata","timestamp":1772106242,"size":35400,"records":399,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1772129642,"size":35482,"records":400,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
