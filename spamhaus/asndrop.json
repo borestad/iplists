@@ -292,7 +292,6 @@
 {"asn":210714,"rir":"ripencc","domain":"eksenbilisim.com.tr","cc":"TR","asname":"WORLD-NET"}
 {"asn":210756,"rir":"ripencc","domain":"62yun.com","cc":"RU","asname":"EdgeCenterLLC"}
 {"asn":210848,"rir":"ripencc","domain":"server-panel.org","cc":"SC","asname":"TK-NET"}
-{"asn":210919,"rir":"ripencc","domain":"idodns.com","cc":"JP","asname":"korea"}
 {"asn":210950,"rir":"ripencc","domain":"erishennya","cc":"UA","asname":"ERISHENNYA-ASN"}
 {"asn":211121,"rir":"ripencc","domain":"imtigernet","cc":"GB","asname":"tiger-msk"}
 {"asn":211138,"rir":"ripencc","domain":"private-hosting.eu","cc":"DE","asname":"PRIVATEHOSTING-NET"}
@@ -398,4 +397,4 @@
 {"asn":401696,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD"}
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
 {"asn":402075,"rir":"arin","domain":"securecommsgroup.xyz","cc":"US","asname":"PEEKABO"}
-{"type":"metadata","timestamp":1772064844,"size":35480,"records":400,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1772084642,"size":35400,"records":399,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
