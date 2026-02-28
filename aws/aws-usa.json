@@ -19505,6 +19505,12 @@
   "network_border_group": "us-gov-west-1"
 }
 {
+  "ip_prefix": "32.192.104.4/30",
+  "region": "us-east-1",
+  "service": "EBS",
+  "network_border_group": "us-east-1"
+}
+{
   "ip_prefix": "44.192.140.112/28",
   "region": "us-east-1",
   "service": "EBS",
