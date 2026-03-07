@@ -294,6 +294,7 @@
 {"asn":210756,"rir":"ripencc","domain":"62yun.com","cc":"RU","asname":"EdgeCenterLLC"}
 {"asn":210848,"rir":"ripencc","domain":"server-panel.org","cc":"SC","asname":"TK-NET"}
 {"asn":210950,"rir":"ripencc","domain":"erishennya","cc":"UA","asname":"ERISHENNYA-ASN"}
+{"asn":211066,"rir":"ripencc","domain":"ryzehosting.com","cc":"AT","asname":"RYZEHOSTING-TRADING"}
 {"asn":211121,"rir":"ripencc","domain":"imtigernet","cc":"GB","asname":"tiger-msk"}
 {"asn":211138,"rir":"ripencc","domain":"private-hosting.eu","cc":"DE","asname":"PRIVATEHOSTING-NET"}
 {"asn":211199,"rir":"ripencc","domain":"liptel.net.ua","cc":"UA","asname":"LIPTEL-AS"}
@@ -348,6 +349,7 @@
 {"asn":214940,"rir":"ripencc","domain":"virtualine.org","cc":"GB","asname":"KPRONET"}
 {"asn":215117,"rir":"ripencc","domain":"hosterdaddy.com","cc":"IN","asname":"HOSTERDADDY"}
 {"asn":215127,"rir":"ripencc","domain":"410.lol","cc":"GB","asname":"TEAPOT"}
+{"asn":215136,"rir":"ripencc","domain":"ryzehosting.com","cc":"AT","asname":"Ryzehosting"}
 {"asn":215183,"rir":"ripencc","domain":"vaultdweller.net","cc":"EE","asname":"zhaikov-as"}
 {"asn":215310,"rir":"ripencc","domain":"pfcloud.io","cc":"DE","asname":"USERCLOUD"}
 {"asn":215311,"rir":"ripencc","domain":"regxa.iq","cc":"IQ","asname":"REGXA-CLOUD"}
@@ -397,4 +399,4 @@
 {"asn":401696,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD"}
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
 {"asn":402075,"rir":"arin","domain":"securecommsgroup.xyz","cc":"US","asname":"PEEKABO"}
-{"type":"metadata","timestamp":1772819042,"size":35393,"records":399,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1772842442,"size":35583,"records":401,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
