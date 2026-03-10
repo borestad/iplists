@@ -72,7 +72,6 @@
 {"asn":48198,"rir":"ripencc","domain":"avtotrans","cc":"UA","asname":"AVTOTRANS-EURO-AS"}
 {"asn":48589,"rir":"ripencc","domain":"imtigernet","cc":"GB","asname":"TIGER"}
 {"asn":48693,"rir":"ripencc","domain":"ntup.net","cc":"RU","asname":"NTSERVICE-AS"}
-{"asn":49217,"rir":"ripencc","domain":"hostype.com","cc":"TR","asname":"HOSTYPE"}
 {"asn":49418,"rir":"ripencc","domain":"chosting.solutions","cc":"UA","asname":"AS-NETSHIELD"}
 {"asn":49443,"rir":"ripencc","domain":"kontrast.md","cc":"MD","asname":"Contrust-Solutions"}
 {"asn":49581,"rir":"ripencc","domain":"tube-hosting.de","cc":"DE","asname":"FerdinandZink"}
@@ -97,7 +96,6 @@
 {"asn":57415,"rir":"ripencc","domain":"bignet.ua","cc":"UA","asname":"R-TEL-AS"}
 {"asn":57509,"rir":"ripencc","domain":"cloudbs.biz","cc":"BG","asname":"LL-Investment-Ltd"}
 {"asn":57523,"rir":"ripencc","domain":"changway.hk","cc":"HK","asname":"changway-as"}
-{"asn":57678,"rir":"ripencc","domain":"changway.hk","cc":"HK","asname":"CATTECHNOLOGIES-AS"}
 {"asn":58854,"rir":"apnic","domain":"kaopuyun.com","cc":"CN","asname":"kaopy"}
 {"asn":59425,"rir":"ripencc","domain":"changway.hk","cc":"HK","asname":"HORIZONMSK-AS"}
 {"asn":59651,"rir":"ripencc","domain":"fineproxy.org","cc":"RU","asname":"AS-QualityNetwork"}
@@ -397,4 +395,4 @@
 {"asn":401696,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD"}
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
 {"asn":402075,"rir":"arin","domain":"securecommsgroup.xyz","cc":"US","asname":"PEEKABO"}
-{"type":"metadata","timestamp":1773101642,"size":35425,"records":399,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1773121442,"size":35250,"records":397,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
