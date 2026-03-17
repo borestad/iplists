@@ -1001,6 +1001,12 @@
   "network_border_group": "me-south-1"
 }
 {
+  "ip_prefix": "3.2.85.0/24",
+  "region": "me-south-1",
+  "service": "S3",
+  "network_border_group": "me-south-1"
+}
+{
   "ip_prefix": "35.50.211.0/24",
   "region": "me-south-1",
   "service": "IVS_REALTIME",

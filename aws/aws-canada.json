@@ -12887,6 +12887,12 @@
   "network_border_group": "us-west-1"
 }
 {
+  "ip_prefix": "3.2.86.0/24",
+  "region": "us-west-1",
+  "service": "S3",
+  "network_border_group": "us-west-1"
+}
+{
   "ip_prefix": "1.178.65.0/24",
   "region": "us-west-2",
   "service": "S3",

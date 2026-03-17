@@ -437,6 +437,12 @@
   "network_border_group": "af-south-1"
 }
 {
+  "ip_prefix": "3.2.87.0/24",
+  "region": "af-south-1",
+  "service": "S3",
+  "network_border_group": "af-south-1"
+}
+{
   "ip_prefix": "13.246.108.0/22",
   "region": "af-south-1",
   "service": "WORKSPACES_GATEWAYS",
