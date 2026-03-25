@@ -13,6 +13,7 @@
 {"asn":11938,"rir":"arin","domain":"ncryptd.net","cc":"GB","asname":"ABANTU"}
 {"asn":13875,"rir":"arin","domain":"mxfiber.com","cc":"HK","asname":"AS13875-MX-FIBER"}
 {"asn":17447,"rir":"apnic","domain":"net4india.com","cc":"IN","asname":"NET4-IN"}
+{"asn":17612,"rir":"apnic","domain":"rinnai.co.kr","cc":"KR","asname":"RINNAI-AS-KR"}
 {"asn":17994,"rir":"apnic","domain":"appserv.co.nz","cc":"NZ","asname":"SPARK-AS-AP"}
 {"asn":23865,"rir":"apnic","domain":"netinnovation.net","cc":"JP","asname":"NETINNOVATIONLLC-AS-AP"}
 {"asn":24426,"rir":"apnic","domain":"myce.net.cn","cc":"CN","asname":"CNNIC-SINO-I"}
@@ -137,6 +138,7 @@
 {"asn":140208,"rir":"apnic","domain":"obhost.org","cc":"PK","asname":"OBHOST-AS-AP"}
 {"asn":140666,"rir":"apnic","domain":"kaopuyun.com","cc":"CN","asname":"ADPL-AS-AP"}
 {"asn":140787,"rir":"apnic","domain":"vinahost.vn","cc":"VN","asname":"LAMA-AS-VN"}
+{"asn":140869,"rir":"apnic","domain":"turingserver.com","cc":"NZ","asname":"TGL-AS-AP"}
 {"asn":140941,"rir":"apnic","domain":"fulltimehosting.net","cc":"PK","asname":"FULLTIMEHOSTING-AS-AP"}
 {"asn":141333,"rir":"apnic","domain":"rocketmediagroups.com","cc":"IN","asname":"ROCKETGP-AS-IN"}
 {"asn":141567,"rir":"apnic","domain":"interspireaddon.co.in","cc":"IN","asname":"INTERSP-AS-IN"}
@@ -283,6 +285,7 @@
 {"asn":210558,"rir":"ripencc","domain":"as210558.net","cc":"DE","asname":"services-1337-gmbh"}
 {"asn":210644,"rir":"ripencc","domain":"aeza.net","cc":"RU","asname":"AEZA-AS"}
 {"asn":210654,"rir":"ripencc","domain":"serverion.com","cc":"NL","asname":"SRVN-AS"}
+{"asn":210703,"rir":"ripencc","domain":"almaseabi.net","cc":"IR","asname":"FIRSTBYTE-AS"}
 {"asn":210705,"rir":"ripencc","domain":"rapidoserver.com","cc":"IR","asname":"RapidoServer"}
 {"asn":210707,"rir":"ripencc","domain":"dadeh-pardazesh-boroumand-kerman","cc":"IR","asname":"Company"}
 {"asn":210714,"rir":"ripencc","domain":"eksenbilisim.com.tr","cc":"TR","asname":"WORLD-NET"}
@@ -394,4 +397,4 @@
 {"asn":401696,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD"}
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
 {"asn":402075,"rir":"arin","domain":"securecommsgroup.xyz","cc":"US","asname":"PEEKABO"}
-{"type":"metadata","timestamp":1774417442,"size":35160,"records":396,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1774440842,"size":35424,"records":399,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
