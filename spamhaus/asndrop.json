@@ -109,6 +109,7 @@
 {"asn":62864,"rir":"arin","domain":"netinnovation.net","cc":"JP","asname":"NILAS"}
 {"asn":63881,"rir":"apnic","domain":"medianetdigital.co","cc":"ID","asname":"MDI-AS-ID"}
 {"asn":131750,"rir":"apnic","domain":"sufia.tv","cc":"ID","asname":"SUFIANET-AS-ID"}
+{"asn":131831,"rir":"apnic","domain":"nexon.co.kr","cc":"KR","asname":"NEXONKOREA-AS-KR"}
 {"asn":132574,"rir":"arin","domain":"alphainfolab.com","cc":"IN","asname":"AI-1720-132574"}
 {"asn":132827,"rir":"apnic","domain":"g-w.bz","cc":"JP","asname":"GATEWAY-AS-AP"}
 {"asn":132930,"rir":"apnic","domain":"herbalvedawellness.com","cc":"IN","asname":"HERBALVE-AS-IN"}
@@ -396,4 +397,4 @@
 {"asn":401696,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD"}
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
 {"asn":402075,"rir":"arin","domain":"securecommsgroup.xyz","cc":"US","asname":"PEEKABO"}
-{"type":"metadata","timestamp":1774959242,"size":35337,"records":398,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1774980842,"size":35427,"records":399,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
