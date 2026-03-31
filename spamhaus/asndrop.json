@@ -190,6 +190,7 @@
 {"asn":198981,"rir":"ripencc","domain":"chosting.solutions","cc":"UA","asname":"NETSHIELD-BYOIP"}
 {"asn":199052,"rir":"ripencc","domain":"netiface.co.uk","cc":"GB","asname":"AS-AQUAHOST"}
 {"asn":199420,"rir":"ripencc","domain":"fly-group.ru","cc":"RU","asname":"FLYGROUP-AS"}
+{"asn":199639,"rir":"ripencc","domain":"03ai.org","cc":"GB","asname":"Matej"}
 {"asn":199785,"rir":"ripencc","domain":"chosting.solutions","cc":"UA","asname":"CHSN-AS"}
 {"asn":200010,"rir":"ripencc","domain":"cantech.international","cc":"US","asname":"OLFE"}
 {"asn":200130,"rir":"ripencc","domain":"ryzehosting.com","cc":"AT","asname":"SIMON-MARIACHER"}
@@ -353,7 +354,6 @@
 {"asn":215340,"rir":"ripencc","domain":"62yun.com","cc":"RU","asname":"MySim-Nigeria"}
 {"asn":215376,"rir":"ripencc","domain":"sshvps.net","cc":"RU","asname":"mlcloud"}
 {"asn":215381,"rir":"ripencc","domain":"rockhoster.com","cc":"IN","asname":"RockHoster"}
-{"asn":215420,"rir":"ripencc","domain":"sircrosar.net","cc":"GB","asname":"JAMIEFREE"}
 {"asn":215460,"rir":"ripencc","domain":"infiniroute.io","cc":"US","asname":"DANIEL"}
 {"asn":215462,"rir":"ripencc","domain":"sircrosar.net","cc":"GB","asname":"BUGGZ-HOSTING"}
 {"asn":215474,"rir":"ripencc","domain":"biil.ru","cc":"GB","asname":"BIIL-RU-AS"}
@@ -395,4 +395,4 @@
 {"asn":401696,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD"}
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
 {"asn":402075,"rir":"arin","domain":"securecommsgroup.xyz","cc":"US","asname":"PEEKABO"}
-{"type":"metadata","timestamp":1774894442,"size":35252,"records":397,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1774916042,"size":35243,"records":397,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
