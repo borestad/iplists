@@ -20207,6 +20207,18 @@
   "network_border_group": "us-west-2"
 }
 {
+  "ip_prefix": "32.192.104.128/29",
+  "region": "us-east-1",
+  "service": "MEDIA_PACKAGE_V2",
+  "network_border_group": "us-east-1"
+}
+{
+  "ip_prefix": "32.192.104.24/29",
+  "region": "us-east-1",
+  "service": "MEDIA_PACKAGE_V2",
+  "network_border_group": "us-east-1"
+}
+{
   "ip_prefix": "44.216.41.152/29",
   "region": "us-east-1",
   "service": "MEDIA_PACKAGE_V2",
@@ -20231,6 +20243,18 @@
   "network_border_group": "us-east-2"
 }
 {
+  "ip_prefix": "3.146.72.40/29",
+  "region": "us-east-2",
+  "service": "MEDIA_PACKAGE_V2",
+  "network_border_group": "us-east-2"
+}
+{
+  "ip_prefix": "3.149.13.208/29",
+  "region": "us-east-2",
+  "service": "MEDIA_PACKAGE_V2",
+  "network_border_group": "us-east-2"
+}
+{
   "ip_prefix": "3.101.226.80/29",
   "region": "us-west-1",
   "service": "MEDIA_PACKAGE_V2",
@@ -20241,6 +20265,18 @@
   "region": "us-west-1",
   "service": "MEDIA_PACKAGE_V2",
   "network_border_group": "us-west-1"
+}
+{
+  "ip_prefix": "16.146.161.48/29",
+  "region": "us-west-2",
+  "service": "MEDIA_PACKAGE_V2",
+  "network_border_group": "us-west-2"
+}
+{
+  "ip_prefix": "16.146.161.56/29",
+  "region": "us-west-2",
+  "service": "MEDIA_PACKAGE_V2",
+  "network_border_group": "us-west-2"
 }
 {
   "ip_prefix": "18.246.107.128/29",
