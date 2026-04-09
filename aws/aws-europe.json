@@ -10847,12 +10847,6 @@
   "network_border_group": "eu-south-2"
 }
 {
-  "ip_prefix": "136.18.56.0/21",
-  "region": "eu-central-1",
-  "service": "EC2",
-  "network_border_group": "eu-central-1"
-}
-{
   "ip_prefix": "99.77.245.0/24",
   "region": "eu-south-1",
   "service": "EC2",
@@ -10905,12 +10899,6 @@
   "region": "eu-west-1",
   "service": "EC2",
   "network_border_group": "eu-west-1"
-}
-{
-  "ip_prefix": "40.138.216.0/22",
-  "region": "eu-south-2",
-  "service": "EC2",
-  "network_border_group": "eu-south-2"
 }
 {
   "ip_prefix": "3.5.244.0/22",
