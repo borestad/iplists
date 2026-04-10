@@ -13325,6 +13325,12 @@
   "network_border_group": "eu-central-1"
 }
 {
+  "ip_prefix": "18.99.100.128/25",
+  "region": "eu-north-1",
+  "service": "AURORA_DSQL",
+  "network_border_group": "eu-north-1"
+}
+{
   "ip_prefix": "18.97.198.128/25",
   "region": "eu-west-1",
   "service": "AURORA_DSQL",
