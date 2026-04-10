@@ -133,6 +133,7 @@
 {"asn":138915,"rir":"apnic","domain":"kaopuyun.com","cc":"CN","asname":"KAOPU-HK"}
 {"asn":138968,"rir":"apnic","domain":"itsidc.com","cc":"HK","asname":"RAINBOWIDC-AS-AP"}
 {"asn":140125,"rir":"apnic","domain":"cyberauticssoftwares.co.in","cc":"IN","asname":"CYBERAUTICS-AS-IN"}
+{"asn":140129,"rir":"apnic","domain":"mabasafenet.com","cc":"IN","asname":"MSBSPL-AS-IN"}
 {"asn":140155,"rir":"apnic","domain":"thepinnaclegroup.in","cc":"IN","asname":"HOSTNET-AS-IN"}
 {"asn":140184,"rir":"apnic","domain":"sfns","cc":"IN","asname":"SFNSNPL-AS"}
 {"asn":140208,"rir":"apnic","domain":"obhost.org","cc":"PK","asname":"OBHOST-AS-AP"}
@@ -396,4 +397,4 @@
 {"asn":401696,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD"}
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
 {"asn":402075,"rir":"arin","domain":"securecommsgroup.xyz","cc":"US","asname":"PEEKABO"}
-{"type":"metadata","timestamp":1775801642,"size":35319,"records":398,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1775823242,"size":35409,"records":399,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
