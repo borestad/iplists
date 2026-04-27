@@ -251,6 +251,11 @@
 {"cidr":"81.30.107.0/24","sblid":"SBL677595","rir":"ripencc"}
 {"cidr":"81.94.150.0/24","sblid":"SBL639765","rir":"ripencc"}
 {"cidr":"81.94.159.0/24","sblid":"SBL639846","rir":"ripencc"}
+{"cidr":"82.38.101.0/24","sblid":"SBL696959","rir":null}
+{"cidr":"82.38.103.0/24","sblid":"SBL696958","rir":null}
+{"cidr":"82.38.104.0/24","sblid":"SBL696957","rir":null}
+{"cidr":"82.38.107.0/24","sblid":"SBL696955","rir":null}
+{"cidr":"82.38.132.0/24","sblid":"SBL696956","rir":null}
 {"cidr":"82.135.156.0/23","sblid":"SBL619774","rir":"ripencc"}
 {"cidr":"82.135.228.0/22","sblid":"SBL496439","rir":"ripencc"}
 {"cidr":"83.97.73.0/24","sblid":"SBL640079","rir":"ripencc"}
@@ -411,6 +416,7 @@
 {"cidr":"101.193.120.0/22","sblid":"SBL695655","rir":"apnic"}
 {"cidr":"101.193.124.0/22","sblid":"SBL695656","rir":"apnic"}
 {"cidr":"101.203.128.0/19","sblid":"SBL257142","rir":"apnic"}
+{"cidr":"102.129.152.0/24","sblid":"SBL696940","rir":null}
 {"cidr":"102.135.91.0/24","sblid":"SBL688345","rir":"afrinic"}
 {"cidr":"102.211.56.0/22","sblid":"SBL638491","rir":"afrinic"}
 {"cidr":"102.216.254.0/23","sblid":"SBL682613","rir":"afrinic"}
@@ -1540,6 +1546,7 @@
 {"cidr":"209.66.0.0/18","sblid":"SBL502941","rir":"arin"}
 {"cidr":"209.66.128.0/19","sblid":"SBL180438","rir":"arin"}
 {"cidr":"209.79.220.0/22","sblid":"SBL624912","rir":"arin"}
+{"cidr":"209.92.160.0/20","sblid":"SBL696953","rir":null}
 {"cidr":"209.95.64.0/19","sblid":"SBL502940","rir":"arin"}
 {"cidr":"209.95.192.0/19","sblid":"SBL107139","rir":"arin"}
 {"cidr":"209.120.205.0/24","sblid":"SBL630035","rir":"arin"}
@@ -1589,4 +1596,4 @@
 {"cidr":"223.155.16.0/24","sblid":"SBL656595","rir":"apnic"}
 {"cidr":"223.169.0.0/16","sblid":"SBL208009","rir":"apnic"}
 {"cidr":"223.254.0.0/16","sblid":"SBL212803","rir":"apnic"}
-{"type":"metadata","timestamp":1777250642,"size":97075,"records":1591,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1777304642,"size":97477,"records":1598,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
