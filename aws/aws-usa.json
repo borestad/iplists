@@ -12569,6 +12569,12 @@
   "network_border_group": "us-west-2"
 }
 {
+  "ip_prefix": "3.80.16.0/23",
+  "region": "us-east-1",
+  "service": "CHIME_VOICECONNECTOR",
+  "network_border_group": "us-east-1"
+}
+{
   "ip_prefix": "18.253.167.0/25",
   "region": "us-gov-east-1",
   "service": "ROUTE53_HEALTHCHECKS",
