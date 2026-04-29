@@ -1,5 +1,6 @@
 {"asn":245,"rir":"arin","domain":"planningresearchcorp.com","cc":"US","asname":"PRC-AS"}
 {"asn":2601,"rir":"ripencc","domain":"pitline.net","cc":"UA","asname":"RADIOLINK-AS"}
+{"asn":2702,"rir":"arin","domain":"novx-systems","cc":"US","asname":"INTERSERVE"}
 {"asn":3563,"rir":"arin","domain":"pilot.net","cc":"US","asname":"PILOT-ASN"}
 {"asn":5065,"rir":"arin","domain":"bunnycommunications.com","cc":"US","asname":"BUNNY-COMMUNICATIONS-GLOBAL"}
 {"asn":6060,"rir":"arin","domain":"management-alliance-group","cc":"US","asname":"MAGI-NET-GW"}
@@ -7,6 +8,7 @@
 {"asn":6207,"rir":"arin","domain":"bunnycommunications.com","cc":"US","asname":"BUNNY-COMMUNICATIONS"}
 {"asn":6729,"rir":"ripencc","domain":"bignet.ua","cc":"UA","asname":"DEMENIN-AS"}
 {"asn":7411,"rir":"arin","domain":"sulharai.com","cc":"US","asname":"WINTERSTORM"}
+{"asn":7857,"rir":"arin","domain":"empire-communications","cc":"US","asname":"EMPIRE2-ASN"}
 {"asn":7907,"rir":"arin","domain":"networldtron.net","cc":"US","asname":"NETWORD-CORP"}
 {"asn":8649,"rir":"ripencc","domain":"zexotek.de","cc":"DE","asname":"Webtraffic"}
 {"asn":9164,"rir":"ripencc","domain":"bignet.ua","cc":"UA","asname":"R-TEL-AS"}
@@ -364,6 +366,7 @@
 {"asn":215474,"rir":"ripencc","domain":"biil.ru","cc":"GB","asname":"BIIL-RU-AS"}
 {"asn":215730,"rir":"ripencc","domain":"h2.nexus","cc":"UA","asname":"H2NEXUS-AS"}
 {"asn":215765,"rir":"ripencc","domain":"pitline.net","cc":"UA","asname":"RADIO-LINK-SMART"}
+{"asn":215828,"rir":"ripencc","domain":"t-w.dev","cc":"DE","asname":"TMW-Global-Networks"}
 {"asn":215925,"rir":"ripencc","domain":"vpsvault.host","cc":"GB","asname":"VPSVAULTHOST"}
 {"asn":215930,"rir":"ripencc","domain":"almaseabi.net","cc":"IR","asname":"COD"}
 {"asn":216127,"rir":"ripencc","domain":"nuxt.cloud","cc":"RU","asname":"NUXT-AS"}
@@ -399,4 +402,4 @@
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
 {"asn":402075,"rir":"arin","domain":"securecommsgroup.xyz","cc":"US","asname":"PEEKABO"}
 {"asn":402253,"rir":"arin","domain":"skntelecom.com","cc":"KN","asname":"SKN-NETWORK-1"}
-{"type":"metadata","timestamp":1777445042,"size":35608,"records":401,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1777464842,"size":35873,"records":404,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
