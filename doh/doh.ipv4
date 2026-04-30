@@ -8,6 +8,7 @@
 1.230.209.26        # agh.kyusang.win
 2.59.169.204        # dns.hoody.com
 2.135.147.99        # kz-pav-w-p-1.nashkan.net
+3.8.190.253         # dns.tesem.dog
 3.9.180.22          # qual.cuprum.ru
 3.10.65.124         # uk01.dns4me.net
 3.33.139.32         # resolver.unstoppable.io
@@ -82,6 +83,7 @@
 13.223.25.84        # dns.flightspace.net, dns.scapetical.com
 13.248.169.48       # dns.edgy.network, dns.maolaohei.xyz, dns.pumplex.com, dns.vip-kingstore.xyz, ikarosalpha.xyz, mikezhang.xyz
 13.248.213.45       # mailkyb.co
+14.171.94.63        # tungdnsne.duckdns.org
 15.197.162.184      # d.bod.lol
 15.197.238.60       # dns.lobbygod.com
 15.204.209.29       # dns.freyja.pw
@@ -154,18 +156,18 @@
 17.248.168.100      # mask-h2.icloud.com, mask.icloud.com
 17.248.168.101      # mask-h2.icloud.com, mask.icloud.com
 17.248.168.102      # mask-h2.icloud.com, mask.icloud.com
+17.248.168.103      # mask-h2.icloud.com
 17.248.168.104      # mask-h2.icloud.com, mask.icloud.com
 17.248.168.105      # mask-h2.icloud.com, mask.icloud.com
 17.248.168.106      # mask-h2.icloud.com, mask.icloud.com
 17.248.168.107      # mask-h2.icloud.com, mask.icloud.com
+17.248.168.133      # mask-h2.icloud.com
 17.248.168.134      # mask-h2.icloud.com, mask.icloud.com
 17.248.168.135      # mask-h2.icloud.com, mask.icloud.com
 17.248.168.136      # mask-h2.icloud.com, mask.icloud.com
 17.248.168.137      # mask-h2.icloud.com, mask.icloud.com
 17.248.168.138      # mask-h2.icloud.com, mask.icloud.com
 17.248.168.139      # mask-h2.icloud.com, mask.icloud.com
-17.248.168.164      # mask-h2.icloud.com, mask.icloud.com
-17.248.168.165      # mask-h2.icloud.com, mask.icloud.com
 17.248.168.166      # mask-h2.icloud.com, mask.icloud.com
 17.248.168.167      # mask-h2.icloud.com, mask.icloud.com
 17.248.168.168      # mask-h2.icloud.com, mask.icloud.com
@@ -200,8 +202,7 @@
 17.248.169.137      # mask-h2.icloud.com, mask.icloud.com
 17.248.169.164      # mask-h2.icloud.com, mask.icloud.com
 17.248.169.165      # mask-h2.icloud.com, mask.icloud.com
-17.248.169.166      # mask-h2.icloud.com, mask.icloud.com
-17.248.169.167      # mask-h2.icloud.com, mask.icloud.com
+17.248.169.166      # mask.icloud.com
 17.248.169.168      # mask-h2.icloud.com, mask.icloud.com
 17.248.169.169      # mask-h2.icloud.com, mask.icloud.com
 17.248.169.196      # mask-h2.icloud.com, mask.icloud.com
@@ -212,11 +213,9 @@
 17.248.169.201      # mask-h2.icloud.com, mask.icloud.com
 17.248.185.2        # mask-h2.icloud.com, mask.icloud.com
 17.248.185.3        # mask-h2.icloud.com, mask.icloud.com
-17.248.185.4        # mask-h2.icloud.com, mask.icloud.com
 17.248.185.5        # mask-h2.icloud.com, mask.icloud.com
 17.248.185.6        # mask-h2.icloud.com, mask.icloud.com
 17.248.185.7        # mask-h2.icloud.com, mask.icloud.com
-17.248.185.8        # mask-h2.icloud.com, mask.icloud.com
 17.248.185.9        # mask-h2.icloud.com, mask.icloud.com
 17.248.185.10       # mask-h2.icloud.com, mask.icloud.com
 17.248.185.11       # mask-h2.icloud.com, mask.icloud.com
@@ -225,14 +224,14 @@
 17.248.185.14       # mask-h2.icloud.com, mask.icloud.com
 17.248.185.20       # mask-h2.icloud.com, mask.icloud.com
 17.248.185.21       # mask-h2.icloud.com, mask.icloud.com
-17.248.185.22       # mask-h2.icloud.com, mask.icloud.com
-17.248.185.23       # mask-h2.icloud.com, mask.icloud.com
+17.248.185.22       # mask.icloud.com
 17.248.185.24       # mask-h2.icloud.com, mask.icloud.com
 17.248.185.25       # mask-h2.icloud.com, mask.icloud.com
 17.248.185.27       # mask-h2.icloud.com, mask.icloud.com
 17.248.185.28       # mask-h2.icloud.com, mask.icloud.com
 17.248.185.36       # mask-h2.icloud.com, mask.icloud.com
 17.248.185.37       # mask-h2.icloud.com, mask.icloud.com
+17.248.185.38       # mask-h2.icloud.com
 17.248.185.39       # mask-h2.icloud.com, mask.icloud.com
 17.248.185.40       # mask-h2.icloud.com, mask.icloud.com
 17.248.185.41       # mask-h2.icloud.com, mask.icloud.com
@@ -321,14 +320,14 @@
 17.248.242.105      # mask-h2.icloud.com, mask.icloud.com
 17.248.245.4        # mask-h2.icloud.com, mask.icloud.com
 17.248.245.36       # mask-h2.icloud.com, mask.icloud.com
-17.248.245.132      # mask-h2.icloud.com, mask.icloud.com
 17.248.245.133      # mask-h2.icloud.com, mask.icloud.com
 17.248.245.134      # mask-h2.icloud.com, mask.icloud.com
 17.248.245.135      # mask-h2.icloud.com, mask.icloud.com
 17.248.245.136      # mask-h2.icloud.com, mask.icloud.com
 17.248.245.137      # mask-h2.icloud.com, mask.icloud.com
 17.248.245.138      # mask-h2.icloud.com, mask.icloud.com
-17.248.245.228      # mask-h2.icloud.com, mask.icloud.com
+17.248.245.139      # mask-h2.icloud.com
+17.248.245.228      # mask.icloud.com
 17.248.245.229      # mask-h2.icloud.com, mask.icloud.com
 17.248.245.230      # mask-h2.icloud.com, mask.icloud.com
 17.248.245.231      # mask-h2.icloud.com, mask.icloud.com
@@ -350,7 +349,6 @@
 17.248.247.70       # mask-h2.icloud.com, mask.icloud.com
 17.248.247.71       # mask-h2.icloud.com, mask.icloud.com
 17.248.247.72       # mask-h2.icloud.com, mask.icloud.com
-17.248.247.73       # mask-h2.icloud.com, mask.icloud.com
 17.248.247.74       # mask-h2.icloud.com, mask.icloud.com
 17.248.247.75       # mask-h2.icloud.com, mask.icloud.com
 17.248.247.76       # mask-h2.icloud.com, mask.icloud.com
@@ -360,15 +358,14 @@
 17.248.247.80       # mask-h2.icloud.com, mask.icloud.com
 17.248.247.81       # mask-h2.icloud.com, mask.icloud.com
 17.248.247.82       # mask-h2.icloud.com, mask.icloud.com
-17.248.247.83       # mask-h2.icloud.com, mask.icloud.com
 17.250.48.44        # mask-h2.icloud.com
-17.250.48.45        # mask-h2.icloud.com, mask.icloud.com
 17.250.49.2         # mask-h2.icloud.com, mask.icloud.com
 17.250.49.3         # mask-h2.icloud.com, mask.icloud.com
 17.250.49.18        # mask-h2.icloud.com, mask.icloud.com
 17.250.49.19        # mask-h2.icloud.com, mask.icloud.com
 17.250.96.98        # mask-h2.icloud.com, mask.icloud.com
 17.250.96.99        # mask-h2.icloud.com, mask.icloud.com
+17.250.96.100       # mask-h2.icloud.com, mask.icloud.com
 17.250.96.102       # mask-h2.icloud.com, mask.icloud.com
 17.250.96.103       # mask-h2.icloud.com, mask.icloud.com
 17.250.96.104       # mask-h2.icloud.com, mask.icloud.com
@@ -472,7 +469,6 @@
 34.197.199.111      # dns.api.staging.globuscs.info
 34.203.68.125       # dns.api.test.globuscs.info
 34.232.106.113      # dns.watch
-35.178.203.210      # dns.tesem.dog
 35.190.14.201       # use-application-dns.net
 35.192.98.208       # iow-dns.bitdefender.net
 35.212.141.74       # ns3.wuyouss.com
@@ -562,7 +558,7 @@
 45.79.248.146       # dns.13evl.com
 45.80.189.105       # ns1.sc-lezhi.com
 45.82.120.61        # fra01.dnscry.pt
-45.86.125.59        # dns.dnshome.de
+45.86.125.58        # dns.dnshome.de
 45.86.162.110       # ams02.dnscry.pt
 45.88.105.188       # rockwell.website
 45.90.28.0          # anycast.dns.nextdns.io, dns.nextdns.io
@@ -695,6 +691,7 @@
 64.227.132.183      # squidmall.vip
 65.21.253.73        # fi-hel-w-f-2.nashkan.net
 65.108.54.17        # dns.anon.no
+66.33.60.66         # arashi.net.eu.org
 66.55.159.186       # dnswebvsn.com
 66.154.118.103      # renardbleu.dev
 66.175.223.143      # dns.stirringphoto.com
@@ -721,8 +718,7 @@
 75.119.137.239      # dns.christian.moe, dns.imchristian.de
 76.76.2.11          # family.freedns.controld.com, freedns.controld.com, p0.freedns.controld.com, p1.freedns.controld.com, p2.freedns.controld.com, p3.freedns.controld.com, uncensored.freedns.controld.com
 76.76.2.22          # dns.controld.com
-76.76.21.93         # arashi.net.eu.org
-76.76.21.123        # arashi.net.eu.org
+76.76.21.22         # arashi.net.eu.org
 76.223.54.146       # dns.edgy.network, dns.maolaohei.xyz, dns.pumplex.com, dns.vip-kingstore.xyz, ikarosalpha.xyz, mikezhang.xyz
 76.223.67.189       # mailkyb.co
 77.68.50.239        # dns.connect.fail
@@ -754,7 +750,7 @@
 79.143.240.77       # resolver2.absolight.net
 79.143.240.79       # resolver1.absolight.net
 79.143.240.81       # resolver3.absolight.net
-79.184.22.80        # adguard.piekacz.pl
+79.184.20.207       # adguard.piekacz.pl
 80.67.169.12        # ns0.fdn.fr
 80.67.169.40        # ns1.fdn.fr
 80.90.179.4         # dns.nullgate.net
@@ -801,6 +797,7 @@
 84.33.12.158        # tyo01.dnscry.pt
 84.104.237.102      # dns.melvin2204.nl
 84.183.57.251       # echoe1yidzu4ioo5.myfritz.net
+84.191.53.14        # dns.reitmeier.me
 85.90.207.199       # evn01.dnscry.pt
 85.195.238.8        # dns.momou.ch
 85.195.238.31       # dns.momou.ch
@@ -846,7 +843,7 @@
 89.117.2.17         # par01.dnscry.pt
 89.208.251.213      # tj.jamesxue.xyz
 89.233.43.71        # unicast.censurfridns.dk, unicast.uncensoreddns.org
-91.7.37.116         # dnsblock.grisumedia.de
+91.7.38.173         # dnsblock.grisumedia.de
 91.98.82.96         # doh.technochat.in
 91.99.154.175       # dnsforge.de
 91.99.249.235       # dns.abdullahabas.de
@@ -870,13 +867,13 @@
 92.118.190.116      # de-fra-w-p-1.nashkan.net
 92.176.250.87       # dns.jichi.io
 92.205.21.178       # dns.3wv.de
+92.254.21.26        # home27.duckdns.org
 93.4.84.37          # adguard.maison.gifino.fr
 93.65.138.21        # block.abstergo.it
 93.66.239.77        # adguard.depieri.net
 93.95.115.21        # eyg01.dnscry.pt
 93.190.126.69       # doh.immerda.ch
 93.200.16.34        # ueni.dyndns.org
-93.231.22.166       # dns.reitmeier.me
 94.16.111.86        # dns.immanuelschaffer.de
 94.16.117.107       # ns2.4netguides.org
 94.23.71.64         # dns.clanto.cloud, dns.scuola.org
@@ -913,8 +910,7 @@
 96.9.215.92         # gb-cov-w-f-1.nashkan.net
 96.9.228.27         # hkg01.dnscry.pt
 96.44.178.68        # dns.foxyfy.net
-96.106.7.232        # doh2.gslb2.xfinity.com
-96.106.7.234        # doh.xfinity.com
+96.106.7.234        # doh.xfinity.com, doh2.gslb2.xfinity.com
 96.113.151.145      # dot.xfinity.com
 98.82.52.157        # httpdns-push.heytapmobile.com
 98.83.228.166       # dns.api.globus.org
@@ -1120,8 +1116,8 @@
 104.238.165.18      # dns.f4a.fun
 104.238.181.28      # dns.nextdns.io
 104.244.72.39       # dns.bofh.in
-104.247.208.26      # secure.avastdns.com
-104.247.208.42      # secure.avastdns.com
+104.247.208.2       # secure.avastdns.com
+104.247.208.10      # secure.avastdns.com
 104.247.208.50      # secure.avastdns.com
 104.248.104.66      # ca.doh.cloudveil.org
 106.55.44.79        # dns.b612.me
@@ -1202,7 +1198,7 @@
 129.154.47.149      # dns.d365.in
 129.154.217.90      # kr1.ooroot.com
 129.159.249.152     # dns2.guidocioni.it
-129.213.2.162       # dns.us-ashburn-1.oraclecloud.com
+129.213.0.178       # dns.us-ashburn-1.oraclecloud.com
 129.213.138.95      # adguard.senthil.us
 130.59.31.80        # switch.ch
 130.59.31.248       # dns.switch.ch
@@ -1242,6 +1238,7 @@
 136.244.65.20       # v.dnscrypt.uk
 137.66.7.89         # max.rethinkdns.com
 137.74.29.10        # cloudns.bosco.ovh
+138.2.72.94         # tuandns.duckdns.org
 138.2.75.228        # 123000123.xyz
 138.2.122.236       # dns.eliv.kr
 138.2.123.220       # dns.moonssif.com
@@ -1403,7 +1400,7 @@
 160.119.253.209     # sa01.dns4me.net
 160.250.95.28       # dns.hakim.one
 160.250.227.196     # dns.bebasid.com
-160.251.64.80       # adg.yybyy.wiki, axaxa.fun, dns-free.link, dns.kugoapps.com, dns.xwdmw.xyz, doh.armadillodns.net, draco.plan9-ns2.com, himedns.com, hydra.plan9-ns1.com, jcdns.fun, lion.yazilimatolye.com, quic.lol, securedns.vendorvista.xyz, sg.yepdns.com, vtcuong.site
+160.251.64.80       # adg.yybyy.wiki, axaxa.fun, dns.xwdmw.xyz, doh.armadillodns.net, draco.plan9-ns2.com, himedns.com, hydra.plan9-ns1.com, jcdns.fun, lion.yazilimatolye.com, securedns.vendorvista.xyz, sg.yepdns.com, vtcuong.site
 161.35.136.3        # doh-primary-pool.goodbyegambling.com
 161.118.145.178     # adguard.haneulo.com
 162.19.227.251      # fezgate.ovh
@@ -1590,14 +1587,14 @@
 172.232.50.116      # dns.w3ctag.org
 172.232.185.183     # dns.horcrux.vip
 172.233.59.98       # dns.pccoach.nl
-172.233.219.49      # adguard.kantinyoyok.xyz, ads.hunga1k47.com, ag.brianlee.fun, dns.mathewakhil.online, dns.milkpie.one, dns.wibenson.cloud, externalmobiel.lekdijk.online, sdns22.gkonuralp.com, vpn.technicule.info
-172.233.219.78      # adguard.kantinyoyok.xyz, ads.hunga1k47.com, ag.brianlee.fun, dns.mathewakhil.online, dns.milkpie.one, dns.wibenson.cloud, externalmobiel.lekdijk.online, sdns22.gkonuralp.com, vpn.technicule.info
-172.233.219.123     # adguard.kantinyoyok.xyz, ads.hunga1k47.com, ag.brianlee.fun, dns.mathewakhil.online, dns.milkpie.one, dns.wibenson.cloud, externalmobiel.lekdijk.online, sdns22.gkonuralp.com, vpn.technicule.info
+172.233.219.49      # adguard.kantinyoyok.xyz, ads.hunga1k47.com, ag.brianlee.fun, dns.kugoapps.com, dns.mathewakhil.online, dns.milkpie.one, dns.wibenson.cloud, externalmobiel.lekdijk.online, sdns22.gkonuralp.com, vpn.technicule.info
+172.233.219.78      # adguard.kantinyoyok.xyz, ads.hunga1k47.com, ag.brianlee.fun, dns.kugoapps.com, dns.mathewakhil.online, dns.milkpie.one, dns.wibenson.cloud, externalmobiel.lekdijk.online, sdns22.gkonuralp.com, vpn.technicule.info
+172.233.219.123     # adguard.kantinyoyok.xyz, ads.hunga1k47.com, ag.brianlee.fun, dns.kugoapps.com, dns.mathewakhil.online, dns.milkpie.one, dns.wibenson.cloud, externalmobiel.lekdijk.online, sdns22.gkonuralp.com, vpn.technicule.info
 172.233.221.243     # doh.archuser.org
 172.234.24.211      # de.teradns.org, dns.faze.dev, dns.ovpn.bond, ny.teradns.org, sg.teradns.org, tx.teradns.org, uk.teradns.org
-172.237.146.8       # adguard.kantinyoyok.xyz, ads.hunga1k47.com, ag.brianlee.fun, dns.mathewakhil.online, dns.milkpie.one, dns.wibenson.cloud, externalmobiel.lekdijk.online, sdns22.gkonuralp.com, vpn.technicule.info
-172.237.146.25      # adguard.kantinyoyok.xyz, ads.hunga1k47.com, ag.brianlee.fun, dns.mathewakhil.online, dns.milkpie.one, dns.wibenson.cloud, externalmobiel.lekdijk.online, sdns22.gkonuralp.com, vpn.technicule.info
-172.237.146.38      # adguard.kantinyoyok.xyz, ads.hunga1k47.com, ag.brianlee.fun, dns.mathewakhil.online, dns.milkpie.one, dns.wibenson.cloud, externalmobiel.lekdijk.online, sdns22.gkonuralp.com, vpn.technicule.info
+172.237.146.8       # adguard.kantinyoyok.xyz, ads.hunga1k47.com, ag.brianlee.fun, dns.kugoapps.com, dns.mathewakhil.online, dns.milkpie.one, dns.wibenson.cloud, externalmobiel.lekdijk.online, sdns22.gkonuralp.com, vpn.technicule.info
+172.237.146.25      # adguard.kantinyoyok.xyz, ads.hunga1k47.com, ag.brianlee.fun, dns.kugoapps.com, dns.mathewakhil.online, dns.milkpie.one, dns.wibenson.cloud, externalmobiel.lekdijk.online, sdns22.gkonuralp.com, vpn.technicule.info
+172.237.146.38      # adguard.kantinyoyok.xyz, ads.hunga1k47.com, ag.brianlee.fun, dns.kugoapps.com, dns.mathewakhil.online, dns.milkpie.one, dns.wibenson.cloud, externalmobiel.lekdijk.online, sdns22.gkonuralp.com, vpn.technicule.info
 172.239.57.117      # de.teradns.org, dns.faze.dev, dns.ovpn.bond, ny.teradns.org, sg.teradns.org, tx.teradns.org, uk.teradns.org
 173.20.169.231      # dns.cahlen.com
 173.73.8.164        # dns.chilimac.net
@@ -1621,9 +1618,9 @@
 176.147.243.164     # blockerads.multimediaconcept.fr
 176.164.161.30      # dns.chadeyron.fr
 178.20.42.213       # vd.i81.ru
-178.22.122.100      # dns.shecan.ir
-178.22.122.101      # pro.shecan.ir
+178.22.122.100      # free.shecan.ir
 178.33.118.153      # dns-1.wil.cloud, dns-2.wil.cloud
+178.85.215.91       # jurre-home.duckdns.org
 178.128.225.109     # tri-dns.net
 178.162.228.11      # dns.keweon.center
 178.162.228.12      # dns.keweon.center
@@ -1645,6 +1642,7 @@
 178.254.6.49        # de-f1.foxyfy.net
 181.137.3.1         # dns.listo.click
 182.8.211.128       # dns.velyn.my.id
+183.171.200.162     # punono.duckdns.org
 185.16.60.194       # doh.webnmail.de
 185.37.252.146      # ee-tll.doh.sb
 185.37.252.147      # ee-tll.doh.sb
@@ -1655,6 +1653,8 @@
 185.43.135.1        # odvr.nic.cz
 185.47.221.200      # dns.kukal.cz
 185.49.141.38       # getdnsapi.net
+185.51.200.1        # pro.shecan.ir
+185.51.200.2        # dns.shecan.ir
 185.64.79.5         # uk-lon.doh.sb
 185.69.161.122      # dns.fancyorg.at
 185.70.9.10         # dns.kuuhaku.moe
@@ -1883,7 +1883,7 @@
 216.238.80.219      # helios.plan9-dns.com
 216.238.107.112     # br.servers.legat.ml
 216.245.140.20      # man01.dnscry.pt
-217.0.43.66         # dns.telekom.de
+217.0.43.50         # dns.telekom.de
 217.0.43.146        # dns.telekom.de
 217.69.4.29         # nsec.arnor.org
 217.70.184.38       # dns0.eu
@@ -1897,13 +1897,14 @@
 217.160.213.186     # testguard.meexx.de
 217.169.20.22       # dns.aa.net.uk
 217.169.20.23       # dns.aa.net.uk
+217.182.75.26       # dns.simplylinux.ch
 217.197.91.153      # dns.artikel10.org
 218.75.4.130        # hshh.org
 218.154.183.208     # 2.dns.noridev.moe
 220.84.185.202      # 1.dns.noridev.moe
 220.132.163.223     # dns.ares-taiwan.com
 220.135.223.18      # dns.david888.com
-220.143.8.27        # ihctw.synology.me
+220.143.2.56        # ihctw.synology.me
 221.131.165.165     # pdns.itxe.net
 222.99.114.172      # agh.printk.info
 223.5.5.5           # dns.alidns.com
