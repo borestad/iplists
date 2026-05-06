@@ -10,6 +10,7 @@
 {"asn":7411,"rir":"arin","domain":"sulharai.com","cc":"US","asname":"WINTERSTORM"}
 {"asn":7857,"rir":"arin","domain":"empire-communications","cc":"US","asname":"EMPIRE2-ASN"}
 {"asn":7907,"rir":"arin","domain":"networldtron.net","cc":"US","asname":"NETWORD-CORP"}
+{"asn":8129,"rir":"arin","domain":"caiwireless.net","cc":"US","asname":"CAIWIRELESS"}
 {"asn":8649,"rir":"ripencc","domain":"zexotek.de","cc":"DE","asname":"Webtraffic"}
 {"asn":9164,"rir":"ripencc","domain":"bignet.ua","cc":"UA","asname":"R-TEL-AS"}
 {"asn":11938,"rir":"arin","domain":"ncryptd.net","cc":"GB","asname":"ABANTU"}
@@ -401,4 +402,4 @@
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
 {"asn":402075,"rir":"arin","domain":"securecommsgroup.xyz","cc":"US","asname":"PEEKABO"}
 {"asn":402253,"rir":"arin","domain":"skntelecom.com","cc":"KN","asname":"SKN-NETWORK-1"}
-{"type":"metadata","timestamp":1778049842,"size":35790,"records":403,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1778069642,"size":35876,"records":404,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
