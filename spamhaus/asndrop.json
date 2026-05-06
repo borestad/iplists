@@ -20,7 +20,7 @@
 {"asn":17994,"rir":"apnic","domain":"appserv.co.nz","cc":"NZ","asname":"SPARK-AS-AP"}
 {"asn":23865,"rir":"apnic","domain":"netinnovation.net","cc":"JP","asname":"NETINNOVATIONLLC-AS-AP"}
 {"asn":24426,"rir":"apnic","domain":"myce.net.cn","cc":"CN","asname":"CNNIC-SINO-I"}
-{"asn":24544,"rir":"apnic","domain":"cloudie.hk","cc":"HK","asname":"Overcasts-AS-AP"}
+{"asn":24544,"rir":"apnic","domain":"cloudie.hk","cc":"HK","asname":"LAWSCLOUDINFRASTRUCTURELIMITED-AS-HK"}
 {"asn":24567,"rir":"apnic","domain":"qtcloud.co.jp","cc":"JP","asname":"QTINC-AS-AP"}
 {"asn":25288,"rir":"ripencc","domain":"bignet.ua","cc":"UA","asname":"LIR-UKRAINE-AS"}
 {"asn":25862,"rir":"arin","domain":"cloudie.hk","cc":"HK","asname":"ISNX"}
@@ -402,4 +402,4 @@
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
 {"asn":402075,"rir":"arin","domain":"securecommsgroup.xyz","cc":"US","asname":"PEEKABO"}
 {"asn":402253,"rir":"arin","domain":"skntelecom.com","cc":"KN","asname":"SKN-NETWORK-1"}
-{"type":"metadata","timestamp":1778069642,"size":35876,"records":404,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1778091242,"size":35897,"records":404,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
