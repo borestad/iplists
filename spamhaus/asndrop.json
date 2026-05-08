@@ -190,7 +190,7 @@
 {"asn":197555,"rir":"ripencc","domain":"smartmieten.in","cc":"IN","asname":"SMARTMIETEN"}
 {"asn":198071,"rir":"ripencc","domain":"berch.co.uk","cc":"GB","asname":"BERCHSOLUTIONS-AS"}
 {"asn":198571,"rir":"ripencc","domain":"plainproxies.com","cc":"DE","asname":"PlainProxies"}
-{"asn":198926,"rir":"ripencc","domain":"rapidoserver.com","cc":"IR","asname":"Fazel"}
+{"asn":198926,"rir":"ripencc","domain":"rapidoserver.com","cc":"IR","asname":"Tajook"}
 {"asn":198953,"rir":"ripencc","domain":"proton66.ru","cc":"RU","asname":"proton66"}
 {"asn":198981,"rir":"ripencc","domain":"chosting.solutions","cc":"UA","asname":"NETSHIELD-BYOIP"}
 {"asn":199052,"rir":"ripencc","domain":"netiface.co.uk","cc":"GB","asname":"AS-AQUAHOST"}
@@ -402,4 +402,4 @@
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
 {"asn":402075,"rir":"arin","domain":"securecommsgroup.xyz","cc":"US","asname":"PEEKABO"}
 {"asn":402253,"rir":"arin","domain":"skntelecom.com","cc":"KN","asname":"SKN-NETWORK-1"}
-{"type":"metadata","timestamp":1778177642,"size":35897,"records":404,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1778201042,"size":35898,"records":404,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
