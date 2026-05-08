@@ -9497,6 +9497,12 @@
   "network_border_group": "ap-northeast-2"
 }
 {
+  "ip_prefix": "16.208.44.0/22",
+  "region": "ap-northeast-3",
+  "service": "WORKSPACES_GATEWAYS",
+  "network_border_group": "ap-northeast-3"
+}
+{
   "ip_prefix": "13.126.243.0/24",
   "region": "ap-south-1",
   "service": "WORKSPACES_GATEWAYS",

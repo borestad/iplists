@@ -11219,6 +11219,12 @@
   "network_border_group": "us-gov-east-1"
 }
 {
+  "ip_prefix": "15.177.108.0/24",
+  "region": "us-south-1",
+  "service": "AMAZON",
+  "network_border_group": "us-south-1"
+}
+{
   "ip_prefix": "15.220.224.0/23",
   "region": "us-west-2",
   "service": "AMAZON",
@@ -12651,6 +12657,12 @@
   "region": "us-east-1",
   "service": "CHIME_VOICECONNECTOR",
   "network_border_group": "us-east-1"
+}
+{
+  "ip_prefix": "15.177.108.0/24",
+  "region": "us-south-1",
+  "service": "ROUTE53_HEALTHCHECKS",
+  "network_border_group": "us-south-1"
 }
 {
   "ip_prefix": "18.253.167.0/25",
@@ -17427,6 +17439,12 @@
   "region": "us-gov-east-1",
   "service": "EC2",
   "network_border_group": "us-gov-east-1"
+}
+{
+  "ip_prefix": "15.177.108.0/24",
+  "region": "us-south-1",
+  "service": "EC2",
+  "network_border_group": "us-south-1"
 }
 {
   "ip_prefix": "15.220.224.0/23",
