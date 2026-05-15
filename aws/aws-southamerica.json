@@ -1661,18 +1661,6 @@
   "network_border_group": "sa-east-1"
 }
 {
-  "ip_prefix": "18.230.46.0/27",
-  "region": "sa-east-1",
-  "service": "CLOUD9",
-  "network_border_group": "sa-east-1"
-}
-{
-  "ip_prefix": "18.230.46.32/27",
-  "region": "sa-east-1",
-  "service": "CLOUD9",
-  "network_border_group": "sa-east-1"
-}
-{
   "ip_prefix": "15.228.126.200/29",
   "region": "sa-east-1",
   "service": "CODEBUILD",
@@ -1892,6 +1880,18 @@
   "ip_prefix": "15.229.206.196/30",
   "region": "sa-east-1",
   "service": "EBS",
+  "network_border_group": "sa-east-1"
+}
+{
+  "ip_prefix": "18.230.46.0/27",
+  "region": "sa-east-1",
+  "service": "CLOUD9",
+  "network_border_group": "sa-east-1"
+}
+{
+  "ip_prefix": "18.230.46.32/27",
+  "region": "sa-east-1",
+  "service": "CLOUD9",
   "network_border_group": "sa-east-1"
 }
 {

@@ -611,18 +611,6 @@
   "network_border_group": "af-south-1"
 }
 {
-  "ip_prefix": "13.245.155.128/27",
-  "region": "af-south-1",
-  "service": "CLOUD9",
-  "network_border_group": "af-south-1"
-}
-{
-  "ip_prefix": "13.245.155.224/27",
-  "region": "af-south-1",
-  "service": "CLOUD9",
-  "network_border_group": "af-south-1"
-}
-{
   "ip_prefix": "13.244.202.40/29",
   "region": "af-south-1",
   "service": "CODEBUILD",
@@ -722,6 +710,18 @@
   "ip_prefix": "13.247.50.248/30",
   "region": "af-south-1",
   "service": "EBS",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "13.245.155.128/27",
+  "region": "af-south-1",
+  "service": "CLOUD9",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "13.245.155.224/27",
+  "region": "af-south-1",
+  "service": "CLOUD9",
   "network_border_group": "af-south-1"
 }
 {

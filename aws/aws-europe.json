@@ -11909,78 +11909,6 @@
   "network_border_group": "eu-central-1"
 }
 {
-  "ip_prefix": "18.184.138.224/27",
-  "region": "eu-central-1",
-  "service": "CLOUD9",
-  "network_border_group": "eu-central-1"
-}
-{
-  "ip_prefix": "18.184.203.128/27",
-  "region": "eu-central-1",
-  "service": "CLOUD9",
-  "network_border_group": "eu-central-1"
-}
-{
-  "ip_prefix": "13.48.186.128/27",
-  "region": "eu-north-1",
-  "service": "CLOUD9",
-  "network_border_group": "eu-north-1"
-}
-{
-  "ip_prefix": "13.48.186.160/27",
-  "region": "eu-north-1",
-  "service": "CLOUD9",
-  "network_border_group": "eu-north-1"
-}
-{
-  "ip_prefix": "15.161.135.64/27",
-  "region": "eu-south-1",
-  "service": "CLOUD9",
-  "network_border_group": "eu-south-1"
-}
-{
-  "ip_prefix": "15.161.135.96/27",
-  "region": "eu-south-1",
-  "service": "CLOUD9",
-  "network_border_group": "eu-south-1"
-}
-{
-  "ip_prefix": "34.245.205.0/27",
-  "region": "eu-west-1",
-  "service": "CLOUD9",
-  "network_border_group": "eu-west-1"
-}
-{
-  "ip_prefix": "34.245.205.64/27",
-  "region": "eu-west-1",
-  "service": "CLOUD9",
-  "network_border_group": "eu-west-1"
-}
-{
-  "ip_prefix": "3.10.127.32/27",
-  "region": "eu-west-2",
-  "service": "CLOUD9",
-  "network_border_group": "eu-west-2"
-}
-{
-  "ip_prefix": "3.10.201.64/27",
-  "region": "eu-west-2",
-  "service": "CLOUD9",
-  "network_border_group": "eu-west-2"
-}
-{
-  "ip_prefix": "15.188.210.32/27",
-  "region": "eu-west-3",
-  "service": "CLOUD9",
-  "network_border_group": "eu-west-3"
-}
-{
-  "ip_prefix": "15.188.210.64/27",
-  "region": "eu-west-3",
-  "service": "CLOUD9",
-  "network_border_group": "eu-west-3"
-}
-{
   "ip_prefix": "3.68.251.232/29",
   "region": "eu-central-1",
   "service": "CODEBUILD",
@@ -13250,6 +13178,78 @@
   "ip_prefix": "13.39.103.180/30",
   "region": "eu-west-3",
   "service": "EBS",
+  "network_border_group": "eu-west-3"
+}
+{
+  "ip_prefix": "18.184.138.224/27",
+  "region": "eu-central-1",
+  "service": "CLOUD9",
+  "network_border_group": "eu-central-1"
+}
+{
+  "ip_prefix": "18.184.203.128/27",
+  "region": "eu-central-1",
+  "service": "CLOUD9",
+  "network_border_group": "eu-central-1"
+}
+{
+  "ip_prefix": "13.48.186.128/27",
+  "region": "eu-north-1",
+  "service": "CLOUD9",
+  "network_border_group": "eu-north-1"
+}
+{
+  "ip_prefix": "13.48.186.160/27",
+  "region": "eu-north-1",
+  "service": "CLOUD9",
+  "network_border_group": "eu-north-1"
+}
+{
+  "ip_prefix": "15.161.135.64/27",
+  "region": "eu-south-1",
+  "service": "CLOUD9",
+  "network_border_group": "eu-south-1"
+}
+{
+  "ip_prefix": "15.161.135.96/27",
+  "region": "eu-south-1",
+  "service": "CLOUD9",
+  "network_border_group": "eu-south-1"
+}
+{
+  "ip_prefix": "34.245.205.0/27",
+  "region": "eu-west-1",
+  "service": "CLOUD9",
+  "network_border_group": "eu-west-1"
+}
+{
+  "ip_prefix": "34.245.205.64/27",
+  "region": "eu-west-1",
+  "service": "CLOUD9",
+  "network_border_group": "eu-west-1"
+}
+{
+  "ip_prefix": "3.10.127.32/27",
+  "region": "eu-west-2",
+  "service": "CLOUD9",
+  "network_border_group": "eu-west-2"
+}
+{
+  "ip_prefix": "3.10.201.64/27",
+  "region": "eu-west-2",
+  "service": "CLOUD9",
+  "network_border_group": "eu-west-2"
+}
+{
+  "ip_prefix": "15.188.210.32/27",
+  "region": "eu-west-3",
+  "service": "CLOUD9",
+  "network_border_group": "eu-west-3"
+}
+{
+  "ip_prefix": "15.188.210.64/27",
+  "region": "eu-west-3",
+  "service": "CLOUD9",
   "network_border_group": "eu-west-3"
 }
 {

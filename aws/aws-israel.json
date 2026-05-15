@@ -425,18 +425,6 @@
   "network_border_group": "il-central-1"
 }
 {
-  "ip_prefix": "51.16.103.32/27",
-  "region": "il-central-1",
-  "service": "CLOUD9",
-  "network_border_group": "il-central-1"
-}
-{
-  "ip_prefix": "51.16.183.64/27",
-  "region": "il-central-1",
-  "service": "CLOUD9",
-  "network_border_group": "il-central-1"
-}
-{
   "ip_prefix": "51.16.103.16/28",
   "region": "il-central-1",
   "service": "CODEBUILD",
@@ -470,6 +458,18 @@
   "ip_prefix": "51.16.97.64/26",
   "region": "il-central-1",
   "service": "ROUTE53_RESOLVER",
+  "network_border_group": "il-central-1"
+}
+{
+  "ip_prefix": "51.16.103.32/27",
+  "region": "il-central-1",
+  "service": "CLOUD9",
+  "network_border_group": "il-central-1"
+}
+{
+  "ip_prefix": "51.16.183.64/27",
+  "region": "il-central-1",
+  "service": "CLOUD9",
   "network_border_group": "il-central-1"
 }
 {
