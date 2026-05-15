@@ -158,6 +158,7 @@
 {"asn":142622,"rir":"apnic","domain":"bunnycommunications.com","cc":"US","asname":"DIL-AS-AP"}
 {"asn":146887,"rir":"apnic","domain":"noobtech.in","cc":"IN","asname":"MAINT-IN-IRINN"}
 {"asn":147211,"rir":"apnic","domain":"onlinepragathi.com","cc":"IN","asname":"PRAGATHI-AS-IN"}
+{"asn":147269,"rir":"apnic","domain":"datawingstel.in","cc":"IN","asname":"DATAWINGS-AS-IN"}
 {"asn":147287,"rir":"apnic","domain":"dataparadise.net","cc":"IN","asname":"DATAPARA1-AS-IN"}
 {"asn":147291,"rir":"apnic","domain":"khalidgroup.co","cc":"PK","asname":"KHALIDGROUP-AS-AP"}
 {"asn":149181,"rir":"apnic","domain":"bhagwatsoft.in","cc":"IN","asname":"BHAGWAT-AS-IN"}
@@ -240,6 +241,7 @@
 {"asn":204872,"rir":"ripencc","domain":"kontrast.md","cc":"MD","asname":"Contrust-Solutions"}
 {"asn":205083,"rir":"ripencc","domain":"xor.sc","cc":"SC","asname":"DATASHIELD_FILTER"}
 {"asn":205301,"rir":"ripencc","domain":"kontrast.md","cc":"MD","asname":"Contrust-Solutions"}
+{"asn":205397,"rir":"ripencc","domain":"69host.cc","cc":"US","asname":"AS-69HOST"}
 {"asn":205486,"rir":"ripencc","domain":"sunucun.com.tr","cc":"TR","asname":"LKGF"}
 {"asn":205745,"rir":"ripencc","domain":"kontrast.md","cc":"MD","asname":"Contrust-Solutions"}
 {"asn":205759,"rir":"ripencc","domain":"ghostynetworks.com","cc":"US","asname":"GHOSTYNETWORKS"}
@@ -406,4 +408,4 @@
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
 {"asn":402075,"rir":"arin","domain":"securecommsgroup.xyz","cc":"US","asname":"PEEKABO"}
 {"asn":402253,"rir":"arin","domain":"skntelecom.com","cc":"KN","asname":"SKN-NETWORK-1"}
-{"type":"metadata","timestamp":1778847242,"size":36281,"records":408,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1778868842,"size":36457,"records":410,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
