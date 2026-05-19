@@ -72,6 +72,7 @@
 {"asn":47945,"rir":"ripencc","domain":"bignet.ua","cc":"UA","asname":"R-TEL-AS"}
 {"asn":48090,"rir":"ripencc","domain":"dmzhost.co","cc":"SC","asname":"DMZHOST"}
 {"asn":48198,"rir":"ripencc","domain":"avtotrans","cc":"UA","asname":"AVTOTRANS-EURO-AS"}
+{"asn":48214,"rir":"ripencc","domain":"lordvps.net","cc":"IR","asname":"GAJNET-CDN-IRAN"}
 {"asn":48589,"rir":"ripencc","domain":"imtigernet","cc":"GB","asname":"TIGER"}
 {"asn":48693,"rir":"ripencc","domain":"ntup.net","cc":"RU","asname":"NTSERVICE-AS"}
 {"asn":49418,"rir":"ripencc","domain":"chosting.solutions","cc":"UA","asname":"AS-NETSHIELD"}
@@ -85,6 +86,7 @@
 {"asn":51447,"rir":"ripencc","domain":"rootlayer.net","cc":"BD","asname":"ROOTLAYERNET"}
 {"asn":51511,"rir":"ripencc","domain":"pitline.net","cc":"UA","asname":"TRADE-EXPRESS-AS"}
 {"asn":51722,"rir":"ripencc","domain":"pixoof.com","cc":"TR","asname":"AS-PIXOOF"}
+{"asn":52209,"rir":"ripencc","domain":"lordvps.net","cc":"IR","asname":"LORDVPSNLNETWORKNL"}
 {"asn":53958,"rir":"arin","domain":"auproxies.com","cc":"US","asname":"BART-BM"}
 {"asn":54497,"rir":"arin","domain":"lhwebtech.com","cc":"US","asname":"LHWEBTECH-AS"}
 {"asn":54801,"rir":"arin","domain":"zillionnetwork.com","cc":"HK","asname":"ZILLION-NETWORK"}
@@ -99,6 +101,7 @@
 {"asn":57415,"rir":"ripencc","domain":"bignet.ua","cc":"UA","asname":"R-TEL-AS"}
 {"asn":57509,"rir":"ripencc","domain":"cloudbs.biz","cc":"BG","asname":"LL-Investment-Ltd"}
 {"asn":57523,"rir":"ripencc","domain":"changway.hk","cc":"HK","asname":"changway-as"}
+{"asn":58192,"rir":"ripencc","domain":"lordvps.net","cc":"IR","asname":"DDOS-PROTECTION-GAJNET"}
 {"asn":58854,"rir":"apnic","domain":"kaopuyun.com","cc":"CN","asname":"kaopy"}
 {"asn":59425,"rir":"ripencc","domain":"changway.hk","cc":"HK","asname":"HORIZONMSK-AS"}
 {"asn":59651,"rir":"ripencc","domain":"fineproxy.org","cc":"RU","asname":"AS-QualityNetwork"}
@@ -214,6 +217,7 @@
 {"asn":201626,"rir":"ripencc","domain":"bignet.ua","cc":"UA","asname":"PODILLIA-AS"}
 {"asn":201738,"rir":"ripencc","domain":"changway.hk","cc":"HK","asname":"UFO-TECHNOLOGIES-LIMITED"}
 {"asn":201813,"rir":"ripencc","domain":"kontrast.md","cc":"MD","asname":"Contrust-Solutions"}
+{"asn":201824,"rir":"ripencc","domain":"stat-cons","cc":"GB","asname":"stat-cons-as"}
 {"asn":201836,"rir":"ripencc","domain":"garant-plus-inform","cc":"UA","asname":"GARANT-AS"}
 {"asn":202144,"rir":"ripencc","domain":"chempir","cc":"UA","asname":"CHEMPIR-AS"}
 {"asn":202171,"rir":"ripencc","domain":"torero","cc":"UA","asname":"TORERO-AS"}
@@ -283,6 +287,7 @@
 {"asn":209373,"rir":"ripencc","domain":"swissnetwork.io","cc":"IR","asname":"SWISSNET-AS"}
 {"asn":209375,"rir":"ripencc","domain":"kontrast.md","cc":"MD","asname":"Contrust-Solutions"}
 {"asn":209396,"rir":"ripencc","domain":"kontrast.md","cc":"MD","asname":"Contrust-Solutions"}
+{"asn":209425,"rir":"ripencc","domain":"lordvps.net","cc":"IR","asname":"KOI-AS"}
 {"asn":209605,"rir":"ripencc","domain":"serveroffer.lt","cc":"LT","asname":"hostbaltic"}
 {"asn":209847,"rir":"ripencc","domain":"stark-industries.solutions","cc":"MD","asname":"THE"}
 {"asn":209868,"rir":"ripencc","domain":"kontrast.md","cc":"MD","asname":"Contrust-Solutions"}
@@ -375,7 +380,6 @@
 {"asn":215474,"rir":"ripencc","domain":"biil.ru","cc":"GB","asname":"BIIL-RU-AS"}
 {"asn":215730,"rir":"ripencc","domain":"h2.nexus","cc":"UA","asname":"H2NEXUS-AS"}
 {"asn":215765,"rir":"ripencc","domain":"pitline.net","cc":"UA","asname":"RADIO-LINK-SMART"}
-{"asn":215828,"rir":"ripencc","domain":"t-w.dev","cc":"DE","asname":"TMW-Global-Networks"}
 {"asn":215925,"rir":"ripencc","domain":"vpsvault.host","cc":"GB","asname":"VPSVAULTHOST"}
 {"asn":215930,"rir":"ripencc","domain":"almaseabi.net","cc":"IR","asname":"COD"}
 {"asn":216127,"rir":"ripencc","domain":"nuxt.cloud","cc":"RU","asname":"NUXT-AS"}
@@ -411,4 +415,4 @@
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
 {"asn":402075,"rir":"arin","domain":"securecommsgroup.xyz","cc":"US","asname":"PEEKABO"}
 {"asn":402253,"rir":"arin","domain":"skntelecom.com","cc":"KN","asname":"SKN-NETWORK-1"}
-{"type":"metadata","timestamp":1779173042,"size":36714,"records":413,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1779194642,"size":37071,"records":417,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
