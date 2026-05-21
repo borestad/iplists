@@ -1655,18 +1655,6 @@
   "network_border_group": "me-south-1"
 }
 {
-  "ip_prefix": "15.185.141.160/27",
-  "region": "me-south-1",
-  "service": "CLOUD9",
-  "network_border_group": "me-south-1"
-}
-{
-  "ip_prefix": "15.185.91.32/27",
-  "region": "me-south-1",
-  "service": "CLOUD9",
-  "network_border_group": "me-south-1"
-}
-{
   "ip_prefix": "3.29.147.40/29",
   "region": "me-central-1",
   "service": "EC2_INSTANCE_CONNECT",
@@ -1700,6 +1688,18 @@
   "ip_prefix": "16.24.91.70/31",
   "region": "me-south-1",
   "service": "KINESIS_VIDEO_STREAMS",
+  "network_border_group": "me-south-1"
+}
+{
+  "ip_prefix": "15.185.141.160/27",
+  "region": "me-south-1",
+  "service": "CLOUD9",
+  "network_border_group": "me-south-1"
+}
+{
+  "ip_prefix": "15.185.91.32/27",
+  "region": "me-south-1",
+  "service": "CLOUD9",
   "network_border_group": "me-south-1"
 }
 {

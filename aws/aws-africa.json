@@ -713,18 +713,6 @@
   "network_border_group": "af-south-1"
 }
 {
-  "ip_prefix": "13.245.155.128/27",
-  "region": "af-south-1",
-  "service": "CLOUD9",
-  "network_border_group": "af-south-1"
-}
-{
-  "ip_prefix": "13.245.155.224/27",
-  "region": "af-south-1",
-  "service": "CLOUD9",
-  "network_border_group": "af-south-1"
-}
-{
   "ip_prefix": "13.244.121.196/30",
   "region": "af-south-1",
   "service": "EC2_INSTANCE_CONNECT",
@@ -758,6 +746,18 @@
   "ip_prefix": "13.245.166.132/30",
   "region": "af-south-1",
   "service": "AMAZON_APPFLOW",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "13.245.155.128/27",
+  "region": "af-south-1",
+  "service": "CLOUD9",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "13.245.155.224/27",
+  "region": "af-south-1",
+  "service": "CLOUD9",
   "network_border_group": "af-south-1"
 }
 {

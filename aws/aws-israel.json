@@ -461,18 +461,6 @@
   "network_border_group": "il-central-1"
 }
 {
-  "ip_prefix": "51.16.103.32/27",
-  "region": "il-central-1",
-  "service": "CLOUD9",
-  "network_border_group": "il-central-1"
-}
-{
-  "ip_prefix": "51.16.183.64/27",
-  "region": "il-central-1",
-  "service": "CLOUD9",
-  "network_border_group": "il-central-1"
-}
-{
   "ip_prefix": "51.16.183.224/29",
   "region": "il-central-1",
   "service": "EC2_INSTANCE_CONNECT",
@@ -488,6 +476,18 @@
   "ip_prefix": "16.164.22.4/30",
   "region": "il-central-1",
   "service": "KINESIS_VIDEO_STREAMS",
+  "network_border_group": "il-central-1"
+}
+{
+  "ip_prefix": "51.16.103.32/27",
+  "region": "il-central-1",
+  "service": "CLOUD9",
+  "network_border_group": "il-central-1"
+}
+{
+  "ip_prefix": "51.16.183.64/27",
+  "region": "il-central-1",
+  "service": "CLOUD9",
   "network_border_group": "il-central-1"
 }
 {
