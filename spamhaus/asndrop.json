@@ -236,7 +236,6 @@
 {"asn":203861,"rir":"ripencc","domain":"netiface.co.uk","cc":"GB","asname":"MITEFLUX-AS"}
 {"asn":203950,"rir":"ripencc","domain":"kontrast.md","cc":"MD","asname":"Contrust-Solutions"}
 {"asn":203999,"rir":"ripencc","domain":"gwhostinglabs.com","cc":"IN","asname":"GeekyWorks"}
-{"asn":204330,"rir":"ripencc","domain":"aluy.net","cc":"DE","asname":"JMREED"}
 {"asn":204428,"rir":"ripencc","domain":"ssnet.eu","cc":"BG","asname":"SS-Net"}
 {"asn":204490,"rir":"ripencc","domain":"contell.ru","cc":"RU","asname":"ASKONTEL"}
 {"asn":204502,"rir":"ripencc","domain":"livela","cc":"UA","asname":"LIVELA-AS"}
@@ -415,4 +414,4 @@
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
 {"asn":402075,"rir":"arin","domain":"securecommsgroup.xyz","cc":"US","asname":"PEEKABO"}
 {"asn":402253,"rir":"arin","domain":"skntelecom.com","cc":"KN","asname":"SKN-NETWORK-1"}
-{"type":"metadata","timestamp":1779819242,"size":37084,"records":417,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1779842642,"size":37005,"records":416,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
