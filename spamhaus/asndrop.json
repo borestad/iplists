@@ -322,7 +322,6 @@
 {"asn":211720,"rir":"ripencc","domain":"xor.sc","cc":"SC","asname":"DATASHIELD_CH"}
 {"asn":211736,"rir":"ripencc","domain":"pwnhost.com","cc":"UA","asname":"FDN3"}
 {"asn":211762,"rir":"ripencc","domain":"fineproxy.org","cc":"RU","asname":"REGION40"}
-{"asn":211849,"rir":"ripencc","domain":"62yun.com","cc":"RU","asname":"KAKHAROV-AS"}
 {"asn":211922,"rir":"ripencc","domain":"ipconnect.services","cc":"SC","asname":"IPDISTR"}
 {"asn":211955,"rir":"ripencc","domain":"notbad.cloud","cc":"RU","asname":"NOTBADHOSTING"}
 {"asn":212017,"rir":"ripencc","domain":"cubilloconstrucciones.com","cc":"ES","asname":"CUBILLO"}
@@ -414,4 +413,4 @@
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
 {"asn":402075,"rir":"arin","domain":"securecommsgroup.xyz","cc":"US","asname":"PEEKABO"}
 {"asn":402253,"rir":"arin","domain":"skntelecom.com","cc":"KN","asname":"SKN-NETWORK-1"}
-{"type":"metadata","timestamp":1779992042,"size":37004,"records":416,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1780015442,"size":36919,"records":415,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
