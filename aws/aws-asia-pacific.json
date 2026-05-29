@@ -12275,6 +12275,12 @@
   "network_border_group": "ap-southeast-1"
 }
 {
+  "ip_prefix": "15.252.0.0/16",
+  "region": "ap-south-1",
+  "service": "EC2",
+  "network_border_group": "ap-south-1"
+}
+{
   "ip_prefix": "16.214.44.0/22",
   "region": "ap-south-2",
   "service": "EC2",
