@@ -15,6 +15,7 @@
 {"asn":9164,"rir":"ripencc","domain":"bignet.ua","cc":"UA","asname":"R-TEL-AS"}
 {"asn":11938,"rir":"arin","domain":"ncryptd.net","cc":"GB","asname":"ABANTU"}
 {"asn":13875,"rir":"arin","domain":"mxfiber.com","cc":"HK","asname":"AS13875-MX-FIBER"}
+{"asn":14576,"rir":"arin","domain":"king-servers.com","cc":"US","asname":"HOSTING-SOLUTIONS"}
 {"asn":17447,"rir":"apnic","domain":"net4india.com","cc":"IN","asname":"NET4-IN"}
 {"asn":17612,"rir":"apnic","domain":"rinnai.co.kr","cc":"KR","asname":"RINNAI-AS-KR"}
 {"asn":17994,"rir":"apnic","domain":"appserv.co.nz","cc":"NZ","asname":"SPARK-AS-AP"}
@@ -103,6 +104,7 @@
 {"asn":57523,"rir":"ripencc","domain":"changway.hk","cc":"HK","asname":"changway-as"}
 {"asn":58192,"rir":"ripencc","domain":"lordvps.net","cc":"IR","asname":"DDOS-PROTECTION-GAJNET"}
 {"asn":58854,"rir":"apnic","domain":"kaopuyun.com","cc":"CN","asname":"kaopy"}
+{"asn":58961,"rir":"apnic","domain":"klikindonesia.or.id","cc":"ID","asname":"OPENIP-AS"}
 {"asn":59425,"rir":"ripencc","domain":"changway.hk","cc":"HK","asname":"HORIZONMSK-AS"}
 {"asn":59651,"rir":"ripencc","domain":"fineproxy.org","cc":"RU","asname":"AS-QualityNetwork"}
 {"asn":59683,"rir":"ripencc","domain":"vip-net.net","cc":"RU","asname":"iridatelecom"}
@@ -378,6 +380,7 @@
 {"asn":215462,"rir":"ripencc","domain":"sircrosar.net","cc":"GB","asname":"BUGGZ-HOSTING"}
 {"asn":215474,"rir":"ripencc","domain":"biil.ru","cc":"GB","asname":"BIIL-RU-AS"}
 {"asn":215730,"rir":"ripencc","domain":"h2.nexus","cc":"UA","asname":"H2NEXUS-AS"}
+{"asn":215731,"rir":"ripencc","domain":"novuslabslimited.com","cc":"US","asname":"NovusLabs"}
 {"asn":215765,"rir":"ripencc","domain":"pitline.net","cc":"UA","asname":"RADIO-LINK-SMART"}
 {"asn":215925,"rir":"ripencc","domain":"vpsvault.host","cc":"GB","asname":"VPSVAULTHOST"}
 {"asn":215930,"rir":"ripencc","domain":"almaseabi.net","cc":"IR","asname":"COD"}
@@ -414,4 +417,4 @@
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
 {"asn":402075,"rir":"arin","domain":"securecommsgroup.xyz","cc":"US","asname":"PEEKABO"}
 {"asn":402253,"rir":"arin","domain":"skntelecom.com","cc":"KN","asname":"SKN-NETWORK-1"}
-{"type":"metadata","timestamp":1780472642,"size":37004,"records":416,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1780492442,"size":37282,"records":419,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
