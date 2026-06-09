@@ -212,7 +212,6 @@
 {"asn":200373,"rir":"ripencc","domain":"plainproxies.com","cc":"DE","asname":"Drei-K-Tech-GmbH"}
 {"asn":200593,"rir":"ripencc","domain":"pro-spero.ru","cc":"RU","asname":"PROSPERO-AS"}
 {"asn":200699,"rir":"ripencc","domain":"xor.sc","cc":"SC","asname":"DATASHIELD_NL"}
-{"asn":200733,"rir":"ripencc","domain":"biil.ru","cc":"GB","asname":"BILRU"}
 {"asn":201249,"rir":"ripencc","domain":"iprowireless.com","cc":"AL","asname":"IPRO"}
 {"asn":201292,"rir":"ripencc","domain":"agrofirma-aleks","cc":"UA","asname":"AS-AGRO"}
 {"asn":201380,"rir":"ripencc","domain":"excitedmatch.com","cc":"UA","asname":"ALFABISNES-AS"}
@@ -418,4 +417,4 @@
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
 {"asn":402075,"rir":"arin","domain":"securecommsgroup.xyz","cc":"US","asname":"PEEKABO"}
 {"asn":402253,"rir":"arin","domain":"skntelecom.com","cc":"KN","asname":"SKN-NETWORK-1"}
-{"type":"metadata","timestamp":1780944242,"size":37370,"records":420,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1780965842,"size":37293,"records":419,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
