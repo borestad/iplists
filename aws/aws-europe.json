@@ -6206,7 +6206,7 @@
   "ip_prefix": "75.45.128.0/18",
   "region": "eu-central-1",
   "service": "AMAZON",
-  "network_border_group": "eu-central-1"
+  "network_border_group": "eu-central-1-ath-1"
 }
 {
   "ip_prefix": "150.222.144.96/32",
@@ -11174,7 +11174,7 @@
   "ip_prefix": "75.45.128.0/18",
   "region": "eu-central-1",
   "service": "EC2",
-  "network_border_group": "eu-central-1"
+  "network_border_group": "eu-central-1-ath-1"
 }
 {
   "ip_prefix": "173.83.196.0/23",
