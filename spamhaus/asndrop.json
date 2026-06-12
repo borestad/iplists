@@ -223,7 +223,7 @@
 {"asn":201572,"rir":"ripencc","domain":"ekoiniciative.pp.ua","cc":"UA","asname":"EKO-INICIATIVE-AS"}
 {"asn":201626,"rir":"ripencc","domain":"bignet.ua","cc":"UA","asname":"PODILLIA-AS"}
 {"asn":201738,"rir":"ripencc","domain":"changway.hk","cc":"HK","asname":"UFO-TECHNOLOGIES-LIMITED"}
-{"asn":201813,"rir":"ripencc","domain":"kontrast.md","cc":"MD","asname":"Contrust-Solutions"}
+{"asn":201813,"rir":"ripencc","domain":"kontrast.md","cc":"MD","asname":"CoreLink"}
 {"asn":201824,"rir":"ripencc","domain":"stat-cons","cc":"GB","asname":"stat-cons-as"}
 {"asn":201836,"rir":"ripencc","domain":"garant-plus-inform","cc":"UA","asname":"GARANT-AS"}
 {"asn":202144,"rir":"ripencc","domain":"chempir","cc":"UA","asname":"CHEMPIR-AS"}
@@ -422,4 +422,4 @@
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
 {"asn":402075,"rir":"arin","domain":"securecommsgroup.xyz","cc":"US","asname":"PEEKABO"}
 {"asn":402253,"rir":"arin","domain":"skntelecom.com","cc":"KN","asname":"SKN-NETWORK-1"}
-{"type":"metadata","timestamp":1781203442,"size":37779,"records":424,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1781225042,"size":37769,"records":424,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
