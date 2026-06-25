@@ -1,4 +1,10 @@
 {
+  "ip_prefix": "63.249.148.0/24",
+  "region": "af-south-1",
+  "service": "AMAZON",
+  "network_border_group": "af-south-1"
+}
+{
   "ip_prefix": "15.103.0.0/16",
   "region": "af-south-1",
   "service": "AMAZON",
@@ -452,6 +458,12 @@
   "ip_prefix": "13.246.120.0/22",
   "region": "af-south-1",
   "service": "WORKSPACES_GATEWAYS",
+  "network_border_group": "af-south-1"
+}
+{
+  "ip_prefix": "63.249.148.0/24",
+  "region": "af-south-1",
+  "service": "EC2",
   "network_border_group": "af-south-1"
 }
 {
