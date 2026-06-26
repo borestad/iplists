@@ -111,7 +111,6 @@
 {"asn":59425,"rir":"ripencc","domain":"changway.hk","cc":"HK","asname":"HORIZONMSK-AS"}
 {"asn":59651,"rir":"ripencc","domain":"fineproxy.org","cc":"RU","asname":"AS-QualityNetwork"}
 {"asn":59683,"rir":"ripencc","domain":"vip-net.net","cc":"RU","asname":"iridatelecom"}
-{"asn":60223,"rir":"ripencc","domain":"netiface.co.uk","cc":"GB","asname":"UNKNOWN"}
 {"asn":60842,"rir":"ripencc","domain":"62yun.com","cc":"RU","asname":"HUIZE-HOLDINGS-AS"}
 {"asn":60974,"rir":"ripencc","domain":"naicoms.com","cc":"BG","asname":"Naicoms"}
 {"asn":61003,"rir":"ripencc","domain":"globaltelehost.com","cc":"CA","asname":"GLOBALTELEHOST"}
@@ -288,7 +287,6 @@
 {"asn":208137,"rir":"ripencc","domain":"feoprest.info","cc":"RO","asname":"FPS12"}
 {"asn":208198,"rir":"ripencc","domain":"eksenbilisim.com.tr","cc":"TR","asname":"Eylul-NET"}
 {"asn":208241,"rir":"ripencc","domain":"pitline.net","cc":"UA","asname":"RADIO-LINK-PLUS"}
-{"asn":208312,"rir":"ripencc","domain":"changway.hk","cc":"HK","asname":"UNKNOWN"}
 {"asn":208317,"rir":"ripencc","domain":"kontrast.md","cc":"MD","asname":"Contrust-Solutions"}
 {"asn":208525,"rir":"ripencc","domain":"cloudie.hk","cc":"HK","asname":"AIRULIMITED"}
 {"asn":208846,"rir":"ripencc","domain":"atom3.com.ua","cc":"UA","asname":"ATOM3-AS"}
@@ -329,7 +327,6 @@
 {"asn":211199,"rir":"ripencc","domain":"liptel.net.ua","cc":"UA","asname":"LIPTEL-AS"}
 {"asn":211238,"rir":"ripencc","domain":"zumy.eu","cc":"IN","asname":"DCYBER"}
 {"asn":211619,"rir":"ripencc","domain":"maxko.org","cc":"HR","asname":"MAXKO"}
-{"asn":211659,"rir":"ripencc","domain":"changway.hk","cc":"HK","asname":"UNKNOWN"}
 {"asn":211663,"rir":"ripencc","domain":"changway.hk","cc":"HK","asname":"GALEON-AS"}
 {"asn":211720,"rir":"ripencc","domain":"xor.sc","cc":"SC","asname":"DATASHIELD_CH"}
 {"asn":211736,"rir":"ripencc","domain":"pwnhost.com","cc":"UA","asname":"FDN3"}
@@ -346,13 +343,11 @@
 {"asn":213035,"rir":"ripencc","domain":"serverion.com","cc":"NL","asname":"AS-SERVERION"}
 {"asn":213137,"rir":"ripencc","domain":"kontrast.md","cc":"MD","asname":"Contrust"}
 {"asn":213200,"rir":"ripencc","domain":"tube-hosting.de","cc":"DE","asname":"FZink"}
-{"asn":213355,"rir":"ripencc","domain":"changway.hk","cc":"HK","asname":"UNKNOWN"}
 {"asn":213373,"rir":"ripencc","domain":"ipconnect.services","cc":"SC","asname":"IPCONNECT"}
 {"asn":213388,"rir":"ripencc","domain":"iic-rail","cc":"GB","asname":"IIC-AS"}
 {"asn":213389,"rir":"ripencc","domain":"netip.com.ua","cc":"UA","asname":"ASPODOLSK"}
 {"asn":213438,"rir":"ripencc","domain":"colocatel.com","cc":"SC","asname":"colocatel-inc"}
 {"asn":213441,"rir":"ripencc","domain":"slayergroup.ltd","cc":"GB","asname":"SLAYER-AS"}
-{"asn":213448,"rir":"ripencc","domain":"netiface.co.uk","cc":"GB","asname":"UNKNOWN"}
 {"asn":213474,"rir":"ripencc","domain":"whitelabel.sh","cc":"IL","asname":"HOMELINE-AS"}
 {"asn":213511,"rir":"ripencc","domain":"vonie.net","cc":"TR","asname":"VSVK"}
 {"asn":213652,"rir":"ripencc","domain":"sunucun.com.tr","cc":"TR","asname":"Sunucun-Cloud"}
@@ -396,7 +391,6 @@
 {"asn":215930,"rir":"ripencc","domain":"almaseabi.net","cc":"IR","asname":"COD"}
 {"asn":216127,"rir":"ripencc","domain":"nuxt.cloud","cc":"RU","asname":"NUXT-AS"}
 {"asn":216246,"rir":"ripencc","domain":"aeza.net","cc":"RU","asname":"RU-AEZA-AS"}
-{"asn":216341,"rir":"ripencc","domain":"changway.hk","cc":"HK","asname":"UNKNOWN"}
 {"asn":216475,"rir":"ripencc","domain":"nktele.com","cc":"RU","asname":"nktelecom"}
 {"asn":266702,"rir":"lacnic","domain":"nodonorte.net.ar","cc":"AR","asname":"MEGALINK_S.R.L."}
 {"asn":266724,"rir":"lacnic","domain":"donserver.cl","cc":"CL","asname":"MYRIAM_PILAR_ESCOBAR_VEGA_(DON_SERVER)"}
@@ -429,4 +423,4 @@
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
 {"asn":402075,"rir":"arin","domain":"securecommsgroup.xyz","cc":"US","asname":"PEEKABO"}
 {"asn":402253,"rir":"arin","domain":"skntelecom.com","cc":"KN","asname":"SKN-NETWORK-1"}
-{"type":"metadata","timestamp":1782476042,"size":38347,"records":431,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1782497642,"size":37844,"records":425,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
