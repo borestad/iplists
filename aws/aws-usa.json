@@ -21095,6 +21095,12 @@
   "network_border_group": "us-west-2"
 }
 {
+  "ip_prefix": "100.59.224.0/25",
+  "region": "us-east-1",
+  "service": "EFS",
+  "network_border_group": "us-east-1"
+}
+{
   "ip_prefix": "35.71.115.0/24",
   "region": "us-gov-east-1",
   "service": "DYNAMODB",
