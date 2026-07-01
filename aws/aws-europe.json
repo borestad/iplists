@@ -14105,6 +14105,30 @@
   "network_border_group": "eu-west-3"
 }
 {
+  "ip_prefix": "16.22.121.0/26",
+  "region": "eu-south-1",
+  "service": "EFS",
+  "network_border_group": "eu-south-1"
+}
+{
+  "ip_prefix": "16.22.121.64/28",
+  "region": "eu-south-1",
+  "service": "EFS",
+  "network_border_group": "eu-south-1"
+}
+{
+  "ip_prefix": "16.22.41.144/28",
+  "region": "eu-south-1",
+  "service": "EFS",
+  "network_border_group": "eu-south-1"
+}
+{
+  "ip_prefix": "16.22.41.160/27",
+  "region": "eu-south-1",
+  "service": "EFS",
+  "network_border_group": "eu-south-1"
+}
+{
   "ip_prefix": "52.94.24.0/23",
   "region": "eu-west-1",
   "service": "DYNAMODB",
