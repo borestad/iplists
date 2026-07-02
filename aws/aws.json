@@ -1,6 +1,6 @@
 {
-  "syncToken": "1782962825",
-  "createDate": "2026-07-02-03-27-05",
+  "syncToken": "1782987425",
+  "createDate": "2026-07-02-10-17-05",
   "prefixes": [
     {
       "ip_prefix": "3.4.12.4/32",
@@ -8659,6 +8659,12 @@
       "region": "eu-central-1",
       "service": "AMAZON",
       "network_border_group": "eu-central-1"
+    },
+    {
+      "ip_prefix": "45.33.181.0/24",
+      "region": "eu-west-2",
+      "service": "AMAZON",
+      "network_border_group": "eu-west-2"
     },
     {
       "ip_prefix": "52.93.91.96/32",

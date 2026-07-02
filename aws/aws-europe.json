@@ -2033,6 +2033,12 @@
   "network_border_group": "eu-central-1"
 }
 {
+  "ip_prefix": "45.33.181.0/24",
+  "region": "eu-west-2",
+  "service": "AMAZON",
+  "network_border_group": "eu-west-2"
+}
+{
   "ip_prefix": "63.249.151.0/24",
   "region": "eu-west-1",
   "service": "AMAZON",
