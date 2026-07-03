@@ -12233,6 +12233,12 @@
   "network_border_group": "eu-west-3"
 }
 {
+  "ip_prefix": "35.34.105.0/24",
+  "region": "eu-west-3",
+  "service": "GLOBALACCELERATOR",
+  "network_border_group": "eu-west-3"
+}
+{
   "ip_prefix": "13.248.119.0/24",
   "region": "eu-west-1",
   "service": "GLOBALACCELERATOR",
