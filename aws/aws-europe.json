@@ -12233,6 +12233,12 @@
   "network_border_group": "eu-west-3"
 }
 {
+  "ip_prefix": "99.83.109.0/24",
+  "region": "eu-south-1",
+  "service": "GLOBALACCELERATOR",
+  "network_border_group": "eu-south-1"
+}
+{
   "ip_prefix": "35.34.105.0/24",
   "region": "eu-west-3",
   "service": "GLOBALACCELERATOR",
@@ -12263,16 +12269,34 @@
   "network_border_group": "eu-central-1"
 }
 {
+  "ip_prefix": "99.83.105.0/24",
+  "region": "eu-west-1",
+  "service": "GLOBALACCELERATOR",
+  "network_border_group": "eu-west-1"
+}
+{
   "ip_prefix": "13.248.97.0/24",
   "region": "eu-central-1",
   "service": "GLOBALACCELERATOR",
   "network_border_group": "eu-central-1"
 }
 {
+  "ip_prefix": "99.83.108.0/24",
+  "region": "eu-south-1",
+  "service": "GLOBALACCELERATOR",
+  "network_border_group": "eu-south-1"
+}
+{
   "ip_prefix": "13.248.120.0/24",
   "region": "eu-west-2",
   "service": "GLOBALACCELERATOR",
   "network_border_group": "eu-west-2"
+}
+{
+  "ip_prefix": "99.83.107.0/24",
+  "region": "eu-south-1",
+  "service": "GLOBALACCELERATOR",
+  "network_border_group": "eu-south-1"
 }
 {
   "ip_prefix": "35.34.96.0/24",
