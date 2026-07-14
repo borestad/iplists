@@ -210,8 +210,8 @@
 {"cidr":"62.60.131.0/24","sblid":"SBL688269","rir":"ripencc"}
 {"cidr":"62.60.135.0/24","sblid":"SBL689243","rir":"ripencc"}
 {"cidr":"62.60.188.0/22","sblid":"SBL657458","rir":"ripencc"}
-{"cidr":"62.60.226.0/24","sblid":"SBL697779","rir":"ripencc"}
 {"cidr":"62.60.226.0/24","sblid":"SBL671779","rir":"ripencc"}
+{"cidr":"62.60.226.0/24","sblid":"SBL697779","rir":"ripencc"}
 {"cidr":"62.204.41.0/24","sblid":"SBL690073","rir":"ripencc"}
 {"cidr":"63.80.8.0/22","sblid":"SBL623896","rir":"arin"}
 {"cidr":"64.15.0.0/20","sblid":"SBL530365","rir":"arin"}
@@ -878,6 +878,7 @@
 {"cidr":"172.70.206.0/23","sblid":"SBL687772","rir":"arin"}
 {"cidr":"172.70.214.0/23","sblid":"SBL687314","rir":"arin"}
 {"cidr":"172.94.9.0/24","sblid":"SBL692903","rir":"arin"}
+{"cidr":"172.111.128.0/17","sblid":"SBL688605","rir":"arin"}
 {"cidr":"172.247.38.0/24","sblid":"SBL608973","rir":"arin"}
 {"cidr":"173.44.0.0/19","sblid":"SBL682084","rir":"arin"}
 {"cidr":"173.244.55.0/24","sblid":"SBL694455","rir":"arin"}
@@ -1675,4 +1676,4 @@
 {"cidr":"223.155.16.0/24","sblid":"SBL656595","rir":"apnic"}
 {"cidr":"223.169.0.0/16","sblid":"SBL208009","rir":"apnic"}
 {"cidr":"223.254.0.0/16","sblid":"SBL212803","rir":"apnic"}
-{"type":"metadata","timestamp":1783975442,"size":102319,"records":1677,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1784052842,"size":102380,"records":1678,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
