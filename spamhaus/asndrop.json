@@ -150,7 +150,6 @@
 {"asn":140155,"rir":"apnic","domain":"thepinnaclegroup.in","cc":"IN","asname":"HOSTNET-AS-IN"}
 {"asn":140184,"rir":"apnic","domain":"sfns","cc":"IN","asname":"SFNSNPL-AS"}
 {"asn":140208,"rir":"apnic","domain":"obhost.org","cc":"PK","asname":"OBHOST-AS-AP"}
-{"asn":140666,"rir":"apnic","domain":"kaopuyun.com","cc":"CN","asname":"ADPL-AS-AP"}
 {"asn":140787,"rir":"apnic","domain":"vinahost.vn","cc":"VN","asname":"LAMA-AS-VN"}
 {"asn":140869,"rir":"apnic","domain":"turingserver.com","cc":"NZ","asname":"TGL-AS-AP"}
 {"asn":140941,"rir":"apnic","domain":"fulltimehosting.net","cc":"PK","asname":"FULLTIMEHOSTING-AS-AP"}
@@ -417,4 +416,4 @@
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
 {"asn":402075,"rir":"arin","domain":"securecommsgroup.xyz","cc":"US","asname":"PEEKABO"}
 {"asn":402253,"rir":"arin","domain":"skntelecom.com","cc":"KN","asname":"SKN-NETWORK-1"}
-{"type":"metadata","timestamp":1784529842,"size":37349,"records":419,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1784549642,"size":37264,"records":418,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
