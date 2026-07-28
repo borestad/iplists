@@ -905,12 +905,6 @@
   "network_border_group": "eu-west-3"
 }
 {
-  "ip_prefix": "83.119.64.0/18",
-  "region": "eu-west-2",
-  "service": "AMAZON",
-  "network_border_group": "eu-west-2"
-}
-{
   "ip_prefix": "150.222.11.0/24",
   "region": "eu-west-1",
   "service": "AMAZON",
@@ -9765,12 +9759,6 @@
   "region": "eu-west-3",
   "service": "EC2",
   "network_border_group": "eu-west-3"
-}
-{
-  "ip_prefix": "83.119.64.0/18",
-  "region": "eu-west-2",
-  "service": "EC2",
-  "network_border_group": "eu-west-2"
 }
 {
   "ip_prefix": "16.19.0.0/16",
