@@ -13667,6 +13667,60 @@
   "network_border_group": "eu-west-3"
 }
 {
+  "ip_prefix": "16.18.95.128/25",
+  "region": "eu-central-2",
+  "service": "EFS",
+  "network_border_group": "eu-central-2"
+}
+{
+  "ip_prefix": "16.22.121.0/26",
+  "region": "eu-south-1",
+  "service": "EFS",
+  "network_border_group": "eu-south-1"
+}
+{
+  "ip_prefix": "16.22.121.64/28",
+  "region": "eu-south-1",
+  "service": "EFS",
+  "network_border_group": "eu-south-1"
+}
+{
+  "ip_prefix": "16.22.152.0/22",
+  "region": "eu-south-1",
+  "service": "EFS",
+  "network_border_group": "eu-south-1"
+}
+{
+  "ip_prefix": "16.22.41.144/28",
+  "region": "eu-south-1",
+  "service": "EFS",
+  "network_border_group": "eu-south-1"
+}
+{
+  "ip_prefix": "16.22.41.160/27",
+  "region": "eu-south-1",
+  "service": "EFS",
+  "network_border_group": "eu-south-1"
+}
+{
+  "ip_prefix": "35.42.175.0/25",
+  "region": "eu-south-2",
+  "service": "EFS",
+  "network_border_group": "eu-south-2"
+}
+{
+  "ip_prefix": "108.133.102.0/25",
+  "region": "eu-west-1",
+  "service": "EFS",
+  "network_border_group": "eu-west-1"
+}
+{
+  "ip_prefix": "108.133.136.0/22",
+  "region": "eu-west-1",
+  "service": "EFS",
+  "network_border_group": "eu-west-1"
+}
+{
   "ip_prefix": "3.120.181.40/29",
   "region": "eu-central-1",
   "service": "EC2_INSTANCE_CONNECT",
@@ -13965,48 +14019,6 @@
   "region": "eu-west-3",
   "service": "AURORA_DSQL",
   "network_border_group": "eu-west-3"
-}
-{
-  "ip_prefix": "16.18.95.128/25",
-  "region": "eu-central-2",
-  "service": "EFS",
-  "network_border_group": "eu-central-2"
-}
-{
-  "ip_prefix": "16.22.121.0/26",
-  "region": "eu-south-1",
-  "service": "EFS",
-  "network_border_group": "eu-south-1"
-}
-{
-  "ip_prefix": "16.22.121.64/28",
-  "region": "eu-south-1",
-  "service": "EFS",
-  "network_border_group": "eu-south-1"
-}
-{
-  "ip_prefix": "16.22.41.144/28",
-  "region": "eu-south-1",
-  "service": "EFS",
-  "network_border_group": "eu-south-1"
-}
-{
-  "ip_prefix": "16.22.41.160/27",
-  "region": "eu-south-1",
-  "service": "EFS",
-  "network_border_group": "eu-south-1"
-}
-{
-  "ip_prefix": "35.42.175.0/25",
-  "region": "eu-south-2",
-  "service": "EFS",
-  "network_border_group": "eu-south-2"
-}
-{
-  "ip_prefix": "108.133.102.0/25",
-  "region": "eu-west-1",
-  "service": "EFS",
-  "network_border_group": "eu-west-1"
 }
 {
   "ip_prefix": "3.77.79.224/29",
