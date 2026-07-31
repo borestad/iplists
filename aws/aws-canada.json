@@ -20345,6 +20345,66 @@
   "network_border_group": "us-east-1"
 }
 {
+  "ip_prefix": "100.62.24.0/22",
+  "region": "us-east-1",
+  "service": "EFS",
+  "network_border_group": "us-east-1"
+}
+{
+  "ip_prefix": "100.62.28.0/22",
+  "region": "us-east-1",
+  "service": "EFS",
+  "network_border_group": "us-east-1"
+}
+{
+  "ip_prefix": "100.62.32.0/22",
+  "region": "us-east-1",
+  "service": "EFS",
+  "network_border_group": "us-east-1"
+}
+{
+  "ip_prefix": "100.62.36.0/22",
+  "region": "us-east-1",
+  "service": "EFS",
+  "network_border_group": "us-east-1"
+}
+{
+  "ip_prefix": "100.62.40.0/22",
+  "region": "us-east-1",
+  "service": "EFS",
+  "network_border_group": "us-east-1"
+}
+{
+  "ip_prefix": "100.62.44.0/22",
+  "region": "us-east-1",
+  "service": "EFS",
+  "network_border_group": "us-east-1"
+}
+{
+  "ip_prefix": "40.164.4.0/22",
+  "region": "us-west-1",
+  "service": "EFS",
+  "network_border_group": "us-west-1"
+}
+{
+  "ip_prefix": "32.187.164.0/22",
+  "region": "us-west-2",
+  "service": "EFS",
+  "network_border_group": "us-west-2"
+}
+{
+  "ip_prefix": "32.187.168.0/22",
+  "region": "us-west-2",
+  "service": "EFS",
+  "network_border_group": "us-west-2"
+}
+{
+  "ip_prefix": "32.187.172.0/22",
+  "region": "us-west-2",
+  "service": "EFS",
+  "network_border_group": "us-west-2"
+}
+{
   "ip_prefix": "18.252.4.0/30",
   "region": "us-gov-east-1",
   "service": "EC2_INSTANCE_CONNECT",
