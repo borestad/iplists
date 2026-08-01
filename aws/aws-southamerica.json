@@ -1913,6 +1913,12 @@
   "network_border_group": "sa-east-1"
 }
 {
+  "ip_prefix": "54.20.104.0/22",
+  "region": "sa-east-1",
+  "service": "EFS",
+  "network_border_group": "sa-east-1"
+}
+{
   "ip_prefix": "18.228.70.32/29",
   "region": "sa-east-1",
   "service": "EC2_INSTANCE_CONNECT",
