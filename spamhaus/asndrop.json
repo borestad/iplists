@@ -216,6 +216,7 @@
 {"asn":200051,"rir":"ripencc","domain":"kyonix.com","cc":"RU","asname":"VPSLab-Networks"}
 {"asn":200130,"rir":"ripencc","domain":"ryzehosting.com","cc":"AT","asname":"SIMON-MARIACHER"}
 {"asn":200373,"rir":"ripencc","domain":"plainproxies.com","cc":"DE","asname":"Drei-K-Tech-GmbH"}
+{"asn":200499,"rir":"ripencc","domain":"enterprises-holding","cc":"GB","asname":"EHL-AS"}
 {"asn":200593,"rir":"ripencc","domain":"pro-spero.ru","cc":"RU","asname":"PROSPERO-AS"}
 {"asn":200699,"rir":"ripencc","domain":"xor.sc","cc":"SC","asname":"DATASHIELD_NL"}
 {"asn":201249,"rir":"ripencc","domain":"iprowireless.com","cc":"AL","asname":"IPRO"}
@@ -314,7 +315,7 @@
 {"asn":210530,"rir":"ripencc","domain":"ipconnect.services","cc":"SC","asname":"ip2con"}
 {"asn":210558,"rir":"ripencc","domain":"as210558.net","cc":"DE","asname":"services-1337-gmbh"}
 {"asn":210644,"rir":"ripencc","domain":"aeza.net","cc":"RU","asname":"AEZA-AS"}
-{"asn":210654,"rir":"ripencc","domain":"serverion.com","cc":"NL","asname":"SRVN-AS"}
+{"asn":210654,"rir":"ripencc","domain":"serverion.com","cc":"NL","asname":"CUSTOMER-AS"}
 {"asn":210703,"rir":"ripencc","domain":"almaseabi.net","cc":"IR","asname":"FIRSTBYTE-AS"}
 {"asn":210705,"rir":"ripencc","domain":"rapidoserver.com","cc":"IR","asname":"RapidoServer"}
 {"asn":210707,"rir":"ripencc","domain":"dadeh-pardazesh-boroumand-kerman","cc":"IR","asname":"Company"}
@@ -387,6 +388,7 @@
 {"asn":216127,"rir":"ripencc","domain":"nuxt.cloud","cc":"RU","asname":"NUXT-AS"}
 {"asn":216246,"rir":"ripencc","domain":"aeza.net","cc":"RU","asname":"RU-AEZA-AS"}
 {"asn":216475,"rir":"ripencc","domain":"nktele.com","cc":"RU","asname":"nktelecom"}
+{"asn":219326,"rir":"ripencc","domain":"sulavi.co.uk","cc":"GB","asname":"SULAVIL"}
 {"asn":219502,"rir":"ripencc","domain":"stormindustries.llc","cc":"US","asname":"STORMCLOUD-AS"}
 {"asn":266702,"rir":"lacnic","domain":"nodonorte.net.ar","cc":"AR","asname":"MEGALINK_S.R.L."}
 {"asn":266724,"rir":"lacnic","domain":"donserver.cl","cc":"CL","asname":"MYRIAM_PILAR_ESCOBAR_VEGA_(DON_SERVER)"}
@@ -419,4 +421,4 @@
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
 {"asn":402075,"rir":"arin","domain":"securecommsgroup.xyz","cc":"US","asname":"PEEKABO"}
 {"asn":402253,"rir":"arin","domain":"skntelecom.com","cc":"KN","asname":"SKN-NETWORK-1"}
-{"type":"metadata","timestamp":1785951842,"size":37525,"records":421,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1785975242,"size":37703,"records":423,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
