@@ -156,6 +156,7 @@
 {"asn":140941,"rir":"apnic","domain":"fulltimehosting.net","cc":"PK","asname":"FULLTIMEHOSTING-AS-AP"}
 {"asn":141333,"rir":"apnic","domain":"rocketmediagroups.com","cc":"IN","asname":"ROCKETGP-AS-IN"}
 {"asn":141567,"rir":"apnic","domain":"interspireaddon.co.in","cc":"IN","asname":"INTERSP-AS-IN"}
+{"asn":141738,"rir":"apnic","domain":"noorhost.com.bd","cc":"BD","asname":"NOORHOSTCOMBD-AS-AP"}
 {"asn":141803,"rir":"apnic","domain":"invisionchiptechnosoft.co.in","cc":"IN","asname":"INVISION-AS-IN"}
 {"asn":141835,"rir":"apnic","domain":"impactsoftwares.co.in","cc":"IN","asname":"IMPACT-AS-IN"}
 {"asn":141836,"rir":"apnic","domain":"imaginetechnosoft.co.in","cc":"IN","asname":"IMAGINE-AS-IN"}
@@ -167,6 +168,7 @@
 {"asn":142519,"rir":"apnic","domain":"smtpmailers.com","cc":"IN","asname":"SMTPM-AS-IN"}
 {"asn":142622,"rir":"apnic","domain":"bunnycommunications.com","cc":"US","asname":"DIL-AS-AP"}
 {"asn":146887,"rir":"apnic","domain":"noobtech.in","cc":"IN","asname":"MAINT-IN-IRINN"}
+{"asn":147034,"rir":"apnic","domain":"barebox.com.bd","cc":"BD","asname":"BAREBOXCOMBD-AS-AP"}
 {"asn":147211,"rir":"apnic","domain":"onlinepragathi.com","cc":"IN","asname":"PRAGATHI-AS-IN"}
 {"asn":147269,"rir":"apnic","domain":"datawingstel.in","cc":"IN","asname":"DATAWINGS-AS-IN"}
 {"asn":147287,"rir":"apnic","domain":"dataparadise.net","cc":"IN","asname":"DATAPARA1-AS-IN"}
@@ -177,6 +179,7 @@
 {"asn":149208,"rir":"apnic","domain":"telerakesh.in","cc":"IN","asname":"RAKESSEN-AS-IN"}
 {"asn":149242,"rir":"apnic","domain":"ananyacomp.in","cc":"IN","asname":"ANANYAA-AS-IN"}
 {"asn":149286,"rir":"apnic","domain":"netinnovation.net","cc":"JP","asname":"NETINNOVATIONLLC-AS-AP"}
+{"asn":149978,"rir":"apnic","domain":"spnhost.com.bd","cc":"BD","asname":"SPNHOST-AS-AP"}
 {"asn":150030,"rir":"apnic","domain":"algoz.co.in","cc":"IN","asname":"ALGO-AS-IN"}
 {"asn":150036,"rir":"apnic","domain":"heebshealthcare.co.in","cc":"IN","asname":"HEEBS-AS-IN"}
 {"asn":150082,"rir":"apnic","domain":"isofttechnology.net","cc":"IN","asname":"GARGASSO-AS-IN"}
@@ -421,4 +424,4 @@
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
 {"asn":402075,"rir":"arin","domain":"securecommsgroup.xyz","cc":"US","asname":"PEEKABO"}
 {"asn":402253,"rir":"arin","domain":"skntelecom.com","cc":"KN","asname":"SKN-NETWORK-1"}
-{"type":"metadata","timestamp":1785998642,"size":37703,"records":423,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1786018442,"size":37985,"records":426,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
