@@ -1,6 +1,7 @@
 {"asn":245,"rir":"arin","domain":"planningresearchcorp.com","cc":"US","asname":"PRC-AS"}
 {"asn":2601,"rir":"ripencc","domain":"pitline.net","cc":"UA","asname":"RADIOLINK-AS"}
 {"asn":2702,"rir":"arin","domain":"novx-systems","cc":"US","asname":"INTERSERVE"}
+{"asn":3507,"rir":"arin","domain":"ipswat.com","cc":"US","asname":"IPSWAT_TEAM"}
 {"asn":3563,"rir":"arin","domain":"pilot.net","cc":"US","asname":"PILOT-ASN"}
 {"asn":5065,"rir":"arin","domain":"bunnycommunications.com","cc":"US","asname":"BUNNY-COMMUNICATIONS-GLOBAL"}
 {"asn":6060,"rir":"arin","domain":"management-alliance-group","cc":"US","asname":"MAGI-NET-GW"}
@@ -405,6 +406,8 @@
 {"asn":328958,"rir":"afrinic","domain":"cybrscrb.com","cc":"SC","asname":"CL21-AS"}
 {"asn":329007,"rir":"afrinic","domain":"elende.ao","cc":"AO","asname":"ELENDE"}
 {"asn":329325,"rir":"afrinic","domain":"maxko.org","cc":"HR","asname":"Maxko-for-Gaming-Development"}
+{"asn":394082,"rir":"arin","domain":"ipswat.com","cc":"US","asname":"GOOGLE-PEER"}
+{"asn":397881,"rir":"arin","domain":"ipswat.com","cc":"US","asname":"STINGERS"}
 {"asn":398638,"rir":"arin","domain":"jellydigital.net","cc":"US","asname":"JELLYDIGITAL"}
 {"asn":398741,"rir":"arin","domain":"62yun.com","cc":"RU","asname":"AS-VERTEXLINK-01"}
 {"asn":399073,"rir":"arin","domain":"bunnycommunications.com","cc":"US","asname":"TBB-ASN"}
@@ -412,9 +415,11 @@
 {"asn":399979,"rir":"arin","domain":"493networking.cc","cc":"US","asname":"AS-493NETWORKING"}
 {"asn":400018,"rir":"arin","domain":"seacom.cc","cc":"US","asname":"CLOUD"}
 {"asn":400171,"rir":"arin","domain":"alphainfolab.com","cc":"IN","asname":"AS-AINFO"}
+{"asn":400177,"rir":"arin","domain":"ipswat.com","cc":"US","asname":"RC"}
 {"asn":400328,"rir":"arin","domain":"pfcloud.io","cc":"DE","asname":"INTELLIGENCE"}
 {"asn":400377,"rir":"arin","domain":"serverion.com","cc":"NL","asname":"CUSTOMER"}
 {"asn":400506,"rir":"arin","domain":"blackappleus.com","cc":"US","asname":"BAIAS"}
+{"asn":400522,"rir":"arin","domain":"ipswat.com","cc":"US","asname":"ROOTCLOUD"}
 {"asn":400641,"rir":"arin","domain":"ipv4holdings.net","cc":"US","asname":"IPV4HOLDINGS"}
 {"asn":400992,"rir":"arin","domain":"62yun.com","cc":"RU","asname":"ZHOUYISAT-COMMUNICATIONS"}
 {"asn":401109,"rir":"arin","domain":"zhongguancun.asia","cc":"US","asname":"ZHONGGUANCUN-CO"}
@@ -427,4 +432,5 @@
 {"asn":401701,"rir":"arin","domain":"cognetcloud.com","cc":"HK","asname":"COGNETCLOUD-2"}
 {"asn":402075,"rir":"arin","domain":"securecommsgroup.xyz","cc":"US","asname":"PEEKABO"}
 {"asn":402253,"rir":"arin","domain":"skntelecom.com","cc":"KN","asname":"SKN-NETWORK-1"}
-{"type":"metadata","timestamp":1786986842,"size":38205,"records":429,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"asn":402647,"rir":"arin","domain":"ipswat.com","cc":"US","asname":"NETRONEX_SOLUTIONS"}
+{"type":"metadata","timestamp":1787012042,"size":38694,"records":435,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
