@@ -14,7 +14,7 @@
 {"asn":8129,"rir":"arin","domain":"caiwireless.net","cc":"US","asname":"CAIWIRELESS"}
 {"asn":8649,"rir":"ripencc","domain":"zexotek.de","cc":"DE","asname":"Webtraffic"}
 {"asn":9164,"rir":"ripencc","domain":"bignet.ua","cc":"UA","asname":"R-TEL-AS"}
-{"asn":11527,"rir":"arin","domain":"xproxies.com","cc":"US","asname":"X0R"}
+{"asn":11527,"rir":"arin","domain":"xproxies.com","cc":"US","asname":"NOVABROADBAND"}
 {"asn":13875,"rir":"arin","domain":"mxfiber.com","cc":"HK","asname":"AS13875-MX-FIBER"}
 {"asn":14576,"rir":"arin","domain":"king-servers.com","cc":"US","asname":"HOSTING-SOLUTIONS"}
 {"asn":17447,"rir":"apnic","domain":"net4india.com","cc":"IN","asname":"NET4-IN"}
@@ -435,4 +435,4 @@
 {"asn":402075,"rir":"arin","domain":"securecommsgroup.xyz","cc":"US","asname":"PEEKABO"}
 {"asn":402253,"rir":"arin","domain":"skntelecom.com","cc":"KN","asname":"SKN-NETWORK-1"}
 {"asn":402647,"rir":"arin","domain":"ipswat.com","cc":"US","asname":"NETRONEX_SOLUTIONS"}
-{"type":"metadata","timestamp":1787355842,"size":38856,"records":437,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1787377442,"size":38866,"records":437,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
