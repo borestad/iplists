@@ -225,7 +225,9 @@
 {"asn":200373,"rir":"ripencc","domain":"plainproxies.com","cc":"DE","asname":"Drei-K-Tech-GmbH"}
 {"asn":200499,"rir":"ripencc","domain":"enterprises-holding","cc":"GB","asname":"EHL-AS"}
 {"asn":200593,"rir":"ripencc","domain":"pro-spero.ru","cc":"RU","asname":"PROSPERO-AS"}
+{"asn":200671,"rir":"ripencc","domain":"start-building","cc":"GB","asname":"START-AS"}
 {"asn":200699,"rir":"ripencc","domain":"xor.sc","cc":"SC","asname":"DATASHIELD_NL"}
+{"asn":200912,"rir":"ripencc","domain":"hypernex.cc","cc":"DE","asname":"KRAUSE-AS"}
 {"asn":201249,"rir":"ripencc","domain":"iprowireless.com","cc":"AL","asname":"IPRO"}
 {"asn":201292,"rir":"ripencc","domain":"agrofirma-aleks","cc":"UA","asname":"AS-AGRO"}
 {"asn":201380,"rir":"ripencc","domain":"excitedmatch.com","cc":"UA","asname":"ALFABISNES-AS"}
@@ -322,6 +324,7 @@
 {"asn":210316,"rir":"ripencc","domain":"elekoms.net.ua","cc":"UA","asname":"ELEKOMS-AS"}
 {"asn":210457,"rir":"ripencc","domain":"kyonix.com","cc":"RU","asname":"KYONIX"}
 {"asn":210530,"rir":"ripencc","domain":"ipconnect.services","cc":"SC","asname":"ip2con"}
+{"asn":210546,"rir":"ripencc","domain":"chosting.solutions","cc":"UA","asname":"CHSL-ONE"}
 {"asn":210558,"rir":"ripencc","domain":"as210558.net","cc":"DE","asname":"services-1337-gmbh"}
 {"asn":210644,"rir":"ripencc","domain":"aeza.net","cc":"RU","asname":"AEZA-AS"}
 {"asn":210654,"rir":"ripencc","domain":"serverion.com","cc":"NL","asname":"CUSTOMER-AS"}
@@ -341,6 +344,7 @@
 {"asn":211720,"rir":"ripencc","domain":"xor.sc","cc":"SC","asname":"DATASHIELD_CH"}
 {"asn":211736,"rir":"ripencc","domain":"pwnhost.com","cc":"UA","asname":"FDN3"}
 {"asn":211762,"rir":"ripencc","domain":"fineproxy.org","cc":"RU","asname":"REGION40"}
+{"asn":211860,"rir":"ripencc","domain":"vpsdedic.ru","cc":"RU","asname":"VPSDEDIC-AS"}
 {"asn":211922,"rir":"ripencc","domain":"ipconnect.services","cc":"SC","asname":"IPDISTR"}
 {"asn":211955,"rir":"ripencc","domain":"notbad.cloud","cc":"RU","asname":"NOTBADHOSTING"}
 {"asn":212017,"rir":"ripencc","domain":"cubilloconstrucciones.com","cc":"ES","asname":"CUBILLO"}
@@ -437,4 +441,4 @@
 {"asn":402075,"rir":"arin","domain":"securecommsgroup.xyz","cc":"US","asname":"PEEKABO"}
 {"asn":402253,"rir":"arin","domain":"skntelecom.com","cc":"KN","asname":"SKN-NETWORK-1"}
 {"asn":402647,"rir":"arin","domain":"ipswat.com","cc":"US","asname":"NETRONEX_SOLUTIONS"}
-{"type":"metadata","timestamp":1787463843,"size":39038,"records":439,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1787485442,"size":39388,"records":443,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
