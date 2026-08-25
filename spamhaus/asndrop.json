@@ -114,7 +114,6 @@
 {"asn":59651,"rir":"ripencc","domain":"fineproxy.org","cc":"RU","asname":"AS-QualityNetwork"}
 {"asn":59683,"rir":"ripencc","domain":"vip-net.net","cc":"RU","asname":"iridatelecom"}
 {"asn":60842,"rir":"ripencc","domain":"62yun.com","cc":"RU","asname":"HUIZE-HOLDINGS-AS"}
-{"asn":60974,"rir":"ripencc","domain":"naicoms.com","cc":"BG","asname":"Naicoms"}
 {"asn":61003,"rir":"ripencc","domain":"globaltelehost.com","cc":"CA","asname":"GLOBALTELEHOST"}
 {"asn":61432,"rir":"ripencc","domain":"link-host.com","cc":"UA","asname":"VAIZ-AS"}
 {"asn":61879,"rir":"lacnic","domain":"aleducacional.com.br","cc":"BR","asname":"América_Latina_Educacional_Adm._e_Serviços_LTDA"}
@@ -441,4 +440,4 @@
 {"asn":402075,"rir":"arin","domain":"securecommsgroup.xyz","cc":"US","asname":"PEEKABO"}
 {"asn":402253,"rir":"arin","domain":"skntelecom.com","cc":"KN","asname":"SKN-NETWORK-1"}
 {"asn":402647,"rir":"arin","domain":"ipswat.com","cc":"US","asname":"NETRONEX_SOLUTIONS"}
-{"type":"metadata","timestamp":1787593442,"size":39388,"records":443,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1787615042,"size":39306,"records":442,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
