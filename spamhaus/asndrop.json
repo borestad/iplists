@@ -37,6 +37,7 @@
 {"asn":31561,"rir":"ripencc","domain":"pitline.net","cc":"UA","asname":"NINE-IX"}
 {"asn":33042,"rir":"arin","domain":"netiface.co.uk","cc":"GB","asname":"NETIFACE-TORONTO"}
 {"asn":33993,"rir":"ripencc","domain":"stark-industries.solutions","cc":"MD","asname":"UFO-AS"}
+{"asn":34450,"rir":"ripencc","domain":"net-gate.ro","cc":"RO","asname":"WDC-AS"}
 {"asn":34985,"rir":"apnic","domain":"netinnovation.net","cc":"JP","asname":"NETINNOVATIONLLC-AS-AP"}
 {"asn":35478,"rir":"ripencc","domain":"bunea.eu","cc":"RO","asname":"DATACENTER"}
 {"asn":35624,"rir":"ripencc","domain":"fineproxy.org","cc":"RU","asname":"SILVERSTAR-AS"}
@@ -295,6 +296,7 @@
 {"asn":207957,"rir":"ripencc","domain":"serv.host","cc":"UA","asname":"ServHost-AS"}
 {"asn":207986,"rir":"ripencc","domain":"ozon.ru","cc":"RU","asname":"OZON-BANK-AS"}
 {"asn":208137,"rir":"ripencc","domain":"feoprest.info","cc":"RO","asname":"FPS12"}
+{"asn":208185,"rir":"ripencc","domain":"net-gate.ro","cc":"RO","asname":"NETGATE-SOLUTION-AS"}
 {"asn":208198,"rir":"ripencc","domain":"eksenbilisim.com.tr","cc":"TR","asname":"Eylul-NET"}
 {"asn":208241,"rir":"ripencc","domain":"pitline.net","cc":"UA","asname":"RADIO-LINK-PLUS"}
 {"asn":208317,"rir":"ripencc","domain":"kontrast.md","cc":"MD","asname":"Contrust-Solutions"}
@@ -399,6 +401,7 @@
 {"asn":216078,"rir":"ripencc","domain":"snowcore.io","cc":"GB","asname":"KREMER-AS"}
 {"asn":216127,"rir":"ripencc","domain":"nuxt.cloud","cc":"RU","asname":"NUXT-AS"}
 {"asn":216246,"rir":"ripencc","domain":"aeza.net","cc":"RU","asname":"RU-AEZA-AS"}
+{"asn":216378,"rir":"ripencc","domain":"net-gate.ro","cc":"RO","asname":"NETGATE-COMUNICATIONS-AS"}
 {"asn":216475,"rir":"ripencc","domain":"nktele.com","cc":"RU","asname":"nktelecom"}
 {"asn":218986,"rir":"ripencc","domain":"snowcore.io","cc":"GB","asname":"SnowcoreInc"}
 {"asn":219067,"rir":"ripencc","domain":"eggywall.org","cc":"IT","asname":"CHIARA-AS"}
@@ -440,4 +443,4 @@
 {"asn":402075,"rir":"arin","domain":"securecommsgroup.xyz","cc":"US","asname":"PEEKABO"}
 {"asn":402253,"rir":"arin","domain":"skntelecom.com","cc":"KN","asname":"SKN-NETWORK-1"}
 {"asn":402647,"rir":"arin","domain":"ipswat.com","cc":"US","asname":"NETRONEX_SOLUTIONS"}
-{"type":"metadata","timestamp":1787723042,"size":39306,"records":442,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1787744642,"size":39582,"records":445,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
