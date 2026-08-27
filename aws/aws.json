@@ -1,6 +1,6 @@
 {
-  "syncToken": "1787811425",
-  "createDate": "2026-08-27-06-17-05",
+  "syncToken": "1787837825",
+  "createDate": "2026-08-27-13-37-05",
   "prefixes": [
     {
       "ip_prefix": "3.4.12.4/32",
@@ -37105,6 +37105,12 @@
       "region": "us-west-2",
       "service": "S3",
       "network_border_group": "us-west-2"
+    },
+    {
+      "ip_prefix": "3.2.103.0/24",
+      "region": "us-east-1",
+      "service": "S3",
+      "network_border_group": "us-east-1"
     },
     {
       "ip_prefix": "83.118.240.0/21",
