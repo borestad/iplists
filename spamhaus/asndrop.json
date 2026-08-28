@@ -218,7 +218,6 @@
 {"asn":199420,"rir":"ripencc","domain":"fly-group.ru","cc":"RU","asname":"FLYGROUP-AS"}
 {"asn":199428,"rir":"ripencc","domain":"03ai.org","cc":"GB","asname":"AlvaroNavas"}
 {"asn":199467,"rir":"ripencc","domain":"swissnetwork.io","cc":"IR","asname":"Hossein_Zangooei"}
-{"asn":199639,"rir":"ripencc","domain":"03ai.org","cc":"GB","asname":"Matej"}
 {"asn":200010,"rir":"ripencc","domain":"cantech.international","cc":"US","asname":"OLFE"}
 {"asn":200051,"rir":"ripencc","domain":"kyonix.com","cc":"RU","asname":"VPSLab-Networks"}
 {"asn":200130,"rir":"ripencc","domain":"ryzehosting.com","cc":"AT","asname":"SIMON-MARIACHER"}
@@ -287,7 +286,6 @@
 {"asn":206728,"rir":"ripencc","domain":"sshvps.net","cc":"RU","asname":"MEDIALAND-AS"}
 {"asn":206744,"rir":"ripencc","domain":"kontrast.md","cc":"MD","asname":"Contrust-Solutions"}
 {"asn":206750,"rir":"ripencc","domain":"kontrast.md","cc":"MD","asname":"Contrust-Solutions"}
-{"asn":206831,"rir":"ripencc","domain":"thomas.dubois","cc":"FR","asname":"THOMASDUBOIS"}
 {"asn":207043,"rir":"ripencc","domain":"dedik.io","cc":"LV","asname":"DEDIK-IO"}
 {"asn":207088,"rir":"ripencc","domain":"adoard.com","cc":"RO","asname":"ADOARD"}
 {"asn":207184,"rir":"ripencc","domain":"dolphinhost.net","cc":"GB","asname":"TELCHAK-AS"}
@@ -443,4 +441,4 @@
 {"asn":402075,"rir":"arin","domain":"securecommsgroup.xyz","cc":"US","asname":"PEEKABO"}
 {"asn":402253,"rir":"arin","domain":"skntelecom.com","cc":"KN","asname":"SKN-NETWORK-1"}
 {"asn":402647,"rir":"arin","domain":"ipswat.com","cc":"US","asname":"NETRONEX_SOLUTIONS"}
-{"type":"metadata","timestamp":1787863442,"size":39582,"records":445,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1787885042,"size":39414,"records":443,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
