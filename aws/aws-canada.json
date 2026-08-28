@@ -20525,6 +20525,12 @@
   "network_border_group": "us-east-1"
 }
 {
+  "ip_prefix": "77.112.112.0/22",
+  "region": "us-east-2",
+  "service": "EFS",
+  "network_border_group": "us-east-2"
+}
+{
   "ip_prefix": "77.112.12.0/22",
   "region": "us-east-2",
   "service": "EFS",
