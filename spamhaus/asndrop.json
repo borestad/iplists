@@ -337,7 +337,6 @@
 {"asn":211121,"rir":"ripencc","domain":"imtigernet","cc":"GB","asname":"India"}
 {"asn":211199,"rir":"ripencc","domain":"liptel.net.ua","cc":"UA","asname":"LIPTEL-AS"}
 {"asn":211238,"rir":"ripencc","domain":"zumy.eu","cc":"IN","asname":"DCYBER"}
-{"asn":211619,"rir":"ripencc","domain":"maxko.org","cc":"HR","asname":"MAXKO"}
 {"asn":211663,"rir":"ripencc","domain":"changway.hk","cc":"HK","asname":"GALEON-AS"}
 {"asn":211720,"rir":"ripencc","domain":"xor.sc","cc":"SC","asname":"DATASHIELD_CH"}
 {"asn":211736,"rir":"ripencc","domain":"pwnhost.com","cc":"UA","asname":"FDN3"}
@@ -412,7 +411,6 @@
 {"asn":328819,"rir":"afrinic","domain":"bluecentrix.co.za","cc":"ZA","asname":"BPL-AS"}
 {"asn":328958,"rir":"afrinic","domain":"cybrscrb.com","cc":"SC","asname":"CL21-AS"}
 {"asn":329007,"rir":"afrinic","domain":"elende.ao","cc":"AO","asname":"ELENDE"}
-{"asn":329325,"rir":"afrinic","domain":"maxko.org","cc":"HR","asname":"Maxko-for-Gaming-Development"}
 {"asn":394082,"rir":"arin","domain":"ipswat.com","cc":"US","asname":"GOOGLE-PEER"}
 {"asn":397881,"rir":"arin","domain":"ipswat.com","cc":"US","asname":"STINGERS"}
 {"asn":398638,"rir":"arin","domain":"jellydigital.net","cc":"US","asname":"JELLYDIGITAL"}
@@ -440,4 +438,4 @@
 {"asn":402075,"rir":"arin","domain":"securecommsgroup.xyz","cc":"US","asname":"PEEKABO"}
 {"asn":402253,"rir":"arin","domain":"skntelecom.com","cc":"KN","asname":"SKN-NETWORK-1"}
 {"asn":402647,"rir":"arin","domain":"ipswat.com","cc":"US","asname":"NETRONEX_SOLUTIONS"}
-{"type":"metadata","timestamp":1788178442,"size":39327,"records":442,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1788200042,"size":39146,"records":440,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
