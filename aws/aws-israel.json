@@ -137,6 +137,12 @@
   "network_border_group": "il-central-1"
 }
 {
+  "ip_prefix": "3.2.127.0/24",
+  "region": "il-central-1",
+  "service": "AMAZON",
+  "network_border_group": "il-central-1"
+}
+{
   "ip_prefix": "16.12.12.0/23",
   "region": "il-central-1",
   "service": "AMAZON",
@@ -293,6 +299,12 @@
   "network_border_group": "il-central-1"
 }
 {
+  "ip_prefix": "3.2.127.0/24",
+  "region": "il-central-1",
+  "service": "S3",
+  "network_border_group": "il-central-1"
+}
+{
   "ip_prefix": "16.12.12.0/23",
   "region": "il-central-1",
   "service": "S3",
@@ -390,6 +402,12 @@
 }
 {
   "ip_prefix": "64.66.148.0/24",
+  "region": "il-central-1",
+  "service": "EC2",
+  "network_border_group": "il-central-1"
+}
+{
+  "ip_prefix": "3.2.127.0/24",
   "region": "il-central-1",
   "service": "EC2",
   "network_border_group": "il-central-1"
