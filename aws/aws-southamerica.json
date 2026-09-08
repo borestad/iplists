@@ -29,6 +29,12 @@
   "network_border_group": "sa-east-1"
 }
 {
+  "ip_prefix": "35.71.91.0/24",
+  "region": "sa-west-1",
+  "service": "AMAZON",
+  "network_border_group": "sa-west-1"
+}
+{
   "ip_prefix": "150.222.228.0/24",
   "region": "sa-east-1",
   "service": "AMAZON",
@@ -1253,6 +1259,12 @@
   "network_border_group": "sa-east-1"
 }
 {
+  "ip_prefix": "35.71.91.0/24",
+  "region": "sa-west-1",
+  "service": "EC2",
+  "network_border_group": "sa-west-1"
+}
+{
   "ip_prefix": "216.198.237.0/24",
   "region": "sa-east-1",
   "service": "EC2",
@@ -1959,6 +1971,12 @@
   "region": "sa-east-1",
   "service": "MEDIA_PACKAGE_V2",
   "network_border_group": "sa-east-1"
+}
+{
+  "ip_prefix": "35.71.91.0/24",
+  "region": "sa-west-1",
+  "service": "DYNAMODB",
+  "network_border_group": "sa-west-1"
 }
 {
   "ip_prefix": "13.248.81.0/24",
