@@ -58,7 +58,7 @@
 2001:4ba0:cafe:745::19                  # dns.expert
 2001:4ca0:200:3:200:5efe:8d54:4502      # esel.stusta.mhn.de
 2001:4ca0:200:3:200:5efe:8d54:451d      # muli.stusta.mhn.de
-2001:558:fd00:ca::5                     # doh.xfinity.com, doh2.gslb2.xfinity.com
+2001:558:fd00:ca::a                     # doh.xfinity.com, doh2.gslb2.xfinity.com
 2001:558:fe21:6b:96:113:151:145         # dot.xfinity.com
 2001:578:3f::30                         # doh.cox.net, dot.cox.net
 2001:620:0:ff::2                        # dns.switch.ch
@@ -119,7 +119,7 @@
 2001:e68:5040:a7da:d8e7:f548:508b:6346  # fwgw.orangepipc.mywire.org
 2001:e68:5414:15e::10                   # dns.surobe.com
 2003:180:2:4000:0:4:0:53                # dns.telekom.de
-2003:180:2:7000:0:4:0:53                # dns.telekom.de
+2003:180:2::4:0:53                      # dns.telekom.de
 2003:4:e0b0:102:0:4:0:53                # dns.t53.de
 2003:5f:c010:1:212:185:200:25           # dns1.conne.net
 2003:a:36f:4f00::1                      # dns.faked.org
@@ -164,8 +164,8 @@
 2403:3a00:201:1c:49:212:198:52          # adguard.londonwebnerd.cloud, atris.cyou, cynntex.fun, deep-henchman-excuse.cfd, dns.cybertonic.tech, do-39574-tr.xyz, hfgx.shop, myatris.sbs, xholgm.top
 2403:3a00:201:1e:49:212:207:51          # adg.yybyy.wiki, ads.hunga1k47.com, ag.brianlee.fun, dns-free.link, dns.mathewakhil.online, quic.lol
 2403:cfc0:1004::b5b:47ff                # tpe01.dnscry.pt
-2404:2280:205:0:3::58                   # iterator.lazada.com
-2404:2280:205:0:3::59                   # iterator.lazada.com
+2404:2280:180:0:3::c                    # iterator.lazada.com
+2404:2280:180:0:3::d                    # iterator.lazada.com
 2404:9400:1:0:216:3eff:fef6:7194        # bne01.dnscry.pt
 2404:9400:214e:ea00::1                  # syd.adfilter.net
 2404:9400:41a9:4800::1                  # per.adfilter.net
@@ -201,6 +201,7 @@
 2600:1702:74fc:809f::158                # dns.sarak.as, dns.sarakas.net
 2600:1901:0:618c::                      # dns.guard.io
 2600:1901:0:c197::                      # use-application-dns.net
+2600:1f18:4ae:c605:dd5d:b838:5816:d7fb  # dns.flightspace.net, dns.scapetical.com
 2600:1f18:4ae:c606:78d4:4260:db4e:aeee  # dns.flightspace.net, dns.scapetical.com
 2600:1f18:6296:8903::beef               # doth.huque.com
 2600:1f28:14:800:f780:4741:7981:dd0c    # dns.api.globus.org
@@ -238,14 +239,14 @@
 2600:4c00:80:8::a                       # atl01.dnscry.pt
 2600:6c7f:f000:202::7                   # doh-01.spectrum.com
 2600:6c7f:f000:202::8                   # doh-02.spectrum.com
-2600:9000:28a3:2800:f:5c7a:55c0:93a1    # eth.link
-2600:9000:28a3:5800:f:5c7a:55c0:93a1    # eth.link
-2600:9000:28a3:6800:f:5c7a:55c0:93a1    # eth.link
-2600:9000:28a3:8e00:f:5c7a:55c0:93a1    # eth.link
-2600:9000:28a3:9200:f:5c7a:55c0:93a1    # eth.link
-2600:9000:28a3:a00:f:5c7a:55c0:93a1     # eth.link
-2600:9000:28a3:bc00:f:5c7a:55c0:93a1    # eth.link
+2600:9000:28a3:2a00:f:5c7a:55c0:93a1    # eth.link
+2600:9000:28a3:4c00:f:5c7a:55c0:93a1    # eth.link
+2600:9000:28a3:6a00:f:5c7a:55c0:93a1    # eth.link
+2600:9000:28a3:c600:f:5c7a:55c0:93a1    # eth.link
+2600:9000:28a3:ca00:f:5c7a:55c0:93a1    # eth.link
+2600:9000:28a3:dc00:f:5c7a:55c0:93a1    # eth.link
 2600:9000:28a3:e800:f:5c7a:55c0:93a1    # eth.link
+2600:9000:28a3:fa00:f:5c7a:55c0:93a1    # eth.link
 2602:f7f8:2:c::a                        # nyc01.dnscry.pt
 2602:f7f8:6:a::a                        # mia01.dnscry.pt
 2602:f7f8:7:d::a                        # lax01.dnscry.pt
@@ -1190,7 +1191,7 @@
 2a02:6b8::feed:ff                       # common.dot.dns.yandex.net
 2a02:6ca3:0:1::2                        # dns.levonet.sk
 2a02:6ca3:0:2::2                        # dns.levonet.sk
-2a02:6ea0:e237::1504:1                  # doh1.b-cdn.net, doh2.b-cdn.net
+2a02:6ea0:e237::1503:1                  # doh1.b-cdn.net, doh2.b-cdn.net
 2a02:88:1:e:807::101                    # dns.cert.ee
 2a02:88:1:e:807::99                     # dns.cert.ee
 2a02:958:10:2000:213:166:247:100        # dns.csaonline.de
