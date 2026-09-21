@@ -33,6 +33,7 @@
 {"asn":26561,"rir":"arin","domain":"mylir.co.uk","cc":"GB","asname":"NETRIDGE"}
 {"asn":26833,"rir":"arin","domain":"quarterhill.com","cc":"US","asname":"ETCC"}
 {"asn":27463,"rir":"arin","domain":"globaltelehost.com","cc":"CA","asname":"AS-GLOBALTELEHOST"}
+{"asn":30088,"rir":"arin","domain":"globaltelehost.com","cc":"CA","asname":"GC-852-30088"}
 {"asn":30490,"rir":"arin","domain":"ethr.net","cc":"US","asname":"ETHRN"}
 {"asn":31561,"rir":"ripencc","domain":"pitline.net","cc":"UA","asname":"NINE-IX"}
 {"asn":33042,"rir":"arin","domain":"netiface.co.uk","cc":"GB","asname":"NETIFACE-TORONTO"}
@@ -433,4 +434,4 @@
 {"asn":402075,"rir":"arin","domain":"securecommsgroup.xyz","cc":"US","asname":"PEEKABO"}
 {"asn":402253,"rir":"arin","domain":"skntelecom.com","cc":"KN","asname":"SKN-NETWORK-1"}
 {"asn":402647,"rir":"arin","domain":"ipswat.com","cc":"US","asname":"NETRONEX_SOLUTIONS"}
-{"type":"metadata","timestamp":1789992842,"size":38734,"records":435,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1790014442,"size":38825,"records":436,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
