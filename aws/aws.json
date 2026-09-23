@@ -1,6 +1,6 @@
 {
-  "syncToken": "1790112425",
-  "createDate": "2026-09-22-21-27-05",
+  "syncToken": "1790136426",
+  "createDate": "2026-09-23-04-07-06",
   "prefixes": [
     {
       "ip_prefix": "3.4.12.4/32",
@@ -22261,6 +22261,12 @@
       "region": "us-west-2",
       "service": "AMAZON",
       "network_border_group": "us-west-2"
+    },
+    {
+      "ip_prefix": "1.178.86.0/24",
+      "region": "ap-southeast-3",
+      "service": "AMAZON",
+      "network_border_group": "ap-southeast-3"
     },
     {
       "ip_prefix": "1.178.172.0/23",
@@ -47853,6 +47859,12 @@
       "network_border_group": "eu-west-1"
     },
     {
+      "ip_prefix": "1.178.86.0/24",
+      "region": "ap-southeast-3",
+      "service": "EC2",
+      "network_border_group": "ap-southeast-3"
+    },
+    {
       "ip_prefix": "3.2.106.0/24",
       "region": "us-west-2",
       "service": "EC2",
@@ -62254,6 +62266,12 @@
     },
     {
       "ip_prefix": "18.97.33.128/25",
+      "region": "us-east-1",
+      "service": "AURORA_DSQL",
+      "network_border_group": "us-east-1"
+    },
+    {
+      "ip_prefix": "3.41.208.0/25",
       "region": "us-east-1",
       "service": "AURORA_DSQL",
       "network_border_group": "us-east-1"
@@ -104877,6 +104895,12 @@
       "region": "sa-east-1",
       "service": "AURORA_DSQL",
       "network_border_group": "sa-east-1"
+    },
+    {
+      "ipv6_prefix": "2600:1f10:4040:3800::/56",
+      "region": "us-east-1",
+      "service": "AURORA_DSQL",
+      "network_border_group": "us-east-1"
     },
     {
       "ipv6_prefix": "2600:1f18:692c:300::/56",
