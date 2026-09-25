@@ -21,7 +21,6 @@
 {"asn":17612,"rir":"apnic","domain":"rinnai.co.kr","cc":"KR","asname":"RINNAI-AS-KR"}
 {"asn":17994,"rir":"apnic","domain":"appserv.co.nz","cc":"NZ","asname":"SPARK-AS-AP"}
 {"asn":18526,"rir":"arin","domain":"ddps.jp","cc":"JP","asname":"DDPS"}
-{"asn":20724,"rir":"ripencc","domain":"globaltelehost.com","cc":"CA","asname":"GLOBALTELEHOST"}
 {"asn":23865,"rir":"apnic","domain":"netinnovation.net","cc":"JP","asname":"NETINNOVATIONLLC-AS-AP"}
 {"asn":24426,"rir":"apnic","domain":"myce.net.cn","cc":"CN","asname":"CNNIC-SINO-I"}
 {"asn":24544,"rir":"apnic","domain":"cloudie.hk","cc":"HK","asname":"LAWSCLOUDINFRASTRUCTURELIMITED-AS-HK"}
@@ -32,8 +31,6 @@
 {"asn":26173,"rir":"lacnic","domain":"wirelesscuracao.com","cc":"CW","asname":"King's_Cross_N.V."}
 {"asn":26561,"rir":"arin","domain":"mylir.co.uk","cc":"GB","asname":"NETRIDGE"}
 {"asn":26833,"rir":"arin","domain":"quarterhill.com","cc":"US","asname":"ETCC"}
-{"asn":27463,"rir":"arin","domain":"globaltelehost.com","cc":"CA","asname":"AS-GLOBALTELEHOST"}
-{"asn":30088,"rir":"arin","domain":"globaltelehost.com","cc":"CA","asname":"GC-852-30088"}
 {"asn":30490,"rir":"arin","domain":"ethr.net","cc":"US","asname":"ETHRN"}
 {"asn":31561,"rir":"ripencc","domain":"pitline.net","cc":"UA","asname":"NINE-IX"}
 {"asn":33042,"rir":"arin","domain":"netiface.co.uk","cc":"GB","asname":"NETIFACE-TORONTO"}
@@ -116,14 +113,11 @@
 {"asn":59651,"rir":"ripencc","domain":"fineproxy.org","cc":"RU","asname":"AS-QualityNetwork"}
 {"asn":59683,"rir":"ripencc","domain":"vip-net.net","cc":"RU","asname":"iridatelecom"}
 {"asn":60842,"rir":"ripencc","domain":"62yun.com","cc":"RU","asname":"HUIZE-HOLDINGS-AS"}
-{"asn":61003,"rir":"ripencc","domain":"globaltelehost.com","cc":"CA","asname":"GLOBALTELEHOST"}
 {"asn":61432,"rir":"ripencc","domain":"link-host.com","cc":"UA","asname":"VAIZ-AS"}
 {"asn":61879,"rir":"lacnic","domain":"aleducacional.com.br","cc":"BR","asname":"América_Latina_Educacional_Adm._e_Serviços_LTDA"}
 {"asn":62206,"rir":"ripencc","domain":"pitline.net","cc":"UA","asname":"PITLINE-AS"}
 {"asn":62380,"rir":"ripencc","domain":"bunea.eu","cc":"RO","asname":"BUNEA-HIGH-PEER-NETWORK"}
-{"asn":62563,"rir":"arin","domain":"globaltelehost.com","cc":"CA","asname":"AS-GLOBALTELEHOST"}
 {"asn":62864,"rir":"arin","domain":"netinnovation.net","cc":"JP","asname":"NILAS"}
-{"asn":63023,"rir":"arin","domain":"globaltelehost.com","cc":"CA","asname":"AS-GLOBALTELEHOST"}
 {"asn":63881,"rir":"apnic","domain":"medianetdigital.co","cc":"ID","asname":"MDI-AS-ID"}
 {"asn":131388,"rir":"apnic","domain":"hts.vn","cc":"VN","asname":"HTS-AS-VN"}
 {"asn":131750,"rir":"apnic","domain":"sufia.tv","cc":"ID","asname":"SUFIANET-AS-ID"}
@@ -434,4 +428,4 @@
 {"asn":402075,"rir":"arin","domain":"securecommsgroup.xyz","cc":"US","asname":"PEEKABO"}
 {"asn":402253,"rir":"arin","domain":"skntelecom.com","cc":"KN","asname":"SKN-NETWORK-1"}
 {"asn":402647,"rir":"arin","domain":"ipswat.com","cc":"US","asname":"NETRONEX_SOLUTIONS"}
-{"type":"metadata","timestamp":1790338442,"size":38825,"records":436,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1790358242,"size":38254,"records":430,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
