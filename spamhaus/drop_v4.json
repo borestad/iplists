@@ -62,6 +62,7 @@
 {"cidr":"27.146.0.0/16","sblid":"SBL326434","rir":"apnic"}
 {"cidr":"27.255.85.0/24","sblid":"SBL694506","rir":"apnic"}
 {"cidr":"31.43.185.0/24","sblid":"SBL699431","rir":"ripencc"}
+{"cidr":"31.56.19.0/24","sblid":"SBL700257","rir":null}
 {"cidr":"31.56.52.0/23","sblid":"SBL699585","rir":"ripencc"}
 {"cidr":"31.57.184.0/24","sblid":"SBL694577","rir":"ripencc"}
 {"cidr":"31.57.216.0/24","sblid":"SBL694576","rir":"ripencc"}
@@ -730,7 +731,6 @@
 {"cidr":"150.129.212.0/22","sblid":"SBL277063","rir":"apnic"}
 {"cidr":"150.242.120.0/22","sblid":"SBL277066","rir":"apnic"}
 {"cidr":"151.131.0.0/16","sblid":"SBL691992","rir":"arin"}
-{"cidr":"151.217.128.0/17","sblid":"SBL696723","rir":"ripencc"}
 {"cidr":"151.243.109.0/24","sblid":"SBL695757","rir":"ripencc"}
 {"cidr":"152.109.0.0/16","sblid":"SBL307830","rir":"afrinic"}
 {"cidr":"152.163.116.0/22","sblid":"SBL695674","rir":"ripencc"}
@@ -822,7 +822,6 @@
 {"cidr":"164.215.103.0/24","sblid":"SBL634681","rir":"ripencc"}
 {"cidr":"165.3.0.0/16","sblid":"SBL457564","rir":"afrinic"}
 {"cidr":"165.102.0.0/16","sblid":"SBL229889","rir":"apnic"}
-{"cidr":"165.140.92.0/22","sblid":"SBL699891","rir":"arin"}
 {"cidr":"167.31.0.0/16","sblid":"SBL697060","rir":"arin"}
 {"cidr":"167.74.0.0/18","sblid":"SBL178647","rir":"arin"}
 {"cidr":"167.158.0.0/16","sblid":"SBL325621","rir":"arin"}
@@ -1142,7 +1141,7 @@
 {"cidr":"196.251.96.0/24","sblid":"SBL675252","rir":"afrinic"}
 {"cidr":"196.251.98.0/23","sblid":"SBL675253","rir":"afrinic"}
 {"cidr":"196.251.100.0/24","sblid":"SBL699724","rir":"afrinic"}
-{"cidr":"196.251.102.0/24","sblid":"SBL682609","rir":"afrinic"}
+{"cidr":"196.251.102.0/24","sblid":"SBL700258","rir":null}
 {"cidr":"196.251.107.0/24","sblid":"SBL689238","rir":"afrinic"}
 {"cidr":"196.251.112.0/22","sblid":"SBL675238","rir":"afrinic"}
 {"cidr":"196.251.116.0/23","sblid":"SBL675239","rir":"afrinic"}
@@ -1692,4 +1691,4 @@
 {"cidr":"223.155.16.0/24","sblid":"SBL656595","rir":"apnic"}
 {"cidr":"223.169.0.0/16","sblid":"SBL208009","rir":"apnic"}
 {"cidr":"223.254.0.0/16","sblid":"SBL212803","rir":"apnic"}
-{"type":"metadata","timestamp":1790597642,"size":103372,"records":1694,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1790603042,"size":103299,"records":1693,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
