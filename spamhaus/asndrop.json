@@ -332,7 +332,6 @@
 {"asn":211238,"rir":"ripencc","domain":"zumy.eu","cc":"IN","asname":"DCYBER"}
 {"asn":211663,"rir":"ripencc","domain":"changway.hk","cc":"HK","asname":"GALEON-AS"}
 {"asn":211720,"rir":"ripencc","domain":"xor.sc","cc":"SC","asname":"DATASHIELD_CH"}
-{"asn":211736,"rir":"ripencc","domain":"zerolimit-servers.cool","cc":"MD","asname":"FDN3"}
 {"asn":211762,"rir":"ripencc","domain":"fineproxy.org","cc":"RU","asname":"REGION40"}
 {"asn":211860,"rir":"ripencc","domain":"vpsdedic.ru","cc":"RU","asname":"VPSDEDIC-AS"}
 {"asn":211922,"rir":"ripencc","domain":"ipconnect.services","cc":"SC","asname":"IPDISTR"}
@@ -377,7 +376,6 @@
 {"asn":215376,"rir":"ripencc","domain":"sshvps.net","cc":"RU","asname":"mlcloud"}
 {"asn":215402,"rir":"ripencc","domain":"berdiev-ruslan-mukhabatovich","cc":"RU","asname":"ASAD-AS"}
 {"asn":215460,"rir":"ripencc","domain":"infiniroute.io","cc":"US","asname":"FELCLOUD"}
-{"asn":215462,"rir":"ripencc","domain":"sircrosar.net","cc":"GB","asname":"BUGGZ-HOSTING"}
 {"asn":215474,"rir":"ripencc","domain":"biil.ru","cc":"GB","asname":"BIIL-RU-AS"}
 {"asn":215730,"rir":"ripencc","domain":"h2.nexus","cc":"UA","asname":"H2NEXUS-AS"}
 {"asn":215731,"rir":"ripencc","domain":"novuslabslimited.com","cc":"US","asname":"NovusLabs"}
@@ -430,4 +428,4 @@
 {"asn":402253,"rir":"arin","domain":"skntelecom.com","cc":"KN","asname":"SKN-NETWORK-1"}
 {"asn":402647,"rir":"arin","domain":"ipswat.com","cc":"US","asname":"NETRONEX_SOLUTIONS"}
 {"asn":403005,"rir":"arin","domain":"blatant.host","cc":"SC","asname":"BLATANTHOST"}
-{"type":"metadata","timestamp":1790619242,"size":38432,"records":432,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1790642642,"size":38250,"records":430,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
