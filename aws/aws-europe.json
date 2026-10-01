@@ -13631,6 +13631,12 @@
   "network_border_group": "eu-central-1"
 }
 {
+  "ip_prefix": "63.189.140.0/22",
+  "region": "eu-central-1",
+  "service": "EFS",
+  "network_border_group": "eu-central-1"
+}
+{
   "ip_prefix": "16.18.164.0/22",
   "region": "eu-central-2",
   "service": "EFS",
