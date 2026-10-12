@@ -246,6 +246,7 @@
 {"asn":202412,"rir":"ripencc","domain":"virtualine.org","cc":"GB","asname":"OMEGATECH-AS"}
 {"asn":202425,"rir":"ripencc","domain":"ipvolume.net","cc":"NL","asname":"INT-NETWORK"}
 {"asn":202481,"rir":"ripencc","domain":"reapolis","cc":"UA","asname":"REAPOLIS-AS"}
+{"asn":202972,"rir":"ripencc","domain":"pixoof.com","cc":"TR","asname":"ROKUNET"}
 {"asn":203044,"rir":"ripencc","domain":"telepatiya.kz","cc":"KZ","asname":"telepatiya"}
 {"asn":203120,"rir":"ripencc","domain":"globtelgroup.com","cc":"US","asname":"GTGL"}
 {"asn":203273,"rir":"ripencc","domain":"aeza.net","cc":"RU","asname":"NetCraftersOU"}
@@ -429,4 +430,4 @@
 {"asn":402253,"rir":"arin","domain":"skntelecom.com","cc":"KN","asname":"SKN-NETWORK-1"}
 {"asn":402647,"rir":"arin","domain":"ipswat.com","cc":"US","asname":"NETRONEX_SOLUTIONS"}
 {"asn":403005,"rir":"arin","domain":"blatant.host","cc":"SC","asname":"BLATANTHOST"}
-{"type":"metadata","timestamp":1791785642,"size":38364,"records":431,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1791828842,"size":38446,"records":432,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
