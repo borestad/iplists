@@ -202,6 +202,7 @@
 {"asn":154206,"rir":"apnic","domain":"cloudie.hk","cc":"HK","asname":"CDN1COM-AS-AP"}
 {"asn":197170,"rir":"ripencc","domain":"hostslick.de","cc":"DE","asname":"TECHTIES-AS"}
 {"asn":197176,"rir":"ripencc","domain":"kyliecdn","cc":"CN","asname":"KylieCDN-AS"}
+{"asn":197283,"rir":"ripencc","domain":"powerrdp.pro","cc":"UA","asname":"PowerRDP-Network-AS"}
 {"asn":197450,"rir":"ripencc","domain":"sunucun.com.tr","cc":"TR","asname":"SUNUCUN"}
 {"asn":197555,"rir":"ripencc","domain":"smartmieten.in","cc":"IN","asname":"SMARTMIETEN"}
 {"asn":197769,"rir":"ripencc","domain":"vpsdedicated.net","cc":"US","asname":"VPSDEDICATED-AS"}
@@ -354,6 +355,7 @@
 {"asn":212867,"rir":"ripencc","domain":"brutalproxies.com","cc":"NL","asname":"SIPALTO"}
 {"asn":213035,"rir":"ripencc","domain":"serverion.com","cc":"NL","asname":"AS-SERVERION"}
 {"asn":213137,"rir":"ripencc","domain":"kontrast.md","cc":"MD","asname":"Contrust"}
+{"asn":213186,"rir":"ripencc","domain":"bendcompass.com","cc":"IN","asname":"AYSTOR"}
 {"asn":213200,"rir":"ripencc","domain":"tube-hosting.de","cc":"DE","asname":"FZink"}
 {"asn":213229,"rir":"ripencc","domain":"play2go.cloud","cc":"RU","asname":"MITELIS"}
 {"asn":213373,"rir":"ripencc","domain":"ipconnect.services","cc":"SC","asname":"IPCONNECT"}
@@ -438,4 +440,4 @@
 {"asn":402253,"rir":"arin","domain":"skntelecom.com","cc":"KN","asname":"SKN-NETWORK-1"}
 {"asn":402647,"rir":"arin","domain":"ipswat.com","cc":"US","asname":"NETRONEX_SOLUTIONS"}
 {"asn":403005,"rir":"arin","domain":"blatant.host","cc":"SC","asname":"BLATANTHOST"}
-{"type":"metadata","timestamp":1791956642,"size":39146,"records":440,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1791978242,"size":39328,"records":442,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
