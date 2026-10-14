@@ -58,7 +58,7 @@
 2001:4ca0:200:3:200:5efe:8d54:4502      # esel.stusta.mhn.de
 2001:4ca0:200:3:200:5efe:8d54:451d      # muli.stusta.mhn.de
 2001:550:2:dc::5e:2                     # doh1.b-cdn.net, doh2.b-cdn.net
-2001:558:fd00:ca::a                     # doh.xfinity.com, doh2.gslb2.xfinity.com
+2001:558:fd00:ca::5                     # doh.xfinity.com, doh2.gslb2.xfinity.com
 2001:558:fe21:6b:96:113:151:145         # dot.xfinity.com
 2001:578:3f::30                         # doh.cox.net, dot.cox.net
 2001:620:0:ff::2                        # dns.switch.ch
@@ -95,7 +95,7 @@
 2001:8d8:100f:f000::200                 # project-evoex.de
 2001:910:800::12                        # ns0.fdn.fr
 2001:910:800::40                        # ns1.fdn.fr
-2001:9e8:4003:1ee1:6b4:feff:fe9b:eb1d   # area51.mywire.org
+2001:9e8:4003:355c:6b4:feff:fe9b:eb1d   # area51.mywire.org
 2001:9e8:4039:7761:21a:8cff:fe43:9654   # adguard.bitteeinbyte.de
 2001:a18:1::29                          # dnspub.restena.lu
 2001:a60::53:1                          # dns.mnet-online.de
@@ -119,8 +119,8 @@
 2001:df4:b100:3:1:1:730a:2cd2           # dns1.server.my.id
 2001:e68:5040:a7da:d8e7:f548:508b:6346  # fwgw.orangepipc.mywire.org
 2001:e68:5414:23d::10                   # dns.surobe.com
-2003:180:2:7000:0:4:0:53                # dns.telekom.de
-2003:180:2:b000:0:4:0:53                # dns.telekom.de
+2003:180:2:1000:0:4:0:53                # dns.telekom.de
+2003:180:2:8100:0:4:0:53                # dns.telekom.de
 2003:4:e0b0:102:0:4:0:53                # dns.t53.de
 2003:5f:c010:1:212:185:200:25           # dns1.conne.net
 2003:a:36f:4f00::1                      # dns.faked.org
@@ -159,7 +159,7 @@
 2403:3a00:101:21:49:212:235:44          # dns.butterfly87.sbs, dns.f97.xyz, dns.lsho.top, dns.vod11.xyz, doh.sublime9.xyz, lifeisa.live, pepetio.xyz
 2403:3a00:107:29:133:167:212:21         # adfiltro.fun, alleesph.online, doh.cnetwork.cloud
 2403:3a00:107:29:133:167:212:22         # 3jjxxl.tech, callies-online.site, cloudbenders.fun, d2.shabi.icu, greatideasforlife.lol, kavkaz.monster, najiakeji.top, nanopi.cybergroove.net, polisitogel.beauty, polisitogel.hair, qqmcfw.tech, xbcpb668.com
-2403:3a00:107:29:133:167:212:25         # dns.pernika.net, family.dns.doubleangels.com, lukscasino-479-tr.xyz, lukscasino-929-tr.xyz, mendozasdelivery.com
+2403:3a00:107:29:133:167:212:25         # dns.pernika.net, family.dns.doubleangels.com, lukscasino-929-tr.xyz, mendozasdelivery.com
 2403:3a00:201:17:112:78:125:221         # himedns.com, sg.yepdns.com
 2403:3a00:201:1c:49:212:198:36          # adguard.kantinyoyok.xyz, axaxa.fun, dns.kugoapps.com, dns.wibenson.cloud, externalmobiel.lekdijk.online, securedns.vendorvista.xyz, vpn.technicule.info
 2403:3a00:201:1c:49:212:198:51          # catchen121299.top, dns.daarrk.tech, johneldenring.lol, kx-97795-tr.xyz, las-vegas.privacy-dns.pw, lesuo.top, luxembourg.privacy-dns.pw, maqgie.xyz, romania.privacy-dns.pw, switzerland.privacy-dns.pw, tujenasnaszato.xyz, united-arab-emirates.privacy-dns.pw
@@ -242,14 +242,14 @@
 2600:4c00:80:8::a                       # atl01.dnscry.pt
 2600:6c7f:f000:202::7                   # doh-01.spectrum.com
 2600:6c7f:f000:202::8                   # doh-02.spectrum.com
-2600:9000:21d4:200:f:5c7a:55c0:93a1     # eth.link
-2600:9000:21d4:2a00:f:5c7a:55c0:93a1    # eth.link
-2600:9000:21d4:4a00:f:5c7a:55c0:93a1    # eth.link
-2600:9000:21d4:800:f:5c7a:55c0:93a1     # eth.link
-2600:9000:21d4:b800:f:5c7a:55c0:93a1    # eth.link
-2600:9000:21d4:c200:f:5c7a:55c0:93a1    # eth.link
-2600:9000:21d4:e400:f:5c7a:55c0:93a1    # eth.link
-2600:9000:21d4:e800:f:5c7a:55c0:93a1    # eth.link
+2600:9000:21d4:2c00:f:5c7a:55c0:93a1    # eth.link
+2600:9000:21d4:5800:f:5c7a:55c0:93a1    # eth.link
+2600:9000:21d4:6000:f:5c7a:55c0:93a1    # eth.link
+2600:9000:21d4:8600:f:5c7a:55c0:93a1    # eth.link
+2600:9000:21d4:a400:f:5c7a:55c0:93a1    # eth.link
+2600:9000:21d4:a600:f:5c7a:55c0:93a1    # eth.link
+2600:9000:21d4:f000:f:5c7a:55c0:93a1    # eth.link
+2600:9000:21d4:f800:f:5c7a:55c0:93a1    # eth.link
 2602:f3ff:83::83                        # dns.yunzheng.space
 2602:f3ff:83::84                        # filter.dns.yunzheng.space
 2602:f7f8:2:c::a                        # nyc01.dnscry.pt
@@ -536,7 +536,7 @@
 2606:6080:2001:1099::a                  # yyz01.dnscry.pt
 2606:65c0:10:20e:1621:d963:131c:bd4c    # las01.dnscry.pt
 2606:65c0:40:4:5f3:54c4:8d10:9b98       # dtw01.dnscry.pt
-2606:6680:27:1::2fa1:9182               # chromium.dns.nextdns.io, dns.nextdns.io, firefox.dns.nextdns.io, steering.nextdns.io
+2606:6680:27:1::2fa1:9182               # chromium.dns.nextdns.io, dns.nextdns.io, dns1.nextdns.io, firefox.dns.nextdns.io, steering.nextdns.io
 2606:6680:29:1::5859:a37b               # fnt01.dnscry.pt
 2606:6680:35:1::506d:8ce2               # sjc01.dnscry.pt
 2606:6680:45:1::e859:6f4e               # yul01.dnscry.pt
@@ -1267,7 +1267,7 @@
 2a05:f480:1000:967:5400:3ff:fe7e:55d3   # v.dnscrypt.uk
 2a05:f480:1400:aff:5400:2ff:fed2:1f84   # adguardhome.atakorah.com
 2a05:f480:1400:aff:590a:34ce:66f:5188   # adguardhome.atakorah.com
-2a05:f480:2400:1174::ac17               # dns.netvpn.net
+2a05:f480:2400:16e2::ac17               # dns.netvpn.net
 2a05:f480:3400:2f41:5400:4ff:fe74:1962  # dns.7vpn.com
 2a05:fc84::42                           # dns.digitale-gesellschaft.ch, dns1.digitale-gesellschaft.ch
 2a05:fc84::43                           # dns.digitale-gesellschaft.ch, dns2.digitale-gesellschaft.ch
@@ -1335,7 +1335,7 @@
 2a0d:d8c0:0:f043::6927                  # cvt01.dnscry.pt
 2a0d:f302:110:6517::1                   # vie01.dnscry.pt
 2a0e:6901:201:6:5054:ff:fe21:a3b5       # dns.nextdns.io
-2a0e:6901:301:a:5054:ff:fe14:4256       # chromium.dns.nextdns.io, dns.nextdns.io, dns1.nextdns.io, dns2.nextdns.io, firefox.dns.nextdns.io, steering.nextdns.io
+2a0e:6901:301:a:5054:ff:fe14:4256       # chromium.dns.nextdns.io, dns.nextdns.io, dns2.nextdns.io, firefox.dns.nextdns.io, steering.nextdns.io
 2a0e:6901:410:25:5054:ff:fe1c:7c81      # dns.nextdns.io
 2a0e:6901:504:988:26a3:f0ff:fe4a:a9c7   # dns.nextdns.io
 2a0e:6902:2002:12b:5054:ff:fed7:6b78    # dns.nextdns.io
