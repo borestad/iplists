@@ -266,6 +266,7 @@
 {"asn":204872,"rir":"ripencc","domain":"kontrast.md","cc":"MD","asname":"Contrust-Solutions"}
 {"asn":205083,"rir":"ripencc","domain":"xor.sc","cc":"SC","asname":"DATASHIELD_FILTER"}
 {"asn":205301,"rir":"ripencc","domain":"kontrast.md","cc":"MD","asname":"Contrust-Solutions"}
+{"asn":205329,"rir":"ripencc","domain":"pfcloud.io","cc":"DE","asname":"Kai-Jung-Chen"}
 {"asn":205397,"rir":"ripencc","domain":"69host.cc","cc":"US","asname":"AS-69HOST"}
 {"asn":205486,"rir":"ripencc","domain":"sunucun.com.tr","cc":"TR","asname":"LKGF"}
 {"asn":205745,"rir":"ripencc","domain":"kontrast.md","cc":"MD","asname":"Contrust-Solutions"}
@@ -440,4 +441,4 @@
 {"asn":402253,"rir":"arin","domain":"skntelecom.com","cc":"KN","asname":"SKN-NETWORK-1"}
 {"asn":402647,"rir":"arin","domain":"ipswat.com","cc":"US","asname":"NETRONEX_SOLUTIONS"}
 {"asn":403005,"rir":"arin","domain":"blatant.host","cc":"SC","asname":"BLATANTHOST"}
-{"type":"metadata","timestamp":1792865642,"size":39305,"records":442,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1792889042,"size":39393,"records":443,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
