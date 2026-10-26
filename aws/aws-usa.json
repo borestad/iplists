@@ -11927,6 +11927,12 @@
   "network_border_group": "us-east-1"
 }
 {
+  "ip_prefix": "184.198.84.0/24",
+  "region": "us-east-1",
+  "service": "AMAZON",
+  "network_border_group": "us-east-1"
+}
+{
   "ip_prefix": "3.227.250.128/25",
   "region": "us-east-1",
   "service": "AMAZON",
