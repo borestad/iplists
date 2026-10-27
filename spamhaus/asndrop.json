@@ -359,6 +359,7 @@
 {"asn":213200,"rir":"ripencc","domain":"tube-hosting.de","cc":"DE","asname":"FZink"}
 {"asn":213229,"rir":"ripencc","domain":"play2go.cloud","cc":"RU","asname":"MITELIS"}
 {"asn":213373,"rir":"ripencc","domain":"ipconnect.services","cc":"SC","asname":"IPCONNECT"}
+{"asn":213382,"rir":"ripencc","domain":"cubixserv.com","cc":"FR","asname":"PEERYX"}
 {"asn":213388,"rir":"ripencc","domain":"iic-rail","cc":"GB","asname":"IIC-AS"}
 {"asn":213389,"rir":"ripencc","domain":"netip.com.ua","cc":"UA","asname":"ASPODOLSK"}
 {"asn":213438,"rir":"ripencc","domain":"colocatel.com","cc":"SC","asname":"colocatel-inc"}
@@ -406,6 +407,7 @@
 {"asn":218785,"rir":"ripencc","domain":"tcdatacenter.com","cc":"HK","asname":"TC-DATACENTER"}
 {"asn":218986,"rir":"ripencc","domain":"snowcore.io","cc":"GB","asname":"SnowcoreInc"}
 {"asn":219067,"rir":"ripencc","domain":"eggywall.org","cc":"IT","asname":"CHIARA-AS"}
+{"asn":219199,"rir":"ripencc","domain":"genyus.sc","cc":"SC","asname":"GENYUS-AS"}
 {"asn":219326,"rir":"ripencc","domain":"sulavi.co.uk","cc":"GB","asname":"SULAVIL"}
 {"asn":219337,"rir":"ripencc","domain":"play2go.cloud","cc":"RU","asname":"PLAY2GO"}
 {"asn":219502,"rir":"ripencc","domain":"stormindustries.llc","cc":"US","asname":"STORMCLOUD-AS"}
@@ -441,4 +443,4 @@
 {"asn":402253,"rir":"arin","domain":"skntelecom.com","cc":"KN","asname":"SKN-NETWORK-1"}
 {"asn":402647,"rir":"arin","domain":"ipswat.com","cc":"US","asname":"NETRONEX_SOLUTIONS"}
 {"asn":403005,"rir":"arin","domain":"blatant.host","cc":"SC","asname":"BLATANTHOST"}
-{"type":"metadata","timestamp":1793081642,"size":39393,"records":443,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1793103242,"size":39560,"records":445,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
