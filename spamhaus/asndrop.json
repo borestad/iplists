@@ -138,6 +138,7 @@
 {"asn":135271,"rir":"apnic","domain":"globtelgroup.com","cc":"US","asname":"GLOBTELGROUP-AS-AP"}
 {"asn":135388,"rir":"apnic","domain":"serveroffer.lt","cc":"LT","asname":"RPL-HK"}
 {"asn":135752,"rir":"apnic","domain":"evokedigital.in","cc":"IN","asname":"EVOKEDS-AS"}
+{"asn":136250,"rir":"apnic","domain":"zqhwl-cn","cc":"CN","asname":"ZQHWL-AS-AP"}
 {"asn":136367,"rir":"apnic","domain":"herbzoothealthcare.co.in","cc":"IN","asname":"HERBZOOT-AS-IN"}
 {"asn":136923,"rir":"apnic","domain":"thestack.net","cc":"HK","asname":"WIT-AS-AP"}
 {"asn":137156,"rir":"apnic","domain":"blueberrywebs.com","cc":"IN","asname":"BLUEB-AS"}
@@ -443,4 +444,4 @@
 {"asn":402253,"rir":"arin","domain":"skntelecom.com","cc":"KN","asname":"SKN-NETWORK-1"}
 {"asn":402647,"rir":"arin","domain":"ipswat.com","cc":"US","asname":"NETRONEX_SOLUTIONS"}
 {"asn":403005,"rir":"arin","domain":"blatant.host","cc":"SC","asname":"BLATANTHOST"}
-{"type":"metadata","timestamp":1793123042,"size":39560,"records":445,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1793144642,"size":39642,"records":446,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
