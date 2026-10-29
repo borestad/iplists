@@ -254,7 +254,7 @@
 {"asn":203154,"rir":"ripencc","domain":"play2go.cloud","cc":"RU","asname":"MITELIS-DOWNSTREAM"}
 {"asn":203273,"rir":"ripencc","domain":"aeza.net","cc":"RU","asname":"NetCraftersOU"}
 {"asn":203319,"rir":"ripencc","domain":"gir.network","cc":"RU","asname":"GIR-AS-1"}
-{"asn":203861,"rir":"ripencc","domain":"netiface.co.uk","cc":"GB","asname":"MITEFLUX-AS"}
+{"asn":203861,"rir":"ripencc","domain":"netiface.co.uk","cc":"GB","asname":"SERVEREXPRESS-AS"}
 {"asn":203950,"rir":"ripencc","domain":"kontrast.md","cc":"MD","asname":"Contrust-Solutions"}
 {"asn":203999,"rir":"ripencc","domain":"gwhostinglabs.com","cc":"IN","asname":"GeekyWorks"}
 {"asn":204428,"rir":"ripencc","domain":"ssnet.eu","cc":"BG","asname":"SS-Net"}
@@ -445,4 +445,4 @@
 {"asn":402253,"rir":"arin","domain":"skntelecom.com","cc":"KN","asname":"SKN-NETWORK-1"}
 {"asn":402647,"rir":"arin","domain":"ipswat.com","cc":"US","asname":"NETRONEX_SOLUTIONS"}
 {"asn":403005,"rir":"arin","domain":"blatant.host","cc":"SC","asname":"BLATANTHOST"}
-{"type":"metadata","timestamp":1793209442,"size":39742,"records":447,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1793232842,"size":39747,"records":447,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
