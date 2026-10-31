@@ -210,7 +210,6 @@
 {"asn":198071,"rir":"ripencc","domain":"berch.co.uk","cc":"GB","asname":"BERCHSOLUTIONS-AS"}
 {"asn":198189,"rir":"ripencc","domain":"stealthvm.net","cc":"GB","asname":"STEALTHVM"}
 {"asn":198571,"rir":"ripencc","domain":"plainproxies.com","cc":"DE","asname":"PlainProxies"}
-{"asn":198636,"rir":"ripencc","domain":"capsulaltd.uk","cc":"GB","asname":"CAPSULA-AS"}
 {"asn":198926,"rir":"ripencc","domain":"rapidoserver.com","cc":"IR","asname":"Fazed"}
 {"asn":198953,"rir":"ripencc","domain":"proton66.ru","cc":"RU","asname":"proton66"}
 {"asn":198981,"rir":"ripencc","domain":"chosting.solutions","cc":"UA","asname":"NETSHIELD-BYOIP"}
@@ -446,4 +445,4 @@
 {"asn":402253,"rir":"arin","domain":"skntelecom.com","cc":"KN","asname":"SKN-NETWORK-1"}
 {"asn":402647,"rir":"arin","domain":"ipswat.com","cc":"US","asname":"NETRONEX_SOLUTIONS"}
 {"asn":403005,"rir":"arin","domain":"blatant.host","cc":"SC","asname":"BLATANTHOST"}
-{"type":"metadata","timestamp":1793403842,"size":39843,"records":448,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1793425442,"size":39755,"records":447,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
