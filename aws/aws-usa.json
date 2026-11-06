@@ -15713,6 +15713,12 @@
   "network_border_group": "us-east-1"
 }
 {
+  "ip_prefix": "13.166.0.0/15",
+  "region": "us-gov-west-1",
+  "service": "EC2",
+  "network_border_group": "us-gov-west-1"
+}
+{
   "ip_prefix": "18.89.128.0/18",
   "region": "us-east-1",
   "service": "EC2",
