@@ -7223,6 +7223,12 @@
   "network_border_group": "eu-central-1"
 }
 {
+  "ip_prefix": "3.4.12.87/32",
+  "region": "eu-central-2",
+  "service": "AMAZON",
+  "network_border_group": "eu-central-2"
+}
+{
   "ip_prefix": "96.0.24.0/21",
   "region": "eu-north-1",
   "service": "AMAZON",
@@ -7539,6 +7545,12 @@
   "region": "eu-north-1",
   "service": "AMAZON",
   "network_border_group": "eu-north-1"
+}
+{
+  "ip_prefix": "3.4.12.88/32",
+  "region": "eu-central-2",
+  "service": "AMAZON",
+  "network_border_group": "eu-central-2"
 }
 {
   "ip_prefix": "15.230.15.144/31",
