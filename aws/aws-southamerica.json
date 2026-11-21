@@ -1985,6 +1985,18 @@
   "network_border_group": "sa-east-1"
 }
 {
+  "ip_prefix": "83.160.241.0/25",
+  "region": "sa-west-1",
+  "service": "EFS",
+  "network_border_group": "sa-west-1"
+}
+{
+  "ip_prefix": "83.160.244.0/22",
+  "region": "sa-west-1",
+  "service": "EFS",
+  "network_border_group": "sa-west-1"
+}
+{
   "ip_prefix": "18.228.70.32/29",
   "region": "sa-east-1",
   "service": "EC2_INSTANCE_CONNECT",
